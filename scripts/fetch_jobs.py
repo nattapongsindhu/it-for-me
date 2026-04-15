@@ -1,40 +1,44 @@
 """
 fetch_jobs.py
 Fetches IT jobs near zip code 90029 within 5 miles
-Sources: USAJobs API + FlyByAPIs (Google Jobs)
-Saves results to jobs.json
+Sources: USAJobs API + Jobs Search API (RapidAPI)
 """
 import urllib.request, urllib.parse, json, os, sys, datetime
 
 ZIP_CODE  = "90029"
 RADIUS_MI = 5
-KEYWORDS  = [
-    "IT", "information technology", "cybersecurity", "network",
-    "helpdesk", "help desk", "systems administrator", "sysadmin",
-    "technical support", "IT support", "healthcare IT", "health informatics"
+LOCATION  = "Los Angeles, CA"
+
+USAJOBS_KEYWORDS = [
+    "IT", "information technology", "cybersecurity",
+    "network administrator", "helpdesk", "systems administrator",
+    "technical support", "healthcare IT", "health informatics", "IT support"
 ]
 
+JOBS_SEARCH_KEYWORDS = ["IT support", "cybersecurity"]  # limit = 2 req × 2 runs = 4/day = 120/month
+
+
 def fetch_usajobs() -> list:
-    """Fetch federal IT jobs near 90029 — free, requires free API key"""
+    """Fetch federal IT jobs near 90029 — free, no quota"""
     key = os.environ.get("USAJOBS_KEY", "")
     if not key:
-        print("USAJOBS_KEY not set, skipping USAJobs")
+        print("USAJOBS_KEY not set, skipping", file=sys.stderr)
         return []
 
     jobs = []
-    for kw in KEYWORDS[:3]:  # limit to avoid rate limit
+    for kw in USAJOBS_KEYWORDS:
         try:
             params = urllib.parse.urlencode({
-                "Keyword":       kw,
-                "LocationName":  ZIP_CODE,
-                "Radius":        str(RADIUS_MI),
-                "ResultsPerPage": 10,
-                "Fields":        "Min"
+                "Keyword":        kw,
+                "LocationName":   ZIP_CODE,
+                "Radius":         str(RADIUS_MI),
+                "ResultsPerPage": 25,
+                "Fields":         "Min"
             })
             url = f"https://data.usajobs.gov/api/search?{params}"
             req = urllib.request.Request(url, headers={
-                "Host":            "data.usajobs.gov",
-                "User-Agent":      "nattapongsindhu@gmail.com",
+                "Host":              "data.usajobs.gov",
+                "User-Agent":        "nattapongsindhu@gmail.com",
                 "Authorization-Key": key
             })
             with urllib.request.urlopen(req, timeout=10) as r:
@@ -58,44 +62,54 @@ def fetch_usajobs() -> list:
     return jobs
 
 
-def fetch_flyby() -> list:
-    """Fetch IT jobs via FlyByAPIs (Google Jobs) — 200 free req/month"""
-    key = os.environ.get("FLYBY_KEY", "")
+def fetch_jobs_search_api() -> list:
+    """
+    Fetch jobs via Jobs Search API (RapidAPI)
+    POST https://jobs-search-api.p.rapidapi.com/getjobs_excel
+    Free tier: 100 req/month → use 2 keywords × 2 runs/day = ~120/month (tight)
+    """
+    key = os.environ.get("JOBS_SEARCH_API", "")
     if not key:
-        print("FLYBY_KEY not set, skipping FlyByAPIs")
+        print("JOBS_SEARCH_API not set, skipping Jobs Search API", file=sys.stderr)
         return []
 
     jobs = []
-    for kw in ["IT support", "cybersecurity", "helpdesk", "systems administrator"]:
+    for kw in JOBS_SEARCH_KEYWORDS:
         try:
-            params = urllib.parse.urlencode({
-                "query":       f"{kw} near {ZIP_CODE}",
-                "location":    f"zip:{ZIP_CODE}",
-                "distance":    str(RADIUS_MI),
-                "employment_types": "PART_TIMER,FULLTIME",
-                "date_posted": "week"
-            })
-            url = f"https://jobs-search-api.p.rapidapi.com/getjobs?{params}"
-            req = urllib.request.Request(url, headers={
+            body = json.dumps({
+                "search_term":    kw,
+                "location":       LOCATION,
+                "results_wanted": 10,
+                "site_name":      ["indeed", "linkedin", "glassdoor"],
+                "distance":       RADIUS_MI,
+                "job_type":       "fulltime",
+                "hours_old":      72
+            }).encode("utf-8")
+
+            url = "https://jobs-search-api.p.rapidapi.com/getjobs_excel"
+            req = urllib.request.Request(url, data=body, method="POST", headers={
+                "Content-Type":    "application/json",
                 "X-RapidAPI-Key":  key,
                 "X-RapidAPI-Host": "jobs-search-api.p.rapidapi.com"
             })
-            with urllib.request.urlopen(req, timeout=10) as r:
+
+            with urllib.request.urlopen(req, timeout=15) as r:
                 data = json.loads(r.read())
 
             for job in data.get("jobs", []):
                 jobs.append({
-                    "title":    job.get("job_title", ""),
-                    "company":  job.get("employer_name", ""),
-                    "location": job.get("job_city", "") + ", " + job.get("job_state", ""),
-                    "url":      job.get("job_apply_link", ""),
-                    "salary":   job.get("job_salary", ""),
-                    "posted":   job.get("job_posted_at_datetime_utc", "")[:10],
-                    "source":   "Google Jobs",
-                    "type":     job.get("job_employment_type", "")
+                    "title":    job.get("title", ""),
+                    "company":  job.get("company", ""),
+                    "location": job.get("location", ""),
+                    "url":      job.get("job_url", ""),
+                    "salary":   job.get("compensation", "") or "",
+                    "posted":   job.get("date_posted", "")[:10] if job.get("date_posted") else "",
+                    "source":   "Jobs Search API",
+                    "type":     job.get("job_type", "") or ""
                 })
+
         except Exception as e:
-            print(f"FlyByAPIs error for '{kw}': {e}", file=sys.stderr)
+            print(f"Jobs Search API error for '{kw}': {e}", file=sys.stderr)
 
     return jobs
 
@@ -113,13 +127,10 @@ def dedupe(jobs: list) -> list:
 
 def main():
     now  = datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
-    jobs = []
 
-    jobs += fetch_usajobs()
-    jobs += fetch_flyby()
+    jobs  = fetch_usajobs()
+    jobs += fetch_jobs_search_api()
     jobs  = dedupe(jobs)
-
-    # sort by posted date descending
     jobs.sort(key=lambda x: x.get("posted", ""), reverse=True)
 
     result = {
