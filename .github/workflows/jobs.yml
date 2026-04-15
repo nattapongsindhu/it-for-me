@@ -25,8 +25,8 @@ jobs:
       - name: Fetch jobs
         run: python3 scripts/fetch_jobs.py
         env:
-          USAJOBS_KEY: ${{ secrets.USAJOBS_KEY }}
-          FLYBY_KEY:   ${{ secrets.FLYBY_KEY }}
+          USAJOBS_KEY:       ${{ secrets.USAJOBS_KEY }}
+          JOBS_SEARCH_API:   ${{ secrets.JOBS_SEARCH_API }}
 
       - name: Update README
         run: python3 scripts/update_readme.py
