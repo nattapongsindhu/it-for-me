@@ -5,40 +5,387 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>IT For Me — Jobs near 90029</title>
   <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     body {
       background: #0b1a2a;
       color: #e0f0ff;
       font-family: 'Segoe UI', Arial, sans-serif;
       min-height: 100vh;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      text-align: center;
-      padding: 2rem;
+      padding: 2rem 1rem;
     }
-    h1 { font-size: 2rem; margin-bottom: 1rem; }
-    p { color: #7ab; font-size: 1rem; }
-    .pulse {
-      width: 12px; height: 12px;
-      background: #00ffcc;
-      border-radius: 50%;
-      display: inline-block;
-      margin-right: 8px;
-      animation: pulse 1.5s infinite;
+    .container { max-width: 800px; margin: 0 auto; }
+    h1 { font-size: 1.8rem; margin-bottom: 0.25rem; text-align: center; }
+    .subtitle { color: #7ab; font-size: 0.9rem; text-align: center; margin-bottom: 1.5rem; }
+    .stats {
+      display: flex; flex-wrap: wrap; gap: 1rem;
+      justify-content: center; margin-bottom: 2rem;
     }
-    @keyframes pulse {
-      0%, 100% { opacity: 1; }
-      50% { opacity: 0.3; }
+    .stat {
+      background: #0f2840; border: 1px solid #1e3a5f;
+      border-radius: 10px; padding: 0.75rem 1.5rem; text-align: center;
     }
+    .stat .val { font-size: 1.8rem; font-weight: bold; color: #00ffcc; }
+    .stat .lbl { font-size: 0.75rem; color: #7ab; text-transform: uppercase; }
+    .filter-bar {
+      display: flex; gap: 0.5rem; flex-wrap: wrap;
+      justify-content: center; margin-bottom: 1.5rem;
+    }
+    .filter-btn {
+      background: #0f2840; border: 1px solid #1e3a5f;
+      border-radius: 6px; color: #7ab; padding: 0.3rem 0.8rem;
+      font-size: 0.8rem; cursor: pointer; transition: all 0.2s;
+    }
+    .filter-btn.active, .filter-btn:hover {
+      background: #00ffcc; border-color: #00ffcc;
+      color: #0b1a2a; font-weight: bold;
+    }
+    .job-card {
+      background: #0f2840; border: 1px solid #1e3a5f;
+      border-radius: 10px; padding: 1rem 1.25rem;
+      margin-bottom: 0.75rem; transition: border-color 0.2s;
+    }
+    .job-card:hover { border-color: #00ffcc; }
+    .job-header {
+      display: flex; justify-content: space-between;
+      align-items: flex-start; gap: 0.5rem; margin-bottom: 0.25rem;
+    }
+    .job-title { font-weight: bold; font-size: 1rem; color: #e0f0ff; }
+    .job-type {
+      font-size: 0.7rem; padding: 0.15rem 0.5rem;
+      border-radius: 4px; white-space: nowrap; flex-shrink: 0;
+    }
+    .job-type.ft { background: #00443a; color: #00ffcc; }
+    .job-type.pt { background: #2a1a00; color: #ffaa00; }
+    .job-company { color: #7ab; font-size: 0.85rem; margin-bottom: 0.4rem; }
+    .job-meta {
+      font-size: 0.78rem; color: #456; display: flex;
+      flex-wrap: wrap; gap: 0.75rem; margin-bottom: 0.6rem;
+    }
+    .salary { color: #00cc88; font-weight: bold; }
+    .source { color: #334; font-size: 0.7rem; }
+    .apply-btn {
+      display: inline-block; background: #00ffcc; color: #0b1a2a;
+      padding: 0.3rem 1rem; border-radius: 6px; font-size: 0.8rem;
+      font-weight: bold; text-decoration: none; transition: opacity 0.2s;
+    }
+    .apply-btn:hover { opacity: 0.85; }
+    .no-jobs { text-align: center; color: #456; padding: 3rem; }
+    .updated {
+      text-align: center; font-size: 0.75rem;
+      color: #456; margin-top: 2rem;
+    }
+    #job-list { }
   </style>
 </head>
 <body>
+<div class="container">
   <h1>🔍 IT For Me</h1>
-  <p><span class="pulse"></span>Pipeline initializing — first job scan pending</p>
-  <p style="margin-top:1rem; font-size:0.85rem;">
-    IT jobs within 5 miles of ZIP 90029<br>
-    Dashboard will populate after first workflow run
-  </p>
+  <p class="subtitle">IT jobs within 5 miles of ZIP 90029 · Auto-updated twice daily</p>
+
+  <div class="stats">
+    <div class="stat">
+      <div class="val">17</div>
+      <div class="lbl">Jobs Found</div>
+    </div>
+    <div class="stat">
+      <div class="val">5mi</div>
+      <div class="lbl">Radius</div>
+    </div>
+    <div class="stat">
+      <div class="val">90029</div>
+      <div class="lbl">ZIP Code</div>
+    </div>
+  </div>
+
+  <div class="filter-bar">
+    <button class="filter-btn active" onclick="filterJobs('all')">All</button>
+    <button class="filter-btn" onclick="filterJobs('full')">Full-time</button>
+    <button class="filter-btn" onclick="filterJobs('part')">Part-time</button>
+    <button class="filter-btn" onclick="filterJobs('usajobs')">USAJobs</button>
+    <button class="filter-btn" onclick="filterJobs('google')">Google Jobs</button>
+  </div>
+
+  <div id="job-list">
+    
+    <div class="job-card">
+      <div class="job-header">
+        <span class="job-title">IT Specialist (APPSW/CUSTSPT)</span>
+        <span class="job-type pt">—</span>
+      </div>
+      <div class="job-company">Office of the Assistant Secretary for Administration and Management</div>
+      <div class="job-meta">
+        <span>📍 Location Negotiable After Selection</span>
+        <span>📅 2026-04-14</span>
+        <span class="source">USAJobs</span>
+        <span class="salary">65271</span>
+      </div>
+      <a href="https://www.usajobs.gov:443/job/864957900" target="_blank" class="apply-btn">Apply →</a>
+    </div>
+
+    <div class="job-card">
+      <div class="job-header">
+        <span class="job-title">SUPERVISORY INFORMATION TECHNOLOGY PROGRAM MANAGER</span>
+        <span class="job-type pt">—</span>
+      </div>
+      <div class="job-company">Deputy Assistant Secretary for Information and Technology</div>
+      <div class="job-meta">
+        <span>📍 Location Negotiable After Selection</span>
+        <span>📅 2026-04-14</span>
+        <span class="source">USAJobs</span>
+        <span class="salary">147945</span>
+      </div>
+      <a href="https://www.usajobs.gov:443/job/865073600" target="_blank" class="apply-btn">Apply →</a>
+    </div>
+
+    <div class="job-card">
+      <div class="job-header">
+        <span class="job-title">Supervisory Financial Operations Specialist</span>
+        <span class="job-type pt">—</span>
+      </div>
+      <div class="job-company">Office of the Assistant Secretary for Administration and Management</div>
+      <div class="job-meta">
+        <span>📍 Location Negotiable After Selection</span>
+        <span>📅 2026-04-13</span>
+        <span class="source">USAJobs</span>
+        <span class="salary">125776</span>
+      </div>
+      <a href="https://www.usajobs.gov:443/job/864880500" target="_blank" class="apply-btn">Apply →</a>
+    </div>
+
+    <div class="job-card">
+      <div class="job-header">
+        <span class="job-title">IT Project Manager</span>
+        <span class="job-type pt">—</span>
+      </div>
+      <div class="job-company">Veterans Affairs, Inspector General</div>
+      <div class="job-meta">
+        <span>📍 Location Negotiable After Selection</span>
+        <span>📅 2026-04-10</span>
+        <span class="source">USAJobs</span>
+        <span class="salary">125776</span>
+      </div>
+      <a href="https://www.usajobs.gov:443/job/864762100" target="_blank" class="apply-btn">Apply →</a>
+    </div>
+
+    <div class="job-card">
+      <div class="job-header">
+        <span class="job-title">Supervisory IT Specialist (Plcypln)</span>
+        <span class="job-type pt">—</span>
+      </div>
+      <div class="job-company">Electronic Health Record Modernization</div>
+      <div class="job-meta">
+        <span>📍 Multiple Locations</span>
+        <span>📅 2026-04-10</span>
+        <span class="source">USAJobs</span>
+        <span class="salary">169279</span>
+      </div>
+      <a href="https://www.usajobs.gov:443/job/864785900" target="_blank" class="apply-btn">Apply →</a>
+    </div>
+
+    <div class="job-card">
+      <div class="job-header">
+        <span class="job-title">IT Specialist , (AI)</span>
+        <span class="job-type pt">—</span>
+      </div>
+      <div class="job-company">Deputy Assistant Secretary for Information and Technology</div>
+      <div class="job-meta">
+        <span>📍 Location Negotiable After Selection</span>
+        <span>📅 2026-04-09</span>
+        <span class="source">USAJobs</span>
+        <span class="salary">106437</span>
+      </div>
+      <a href="https://www.usajobs.gov:443/job/864618000" target="_blank" class="apply-btn">Apply →</a>
+    </div>
+
+    <div class="job-card">
+      <div class="job-header">
+        <span class="job-title">IT Project Manager</span>
+        <span class="job-type pt">—</span>
+      </div>
+      <div class="job-company">Electronic Health Record Modernization</div>
+      <div class="job-meta">
+        <span>📍 Location Negotiable After Selection</span>
+        <span>📅 2026-04-08</span>
+        <span class="source">USAJobs</span>
+        <span class="salary">125776</span>
+      </div>
+      <a href="https://www.usajobs.gov:443/job/864424300" target="_blank" class="apply-btn">Apply →</a>
+    </div>
+
+    <div class="job-card">
+      <div class="job-header">
+        <span class="job-title">Information Technology</span>
+        <span class="job-type pt">—</span>
+      </div>
+      <div class="job-company">Department of the Air Force - Agency Wide</div>
+      <div class="job-meta">
+        <span>📍 Location Negotiable After Selection</span>
+        <span>📅 2026-03-30</span>
+        <span class="source">USAJobs</span>
+        <span class="salary">22584</span>
+      </div>
+      <a href="https://www.usajobs.gov:443/job/863124000" target="_blank" class="apply-btn">Apply →</a>
+    </div>
+
+    <div class="job-card">
+      <div class="job-header">
+        <span class="job-title">IT CYBERSECURITY SPECIALIST (INFOSEC)</span>
+        <span class="job-type pt">—</span>
+      </div>
+      <div class="job-company">Defense Contract Management Agency</div>
+      <div class="job-meta">
+        <span>📍 Location Negotiable After Selection</span>
+        <span>📅 2026-03-26</span>
+        <span class="source">USAJobs</span>
+        <span class="salary">89859</span>
+      </div>
+      <a href="https://www.usajobs.gov:443/job/862698900" target="_blank" class="apply-btn">Apply →</a>
+    </div>
+
+    <div class="job-card">
+      <div class="job-header">
+        <span class="job-title">Criminal Investigator, GS-1811-12/13 (MP)</span>
+        <span class="job-type pt">—</span>
+      </div>
+      <div class="job-company">Office of Inspector General</div>
+      <div class="job-meta">
+        <span>📍 Multiple Locations</span>
+        <span>📅 2026-03-23</span>
+        <span class="source">USAJobs</span>
+        <span class="salary">89508</span>
+      </div>
+      <a href="https://www.usajobs.gov:443/job/862186900" target="_blank" class="apply-btn">Apply →</a>
+    </div>
+
+    <div class="job-card">
+      <div class="job-header">
+        <span class="job-title">Fall 2026 SEC Scholars Business Program- RO (Volunteer)</span>
+        <span class="job-type pt">—</span>
+      </div>
+      <div class="job-company">Securities and Exchange Commission</div>
+      <div class="job-meta">
+        <span>📍 Multiple Locations</span>
+        <span>📅 2026-03-12</span>
+        <span class="source">USAJobs</span>
+        <span class="salary">0</span>
+      </div>
+      <a href="https://www.usajobs.gov:443/job/860850400" target="_blank" class="apply-btn">Apply →</a>
+    </div>
+
+    <div class="job-card">
+      <div class="job-header">
+        <span class="job-title">IT Specialist (AI)</span>
+        <span class="job-type pt">—</span>
+      </div>
+      <div class="job-company">Treasury, Departmental Offices</div>
+      <div class="job-meta">
+        <span>📍 Location Negotiable After Selection</span>
+        <span>📅 2026-02-24</span>
+        <span class="source">USAJobs</span>
+        <span class="salary">89508</span>
+      </div>
+      <a href="https://www.usajobs.gov:443/job/858700600" target="_blank" class="apply-btn">Apply →</a>
+    </div>
+
+    <div class="job-card">
+      <div class="job-header">
+        <span class="job-title">Student Volunteer</span>
+        <span class="job-type pt">—</span>
+      </div>
+      <div class="job-company">Office of the Secretary of Health and Human Services</div>
+      <div class="job-meta">
+        <span>📍 Multiple Locations</span>
+        <span>📅 2026-01-26</span>
+        <span class="source">USAJobs</span>
+        <span class="salary">0</span>
+      </div>
+      <a href="https://www.usajobs.gov:443/job/855153700" target="_blank" class="apply-btn">Apply →</a>
+    </div>
+
+    <div class="job-card">
+      <div class="job-header">
+        <span class="job-title">Special Agent - Cybersecurity/Technology Background</span>
+        <span class="job-type pt">—</span>
+      </div>
+      <div class="job-company">Federal Bureau of Investigation</div>
+      <div class="job-meta">
+        <span>📍 Location Negotiable After Selection</span>
+        <span>📅 2025-12-31</span>
+        <span class="source">USAJobs</span>
+        <span class="salary">99461</span>
+      </div>
+      <a href="https://www.usajobs.gov:443/job/847989800" target="_blank" class="apply-btn">Apply →</a>
+    </div>
+
+    <div class="job-card">
+      <div class="job-header">
+        <span class="job-title">Special Agent -  Accounting/Finance Background</span>
+        <span class="job-type pt">—</span>
+      </div>
+      <div class="job-company">Federal Bureau of Investigation</div>
+      <div class="job-meta">
+        <span>📍 Location Negotiable After Selection</span>
+        <span>📅 2025-12-31</span>
+        <span class="source">USAJobs</span>
+        <span class="salary">99461</span>
+      </div>
+      <a href="https://www.usajobs.gov:443/job/847981900" target="_blank" class="apply-btn">Apply →</a>
+    </div>
+
+    <div class="job-card">
+      <div class="job-header">
+        <span class="job-title">Information Technology Specialist (INFOSEC)</span>
+        <span class="job-type pt">—</span>
+      </div>
+      <div class="job-company">Department of the Air Force - Agency Wide</div>
+      <div class="job-meta">
+        <span>📍 Multiple Locations</span>
+        <span>📅 2025-12-22</span>
+        <span class="source">USAJobs</span>
+        <span class="salary">52727</span>
+      </div>
+      <a href="https://www.usajobs.gov:443/job/852981200" target="_blank" class="apply-btn">Apply →</a>
+    </div>
+
+    <div class="job-card">
+      <div class="job-header">
+        <span class="job-title">IT SPECIALIST</span>
+        <span class="job-type pt">—</span>
+      </div>
+      <div class="job-company">Air Force Civilian Career Training</div>
+      <div class="job-meta">
+        <span>📍 Location Negotiable After Selection</span>
+        <span>📅 2025-10-01</span>
+        <span class="source">USAJobs</span>
+        <span class="salary">56763</span>
+      </div>
+      <a href="https://www.usajobs.gov:443/job/847096900" target="_blank" class="apply-btn">Apply →</a>
+    </div>
+  </div>
+
+  <p class="updated">Last updated: 2026-04-15T11:44:11Z · Runs at 06:00 + 18:00 UTC daily</p>
+</div>
+
+<script>
+function filterJobs(type) {
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  event.target.classList.add('active');
+
+  document.querySelectorAll('.job-card').forEach(card => {
+    const typeEl  = card.querySelector('.job-type');
+    const srcEl   = card.querySelector('.source');
+    const jobType = typeEl ? typeEl.textContent.toLowerCase() : '';
+    const src     = srcEl  ? srcEl.textContent.toLowerCase()  : '';
+
+    let show = true;
+    if (type === 'full')     show = jobType.includes('full');
+    if (type === 'part')     show = jobType.includes('part');
+    if (type === 'usajobs')  show = src.includes('usajobs');
+    if (type === 'google')   show = src.includes('google');
+
+    card.style.display = show ? 'block' : 'none';
+  });
+}
+</script>
 </body>
 </html>

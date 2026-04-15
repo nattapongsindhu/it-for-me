@@ -1,7 +1,178 @@
 {
-  "updated": "2026-04-15T11:34:02Z",
+  "updated": "2026-04-15T11:44:11Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 0,
-  "jobs": []
+  "count": 17,
+  "jobs": [
+    {
+      "title": "IT Specialist (APPSW/CUSTSPT)",
+      "company": "Office of the Assistant Secretary for Administration and Management",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/864957900",
+      "salary": "65271",
+      "posted": "2026-04-14",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "SUPERVISORY INFORMATION TECHNOLOGY PROGRAM MANAGER",
+      "company": "Deputy Assistant Secretary for Information and Technology",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/865073600",
+      "salary": "147945",
+      "posted": "2026-04-14",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Supervisory Financial Operations Specialist",
+      "company": "Office of the Assistant Secretary for Administration and Management",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/864880500",
+      "salary": "125776",
+      "posted": "2026-04-13",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "IT Project Manager",
+      "company": "Veterans Affairs, Inspector General",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/864762100",
+      "salary": "125776",
+      "posted": "2026-04-10",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Supervisory IT Specialist (Plcypln)",
+      "company": "Electronic Health Record Modernization",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/864785900",
+      "salary": "169279",
+      "posted": "2026-04-10",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "IT Specialist , (AI)",
+      "company": "Deputy Assistant Secretary for Information and Technology",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/864618000",
+      "salary": "106437",
+      "posted": "2026-04-09",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "IT Project Manager",
+      "company": "Electronic Health Record Modernization",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/864424300",
+      "salary": "125776",
+      "posted": "2026-04-08",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Information Technology",
+      "company": "Department of the Air Force - Agency Wide",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/863124000",
+      "salary": "22584",
+      "posted": "2026-03-30",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
+      "company": "Defense Contract Management Agency",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/862698900",
+      "salary": "89859",
+      "posted": "2026-03-26",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Criminal Investigator, GS-1811-12/13 (MP)",
+      "company": "Office of Inspector General",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/862186900",
+      "salary": "89508",
+      "posted": "2026-03-23",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Fall 2026 SEC Scholars Business Program- RO (Volunteer)",
+      "company": "Securities and Exchange Commission",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/860850400",
+      "salary": "0",
+      "posted": "2026-03-12",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "IT Specialist (AI)",
+      "company": "Treasury, Departmental Offices",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/858700600",
+      "salary": "89508",
+      "posted": "2026-02-24",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Student Volunteer",
+      "company": "Office of the Secretary of Health and Human Services",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/855153700",
+      "salary": "0",
+      "posted": "2026-01-26",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Special Agent - Cybersecurity/Technology Background",
+      "company": "Federal Bureau of Investigation",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/847989800",
+      "salary": "99461",
+      "posted": "2025-12-31",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Special Agent -  Accounting/Finance Background",
+      "company": "Federal Bureau of Investigation",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/847981900",
+      "salary": "99461",
+      "posted": "2025-12-31",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Information Technology Specialist (INFOSEC)",
+      "company": "Department of the Air Force - Agency Wide",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/852981200",
+      "salary": "52727",
+      "posted": "2025-12-22",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "IT SPECIALIST",
+      "company": "Air Force Civilian Career Training",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/847096900",
+      "salary": "56763",
+      "posted": "2025-10-01",
+      "source": "USAJobs",
+      "type": ""
+    }
+  ]
 }
