@@ -66,11 +66,18 @@ def fetch_jobs_search_api() -> list:
     """
     Fetch jobs via Jobs Search API (RapidAPI)
     POST https://jobs-search-api.p.rapidapi.com/getjobs_excel
-    Free tier: 100 req/month → use 2 keywords × 2 runs/day = ~120/month (tight)
+    Free tier: 100 req/month → run ONCE per day at 06:00 UTC only
+    2 keywords × 1 run/day × 30 days = 60 req/month ✅
     """
     key = os.environ.get("JOBS_SEARCH_API", "")
     if not key:
         print("JOBS_SEARCH_API not set, skipping Jobs Search API", file=sys.stderr)
+        return []
+
+    # Only run once per day — skip if current hour is not 06:xx UTC
+    current_hour = datetime.datetime.utcnow().hour
+    if current_hour != 6:
+        print(f"Jobs Search API: skipping (hour={current_hour}, only runs at 06:00 UTC)")
         return []
 
     jobs = []
