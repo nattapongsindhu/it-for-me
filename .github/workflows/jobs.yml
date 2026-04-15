@@ -1,1 +1,80 @@
+name: IT For Me — Job Scanner
 
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * *"    # 06:00 UTC = 10:00 PM PST
+    - cron: "0 18 * * *"   # 18:00 UTC = 10:00 AM PST
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: it-for-me-pipeline
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Fetch jobs
+        run: python3 scripts/fetch_jobs.py
+        env:
+          USAJOBS_KEY: ${{ secrets.USAJOBS_KEY }}
+          FLYBY_KEY:   ${{ secrets.FLYBY_KEY }}
+
+      - name: Update README
+        run: python3 scripts/update_readme.py
+
+      - name: Update dashboard
+        run: python3 scripts/update_dashboard.py
+
+      - name: Validate
+        run: |
+          python3 - <<'EOF'
+          import json, sys
+          with open("jobs.json") as f:
+              d = json.load(f)
+          assert "updated" in d, "missing updated"
+          assert "jobs" in d,    "missing jobs"
+          assert "count" in d,   "missing count"
+          print(f"OK: {d['count']} jobs, updated {d['updated']}")
+          EOF
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions@users.noreply.github.com"
+          git pull --rebase origin main
+          git add jobs.json README.md index.html
+          git diff --cached --quiet && echo "no change" && exit 0
+          git commit -m "jobs: $(python3 -c "import json; d=json.load(open('jobs.json')); print(d['count'])") found near 90029 [$(date -u +%Y-%m-%d)]"
+          git push
+
+  deploy:
+    needs: scan
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "."
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
