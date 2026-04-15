@@ -1,7 +1,7 @@
 # 🔍 IT For Me
 
-![Updated](https://img.shields.io/badge/Updated-2026-04-15T11%3A44%3A11Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-17-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-04-15T12%3A03%3A09Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-59-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > Auto-updated twice daily — IT jobs within 5 miles of ZIP 90029 (East LA / Silver Lake area)
@@ -13,23 +13,26 @@
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
+| Program Analyst | Veterans Health Administration | Multiple Locations | — | 76463 | 2026-04-15 | [Apply](https://www.usajobs.gov:443/job/865216800) |
+| Student Trainee (Engineering and Architecture) | US Army Civilian Human Resources Agency | Multiple Locations | — | 36464 | 2026-04-15 | [Apply](https://www.usajobs.gov:443/job/865053700) |
 | IT Specialist (APPSW/CUSTSPT) | Office of the Assistant Secretary for Administration and Management | Location Negotiable After Selection | — | 65271 | 2026-04-14 | [Apply](https://www.usajobs.gov:443/job/864957900) |
 | SUPERVISORY INFORMATION TECHNOLOGY PROGRAM MANAGER | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | — | 147945 | 2026-04-14 | [Apply](https://www.usajobs.gov:443/job/865073600) |
+| Lead Medical Support Assistant | Veterans Health Administration | Anywhere in the U.S. (remote job) | — | 50460 | 2026-04-14 | [Apply](https://www.usajobs.gov:443/job/865209700) |
+| Physician - Psychiatrist | Veterans Health Administration | Anywhere in the U.S. (remote job) | — | 250000 | 2026-04-14 | [Apply](https://www.usajobs.gov:443/job/865206600) |
+| Supervisory Management & Program Analyst | Federal Aviation Administration | FAA Location Negotiable Upon Request - See Additional Info | — | 95489 | 2026-04-14 | [Apply](https://www.usajobs.gov:443/job/864872200) |
+| Program Manager | Federal Aviation Administration | FAA Location Negotiable Upon Request - See Additional Info | — | 112283 | 2026-04-13 | [Apply](https://www.usajobs.gov:443/job/864780800) |
+| Supervisory Medical Records Technician Coder | Veterans Health Administration | Anywhere in the U.S. (remote job) | — | 67970 | 2026-04-13 | [Apply](https://www.usajobs.gov:443/job/864867900) |
+| Lead Medical Records Technician (Coder- Inpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | — | 61722 | 2026-04-13 | [Apply](https://www.usajobs.gov:443/job/864869600) |
 | Supervisory Financial Operations Specialist | Office of the Assistant Secretary for Administration and Management | Location Negotiable After Selection | — | 125776 | 2026-04-13 | [Apply](https://www.usajobs.gov:443/job/864880500) |
+| Supervisory Healthcare Engineer (Deputy - Assistant Chief Engineer) | Veterans Health Administration | Los Angeles, California | — | 153663 | 2026-04-13 | [Apply](https://www.usajobs.gov:443/job/864674000) |
+| Management and Program Analyst (COR) | Immigration and Customs Enforcement | Multiple Locations | — | 106437 | 2026-04-13 | [Apply](https://www.usajobs.gov:443/job/864871100) |
+| Section Chief Staffing and Recruitment (O-6 Billet) Supervisory - Internal | Immigration and Customs Enforcement | Location Negotiable After Selection | — | 1 | 2026-04-13 | [Apply](https://www.usajobs.gov:443/job/864835600) |
 | IT Project Manager | Veterans Affairs, Inspector General | Location Negotiable After Selection | — | 125776 | 2026-04-10 | [Apply](https://www.usajobs.gov:443/job/864762100) |
 | Supervisory IT Specialist (Plcypln) | Electronic Health Record Modernization | Multiple Locations | — | 169279 | 2026-04-10 | [Apply](https://www.usajobs.gov:443/job/864785900) |
+| Pharmacist- Clinical Pharmacy Specialist | Veterans Health Administration | Anywhere in the U.S. (remote job) | — | 159237 | 2026-04-10 | [Apply](https://www.usajobs.gov:443/job/864788000) |
+| Health System Specialist (Communications) | Electronic Health Record Modernization | Location Negotiable After Selection | — | 125776 | 2026-04-10 | [Apply](https://www.usajobs.gov:443/job/864619200) |
+| Chief Nurse of Education (National Telestroke Program) | Veterans Health Administration | Anywhere in the U.S. (remote job) | — | 227929 | 2026-04-10 | [Apply](https://www.usajobs.gov:443/job/864779800) |
 | IT Specialist , (AI) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | — | 106437 | 2026-04-09 | [Apply](https://www.usajobs.gov:443/job/864618000) |
-| IT Project Manager | Electronic Health Record Modernization | Location Negotiable After Selection | — | 125776 | 2026-04-08 | [Apply](https://www.usajobs.gov:443/job/864424300) |
-| Information Technology | Department of the Air Force - Agency Wide | Location Negotiable After Selection | — | 22584 | 2026-03-30 | [Apply](https://www.usajobs.gov:443/job/863124000) |
-| IT CYBERSECURITY SPECIALIST (INFOSEC) | Defense Contract Management Agency | Location Negotiable After Selection | — | 89859 | 2026-03-26 | [Apply](https://www.usajobs.gov:443/job/862698900) |
-| Criminal Investigator, GS-1811-12/13 (MP) | Office of Inspector General | Multiple Locations | — | 89508 | 2026-03-23 | [Apply](https://www.usajobs.gov:443/job/862186900) |
-| Fall 2026 SEC Scholars Business Program- RO (Volunteer) | Securities and Exchange Commission | Multiple Locations | — | 0 | 2026-03-12 | [Apply](https://www.usajobs.gov:443/job/860850400) |
-| IT Specialist (AI) | Treasury, Departmental Offices | Location Negotiable After Selection | — | 89508 | 2026-02-24 | [Apply](https://www.usajobs.gov:443/job/858700600) |
-| Student Volunteer | Office of the Secretary of Health and Human Services | Multiple Locations | — | 0 | 2026-01-26 | [Apply](https://www.usajobs.gov:443/job/855153700) |
-| Special Agent - Cybersecurity/Technology Background | Federal Bureau of Investigation | Location Negotiable After Selection | — | 99461 | 2025-12-31 | [Apply](https://www.usajobs.gov:443/job/847989800) |
-| Special Agent -  Accounting/Finance Background | Federal Bureau of Investigation | Location Negotiable After Selection | — | 99461 | 2025-12-31 | [Apply](https://www.usajobs.gov:443/job/847981900) |
-| Information Technology Specialist (INFOSEC) | Department of the Air Force - Agency Wide | Multiple Locations | — | 52727 | 2025-12-22 | [Apply](https://www.usajobs.gov:443/job/852981200) |
-| IT SPECIALIST | Air Force Civilian Career Training | Location Negotiable After Selection | — | 56763 | 2025-10-01 | [Apply](https://www.usajobs.gov:443/job/847096900) |
 
 ---
 
@@ -37,13 +40,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 17 |
+| Total jobs found | 59 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-04-15T11:44:11Z |
+| Last updated | 2026-04-15T12:03:09Z |
 | Update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 17 jobs
+- USAJobs: 59 jobs
 
 ---
 
@@ -70,4 +73,4 @@ GitHub Actions (06:00 + 18:00 UTC)
 
 ---
 
-_Auto-generated · Last run: 2026-04-15T11:44:11Z_
+_Auto-generated · Last run: 2026-04-15T12:03:09Z_
