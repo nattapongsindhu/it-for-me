@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-15T19:26:52Z",
+  "updated": "2026-04-16T07:57:40Z",
   "zip": "90029",
   "radius_mi": 5,
   "count": 60,
@@ -7,9 +7,89 @@
     {
       "title": "Supervisory IT Specialist",
       "company": "Deputy Assistant Secretary for Information and Technology",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/865299000",
+      "salary": "106437",
+      "posted": "2026-04-16",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Supervisory Systems & Procedures Analyst",
+      "company": "Deputy Assistant Secretary for Finance",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/865328600",
+      "salary": "76462",
+      "posted": "2026-04-16",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Supv Systems & Procedures Analyst",
+      "company": "Deputy Assistant Secretary for Finance",
       "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/865310400",
-      "salary": "147945",
+      "url": "https://www.usajobs.gov:443/job/865220700",
+      "salary": "92023",
+      "posted": "2026-04-16",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Supervisory Criminal Investigator (Supv Special Agent (CS/SS) NTE 1 Year/MBE/MBP)",
+      "company": "Internal Revenue Service",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/865344500",
+      "salary": "125776",
+      "posted": "2026-04-16",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Supervisory Criminal Investigator - Supervisory Special Agent (CS/SS)",
+      "company": "Internal Revenue Service",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/865352700",
+      "salary": "125776",
+      "posted": "2026-04-16",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Pharmacist - National Program Manager",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/865361600",
+      "salary": "125776",
+      "posted": "2026-04-16",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Medical Records Technician (Coder- Outpatient and Inpatient)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/865359300",
+      "salary": "37193",
+      "posted": "2026-04-15",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Psychologist (Behavioral Health Interdisciplinary Program) - EDRP Approved",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/865066100",
+      "salary": "84114",
+      "posted": "2026-04-15",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Registered Nurse - Chief Nurse of Critical Care",
+      "company": "Veterans Health Administration",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/865385900",
+      "salary": "191482",
       "posted": "2026-04-15",
       "source": "USAJobs",
       "type": ""
@@ -25,31 +105,11 @@
       "type": ""
     },
     {
-      "title": "Student Trainee (Engineering and Architecture)",
-      "company": "US Army Civilian Human Resources Agency",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/865053700",
-      "salary": "36464",
-      "posted": "2026-04-15",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
       "title": "Physician (Regular Ft) - EDRP Authorized",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
       "url": "https://www.usajobs.gov:443/job/865279300",
       "salary": "225000",
-      "posted": "2026-04-15",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
-      "title": "Psychologist (Behavioral Health Interdisciplinary Program) - EDRP Approved",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/865066100",
-      "salary": "84114",
       "posted": "2026-04-15",
       "source": "USAJobs",
       "type": ""
@@ -165,26 +225,6 @@
       "type": ""
     },
     {
-      "title": "Supervisory IT Specialist (Plcypln)",
-      "company": "Electronic Health Record Modernization",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/864785900",
-      "salary": "169279",
-      "posted": "2026-04-10",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
-      "title": "Pharmacist- Clinical Pharmacy Specialist",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/864788000",
-      "salary": "159237",
-      "posted": "2026-04-10",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
       "title": "Health System Specialist (Communications)",
       "company": "Electronic Health Record Modernization",
       "location": "Location Negotiable After Selection",
@@ -201,26 +241,6 @@
       "url": "https://www.usajobs.gov:443/job/864779800",
       "salary": "227929",
       "posted": "2026-04-10",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
-      "title": "IT Specialist , (AI)",
-      "company": "Deputy Assistant Secretary for Information and Technology",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/864618000",
-      "salary": "106437",
-      "posted": "2026-04-09",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
-      "title": "IT Project Manager",
-      "company": "Electronic Health Record Modernization",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/864424300",
-      "salary": "125776",
-      "posted": "2026-04-08",
       "source": "USAJobs",
       "type": ""
     },
@@ -310,26 +330,6 @@
       "location": "Anywhere in the U.S. (remote job)",
       "url": "https://www.usajobs.gov:443/job/863337200",
       "salary": "400000",
-      "posted": "2026-03-31",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
-      "title": "Interdisciplinary (Civil Engineer)",
-      "company": "U.S. Army Corps of Engineers",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/863392800",
-      "salary": "111338",
-      "posted": "2026-03-31",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
-      "title": "Interdisciplinary (Mechanical Engineer)",
-      "company": "U.S. Army Corps of Engineers",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/863393100",
-      "salary": "111338",
       "posted": "2026-03-31",
       "source": "USAJobs",
       "type": ""
