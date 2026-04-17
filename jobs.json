@@ -1,8 +1,8 @@
 {
-  "updated": "2026-04-17T07:59:04Z",
+  "updated": "2026-04-17T19:09:51Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 56,
+  "count": 61,
   "jobs": [
     {
       "title": "IT Specialist (Application Software)",
@@ -10,6 +10,46 @@
       "location": "Location Negotiable After Selection",
       "url": "https://www.usajobs.gov:443/job/865554400",
       "salary": "74678",
+      "posted": "2026-04-17",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Medical Support Assistant (Advanced)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/865722400",
+      "salary": "45409",
+      "posted": "2026-04-17",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Tele - Radiologist (Diagnostic)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/865372000",
+      "salary": "300000",
+      "posted": "2026-04-17",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Advanced Medical Support Assistant (open to current VISN 20 employees only)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/865721200",
+      "salary": "56716",
+      "posted": "2026-04-17",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Registered Nurse - VISN Quality Management Officer",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/865641900",
+      "salary": "194082",
       "posted": "2026-04-17",
       "source": "USAJobs",
       "type": ""
@@ -23,6 +63,36 @@
       "posted": "2026-04-17",
       "source": "USAJobs",
       "type": "Tour of duty 8:00am - 4:30pm"
+    },
+    {
+      "title": "Biomedical Equipment Support Specialist",
+      "company": "Veterans Health Administration",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/865696200",
+      "salary": "144816",
+      "posted": "2026-04-17",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Supervisory Human Resources Specialist",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/865684800",
+      "salary": "125776",
+      "posted": "2026-04-17",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Registered Nurse Informaticist (Deployment)",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/865621000",
+      "salary": "129090",
+      "posted": "2026-04-17",
+      "source": "USAJobs",
+      "type": ""
     },
     {
       "title": "Supervisory It Specialist",
@@ -435,16 +505,6 @@
       "type": ""
     },
     {
-      "title": "Physician (Chief of Imaging)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/858113600",
-      "salary": "375000",
-      "posted": "2026-02-18",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
       "title": "Student Volunteer",
       "company": "Office of the Secretary of Health and Human Services",
       "location": "Multiple Locations",
@@ -520,16 +580,6 @@
       "location": "Multiple Locations",
       "url": "https://www.usajobs.gov:443/job/853032300",
       "salary": "74678",
-      "posted": "2025-12-22",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
-      "title": "Mathematical Statistics Series",
-      "company": "Department of the Air Force - Agency Wide",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/852879600",
-      "salary": "63795",
       "posted": "2025-12-22",
       "source": "USAJobs",
       "type": ""
