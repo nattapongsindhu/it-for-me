@@ -1,9 +1,29 @@
 {
-  "updated": "2026-04-16T19:23:43Z",
+  "updated": "2026-04-17T07:59:04Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 61,
+  "count": 56,
   "jobs": [
+    {
+      "title": "IT Specialist (Application Software)",
+      "company": "Food Safety and Inspection Service",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/865554400",
+      "salary": "74678",
+      "posted": "2026-04-17",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Supervisory Management & Program Analyst",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/865521100",
+      "salary": "106437",
+      "posted": "2026-04-17",
+      "source": "USAJobs",
+      "type": "Tour of duty 8:00am - 4:30pm"
+    },
     {
       "title": "Supervisory It Specialist",
       "company": "Deputy Assistant Secretary for Information and Technology",
@@ -101,16 +121,6 @@
       "url": "https://www.usajobs.gov:443/job/865361600",
       "salary": "125776",
       "posted": "2026-04-16",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
-      "title": "Medical Records Technician (Coder- Outpatient and Inpatient)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/865359300",
-      "salary": "37193",
-      "posted": "2026-04-15",
       "source": "USAJobs",
       "type": ""
     },
@@ -255,36 +265,6 @@
       "type": ""
     },
     {
-      "title": "IT Project Manager",
-      "company": "Veterans Affairs, Inspector General",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/864762100",
-      "salary": "125776",
-      "posted": "2026-04-10",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
-      "title": "Health System Specialist (Communications)",
-      "company": "Electronic Health Record Modernization",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/864619200",
-      "salary": "125776",
-      "posted": "2026-04-10",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
-      "title": "Chief Nurse of Education (National Telestroke Program)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/864779800",
-      "salary": "227929",
-      "posted": "2026-04-10",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
       "title": "Human Resources Specialist (Position Management)",
       "company": "Immediate Office of the Assistant Secretary for Human Resources and Administration",
       "location": "Location Negotiable After Selection",
@@ -385,16 +365,6 @@
       "type": ""
     },
     {
-      "title": "Program Specialist (Fire Support)",
-      "company": "Forest Service",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/862763200",
-      "salary": "106437",
-      "posted": "2026-03-30",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
       "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
       "company": "Defense Contract Management Agency",
       "location": "Location Negotiable After Selection",
@@ -425,16 +395,6 @@
       "type": ""
     },
     {
-      "title": "Fall 2026 SEC Scholars Business Program- RO (Volunteer)",
-      "company": "Securities and Exchange Commission",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/860850400",
-      "salary": "0",
-      "posted": "2026-03-12",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
       "title": "Contact Representative",
       "company": "Veterans Health Administration",
       "location": "Multiple Locations",
@@ -450,16 +410,6 @@
       "location": "Location Negotiable After Selection",
       "url": "https://www.usajobs.gov:443/job/858700600",
       "salary": "89508",
-      "posted": "2026-02-24",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
-      "title": "Public Notice for Engineering Technician (Direct Hire)",
-      "company": "Federal Aviation Administration",
-      "location": "May be filled in various FAA duty locations",
-      "url": "https://www.usajobs.gov:443/job/858693800",
-      "salary": "46830",
       "posted": "2026-02-24",
       "source": "USAJobs",
       "type": ""
