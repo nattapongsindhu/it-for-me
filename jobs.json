@@ -1,8 +1,8 @@
 {
-  "updated": "2026-04-18T07:18:35Z",
+  "updated": "2026-04-18T19:00:16Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 57,
+  "count": 58,
   "jobs": [
     {
       "title": "IT Specialist (Application Software)",
@@ -155,6 +155,16 @@
       "type": ""
     },
     {
+      "title": "Advanced Medical Support Assistant",
+      "company": "Veterans Health Administration",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/865773100",
+      "salary": "56247",
+      "posted": "2026-04-16",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
       "title": "Supv Systems & Procedures Analyst",
       "company": "Deputy Assistant Secretary for Finance",
       "location": "Location Negotiable After Selection",
@@ -185,16 +195,6 @@
       "type": ""
     },
     {
-      "title": "Director, Air Traffic Systems",
-      "company": "Federal Aviation Administration",
-      "location": "FAA Location Negotiable Upon Request - See Additional Info",
-      "url": "https://www.usajobs.gov:443/job/865427400",
-      "salary": "153700",
-      "posted": "2026-04-16",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
       "title": "Pharmacist - National Program Manager",
       "company": "Veterans Health Administration",
       "location": "Location Negotiable After Selection",
@@ -220,6 +220,16 @@
       "location": "Anywhere in the U.S. (remote job)",
       "url": "https://www.usajobs.gov:443/job/865279300",
       "salary": "225000",
+      "posted": "2026-04-15",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Medical Support Assistant",
+      "company": "Veterans Health Administration",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/865773200",
+      "salary": "50459",
       "posted": "2026-04-15",
       "source": "USAJobs",
       "type": ""

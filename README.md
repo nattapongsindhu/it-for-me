@@ -1,7 +1,7 @@
 # 🔍 IT For Me
 
-![Updated](https://img.shields.io/badge/Updated-2026-04-18T07%3A18%3A35Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-57-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-04-18T19%3A00%3A16Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-58-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > Auto-updated twice daily — IT jobs within 5 miles of ZIP 90029 (East LA / Silver Lake area)
@@ -28,10 +28,10 @@
 | Auditor (Information Technology/Performance) | Federal Communications Commission | Location Negotiable After Selection | This is a full-time position.  Work schedules, including telework, are at the discretion of the supervisor, consistent with agency policy. | 143913 | 2026-04-16 | [Apply](https://www.usajobs.gov:443/job/865485200) |
 | Medical Records Technician (Coder-Outpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | — | 36409 | 2026-04-16 | [Apply](https://www.usajobs.gov:443/job/865433300) |
 | Supervisory Systems & Procedures Analyst | Deputy Assistant Secretary for Finance | Anywhere in the U.S. (remote job) | — | 76462 | 2026-04-16 | [Apply](https://www.usajobs.gov:443/job/865328600) |
+| Advanced Medical Support Assistant | Veterans Health Administration | Los Angeles, California | — | 56247 | 2026-04-16 | [Apply](https://www.usajobs.gov:443/job/865773100) |
 | Supv Systems & Procedures Analyst | Deputy Assistant Secretary for Finance | Location Negotiable After Selection | — | 92023 | 2026-04-16 | [Apply](https://www.usajobs.gov:443/job/865220700) |
 | Supervisory Criminal Investigator (Supv Special Agent (CS/SS) NTE 1 Year/MBE/MBP) | Internal Revenue Service | Multiple Locations | — | 125776 | 2026-04-16 | [Apply](https://www.usajobs.gov:443/job/865344500) |
 | Supervisory Criminal Investigator - Supervisory Special Agent (CS/SS) | Internal Revenue Service | Multiple Locations | — | 125776 | 2026-04-16 | [Apply](https://www.usajobs.gov:443/job/865352700) |
-| Director, Air Traffic Systems | Federal Aviation Administration | FAA Location Negotiable Upon Request - See Additional Info | — | 153700 | 2026-04-16 | [Apply](https://www.usajobs.gov:443/job/865427400) |
 | Pharmacist - National Program Manager | Veterans Health Administration | Location Negotiable After Selection | — | 125776 | 2026-04-16 | [Apply](https://www.usajobs.gov:443/job/865361600) |
 
 ---
@@ -40,13 +40,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 57 |
+| Total jobs found | 58 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-04-18T07:18:35Z |
+| Last updated | 2026-04-18T19:00:16Z |
 | Update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 57 jobs
+- USAJobs: 58 jobs
 
 ---
 
@@ -73,4 +73,4 @@ GitHub Actions (06:00 + 18:00 UTC)
 
 ---
 
-_Auto-generated · Last run: 2026-04-18T07:18:35Z_
+_Auto-generated · Last run: 2026-04-18T19:00:16Z_
