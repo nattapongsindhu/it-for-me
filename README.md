@@ -1,7 +1,7 @@
 # 🔍 IT For Me
 
-![Updated](https://img.shields.io/badge/Updated-2026-04-18T19%3A00%3A16Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-58-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-04-19T07%3A39%3A56Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-57-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > Auto-updated twice daily — IT jobs within 5 miles of ZIP 90029 (East LA / Silver Lake area)
@@ -9,14 +9,13 @@
 
 ---
 
-## 💼 Latest Jobs — April 18, 2026
+## 💼 Latest Jobs — April 19, 2026
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
 | IT Specialist (Application Software) | Food Safety and Inspection Service | Location Negotiable After Selection | — | 74678 | 2026-04-17 | [Apply](https://www.usajobs.gov:443/job/865554400) |
 | Tele - Radiologist (Diagnostic) | Veterans Health Administration | Anywhere in the U.S. (remote job) | — | 300000 | 2026-04-17 | [Apply](https://www.usajobs.gov:443/job/865372000) |
 | Advanced Medical Support Assistant (open to current VISN 20 employees only) | Veterans Health Administration | Anywhere in the U.S. (remote job) | — | 56716 | 2026-04-17 | [Apply](https://www.usajobs.gov:443/job/865721200) |
-| Registered Nurse - VISN Quality Management Officer | Veterans Health Administration | Location Negotiable After Selection | — | 194082 | 2026-04-17 | [Apply](https://www.usajobs.gov:443/job/865641900) |
 | Supervisory Management & Program Analyst | Veterans Health Administration | Anywhere in the U.S. (remote job) | Tour of duty 8:00am - 4:30pm | 106437 | 2026-04-17 | [Apply](https://www.usajobs.gov:443/job/865521100) |
 | Biomedical Equipment Support Specialist | Veterans Health Administration | Multiple Locations | — | 144816 | 2026-04-17 | [Apply](https://www.usajobs.gov:443/job/865696200) |
 | Supervisory Human Resources Specialist | Veterans Health Administration | Location Negotiable After Selection | — | 125776 | 2026-04-17 | [Apply](https://www.usajobs.gov:443/job/865684800) |
@@ -33,6 +32,7 @@
 | Supervisory Criminal Investigator (Supv Special Agent (CS/SS) NTE 1 Year/MBE/MBP) | Internal Revenue Service | Multiple Locations | — | 125776 | 2026-04-16 | [Apply](https://www.usajobs.gov:443/job/865344500) |
 | Supervisory Criminal Investigator - Supervisory Special Agent (CS/SS) | Internal Revenue Service | Multiple Locations | — | 125776 | 2026-04-16 | [Apply](https://www.usajobs.gov:443/job/865352700) |
 | Pharmacist - National Program Manager | Veterans Health Administration | Location Negotiable After Selection | — | 125776 | 2026-04-16 | [Apply](https://www.usajobs.gov:443/job/865361600) |
+| Registered Nurse - Chief Nurse of Critical Care | Veterans Health Administration | Los Angeles, California | — | 191482 | 2026-04-15 | [Apply](https://www.usajobs.gov:443/job/865385900) |
 
 ---
 
@@ -40,13 +40,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 58 |
+| Total jobs found | 57 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-04-18T19:00:16Z |
+| Last updated | 2026-04-19T07:39:56Z |
 | Update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 58 jobs
+- USAJobs: 57 jobs
 
 ---
 
@@ -73,4 +73,4 @@ GitHub Actions (06:00 + 18:00 UTC)
 
 ---
 
-_Auto-generated · Last run: 2026-04-18T19:00:16Z_
+_Auto-generated · Last run: 2026-04-19T07:39:56Z_
