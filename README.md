@@ -1,7 +1,7 @@
 # 🔍 IT For Me
 
-![Updated](https://img.shields.io/badge/Updated-2026-04-19T18%3A59%3A36Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-57-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-04-20T08%3A20%3A33Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-56-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > Auto-updated twice daily — IT jobs within 5 miles of ZIP 90029 (East LA / Silver Lake area)
@@ -9,10 +9,12 @@
 
 ---
 
-## 💼 Latest Jobs — April 19, 2026
+## 💼 Latest Jobs — April 20, 2026
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
+| Supv It Specialist (Plcypln) | Deputy Assistant Secretary for Information and Technology | Multiple Locations | — | 147945 | 2026-04-20 | [Apply](https://www.usajobs.gov:443/job/865689800) |
+| IT Spec (APPSW) "Principal Software Engineer", GS-2210-15, FPL GS-15 (DH), Full-time | Federal Student Aid | Multiple Locations | — | 150359 | 2026-04-20 | [Apply](https://www.usajobs.gov:443/job/865722500) |
 | IT Specialist (Application Software) | Food Safety and Inspection Service | Location Negotiable After Selection | — | 74678 | 2026-04-17 | [Apply](https://www.usajobs.gov:443/job/865554400) |
 | Tele - Radiologist (Diagnostic) | Veterans Health Administration | Anywhere in the U.S. (remote job) | — | 300000 | 2026-04-17 | [Apply](https://www.usajobs.gov:443/job/865372000) |
 | Advanced Medical Support Assistant (open to current VISN 20 employees only) | Veterans Health Administration | Anywhere in the U.S. (remote job) | — | 56716 | 2026-04-17 | [Apply](https://www.usajobs.gov:443/job/865721200) |
@@ -21,7 +23,6 @@
 | Supervisory Human Resources Specialist | Veterans Health Administration | Location Negotiable After Selection | — | 125776 | 2026-04-17 | [Apply](https://www.usajobs.gov:443/job/865684800) |
 | Registered Nurse Informaticist (Deployment) | Veterans Health Administration | Location Negotiable After Selection | — | 129090 | 2026-04-17 | [Apply](https://www.usajobs.gov:443/job/865621000) |
 | Advanced Practice Nurse - Nurse Practitioner Pain Team (Clinical Resource Hub) | Veterans Health Administration | Anywhere in the U.S. (remote job) | — | 100044 | 2026-04-17 | [Apply](https://www.usajobs.gov:443/job/865702400) |
-| Advanced Practice Nurse (Clinical Contact Center) | Veterans Health Administration | Anywhere in the U.S. (remote job) | — | 134261 | 2026-04-17 | [Apply](https://www.usajobs.gov:443/job/865753900) |
 | Supervisory It Specialist | Deputy Assistant Secretary for Information and Technology | Multiple Locations | — | 106437 | 2026-04-16 | [Apply](https://www.usajobs.gov:443/job/865534200) |
 | SUPERVISORY IT PROGRAM MANAGER | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | — | 147945 | 2026-04-16 | [Apply](https://www.usajobs.gov:443/job/865509900) |
 | Auditor (Information Technology/Performance) | Federal Communications Commission | Location Negotiable After Selection | This is a full-time position.  Work schedules, including telework, are at the discretion of the supervisor, consistent with agency policy. | 143913 | 2026-04-16 | [Apply](https://www.usajobs.gov:443/job/865485200) |
@@ -32,7 +33,6 @@
 | Supervisory Criminal Investigator (Supv Special Agent (CS/SS) NTE 1 Year/MBE/MBP) | Internal Revenue Service | Multiple Locations | — | 125776 | 2026-04-16 | [Apply](https://www.usajobs.gov:443/job/865344500) |
 | Supervisory Criminal Investigator - Supervisory Special Agent (CS/SS) | Internal Revenue Service | Multiple Locations | — | 125776 | 2026-04-16 | [Apply](https://www.usajobs.gov:443/job/865352700) |
 | Pharmacist - National Program Manager | Veterans Health Administration | Location Negotiable After Selection | — | 125776 | 2026-04-16 | [Apply](https://www.usajobs.gov:443/job/865361600) |
-| Registered Nurse - Chief Nurse of Critical Care | Veterans Health Administration | Los Angeles, California | — | 191482 | 2026-04-15 | [Apply](https://www.usajobs.gov:443/job/865385900) |
 
 ---
 
@@ -40,13 +40,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 57 |
+| Total jobs found | 56 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-04-19T18:59:36Z |
+| Last updated | 2026-04-20T08:20:33Z |
 | Update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 57 jobs
+- USAJobs: 56 jobs
 
 ---
 
@@ -73,4 +73,4 @@ GitHub Actions (06:00 + 18:00 UTC)
 
 ---
 
-_Auto-generated · Last run: 2026-04-19T18:59:36Z_
+_Auto-generated · Last run: 2026-04-20T08:20:33Z_
