@@ -1,6 +1,6 @@
 # 🔍 IT For Me
 
-![Updated](https://img.shields.io/badge/Updated-2026-04-20T08%3A20%3A33Z-blue?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-04-20T19%3A15%3A24Z-blue?style=flat-square)
 ![Jobs](https://img.shields.io/badge/Jobs_Found-56-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
@@ -14,7 +14,9 @@
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
 | Supv It Specialist (Plcypln) | Deputy Assistant Secretary for Information and Technology | Multiple Locations | — | 147945 | 2026-04-20 | [Apply](https://www.usajobs.gov:443/job/865689800) |
-| IT Spec (APPSW) "Principal Software Engineer", GS-2210-15, FPL GS-15 (DH), Full-time | Federal Student Aid | Multiple Locations | — | 150359 | 2026-04-20 | [Apply](https://www.usajobs.gov:443/job/865722500) |
+| IT Spec (APPSW) "Principal Software Engineer", GS-2210-15, FPL GS-15 (DH), Full-time | Federal Student Aid | Multiple Locations | — | 150359 | 2026-04-20 | [Apply](https://www.usajobs.gov:443/job/865881200) |
+| Diagnostic Radiologist (Remote) - EDRP Eligible | Veterans Health Administration | Anywhere in the U.S. (remote job) | — | 275000 | 2026-04-20 | [Apply](https://www.usajobs.gov:443/job/865842300) |
+| Program Analyst (Informatics) | Veterans Health Administration | Los Angeles, California | — | 104349 | 2026-04-20 | [Apply](https://www.usajobs.gov:443/job/865897500) |
 | IT Specialist (Application Software) | Food Safety and Inspection Service | Location Negotiable After Selection | — | 74678 | 2026-04-17 | [Apply](https://www.usajobs.gov:443/job/865554400) |
 | Tele - Radiologist (Diagnostic) | Veterans Health Administration | Anywhere in the U.S. (remote job) | — | 300000 | 2026-04-17 | [Apply](https://www.usajobs.gov:443/job/865372000) |
 | Advanced Medical Support Assistant (open to current VISN 20 employees only) | Veterans Health Administration | Anywhere in the U.S. (remote job) | — | 56716 | 2026-04-17 | [Apply](https://www.usajobs.gov:443/job/865721200) |
@@ -22,7 +24,6 @@
 | Biomedical Equipment Support Specialist | Veterans Health Administration | Multiple Locations | — | 144816 | 2026-04-17 | [Apply](https://www.usajobs.gov:443/job/865696200) |
 | Supervisory Human Resources Specialist | Veterans Health Administration | Location Negotiable After Selection | — | 125776 | 2026-04-17 | [Apply](https://www.usajobs.gov:443/job/865684800) |
 | Registered Nurse Informaticist (Deployment) | Veterans Health Administration | Location Negotiable After Selection | — | 129090 | 2026-04-17 | [Apply](https://www.usajobs.gov:443/job/865621000) |
-| Advanced Practice Nurse - Nurse Practitioner Pain Team (Clinical Resource Hub) | Veterans Health Administration | Anywhere in the U.S. (remote job) | — | 100044 | 2026-04-17 | [Apply](https://www.usajobs.gov:443/job/865702400) |
 | Supervisory It Specialist | Deputy Assistant Secretary for Information and Technology | Multiple Locations | — | 106437 | 2026-04-16 | [Apply](https://www.usajobs.gov:443/job/865534200) |
 | SUPERVISORY IT PROGRAM MANAGER | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | — | 147945 | 2026-04-16 | [Apply](https://www.usajobs.gov:443/job/865509900) |
 | Auditor (Information Technology/Performance) | Federal Communications Commission | Location Negotiable After Selection | This is a full-time position.  Work schedules, including telework, are at the discretion of the supervisor, consistent with agency policy. | 143913 | 2026-04-16 | [Apply](https://www.usajobs.gov:443/job/865485200) |
@@ -32,7 +33,6 @@
 | Supv Systems & Procedures Analyst | Deputy Assistant Secretary for Finance | Location Negotiable After Selection | — | 92023 | 2026-04-16 | [Apply](https://www.usajobs.gov:443/job/865220700) |
 | Supervisory Criminal Investigator (Supv Special Agent (CS/SS) NTE 1 Year/MBE/MBP) | Internal Revenue Service | Multiple Locations | — | 125776 | 2026-04-16 | [Apply](https://www.usajobs.gov:443/job/865344500) |
 | Supervisory Criminal Investigator - Supervisory Special Agent (CS/SS) | Internal Revenue Service | Multiple Locations | — | 125776 | 2026-04-16 | [Apply](https://www.usajobs.gov:443/job/865352700) |
-| Pharmacist - National Program Manager | Veterans Health Administration | Location Negotiable After Selection | — | 125776 | 2026-04-16 | [Apply](https://www.usajobs.gov:443/job/865361600) |
 
 ---
 
@@ -42,7 +42,7 @@
 |--------|-------|
 | Total jobs found | 56 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-04-20T08:20:33Z |
+| Last updated | 2026-04-20T19:15:24Z |
 | Update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
@@ -73,4 +73,4 @@ GitHub Actions (06:00 + 18:00 UTC)
 
 ---
 
-_Auto-generated · Last run: 2026-04-20T08:20:33Z_
+_Auto-generated · Last run: 2026-04-20T19:15:24Z_
