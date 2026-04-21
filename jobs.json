@@ -1,9 +1,39 @@
 {
-  "updated": "2026-04-21T08:03:03Z",
+  "updated": "2026-04-21T19:20:44Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 57,
+  "count": 59,
   "jobs": [
+    {
+      "title": "Chief Technology Officer",
+      "company": "Office of Inspector General",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/865983400",
+      "salary": "151661",
+      "posted": "2026-04-21",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Registered Nurse - VISN 4 Chief Nursing Officer",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/865976900",
+      "salary": "210562",
+      "posted": "2026-04-21",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Medical Support Assistant (Advanced)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/865994000",
+      "salary": "45409",
+      "posted": "2026-04-21",
+      "source": "USAJobs",
+      "type": ""
+    },
     {
       "title": "Data Scientist",
       "company": "Assistant Secretary for Community Planning and Development",
@@ -130,16 +160,6 @@
       "location": "Location Negotiable After Selection",
       "url": "https://www.usajobs.gov:443/job/865621000",
       "salary": "129090",
-      "posted": "2026-04-17",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
-      "title": "Advanced Practice Nurse - Nurse Practitioner Pain Team (Clinical Resource Hub)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/865702400",
-      "salary": "100044",
       "posted": "2026-04-17",
       "source": "USAJobs",
       "type": ""
@@ -325,7 +345,7 @@
       "type": ""
     },
     {
-      "title": "Section Chief Staffing and Recruitment (O-6 Billet) Supervisory - Internal",
+      "title": "Section Chief, Staffing and Recruitment (O-6 Billet) Supervisory - Internal",
       "company": "Immigration and Customs Enforcement",
       "location": "Location Negotiable After Selection",
       "url": "https://www.usajobs.gov:443/job/864835600",
@@ -425,6 +445,16 @@
       "type": ""
     },
     {
+      "title": "IT Specialist (AI)",
+      "company": "Treasury, Departmental Offices",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/858700600",
+      "salary": "89508",
+      "posted": "2026-02-24",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
       "title": "Public Notice for Engineering Technician (Direct Hire)",
       "company": "Federal Aviation Administration",
       "location": "May be filled in various FAA duty locations",
@@ -451,16 +481,6 @@
       "url": "https://www.usajobs.gov:443/job/858447900",
       "salary": "350000",
       "posted": "2026-02-20",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
-      "title": "Physician (Chief of Imaging)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/858113600",
-      "salary": "375000",
-      "posted": "2026-02-18",
       "source": "USAJobs",
       "type": ""
     },

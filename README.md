@@ -1,7 +1,7 @@
 # 🔍 IT For Me
 
-![Updated](https://img.shields.io/badge/Updated-2026-04-21T08%3A03%3A03Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-57-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-04-21T19%3A20%3A44Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-59-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > Auto-updated twice daily — IT jobs within 5 miles of ZIP 90029 (East LA / Silver Lake area)
@@ -13,6 +13,9 @@
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
+| Chief Technology Officer | Office of Inspector General | Location Negotiable After Selection | — | 151661 | 2026-04-21 | [Apply](https://www.usajobs.gov:443/job/865983400) |
+| Registered Nurse - VISN 4 Chief Nursing Officer | Veterans Health Administration | Location Negotiable After Selection | — | 210562 | 2026-04-21 | [Apply](https://www.usajobs.gov:443/job/865976900) |
+| Medical Support Assistant (Advanced) | Veterans Health Administration | Anywhere in the U.S. (remote job) | — | 45409 | 2026-04-21 | [Apply](https://www.usajobs.gov:443/job/865994000) |
 | Data Scientist | Assistant Secretary for Community Planning and Development | Multiple Locations | — | 121785 | 2026-04-21 | [Apply](https://www.usajobs.gov:443/job/865903700) |
 | Clinical Psychologist - Suicide Prevention 2.0 | Veterans Health Administration | Anywhere in the U.S. (remote job) | — | 144243 | 2026-04-21 | [Apply](https://www.usajobs.gov:443/job/865886300) |
 | Supv It Specialist (Plcypln) | Deputy Assistant Secretary for Information and Technology | Multiple Locations | — | 147945 | 2026-04-20 | [Apply](https://www.usajobs.gov:443/job/865689800) |
@@ -26,13 +29,10 @@
 | Biomedical Equipment Support Specialist | Veterans Health Administration | Multiple Locations | — | 144816 | 2026-04-17 | [Apply](https://www.usajobs.gov:443/job/865696200) |
 | Supervisory Human Resources Specialist | Veterans Health Administration | Location Negotiable After Selection | — | 125776 | 2026-04-17 | [Apply](https://www.usajobs.gov:443/job/865684800) |
 | Registered Nurse Informaticist (Deployment) | Veterans Health Administration | Location Negotiable After Selection | — | 129090 | 2026-04-17 | [Apply](https://www.usajobs.gov:443/job/865621000) |
-| Advanced Practice Nurse - Nurse Practitioner Pain Team (Clinical Resource Hub) | Veterans Health Administration | Anywhere in the U.S. (remote job) | — | 100044 | 2026-04-17 | [Apply](https://www.usajobs.gov:443/job/865702400) |
 | Supervisory It Specialist | Deputy Assistant Secretary for Information and Technology | Multiple Locations | — | 106437 | 2026-04-16 | [Apply](https://www.usajobs.gov:443/job/865534200) |
 | SUPERVISORY IT PROGRAM MANAGER | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | — | 147945 | 2026-04-16 | [Apply](https://www.usajobs.gov:443/job/865509900) |
 | Auditor (Information Technology/Performance) | Federal Communications Commission | Location Negotiable After Selection | This is a full-time position.  Work schedules, including telework, are at the discretion of the supervisor, consistent with agency policy. | 143913 | 2026-04-16 | [Apply](https://www.usajobs.gov:443/job/865485200) |
 | Medical Records Technician (Coder-Outpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | — | 36409 | 2026-04-16 | [Apply](https://www.usajobs.gov:443/job/865433300) |
-| Supervisory Systems & Procedures Analyst | Deputy Assistant Secretary for Finance | Anywhere in the U.S. (remote job) | — | 76462 | 2026-04-16 | [Apply](https://www.usajobs.gov:443/job/865328600) |
-| Advanced Medical Support Assistant | Veterans Health Administration | Los Angeles, California | — | 56247 | 2026-04-16 | [Apply](https://www.usajobs.gov:443/job/865773100) |
 
 ---
 
@@ -40,13 +40,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 57 |
+| Total jobs found | 59 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-04-21T08:03:03Z |
+| Last updated | 2026-04-21T19:20:44Z |
 | Update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 57 jobs
+- USAJobs: 59 jobs
 
 ---
 
@@ -73,4 +73,4 @@ GitHub Actions (06:00 + 18:00 UTC)
 
 ---
 
-_Auto-generated · Last run: 2026-04-21T08:03:03Z_
+_Auto-generated · Last run: 2026-04-21T19:20:44Z_
