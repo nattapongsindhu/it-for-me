@@ -1,9 +1,29 @@
 {
-  "updated": "2026-04-20T19:15:24Z",
+  "updated": "2026-04-21T08:03:03Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 56,
+  "count": 57,
   "jobs": [
+    {
+      "title": "Data Scientist",
+      "company": "Assistant Secretary for Community Planning and Development",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/865903700",
+      "salary": "121785",
+      "posted": "2026-04-21",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Clinical Psychologist - Suicide Prevention 2.0",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/865886300",
+      "salary": "144243",
+      "posted": "2026-04-21",
+      "source": "USAJobs",
+      "type": ""
+    },
     {
       "title": "Supv It Specialist (Plcypln)",
       "company": "Deputy Assistant Secretary for Information and Technology",
@@ -35,6 +55,16 @@
       "type": ""
     },
     {
+      "title": "Medical Records Technician (Coder- Outpatient)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/865939300",
+      "salary": "37193",
+      "posted": "2026-04-20",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
       "title": "Program Analyst (Informatics)",
       "company": "Veterans Health Administration",
       "location": "Los Angeles, California",
@@ -60,16 +90,6 @@
       "location": "Anywhere in the U.S. (remote job)",
       "url": "https://www.usajobs.gov:443/job/865372000",
       "salary": "300000",
-      "posted": "2026-04-17",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
-      "title": "Advanced Medical Support Assistant (open to current VISN 20 employees only)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/865721200",
-      "salary": "56716",
       "posted": "2026-04-17",
       "source": "USAJobs",
       "type": ""
@@ -110,6 +130,16 @@
       "location": "Location Negotiable After Selection",
       "url": "https://www.usajobs.gov:443/job/865621000",
       "salary": "129090",
+      "posted": "2026-04-17",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Advanced Practice Nurse - Nurse Practitioner Pain Team (Clinical Resource Hub)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/865702400",
+      "salary": "100044",
       "posted": "2026-04-17",
       "source": "USAJobs",
       "type": ""
@@ -205,16 +235,6 @@
       "type": ""
     },
     {
-      "title": "Pharmacist - National Program Manager",
-      "company": "Veterans Health Administration",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/865361600",
-      "salary": "125776",
-      "posted": "2026-04-16",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
       "title": "Registered Nurse - Chief Nurse of Critical Care",
       "company": "Veterans Health Administration",
       "location": "Los Angeles, California",
@@ -245,21 +265,11 @@
       "type": ""
     },
     {
-      "title": "Psychologist (Behavioral Health Interdisciplinary Program) - EDRP Approved",
+      "title": "Physician - Psychiatrist",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/865066100",
-      "salary": "84114",
-      "posted": "2026-04-15",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
-      "title": "IT Specialist (APPSW/CUSTSPT)",
-      "company": "Office of the Assistant Secretary for Administration and Management",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/864957900",
-      "salary": "65271",
+      "url": "https://www.usajobs.gov:443/job/865206600",
+      "salary": "250000",
       "posted": "2026-04-14",
       "source": "USAJobs",
       "type": ""
@@ -415,16 +425,6 @@
       "type": ""
     },
     {
-      "title": "IT Specialist (AI)",
-      "company": "Treasury, Departmental Offices",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/858700600",
-      "salary": "89508",
-      "posted": "2026-02-24",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
       "title": "Public Notice for Engineering Technician (Direct Hire)",
       "company": "Federal Aviation Administration",
       "location": "May be filled in various FAA duty locations",
@@ -451,6 +451,16 @@
       "url": "https://www.usajobs.gov:443/job/858447900",
       "salary": "350000",
       "posted": "2026-02-20",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Physician (Chief of Imaging)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/858113600",
+      "salary": "375000",
+      "posted": "2026-02-18",
       "source": "USAJobs",
       "type": ""
     },
