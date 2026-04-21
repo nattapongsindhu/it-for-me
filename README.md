@@ -6,7 +6,7 @@
 ![Issues](https://img.shields.io/github/issues/nattapongsindhu/GitHub-Evolution?style=for-the-badge)
 ![License](https://img.shields.io/github/license/nattapongsindhu/GitHub-Evolution?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/nattapongsindhu/GitHub-Evolution?style=for-the-badge)
-![Repo Size](https://img.shields.io/github/repo-size/nattapongsindhu/GitHub-Evolution?style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/nattapongsindhu/GitHub-Evolution?style=for-the-badg)
 ![Jobs](https://img.shields.io/badge/Jobs_Found-56-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
