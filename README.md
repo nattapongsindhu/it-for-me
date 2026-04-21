@@ -1,13 +1,12 @@
 # 🔍 IT For Me
 
-## Badges
 ![Last Updated](https://img.shields.io/github/last-commit/nattapongsindhu/Unrealized-Loss?label=last%20updated&color=ef5350)
-[![Stars](https://img.shields.io/github/stars/nattapongsindhu/GitHub-Evolution?style=for-the-badge)](https://github.com/nattapongsindhu/GitHub-Evolution/stargazers)
-[![Forks](https://img.shields.io/github/forks/nattapongsindhu/GitHub-Evolution?style=for-the-badge)](https://github.com/nattapongsindhu/GitHub-Evolution/network/members)
-[![Issues](https://img.shields.io/github/issues/nattapongsindhu/GitHub-Evolution?style=for-the-badge)](https://github.com/nattapongsindhu/GitHub-Evolution/issues)
-[![License](https://img.shields.io/github/license/nattapongsindhu/GitHub-Evolution?style=for-the-badge)](https://github.com/nattapongsindhu/GitHub-Evolution/blob/main/LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/nattapongsindhu/GitHub-Evolution?style=for-the-badge)](https://github.com/nattapongsindhu/GitHub-Evolution/commits/main)
-[![Repo Size](https://img.shields.io/github/repo-size/nattapongsindhu/GitHub-Evolution?style=for-the-badge)](https://github.com/nattapongsindhu/GitHub-Evolution)
+![Stars](https://img.shields.io/github/stars/nattapongsindhu/GitHub-Evolution?style=for-the-badge)](https://github.com/nattapongsindhu/GitHub-Evolution/stargazers)
+![Forks](https://img.shields.io/github/forks/nattapongsindhu/GitHub-Evolution?style=for-the-badge)](https://github.com/nattapongsindhu/GitHub-Evolution/network/members)
+![Issues](https://img.shields.io/github/issues/nattapongsindhu/GitHub-Evolution?style=for-the-badge)](https://github.com/nattapongsindhu/GitHub-Evolution/issues)
+![License](https://img.shields.io/github/license/nattapongsindhu/GitHub-Evolution?style=for-the-badge)](https://github.com/nattapongsindhu/GitHub-Evolution/blob/main/LICENSE)
+![Last Commit](https://img.shields.io/github/last-commit/nattapongsindhu/GitHub-Evolution?style=for-the-badge)](https://github.com/nattapongsindhu/GitHub-Evolution/commits/main)
+![Repo Size](https://img.shields.io/github/repo-size/nattapongsindhu/GitHub-Evolution?style=for-the-badge)](https://github.com/nattapongsindhu/GitHub-Evolution)
 ![Jobs](https://img.shields.io/badge/Jobs_Found-56-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
