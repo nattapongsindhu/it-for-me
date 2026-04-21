@@ -1,6 +1,6 @@
 # 🔍 IT For Me
 
-![Updated](https://img.shields.io/badge/Updated-2026-04-21T19%3A20%3A44Z-blue?style=flat-square)
+![Last Updated](https://img.shields.io/github/last-commit/nattapongsindhu/Unrealized-Loss?label=last%20updated&color=ef5350)
 ![Jobs](https://img.shields.io/badge/Jobs_Found-59-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
