@@ -1,7 +1,7 @@
 # 🔍 IT For Me
 
-![Updated](https://img.shields.io/badge/Updated-2026-04-22T07%3A59%3A29Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-61-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-04-22T19%3A22%3A30Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-62-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > Auto-updated twice daily — IT jobs within 5 miles of ZIP 90029 (East LA / Silver Lake area)
@@ -15,8 +15,9 @@
 |-------|---------|----------|------|--------|--------|------|
 | Information Technology Specialist | Office of the Assistant Secretary for Administration and Management | Location Negotiable After Selection | — | 112556 | 2026-04-22 | [Apply](https://www.usajobs.gov:443/job/866127000) |
 | SUPERVISORY INFORMATION TECHNOLOGY PROGRAM MANAGER | Office of the Chief Information Officer | Location Negotiable After Selection | — | 125776 | 2026-04-22 | [Apply](https://www.usajobs.gov:443/job/866000100) |
+| Deputy Chief Officer (Clinical Contact Center) - Detail NTE 120 Days | Veterans Health Administration | Anywhere in the U.S. (remote job) | — | 61722 | 2026-04-22 | [Apply](https://www.usajobs.gov:443/job/866252500) |
 | Transportation Specialist - MERIT PROMOTION ONLY | Federal Highway Administration | Multiple Locations | Full Time | 90925 | 2026-04-22 | [Apply](https://www.usajobs.gov:443/job/865978400) |
-| Advanced Practice Provider Medical Asset Support Team (O-5 Billet) Non-Supervisory - Internal | Immigration and Customs Enforcement | Location Negotiable After Selection | — | 1 | 2026-04-22 | [Apply](https://www.usajobs.gov:443/job/866105100) |
+| Advanced Practice Provider, Medical Asset Support Team (O-5 Billet) Non-Supervisory - Internal | Immigration and Customs Enforcement | Location Negotiable After Selection | — | 1 | 2026-04-22 | [Apply](https://www.usajobs.gov:443/job/866105100) |
 | Nurse, Director of Training | Veterans Health Administration | Multiple Locations | — | 207239 | 2026-04-22 | [Apply](https://www.usajobs.gov:443/job/866050400) |
 | Chief Technology Officer | Office of Inspector General | Location Negotiable After Selection | — | 151661 | 2026-04-21 | [Apply](https://www.usajobs.gov:443/job/865983400) |
 | Registered Nurse - VISN 4 Chief Nursing Officer | Veterans Health Administration | Location Negotiable After Selection | — | 210562 | 2026-04-21 | [Apply](https://www.usajobs.gov:443/job/865976900) |
@@ -32,7 +33,6 @@
 | Program Analyst (Informatics) | Veterans Health Administration | Los Angeles, California | — | 104349 | 2026-04-20 | [Apply](https://www.usajobs.gov:443/job/865897500) |
 | IT Specialist (Application Software) | Food Safety and Inspection Service | Location Negotiable After Selection | — | 74678 | 2026-04-17 | [Apply](https://www.usajobs.gov:443/job/865554400) |
 | Tele - Radiologist (Diagnostic) | Veterans Health Administration | Anywhere in the U.S. (remote job) | — | 300000 | 2026-04-17 | [Apply](https://www.usajobs.gov:443/job/865372000) |
-| Biomedical Equipment Support Specialist | Veterans Health Administration | Multiple Locations | — | 144816 | 2026-04-17 | [Apply](https://www.usajobs.gov:443/job/865696200) |
 
 ---
 
@@ -40,13 +40,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 61 |
+| Total jobs found | 62 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-04-22T07:59:29Z |
+| Last updated | 2026-04-22T19:22:30Z |
 | Update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 61 jobs
+- USAJobs: 62 jobs
 
 ---
 
@@ -73,4 +73,4 @@ GitHub Actions (06:00 + 18:00 UTC)
 
 ---
 
-_Auto-generated · Last run: 2026-04-22T07:59:29Z_
+_Auto-generated · Last run: 2026-04-22T19:22:30Z_

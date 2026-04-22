@@ -1,8 +1,8 @@
 {
-  "updated": "2026-04-22T07:59:29Z",
+  "updated": "2026-04-22T19:22:30Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 61,
+  "count": 62,
   "jobs": [
     {
       "title": "Information Technology Specialist",
@@ -25,6 +25,16 @@
       "type": ""
     },
     {
+      "title": "Deputy Chief Officer (Clinical Contact Center) - Detail NTE 120 Days",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/866252500",
+      "salary": "61722",
+      "posted": "2026-04-22",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
       "title": "Transportation Specialist - MERIT PROMOTION ONLY",
       "company": "Federal Highway Administration",
       "location": "Multiple Locations",
@@ -35,7 +45,7 @@
       "type": "Full Time"
     },
     {
-      "title": "Advanced Practice Provider Medical Asset Support Team (O-5 Billet) Non-Supervisory - Internal",
+      "title": "Advanced Practice Provider, Medical Asset Support Team (O-5 Billet) Non-Supervisory - Internal",
       "company": "Immigration and Customs Enforcement",
       "location": "Location Negotiable After Selection",
       "url": "https://www.usajobs.gov:443/job/866105100",
@@ -190,6 +200,16 @@
       "location": "Anywhere in the U.S. (remote job)",
       "url": "https://www.usajobs.gov:443/job/865372000",
       "salary": "300000",
+      "posted": "2026-04-17",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Med Rec Tech (Med Coder Inpatient and Outpatient)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/866156200",
+      "salary": "36409",
       "posted": "2026-04-17",
       "source": "USAJobs",
       "type": ""
@@ -470,16 +490,6 @@
       "location": "Location Negotiable After Selection",
       "url": "https://www.usajobs.gov:443/job/858700600",
       "salary": "89508",
-      "posted": "2026-02-24",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
-      "title": "Public Notice for Engineering Technician (Direct Hire)",
-      "company": "Federal Aviation Administration",
-      "location": "May be filled in various FAA duty locations",
-      "url": "https://www.usajobs.gov:443/job/858693800",
-      "salary": "46830",
       "posted": "2026-02-24",
       "source": "USAJobs",
       "type": ""
