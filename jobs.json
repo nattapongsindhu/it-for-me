@@ -1,9 +1,59 @@
 {
-  "updated": "2026-04-21T19:20:44Z",
+  "updated": "2026-04-22T07:59:29Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 59,
+  "count": 61,
   "jobs": [
+    {
+      "title": "Information Technology Specialist",
+      "company": "Office of the Assistant Secretary for Administration and Management",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/866127000",
+      "salary": "112556",
+      "posted": "2026-04-22",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "SUPERVISORY INFORMATION TECHNOLOGY PROGRAM MANAGER",
+      "company": "Office of the Chief Information Officer",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/866000100",
+      "salary": "125776",
+      "posted": "2026-04-22",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Transportation Specialist - MERIT PROMOTION ONLY",
+      "company": "Federal Highway Administration",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/865978400",
+      "salary": "90925",
+      "posted": "2026-04-22",
+      "source": "USAJobs",
+      "type": "Full Time"
+    },
+    {
+      "title": "Advanced Practice Provider Medical Asset Support Team (O-5 Billet) Non-Supervisory - Internal",
+      "company": "Immigration and Customs Enforcement",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/866105100",
+      "salary": "1",
+      "posted": "2026-04-22",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Nurse, Director of Training",
+      "company": "Veterans Health Administration",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/866050400",
+      "salary": "207239",
+      "posted": "2026-04-22",
+      "source": "USAJobs",
+      "type": ""
+    },
     {
       "title": "Chief Technology Officer",
       "company": "Office of Inspector General",
@@ -25,11 +75,21 @@
       "type": ""
     },
     {
-      "title": "Medical Support Assistant (Advanced)",
+      "title": "Medical Records Technician (Coder) - Auditor Outpatient",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/865994000",
-      "salary": "45409",
+      "url": "https://www.usajobs.gov:443/job/866135000",
+      "salary": "61722",
+      "posted": "2026-04-21",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Lead Medical Records Technician ( Coder)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/866132900",
+      "salary": "61722",
       "posted": "2026-04-21",
       "source": "USAJobs",
       "type": ""
@@ -40,6 +100,16 @@
       "location": "Multiple Locations",
       "url": "https://www.usajobs.gov:443/job/865903700",
       "salary": "121785",
+      "posted": "2026-04-21",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Supervisory Human Resources Specialist (Temporary Promotion NTE 1 year)",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/866108800",
+      "salary": "125776",
       "posted": "2026-04-21",
       "source": "USAJobs",
       "type": ""
@@ -75,21 +145,21 @@
       "type": ""
     },
     {
-      "title": "Diagnostic Radiologist (Remote) - EDRP Eligible",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/865842300",
-      "salary": "275000",
-      "posted": "2026-04-20",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
       "title": "Medical Records Technician (Coder- Outpatient)",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
       "url": "https://www.usajobs.gov:443/job/865939300",
       "salary": "37193",
+      "posted": "2026-04-20",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Diagnostic Radiologist (Remote) - EDRP Eligible",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/865842300",
+      "salary": "275000",
       "posted": "2026-04-20",
       "source": "USAJobs",
       "type": ""
@@ -125,41 +195,11 @@
       "type": ""
     },
     {
-      "title": "Supervisory Management & Program Analyst",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/865521100",
-      "salary": "106437",
-      "posted": "2026-04-17",
-      "source": "USAJobs",
-      "type": "Tour of duty 8:00am - 4:30pm"
-    },
-    {
       "title": "Biomedical Equipment Support Specialist",
       "company": "Veterans Health Administration",
       "location": "Multiple Locations",
       "url": "https://www.usajobs.gov:443/job/865696200",
       "salary": "144816",
-      "posted": "2026-04-17",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
-      "title": "Supervisory Human Resources Specialist",
-      "company": "Veterans Health Administration",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/865684800",
-      "salary": "125776",
-      "posted": "2026-04-17",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
-      "title": "Registered Nurse Informaticist (Deployment)",
-      "company": "Veterans Health Administration",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/865621000",
-      "salary": "129090",
       "posted": "2026-04-17",
       "source": "USAJobs",
       "type": ""
@@ -370,26 +410,6 @@
       "location": "Anywhere in the U.S. (remote job)",
       "url": "https://www.usajobs.gov:443/job/863337200",
       "salary": "400000",
-      "posted": "2026-03-31",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
-      "title": "Interdisciplinary (Civil Engineer)",
-      "company": "U.S. Army Corps of Engineers",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/863392800",
-      "salary": "111338",
-      "posted": "2026-03-31",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
-      "title": "Interdisciplinary (Mechanical Engineer)",
-      "company": "U.S. Army Corps of Engineers",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/863393100",
-      "salary": "111338",
       "posted": "2026-03-31",
       "source": "USAJobs",
       "type": ""
