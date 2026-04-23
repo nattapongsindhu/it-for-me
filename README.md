@@ -1,7 +1,7 @@
 # 🔍 IT For Me
 
-![Updated](https://img.shields.io/badge/Updated-2026-04-23T08%3A05%3A18Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-60-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-04-23T19%3A20%3A33Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-61-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > Auto-updated twice daily — IT jobs within 5 miles of ZIP 90029 (East LA / Silver Lake area)
@@ -14,9 +14,10 @@
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
 | IT Specialist (DATAMGT) | Deputy Assistant Secretary for Information and Technology | Multiple Locations | — | 74678 | 2026-04-23 | [Apply](https://www.usajobs.gov:443/job/866162200) |
+| Medical Records Technician (Coder-Inpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | — | 36409 | 2026-04-23 | [Apply](https://www.usajobs.gov:443/job/866414500) |
 | INTELLIGENCE SPECIALIST | United States Space Force | Los Angeles, California | — | 124085 | 2026-04-23 | [Apply](https://www.usajobs.gov:443/job/866182100) |
 | Supervisory Economist | Bureau of Labor Statistics | Location Negotiable After Selection | — | 125776 | 2026-04-23 | [Apply](https://www.usajobs.gov:443/job/866200700) |
-| Financial Analyst | Assistant Secretary for Community Planning and Development | Multiple Locations | — | 131310 | 2026-04-23 | [Apply](https://www.usajobs.gov:443/job/866186800) |
+| Associate Director for Patient Care Services (Nurse Executive) | Veterans Health Administration | Los Angeles, California | — | 222268 | 2026-04-23 | [Apply](https://www.usajobs.gov:443/job/866447700) |
 | Information Technology Specialist | Office of the Assistant Secretary for Administration and Management | Location Negotiable After Selection | — | 112556 | 2026-04-22 | [Apply](https://www.usajobs.gov:443/job/866127000) |
 | SUPERVISORY INFORMATION TECHNOLOGY PROGRAM MANAGER | Office of the Chief Information Officer | Location Negotiable After Selection | — | 125776 | 2026-04-22 | [Apply](https://www.usajobs.gov:443/job/866000100) |
 | Deputy Chief Officer (Clinical Contact Center) - Detail NTE 120 Days | Veterans Health Administration | Anywhere in the U.S. (remote job) | — | 61722 | 2026-04-22 | [Apply](https://www.usajobs.gov:443/job/866252500) |
@@ -32,7 +33,6 @@
 | Supv It Specialist (Plcypln) | Deputy Assistant Secretary for Information and Technology | Multiple Locations | — | 147945 | 2026-04-20 | [Apply](https://www.usajobs.gov:443/job/865689800) |
 | IT Spec (APPSW) "Principal Software Engineer", GS-2210-15, FPL GS-15 (DH), Full-time | Federal Student Aid | Multiple Locations | — | 150359 | 2026-04-20 | [Apply](https://www.usajobs.gov:443/job/865881200) |
 | Diagnostic Radiologist (Remote) - EDRP Eligible | Veterans Health Administration | Anywhere in the U.S. (remote job) | — | 275000 | 2026-04-20 | [Apply](https://www.usajobs.gov:443/job/865842300) |
-| Program Analyst (Informatics) | Veterans Health Administration | Los Angeles, California | — | 104349 | 2026-04-20 | [Apply](https://www.usajobs.gov:443/job/865897500) |
 
 ---
 
@@ -40,13 +40,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 60 |
+| Total jobs found | 61 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-04-23T08:05:18Z |
+| Last updated | 2026-04-23T19:20:33Z |
 | Update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 60 jobs
+- USAJobs: 61 jobs
 
 ---
 
@@ -73,4 +73,4 @@ GitHub Actions (06:00 + 18:00 UTC)
 
 ---
 
-_Auto-generated · Last run: 2026-04-23T08:05:18Z_
+_Auto-generated · Last run: 2026-04-23T19:20:33Z_

@@ -1,8 +1,8 @@
 {
-  "updated": "2026-04-23T08:05:18Z",
+  "updated": "2026-04-23T19:20:33Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 60,
+  "count": 61,
   "jobs": [
     {
       "title": "IT Specialist (DATAMGT)",
@@ -10,6 +10,16 @@
       "location": "Multiple Locations",
       "url": "https://www.usajobs.gov:443/job/866162200",
       "salary": "74678",
+      "posted": "2026-04-23",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Medical Records Technician (Coder-Inpatient)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/866414500",
+      "salary": "36409",
       "posted": "2026-04-23",
       "source": "USAJobs",
       "type": ""
@@ -35,11 +45,11 @@
       "type": ""
     },
     {
-      "title": "Financial Analyst",
-      "company": "Assistant Secretary for Community Planning and Development",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/866186800",
-      "salary": "131310",
+      "title": "Associate Director for Patient Care Services (Nurse Executive)",
+      "company": "Veterans Health Administration",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/866447700",
+      "salary": "222268",
       "posted": "2026-04-23",
       "source": "USAJobs",
       "type": ""
