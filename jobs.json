@@ -1,9 +1,49 @@
 {
-  "updated": "2026-04-22T19:22:30Z",
+  "updated": "2026-04-23T08:05:18Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 62,
+  "count": 60,
   "jobs": [
+    {
+      "title": "IT Specialist (DATAMGT)",
+      "company": "Deputy Assistant Secretary for Information and Technology",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/866162200",
+      "salary": "74678",
+      "posted": "2026-04-23",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "INTELLIGENCE SPECIALIST",
+      "company": "United States Space Force",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/866182100",
+      "salary": "124085",
+      "posted": "2026-04-23",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Supervisory Economist",
+      "company": "Bureau of Labor Statistics",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/866200700",
+      "salary": "125776",
+      "posted": "2026-04-23",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Financial Analyst",
+      "company": "Assistant Secretary for Community Planning and Development",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/866186800",
+      "salary": "131310",
+      "posted": "2026-04-23",
+      "source": "USAJobs",
+      "type": ""
+    },
     {
       "title": "Information Technology Specialist",
       "company": "Office of the Assistant Secretary for Administration and Management",
@@ -95,6 +135,16 @@
       "type": ""
     },
     {
+      "title": "Training Specialist",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/866308700",
+      "salary": "61722",
+      "posted": "2026-04-21",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
       "title": "Lead Medical Records Technician ( Coder)",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -105,31 +155,11 @@
       "type": ""
     },
     {
-      "title": "Data Scientist",
-      "company": "Assistant Secretary for Community Planning and Development",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/865903700",
-      "salary": "121785",
-      "posted": "2026-04-21",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
       "title": "Supervisory Human Resources Specialist (Temporary Promotion NTE 1 year)",
       "company": "Veterans Health Administration",
       "location": "Location Negotiable After Selection",
       "url": "https://www.usajobs.gov:443/job/866108800",
       "salary": "125776",
-      "posted": "2026-04-21",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
-      "title": "Clinical Psychologist - Suicide Prevention 2.0",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/865886300",
-      "salary": "144243",
       "posted": "2026-04-21",
       "source": "USAJobs",
       "type": ""
@@ -155,16 +185,6 @@
       "type": ""
     },
     {
-      "title": "Medical Records Technician (Coder- Outpatient)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/865939300",
-      "salary": "37193",
-      "posted": "2026-04-20",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
       "title": "Diagnostic Radiologist (Remote) - EDRP Eligible",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -181,6 +201,16 @@
       "url": "https://www.usajobs.gov:443/job/865897500",
       "salary": "104349",
       "posted": "2026-04-20",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Program Manager",
+      "company": "Federal Aviation Administration",
+      "location": "May be filled in various FAA duty locations",
+      "url": "https://www.usajobs.gov:443/job/865691200",
+      "salary": "112283",
+      "posted": "2026-04-18",
       "source": "USAJobs",
       "type": ""
     },
@@ -265,31 +295,11 @@
       "type": ""
     },
     {
-      "title": "Supervisory Systems & Procedures Analyst",
-      "company": "Deputy Assistant Secretary for Finance",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/865328600",
-      "salary": "76462",
-      "posted": "2026-04-16",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
       "title": "Advanced Medical Support Assistant",
       "company": "Veterans Health Administration",
       "location": "Los Angeles, California",
       "url": "https://www.usajobs.gov:443/job/865773100",
       "salary": "56247",
-      "posted": "2026-04-16",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
-      "title": "Supv Systems & Procedures Analyst",
-      "company": "Deputy Assistant Secretary for Finance",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/865220700",
-      "salary": "92023",
       "posted": "2026-04-16",
       "source": "USAJobs",
       "type": ""
@@ -315,16 +325,6 @@
       "type": ""
     },
     {
-      "title": "Registered Nurse - Chief Nurse of Critical Care",
-      "company": "Veterans Health Administration",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/865385900",
-      "salary": "191482",
-      "posted": "2026-04-15",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
       "title": "Physician (Regular Ft) - EDRP Authorized",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -345,32 +345,12 @@
       "type": ""
     },
     {
-      "title": "Physician - Psychiatrist",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/865206600",
-      "salary": "250000",
-      "posted": "2026-04-14",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
       "title": "Supervisory Management & Program Analyst",
       "company": "Federal Aviation Administration",
       "location": "FAA Location Negotiable Upon Request - See Additional Info",
       "url": "https://www.usajobs.gov:443/job/864872200",
       "salary": "95489",
       "posted": "2026-04-14",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
-      "title": "Program Manager",
-      "company": "Federal Aviation Administration",
-      "location": "FAA Location Negotiable Upon Request - See Additional Info",
-      "url": "https://www.usajobs.gov:443/job/864780800",
-      "salary": "112283",
-      "posted": "2026-04-13",
       "source": "USAJobs",
       "type": ""
     },
