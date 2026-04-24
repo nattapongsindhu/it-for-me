@@ -1,8 +1,8 @@
 {
-  "updated": "2026-04-24T08:13:53Z",
+  "updated": "2026-04-24T19:01:47Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 63,
+  "count": 64,
   "jobs": [
     {
       "title": "User Experience Designer",
@@ -15,11 +15,31 @@
       "type": ""
     },
     {
+      "title": "Contract Administrator",
+      "company": "Defense Contract Management Agency",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/866584300",
+      "salary": "125776",
+      "posted": "2026-04-24",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
       "title": "Supervisory Agricultural Marketing Specialist (Division Director)",
       "company": "Agricultural Marketing Service",
       "location": "Location Negotiable After Selection",
       "url": "https://www.usajobs.gov:443/job/866403900",
       "salary": "147945",
+      "posted": "2026-04-24",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Clinical Pharmacist Specialist - Pharmacist Quality and Education Manager",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/866643800",
+      "salary": "106437",
       "posted": "2026-04-24",
       "source": "USAJobs",
       "type": ""
@@ -480,16 +500,6 @@
       "location": "Location Negotiable After Selection",
       "url": "https://www.usajobs.gov:443/job/858700600",
       "salary": "89508",
-      "posted": "2026-02-24",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
-      "title": "Public Notice for Engineering Technician (Direct Hire)",
-      "company": "Federal Aviation Administration",
-      "location": "May be filled in various FAA duty locations",
-      "url": "https://www.usajobs.gov:443/job/858693800",
-      "salary": "46830",
       "posted": "2026-02-24",
       "source": "USAJobs",
       "type": ""
