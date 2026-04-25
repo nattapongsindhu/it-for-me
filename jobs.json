@@ -1,9 +1,19 @@
 {
-  "updated": "2026-04-24T19:01:47Z",
+  "updated": "2026-04-25T07:38:12Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 64,
+  "count": 63,
   "jobs": [
+    {
+      "title": "Clinical Pharmacist Specialist - Pharmacist Quality and Education Manager",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/866643800",
+      "salary": "106437",
+      "posted": "2026-04-24",
+      "source": "USAJobs",
+      "type": ""
+    },
     {
       "title": "User Experience Designer",
       "company": "Office of the Assistant Secretary for Administration and Management",
@@ -35,21 +45,21 @@
       "type": ""
     },
     {
-      "title": "Clinical Pharmacist Specialist - Pharmacist Quality and Education Manager",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/866643800",
-      "salary": "106437",
-      "posted": "2026-04-24",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
       "title": "IT Specialist (DATAMGT)",
       "company": "Deputy Assistant Secretary for Information and Technology",
       "location": "Multiple Locations",
       "url": "https://www.usajobs.gov:443/job/866162200",
       "salary": "74678",
+      "posted": "2026-04-23",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Supervisory IT Specialist",
+      "company": "Deputy Assistant Secretary for Information and Technology",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/866210500",
+      "salary": "147945",
       "posted": "2026-04-23",
       "source": "USAJobs",
       "type": ""
@@ -145,11 +155,11 @@
       "type": ""
     },
     {
-      "title": "Chief Technology Officer",
-      "company": "Office of Inspector General",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/865983400",
-      "salary": "151661",
+      "title": "Clinical Psychologist - Suicide Prevention 2.0",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/865886300",
+      "salary": "144243",
       "posted": "2026-04-21",
       "source": "USAJobs",
       "type": ""
@@ -170,6 +180,16 @@
       "location": "Anywhere in the U.S. (remote job)",
       "url": "https://www.usajobs.gov:443/job/866135000",
       "salary": "61722",
+      "posted": "2026-04-21",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Chief Technology Officer",
+      "company": "Office of Inspector General",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/865983400",
+      "salary": "151661",
       "posted": "2026-04-21",
       "source": "USAJobs",
       "type": ""
@@ -205,36 +225,6 @@
       "type": ""
     },
     {
-      "title": "Clinical Psychologist - Suicide Prevention 2.0",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/865886300",
-      "salary": "144243",
-      "posted": "2026-04-21",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
-      "title": "Supv It Specialist (Plcypln)",
-      "company": "Deputy Assistant Secretary for Information and Technology",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/865689800",
-      "salary": "147945",
-      "posted": "2026-04-20",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
-      "title": "Supervisory IT Specialist",
-      "company": "Deputy Assistant Secretary for Information and Technology",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/865810300",
-      "salary": "169279",
-      "posted": "2026-04-20",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
       "title": "IT Spec (APPSW) \"Principal Software Engineer\", GS-2210-15, FPL GS-15 (DH), Full-time",
       "company": "Federal Student Aid",
       "location": "Multiple Locations",
@@ -245,21 +235,21 @@
       "type": ""
     },
     {
-      "title": "Diagnostic Radiologist (Remote) - EDRP Eligible",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/865842300",
-      "salary": "275000",
-      "posted": "2026-04-20",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
       "title": "Program Analyst (Informatics)",
       "company": "Veterans Health Administration",
       "location": "Los Angeles, California",
       "url": "https://www.usajobs.gov:443/job/865897500",
       "salary": "104349",
+      "posted": "2026-04-20",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Operations Center Technician",
+      "company": "Federal Bureau of Investigation",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/865934400",
+      "salary": "43106",
       "posted": "2026-04-20",
       "source": "USAJobs",
       "type": ""
@@ -285,26 +275,6 @@
       "type": ""
     },
     {
-      "title": "Biomedical Equipment Support Specialist",
-      "company": "Veterans Health Administration",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/865696200",
-      "salary": "144816",
-      "posted": "2026-04-17",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
-      "title": "Advanced Practice Nurse - Nurse Practitioner Pain Team (Clinical Resource Hub)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/865702400",
-      "salary": "100044",
-      "posted": "2026-04-17",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
       "title": "Auditor (Information Technology/Performance)",
       "company": "Federal Communications Commission",
       "location": "Location Negotiable After Selection",
@@ -313,16 +283,6 @@
       "posted": "2026-04-16",
       "source": "USAJobs",
       "type": "This is a full-time position.  Work schedules, including telework, are at the discretion of the supervisor, consistent with agency policy."
-    },
-    {
-      "title": "Medical Records Technician (Coder-Outpatient)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/865433300",
-      "salary": "36409",
-      "posted": "2026-04-16",
-      "source": "USAJobs",
-      "type": ""
     },
     {
       "title": "Advanced Medical Support Assistant",
@@ -355,6 +315,16 @@
       "type": ""
     },
     {
+      "title": "Director, Air Traffic Systems",
+      "company": "Federal Aviation Administration",
+      "location": "FAA Location Negotiable Upon Request - See Additional Info",
+      "url": "https://www.usajobs.gov:443/job/865427400",
+      "salary": "153700",
+      "posted": "2026-04-16",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
       "title": "Physician (Regular Ft) - EDRP Authorized",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -375,32 +345,22 @@
       "type": ""
     },
     {
+      "title": "Supervisory Medical Support Assistant",
+      "company": "Veterans Health Administration",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/865773300",
+      "salary": "69220",
+      "posted": "2026-04-15",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
       "title": "Physician - Psychiatrist",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
       "url": "https://www.usajobs.gov:443/job/865206600",
       "salary": "250000",
       "posted": "2026-04-14",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
-      "title": "Supervisory Medical Records Technician Coder",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/864867900",
-      "salary": "67970",
-      "posted": "2026-04-13",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
-      "title": "Lead Medical Records Technician (Coder- Inpatient)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/864869600",
-      "salary": "61722",
-      "posted": "2026-04-13",
       "source": "USAJobs",
       "type": ""
     },
@@ -423,16 +383,6 @@
       "posted": "2026-04-13",
       "source": "USAJobs",
       "type": ""
-    },
-    {
-      "title": "2026 Fall Library of Congress Intern (Remote)",
-      "company": "Library of Congress",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/863463400",
-      "salary": "17.47",
-      "posted": "2026-04-06",
-      "source": "USAJobs",
-      "type": "40 hours per week. Interns must be able to work the majority of their schedule between 6:30 am - 6:00 pm Eastern Time, Monday through Friday and attend mandatory orientation on September 8, 2026."
     },
     {
       "title": "Physician - Staff Radiologist-Recruitment/Incentive UP TO 50,000",
@@ -500,6 +450,16 @@
       "location": "Location Negotiable After Selection",
       "url": "https://www.usajobs.gov:443/job/858700600",
       "salary": "89508",
+      "posted": "2026-02-24",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Public Notice for Engineering Technician (Direct Hire)",
+      "company": "Federal Aviation Administration",
+      "location": "May be filled in various FAA duty locations",
+      "url": "https://www.usajobs.gov:443/job/858693800",
+      "salary": "46830",
       "posted": "2026-02-24",
       "source": "USAJobs",
       "type": ""
@@ -635,11 +595,41 @@
       "type": ""
     },
     {
+      "title": "COMPUTER ENGINEER",
+      "company": "Air Force Civilian Career Training",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/847080100",
+      "salary": "56763",
+      "posted": "2025-10-01",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
       "title": "ENGINEERING",
       "company": "Air Force Civilian Career Training",
       "location": "Multiple Locations",
       "url": "https://www.usajobs.gov:443/job/846773600",
       "salary": "55486",
+      "posted": "2025-09-29",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "PHYSICIST",
+      "company": "Air Force Civilian Career Training",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/846774500",
+      "salary": "49960",
+      "posted": "2025-09-29",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "BIOLOGICAL SCIENTIST (ENVIRONMENTAL)",
+      "company": "Air Force Civilian Career Training",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/846774300",
+      "salary": "49960",
       "posted": "2025-09-29",
       "source": "USAJobs",
       "type": ""

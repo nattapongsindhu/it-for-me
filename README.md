@@ -1,7 +1,7 @@
 # 🔍 IT For Me
 
-![Updated](https://img.shields.io/badge/Updated-2026-04-24T19%3A01%3A47Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-64-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-04-25T07%3A38%3A12Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-63-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > Auto-updated twice daily — IT jobs within 5 miles of ZIP 90029 (East LA / Silver Lake area)
@@ -9,15 +9,16 @@
 
 ---
 
-## 💼 Latest Jobs — April 24, 2026
+## 💼 Latest Jobs — April 25, 2026
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
+| Clinical Pharmacist Specialist - Pharmacist Quality and Education Manager | Veterans Health Administration | Anywhere in the U.S. (remote job) | — | 106437 | 2026-04-24 | [Apply](https://www.usajobs.gov:443/job/866643800) |
 | User Experience Designer | Office of the Assistant Secretary for Administration and Management | Location Negotiable After Selection | — | 112556 | 2026-04-24 | [Apply](https://www.usajobs.gov:443/job/866497400) |
 | Contract Administrator | Defense Contract Management Agency | Location Negotiable After Selection | — | 125776 | 2026-04-24 | [Apply](https://www.usajobs.gov:443/job/866584300) |
 | Supervisory Agricultural Marketing Specialist (Division Director) | Agricultural Marketing Service | Location Negotiable After Selection | — | 147945 | 2026-04-24 | [Apply](https://www.usajobs.gov:443/job/866403900) |
-| Clinical Pharmacist Specialist - Pharmacist Quality and Education Manager | Veterans Health Administration | Anywhere in the U.S. (remote job) | — | 106437 | 2026-04-24 | [Apply](https://www.usajobs.gov:443/job/866643800) |
 | IT Specialist (DATAMGT) | Deputy Assistant Secretary for Information and Technology | Multiple Locations | — | 74678 | 2026-04-23 | [Apply](https://www.usajobs.gov:443/job/866162200) |
+| Supervisory IT Specialist | Deputy Assistant Secretary for Information and Technology | Multiple Locations | — | 147945 | 2026-04-23 | [Apply](https://www.usajobs.gov:443/job/866210500) |
 | INTELLIGENCE SPECIALIST | United States Space Force | Los Angeles, California | — | 124085 | 2026-04-23 | [Apply](https://www.usajobs.gov:443/job/866182100) |
 | Supervisory Economist | Bureau of Labor Statistics | Location Negotiable After Selection | — | 125776 | 2026-04-23 | [Apply](https://www.usajobs.gov:443/job/866200700) |
 | Financial Analyst | Assistant Secretary for Community Planning and Development | Multiple Locations | — | 131310 | 2026-04-23 | [Apply](https://www.usajobs.gov:443/job/866186800) |
@@ -27,12 +28,11 @@
 | Deputy Chief Officer (Clinical Contact Center) - Detail NTE 120 Days | Veterans Health Administration | Anywhere in the U.S. (remote job) | — | 61722 | 2026-04-22 | [Apply](https://www.usajobs.gov:443/job/866252500) |
 | Transportation Specialist - MERIT PROMOTION ONLY | Federal Highway Administration | Multiple Locations | Full Time | 90925 | 2026-04-22 | [Apply](https://www.usajobs.gov:443/job/865978400) |
 | Advanced Practice Provider, Medical Asset Support Team (O-5 Billet) Non-Supervisory - Internal | Immigration and Customs Enforcement | Location Negotiable After Selection | — | 1 | 2026-04-22 | [Apply](https://www.usajobs.gov:443/job/866105100) |
-| Chief Technology Officer | Office of Inspector General | Location Negotiable After Selection | — | 151661 | 2026-04-21 | [Apply](https://www.usajobs.gov:443/job/865983400) |
+| Clinical Psychologist - Suicide Prevention 2.0 | Veterans Health Administration | Anywhere in the U.S. (remote job) | — | 144243 | 2026-04-21 | [Apply](https://www.usajobs.gov:443/job/865886300) |
 | Lead Medical Records Technician ( Coder) | Veterans Health Administration | Anywhere in the U.S. (remote job) | — | 61722 | 2026-04-21 | [Apply](https://www.usajobs.gov:443/job/866132900) |
 | Medical Records Technician (Coder) - Auditor Outpatient | Veterans Health Administration | Anywhere in the U.S. (remote job) | — | 61722 | 2026-04-21 | [Apply](https://www.usajobs.gov:443/job/866135000) |
+| Chief Technology Officer | Office of Inspector General | Location Negotiable After Selection | — | 151661 | 2026-04-21 | [Apply](https://www.usajobs.gov:443/job/865983400) |
 | Registered Nurse - VISN 4 Chief Nursing Officer | Veterans Health Administration | Location Negotiable After Selection | — | 210562 | 2026-04-21 | [Apply](https://www.usajobs.gov:443/job/865976900) |
-| Data Scientist | Assistant Secretary for Community Planning and Development | Multiple Locations | — | 121785 | 2026-04-21 | [Apply](https://www.usajobs.gov:443/job/865903700) |
-| Supervisory Human Resources Specialist (Temporary Promotion NTE 1 year) | Veterans Health Administration | Location Negotiable After Selection | — | 125776 | 2026-04-21 | [Apply](https://www.usajobs.gov:443/job/866108800) |
 
 ---
 
@@ -40,13 +40,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 64 |
+| Total jobs found | 63 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-04-24T19:01:47Z |
+| Last updated | 2026-04-25T07:38:12Z |
 | Update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 64 jobs
+- USAJobs: 63 jobs
 
 ---
 
@@ -73,4 +73,4 @@ GitHub Actions (06:00 + 18:00 UTC)
 
 ---
 
-_Auto-generated · Last run: 2026-04-24T19:01:47Z_
+_Auto-generated · Last run: 2026-04-25T07:38:12Z_
