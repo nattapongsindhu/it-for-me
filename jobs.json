@@ -1,8 +1,8 @@
 {
-  "updated": "2026-04-25T19:01:35Z",
+  "updated": "2026-04-26T07:47:53Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 63,
+  "count": 65,
   "jobs": [
     {
       "title": "Clinical Pharmacist Specialist - Pharmacist Quality and Education Manager",
@@ -135,6 +135,16 @@
       "type": ""
     },
     {
+      "title": "Physician (Radiologist) - EDRP Eligible",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/866312300",
+      "salary": "124308",
+      "posted": "2026-04-22",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
       "title": "Transportation Specialist - MERIT PROMOTION ONLY",
       "company": "Federal Highway Administration",
       "location": "Multiple Locations",
@@ -160,26 +170,6 @@
       "location": "Anywhere in the U.S. (remote job)",
       "url": "https://www.usajobs.gov:443/job/865886300",
       "salary": "144243",
-      "posted": "2026-04-21",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
-      "title": "Lead Medical Records Technician ( Coder)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/866132900",
-      "salary": "61722",
-      "posted": "2026-04-21",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
-      "title": "Medical Records Technician (Coder) - Auditor Outpatient",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/866135000",
-      "salary": "61722",
       "posted": "2026-04-21",
       "source": "USAJobs",
       "type": ""
@@ -260,6 +250,16 @@
       "location": "May be filled in various FAA duty locations",
       "url": "https://www.usajobs.gov:443/job/865691200",
       "salary": "112283",
+      "posted": "2026-04-18",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Instructional Systems Specialist",
+      "company": "Federal Aviation Administration",
+      "location": "May be filled in various FAA duty locations",
+      "url": "https://www.usajobs.gov:443/job/865696400",
+      "salary": "95489",
       "posted": "2026-04-18",
       "source": "USAJobs",
       "type": ""
@@ -630,6 +630,26 @@
       "location": "Multiple Locations",
       "url": "https://www.usajobs.gov:443/job/846774300",
       "salary": "49960",
+      "posted": "2025-09-29",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "PHYSICAL SCIENTIST (ENVIRONMENTAL)",
+      "company": "Air Force Civilian Career Training",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/846709200",
+      "salary": "49960",
+      "posted": "2025-09-29",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Student Trainee",
+      "company": "Air Force Civilian Career Training",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/846866000",
+      "salary": "36825",
       "posted": "2025-09-29",
       "source": "USAJobs",
       "type": ""
