@@ -1,436 +1,66 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>IT For Me — Jobs near 90029</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>it-for-me - Legacy Static Snapshot</title>
   <style>
-    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     body {
-      background: #0b1a2a;
-      color: #e0f0ff;
-      font-family: 'Segoe UI', Arial, sans-serif;
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #0b1320;
+      color: #e5edf8;
+      display: grid;
+      place-items: center;
       min-height: 100vh;
-      padding: 2rem 1rem;
+      padding: 24px;
     }
-    .container { max-width: 800px; margin: 0 auto; }
-    h1 { font-size: 1.8rem; margin-bottom: 0.25rem; text-align: center; }
-    .subtitle { color: #7ab; font-size: 0.9rem; text-align: center; margin-bottom: 1.5rem; }
-    .stats {
-      display: flex; flex-wrap: wrap; gap: 1rem;
-      justify-content: center; margin-bottom: 2rem;
+
+    .card {
+      max-width: 720px;
+      border: 1px solid #263348;
+      border-radius: 24px;
+      background: #121d2e;
+      padding: 32px;
+      box-shadow: 0 18px 48px rgba(0, 0, 0, 0.28);
     }
-    .stat {
-      background: #0f2840; border: 1px solid #1e3a5f;
-      border-radius: 10px; padding: 0.75rem 1.5rem; text-align: center;
+
+    h1 {
+      margin: 0 0 12px;
+      font-size: 32px;
     }
-    .stat .val { font-size: 1.8rem; font-weight: bold; color: #00ffcc; }
-    .stat .lbl { font-size: 0.75rem; color: #7ab; text-transform: uppercase; }
-    .filter-bar {
-      display: flex; gap: 0.5rem; flex-wrap: wrap;
-      justify-content: center; margin-bottom: 1.5rem;
+
+    p {
+      line-height: 1.7;
+      color: #b7c5d8;
     }
-    .filter-btn {
-      background: #0f2840; border: 1px solid #1e3a5f;
-      border-radius: 6px; color: #7ab; padding: 0.3rem 0.8rem;
-      font-size: 0.8rem; cursor: pointer; transition: all 0.2s;
+
+    .meta {
+      margin-top: 24px;
+      padding: 16px;
+      border-radius: 16px;
+      background: #0f1724;
+      border: 1px solid #223047;
     }
-    .filter-btn.active, .filter-btn:hover {
-      background: #00ffcc; border-color: #00ffcc;
-      color: #0b1a2a; font-weight: bold;
+
+    code {
+      color: #f8fafc;
+      font-weight: 700;
     }
-    .job-card {
-      background: #0f2840; border: 1px solid #1e3a5f;
-      border-radius: 10px; padding: 1rem 1.25rem;
-      margin-bottom: 0.75rem; transition: border-color 0.2s;
-    }
-    .job-card:hover { border-color: #00ffcc; }
-    .job-header {
-      display: flex; justify-content: space-between;
-      align-items: flex-start; gap: 0.5rem; margin-bottom: 0.25rem;
-    }
-    .job-title { font-weight: bold; font-size: 1rem; color: #e0f0ff; }
-    .job-type {
-      font-size: 0.7rem; padding: 0.15rem 0.5rem;
-      border-radius: 4px; white-space: nowrap; flex-shrink: 0;
-    }
-    .job-type.ft { background: #00443a; color: #00ffcc; }
-    .job-type.pt { background: #2a1a00; color: #ffaa00; }
-    .job-company { color: #7ab; font-size: 0.85rem; margin-bottom: 0.4rem; }
-    .job-meta {
-      font-size: 0.78rem; color: #456; display: flex;
-      flex-wrap: wrap; gap: 0.75rem; margin-bottom: 0.6rem;
-    }
-    .salary { color: #00cc88; font-weight: bold; }
-    .source { color: #334; font-size: 0.7rem; }
-    .apply-btn {
-      display: inline-block; background: #00ffcc; color: #0b1a2a;
-      padding: 0.3rem 1rem; border-radius: 6px; font-size: 0.8rem;
-      font-weight: bold; text-decoration: none; transition: opacity 0.2s;
-    }
-    .apply-btn:hover { opacity: 0.85; }
-    .no-jobs { text-align: center; color: #456; padding: 3rem; }
-    .updated {
-      text-align: center; font-size: 0.75rem;
-      color: #456; margin-top: 2rem;
-    }
-    #job-list { }
   </style>
 </head>
 <body>
-<div class="container">
-  <h1>🔍 IT For Me</h1>
-  <p class="subtitle">IT jobs within 5 miles of ZIP 90029 · Auto-updated twice daily</p>
-
-  <div class="stats">
-    <div class="stat">
-      <div class="val">60</div>
-      <div class="lbl">Jobs Found</div>
+  <main class="card">
+    <p>Legacy static snapshot</p>
+    <h1>it-for-me now runs as a Next.js portfolio application.</h1>
+    <p>
+      This legacy HTML file is kept only as a historical reference. The active experience now
+      lives in the Next.js application shell with Supabase-backed data and application tracking.
+    </p>
+    <div class="meta">
+      <p><strong>Recommended entry point:</strong> <code>npm run dev</code> then open <code>http://localhost:3001</code></p>
+      <p><strong>Status:</strong> Legacy static mode is no longer the primary interface.</p>
     </div>
-    <div class="stat">
-      <div class="val">5mi</div>
-      <div class="lbl">Radius</div>
-    </div>
-    <div class="stat">
-      <div class="val">90029</div>
-      <div class="lbl">ZIP Code</div>
-    </div>
-  </div>
-
-  <div class="filter-bar">
-    <button class="filter-btn active" onclick="filterJobs('all')">All</button>
-    <button class="filter-btn" onclick="filterJobs('full')">Full-time</button>
-    <button class="filter-btn" onclick="filterJobs('part')">Part-time</button>
-    <button class="filter-btn" onclick="filterJobs('usajobs')">USAJobs</button>
-    <button class="filter-btn" onclick="filterJobs('google')">Google Jobs</button>
-  </div>
-
-  <div id="job-list">
-    
-    <div class="job-card">
-      <div class="job-header">
-        <span class="job-title">Information Technology (IT) Specialist (ENTARCH)</span>
-        <span class="job-type pt">—</span>
-      </div>
-      <div class="job-company">Veterans Affairs, Inspector General</div>
-      <div class="job-meta">
-        <span>📍 Location Negotiable After Selection</span>
-        <span>📅 2026-04-28</span>
-        <span class="source">USAJobs</span>
-        <span class="salary">125776</span>
-      </div>
-      <a href="https://www.usajobs.gov:443/job/866980900" target="_blank" class="apply-btn">Apply →</a>
-    </div>
-
-    <div class="job-card">
-      <div class="job-header">
-        <span class="job-title">IT Specialist</span>
-        <span class="job-type pt">—</span>
-      </div>
-      <div class="job-company">Farm Production and Conservation (FPAC) Business Center</div>
-      <div class="job-meta">
-        <span>📍 Location Negotiable After Selection</span>
-        <span>📅 2026-04-28</span>
-        <span class="source">USAJobs</span>
-        <span class="salary">106437</span>
-      </div>
-      <a href="https://www.usajobs.gov:443/job/866989200" target="_blank" class="apply-btn">Apply →</a>
-    </div>
-
-    <div class="job-card">
-      <div class="job-header">
-        <span class="job-title">Supervisory IT Specialist (Security)</span>
-        <span class="job-type pt">—</span>
-      </div>
-      <div class="job-company">Federal Aviation Administration</div>
-      <div class="job-meta">
-        <span>📍 FAA Nationwide-Selectee Remains in Current Duty Location</span>
-        <span>📅 2026-04-28</span>
-        <span class="source">USAJobs</span>
-        <span class="salary">95489</span>
-      </div>
-      <a href="https://www.usajobs.gov:443/job/866813600" target="_blank" class="apply-btn">Apply →</a>
-    </div>
-
-    <div class="job-card">
-      <div class="job-header">
-        <span class="job-title">Supervisory Management & Program Analyst</span>
-        <span class="job-type pt">—</span>
-      </div>
-      <div class="job-company">Federal Aviation Administration</div>
-      <div class="job-meta">
-        <span>📍 FAA Location Negotiable Upon Request - See Additional Info</span>
-        <span>📅 2026-04-28</span>
-        <span class="source">USAJobs</span>
-        <span class="salary">95489</span>
-      </div>
-      <a href="https://www.usajobs.gov:443/job/866824100" target="_blank" class="apply-btn">Apply →</a>
-    </div>
-
-    <div class="job-card">
-      <div class="job-header">
-        <span class="job-title">Medical Records Technician (Coder In/Out)</span>
-        <span class="job-type pt">—</span>
-      </div>
-      <div class="job-company">Veterans Health Administration</div>
-      <div class="job-meta">
-        <span>📍 Anywhere in the U.S. (remote job)</span>
-        <span>📅 2026-04-28</span>
-        <span class="source">USAJobs</span>
-        <span class="salary">36409</span>
-      </div>
-      <a href="https://www.usajobs.gov:443/job/867058400" target="_blank" class="apply-btn">Apply →</a>
-    </div>
-
-    <div class="job-card">
-      <div class="job-header">
-        <span class="job-title">Chaplain</span>
-        <span class="job-type pt">—</span>
-      </div>
-      <div class="job-company">Veterans Health Administration</div>
-      <div class="job-meta">
-        <span>📍 Los Angeles, California</span>
-        <span>📅 2026-04-28</span>
-        <span class="source">USAJobs</span>
-        <span class="salary">104349</span>
-      </div>
-      <a href="https://www.usajobs.gov:443/job/866889900" target="_blank" class="apply-btn">Apply →</a>
-    </div>
-
-    <div class="job-card">
-      <div class="job-header">
-        <span class="job-title">It Specialist (Digital  Advisor)</span>
-        <span class="job-type pt">—</span>
-      </div>
-      <div class="job-company">Deputy Assistant Secretary for Information and Technology</div>
-      <div class="job-meta">
-        <span>📍 Location Negotiable After Selection</span>
-        <span>📅 2026-04-27</span>
-        <span class="source">USAJobs</span>
-        <span class="salary">147945</span>
-      </div>
-      <a href="https://www.usajobs.gov:443/job/866821300" target="_blank" class="apply-btn">Apply →</a>
-    </div>
-
-    <div class="job-card">
-      <div class="job-header">
-        <span class="job-title">Medical Records Technician (Coder) Auditor</span>
-        <span class="job-type pt">—</span>
-      </div>
-      <div class="job-company">Veterans Health Administration</div>
-      <div class="job-meta">
-        <span>📍 Anywhere in the U.S. (remote job)</span>
-        <span>📅 2026-04-27</span>
-        <span class="source">USAJobs</span>
-        <span class="salary">61722</span>
-      </div>
-      <a href="https://www.usajobs.gov:443/job/866491500" target="_blank" class="apply-btn">Apply →</a>
-    </div>
-
-    <div class="job-card">
-      <div class="job-header">
-        <span class="job-title">Medical Records Technician (Coder Outpatient and Inpatient)</span>
-        <span class="job-type pt">—</span>
-      </div>
-      <div class="job-company">Veterans Health Administration</div>
-      <div class="job-meta">
-        <span>📍 Anywhere in the U.S. (remote job)</span>
-        <span>📅 2026-04-27</span>
-        <span class="source">USAJobs</span>
-        <span class="salary">37193</span>
-      </div>
-      <a href="https://www.usajobs.gov:443/job/866871400" target="_blank" class="apply-btn">Apply →</a>
-    </div>
-
-    <div class="job-card">
-      <div class="job-header">
-        <span class="job-title">Statistician</span>
-        <span class="job-type pt">—</span>
-      </div>
-      <div class="job-company">Veterans Health Administration</div>
-      <div class="job-meta">
-        <span>📍 Anywhere in the U.S. (remote job)</span>
-        <span>📅 2026-04-27</span>
-        <span class="source">USAJobs</span>
-        <span class="salary">89508</span>
-      </div>
-      <a href="https://www.usajobs.gov:443/job/866443600" target="_blank" class="apply-btn">Apply →</a>
-    </div>
-
-    <div class="job-card">
-      <div class="job-header">
-        <span class="job-title">Lead Medical Records Technician (Coder)</span>
-        <span class="job-type pt">—</span>
-      </div>
-      <div class="job-company">Veterans Health Administration</div>
-      <div class="job-meta">
-        <span>📍 Anywhere in the U.S. (remote job)</span>
-        <span>📅 2026-04-27</span>
-        <span class="source">USAJobs</span>
-        <span class="salary">61722</span>
-      </div>
-      <a href="https://www.usajobs.gov:443/job/866830400" target="_blank" class="apply-btn">Apply →</a>
-    </div>
-
-    <div class="job-card">
-      <div class="job-header">
-        <span class="job-title">Accident Management Center Team Lead</span>
-        <span class="job-type pt">—</span>
-      </div>
-      <div class="job-company">Federal Acquisition Service</div>
-      <div class="job-meta">
-        <span>📍 Multiple Locations</span>
-        <span>📅 2026-04-27</span>
-        <span class="source">USAJobs</span>
-        <span class="salary">89508</span>
-      </div>
-      <a href="https://www.usajobs.gov:443/job/866619100" target="_blank" class="apply-btn">Apply →</a>
-    </div>
-
-    <div class="job-card">
-      <div class="job-header">
-        <span class="job-title">Examiner/Senior Examiner (Capital Markets)</span>
-        <span class="job-type pt">—</span>
-      </div>
-      <div class="job-company">Federal Housing Finance Agency</div>
-      <div class="job-meta">
-        <span>📍 Location Negotiable After Selection</span>
-        <span>📅 2026-04-27</span>
-        <span class="source">USAJobs</span>
-        <span class="salary">111677</span>
-      </div>
-      <a href="https://www.usajobs.gov:443/job/866771900" target="_blank" class="apply-btn">Apply →</a>
-    </div>
-
-    <div class="job-card">
-      <div class="job-header">
-        <span class="job-title">Clinical Pharmacist Specialist - Pharmacist Quality and Education Manager</span>
-        <span class="job-type pt">—</span>
-      </div>
-      <div class="job-company">Veterans Health Administration</div>
-      <div class="job-meta">
-        <span>📍 Anywhere in the U.S. (remote job)</span>
-        <span>📅 2026-04-24</span>
-        <span class="source">USAJobs</span>
-        <span class="salary">106437</span>
-      </div>
-      <a href="https://www.usajobs.gov:443/job/866643800" target="_blank" class="apply-btn">Apply →</a>
-    </div>
-
-    <div class="job-card">
-      <div class="job-header">
-        <span class="job-title">User Experience Designer</span>
-        <span class="job-type pt">—</span>
-      </div>
-      <div class="job-company">Office of the Assistant Secretary for Administration and Management</div>
-      <div class="job-meta">
-        <span>📍 Location Negotiable After Selection</span>
-        <span>📅 2026-04-24</span>
-        <span class="source">USAJobs</span>
-        <span class="salary">112556</span>
-      </div>
-      <a href="https://www.usajobs.gov:443/job/866497400" target="_blank" class="apply-btn">Apply →</a>
-    </div>
-
-    <div class="job-card">
-      <div class="job-header">
-        <span class="job-title">Contract Administrator</span>
-        <span class="job-type pt">—</span>
-      </div>
-      <div class="job-company">Defense Contract Management Agency</div>
-      <div class="job-meta">
-        <span>📍 Location Negotiable After Selection</span>
-        <span>📅 2026-04-24</span>
-        <span class="source">USAJobs</span>
-        <span class="salary">125776</span>
-      </div>
-      <a href="https://www.usajobs.gov:443/job/866584300" target="_blank" class="apply-btn">Apply →</a>
-    </div>
-
-    <div class="job-card">
-      <div class="job-header">
-        <span class="job-title">Supervisory Agricultural Marketing Specialist (Division Director)</span>
-        <span class="job-type pt">—</span>
-      </div>
-      <div class="job-company">Agricultural Marketing Service</div>
-      <div class="job-meta">
-        <span>📍 Location Negotiable After Selection</span>
-        <span>📅 2026-04-24</span>
-        <span class="source">USAJobs</span>
-        <span class="salary">147945</span>
-      </div>
-      <a href="https://www.usajobs.gov:443/job/866403900" target="_blank" class="apply-btn">Apply →</a>
-    </div>
-
-    <div class="job-card">
-      <div class="job-header">
-        <span class="job-title">Supervisory IT Specialist</span>
-        <span class="job-type pt">—</span>
-      </div>
-      <div class="job-company">Deputy Assistant Secretary for Information and Technology</div>
-      <div class="job-meta">
-        <span>📍 Multiple Locations</span>
-        <span>📅 2026-04-23</span>
-        <span class="source">USAJobs</span>
-        <span class="salary">147945</span>
-      </div>
-      <a href="https://www.usajobs.gov:443/job/866210500" target="_blank" class="apply-btn">Apply →</a>
-    </div>
-
-    <div class="job-card">
-      <div class="job-header">
-        <span class="job-title">INTELLIGENCE SPECIALIST</span>
-        <span class="job-type pt">—</span>
-      </div>
-      <div class="job-company">United States Space Force</div>
-      <div class="job-meta">
-        <span>📍 Los Angeles, California</span>
-        <span>📅 2026-04-23</span>
-        <span class="source">USAJobs</span>
-        <span class="salary">124085</span>
-      </div>
-      <a href="https://www.usajobs.gov:443/job/866182100" target="_blank" class="apply-btn">Apply →</a>
-    </div>
-
-    <div class="job-card">
-      <div class="job-header">
-        <span class="job-title">Financial Analyst</span>
-        <span class="job-type pt">—</span>
-      </div>
-      <div class="job-company">Assistant Secretary for Community Planning and Development</div>
-      <div class="job-meta">
-        <span>📍 Multiple Locations</span>
-        <span>📅 2026-04-23</span>
-        <span class="source">USAJobs</span>
-        <span class="salary">131310</span>
-      </div>
-      <a href="https://www.usajobs.gov:443/job/866186800" target="_blank" class="apply-btn">Apply →</a>
-    </div>
-  </div>
-
-  <p class="updated">Last updated: 2026-04-28T19:48:39Z · Runs at 06:00 + 18:00 UTC daily</p>
-</div>
-
-<script>
-function filterJobs(type) {
-  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-  event.target.classList.add('active');
-
-  document.querySelectorAll('.job-card').forEach(card => {
-    const typeEl  = card.querySelector('.job-type');
-    const srcEl   = card.querySelector('.source');
-    const jobType = typeEl ? typeEl.textContent.toLowerCase() : '';
-    const src     = srcEl  ? srcEl.textContent.toLowerCase()  : '';
-
-    let show = true;
-    if (type === 'full')     show = jobType.includes('full');
-    if (type === 'part')     show = jobType.includes('part');
-    if (type === 'usajobs')  show = src.includes('usajobs');
-    if (type === 'google')   show = src.includes('google');
-
-    card.style.display = show ? 'block' : 'none';
-  });
-}
-</script>
+  </main>
 </body>
 </html>

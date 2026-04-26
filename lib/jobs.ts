@@ -1,6 +1,6 @@
 import jobFeed from "@/jobs.json";
+import { cache } from "react";
 import {
-  APPLICATION_STATUS_OPTIONS,
   getApplicationStatusLabel as getSharedApplicationStatusLabel,
   type ApplicationStatus,
 } from "@/lib/application-status";
@@ -33,18 +33,32 @@ export type TrackedJob = RawJob & {
   applicationId: string | null;
   applicationStatus: ApplicationStatus | null;
   appliedDate: string | null;
+  contactEmail: string | null;
+  contactName: string | null;
+  followUpDate: string | null;
   interviewDate: string | null;
   jobId: string | null;
   matchReason: string;
+  notes: string | null;
   sourceKey: string | null;
   track: PortfolioTrack;
 };
 
-type FeedSummary = {
+export type FeedSummary = {
   count: number;
   radiusMiles: number;
   updated: string;
   zip: string;
+};
+
+export type ApplicationSummary = {
+  applied: number;
+  interviewing: number;
+  offers: number;
+  rejected: number;
+  saved: number;
+  tracked: number;
+  withdrawn: number;
 };
 
 type JobRow = {
@@ -71,9 +85,13 @@ type JobRow = {
 
 type ApplicationRow = {
   applied_date: string | null;
+  contact_email: string | null;
+  contact_name: string | null;
+  follow_up_date: string | null;
   id: string;
   interview_date: string | null;
   job_id: string | null;
+  notes: string | null;
   status: ApplicationStatus;
   updated_at: string;
 };
@@ -248,9 +266,13 @@ function mapJobRowToTrackedJob(
     applicationId: application?.id ?? null,
     applicationStatus: application?.status ?? null,
     appliedDate: application?.applied_date ?? null,
+    contactEmail: application?.contact_email ?? null,
+    contactName: application?.contact_name ?? null,
+    followUpDate: application?.follow_up_date ?? null,
     interviewDate: application?.interview_date ?? null,
     jobId: row.id,
     matchReason,
+    notes: application?.notes ?? null,
     sourceKey: row.source_key,
     track: row.track_slug,
   };
@@ -270,6 +292,50 @@ function buildSummaryFromRows(rows: JobRow[]): FeedSummary {
   };
 }
 
+function buildApplicationSummary(rows: TrackedJob[]): ApplicationSummary {
+  return rows.reduce<ApplicationSummary>(
+    (summary, row) => {
+      if (!row.applicationStatus) {
+        return summary;
+      }
+
+      summary.tracked += 1;
+
+      switch (row.applicationStatus) {
+        case "SAVED":
+          summary.saved += 1;
+          break;
+        case "APPLIED":
+          summary.applied += 1;
+          break;
+        case "INTERVIEWING":
+          summary.interviewing += 1;
+          break;
+        case "OFFER":
+          summary.offers += 1;
+          break;
+        case "REJECTED":
+          summary.rejected += 1;
+          break;
+        case "WITHDRAWN":
+          summary.withdrawn += 1;
+          break;
+      }
+
+      return summary;
+    },
+    {
+      applied: 0,
+      interviewing: 0,
+      offers: 0,
+      rejected: 0,
+      saved: 0,
+      tracked: 0,
+      withdrawn: 0,
+    }
+  );
+}
+
 async function loadApplicationsByJobId(jobIds: string[]) {
   if (!hasSupabaseServiceRoleKey() || jobIds.length === 0) {
     return new Map<string, ApplicationRow>();
@@ -279,7 +345,9 @@ async function loadApplicationsByJobId(jobIds: string[]) {
     const supabase = createSupabaseAdminClient();
     const { data, error } = await supabase
       .from("applications")
-      .select("applied_date, id, interview_date, job_id, status, updated_at")
+      .select(
+        "applied_date, contact_email, contact_name, follow_up_date, id, interview_date, job_id, notes, status, updated_at"
+      )
       .in("job_id", jobIds)
       .order("updated_at", { ascending: false });
 
@@ -304,7 +372,7 @@ async function loadApplicationsByJobId(jobIds: string[]) {
   }
 }
 
-async function loadJobsFromSupabase() {
+const loadJobsFromSupabase = cache(async function loadJobsFromSupabase() {
   if (!hasSupabaseEnv()) {
     return null;
   }
@@ -325,21 +393,23 @@ async function loadJobsFromSupabase() {
 
     const rows = data as JobRow[];
     const applicationsByJobId = await loadApplicationsByJobId(rows.map((row) => row.id));
+    const jobs = rows.map((row) =>
+      mapJobRowToTrackedJob(
+        row,
+        applicationsByJobId.get(row.id),
+        "Loaded from the Supabase portfolio catalog."
+      )
+    );
 
     return {
-      jobs: rows.map((row) =>
-        mapJobRowToTrackedJob(
-          row,
-          applicationsByJobId.get(row.id),
-          "Loaded from the Supabase portfolio catalog."
-        )
-      ),
+      applicationSummary: buildApplicationSummary(jobs),
+      jobs,
       summary: buildSummaryFromRows(rows),
     };
   } catch {
     return null;
   }
-}
+});
 
 export function getTracks(): PortfolioTrackMeta[] {
   return TRACKS.map(({ keywords, ...track }) => track);
@@ -352,6 +422,22 @@ export function getApplicationStatusLabel(status: ApplicationStatus | null) {
 export async function getFeedSummary() {
   const supabaseFeed = await loadJobsFromSupabase();
   return supabaseFeed?.summary ?? localSummary;
+}
+
+export async function getApplicationSummary() {
+  const supabaseFeed = await loadJobsFromSupabase();
+
+  return (
+    supabaseFeed?.applicationSummary ?? {
+      applied: 0,
+      interviewing: 0,
+      offers: 0,
+      rejected: 0,
+      saved: 0,
+      tracked: 0,
+      withdrawn: 0,
+    }
+  );
 }
 
 export async function getTrackJobs(trackSlug: PortfolioTrack) {
@@ -368,26 +454,30 @@ export async function getTrackJobs(trackSlug: PortfolioTrack) {
   }
 
   const matched = localJobs.reduce<TrackedJob[]>((accumulator, job) => {
-      const matches = getTrackMatches(job, track);
+    const matches = getTrackMatches(job, track);
 
-      if (matches.length === 0) {
-        return accumulator;
-      }
-
-      accumulator.push({
-        ...job,
-        applicationId: null,
-        applicationStatus: null,
-        appliedDate: null,
-        interviewDate: null,
-        jobId: null,
-        matchReason: `Matched: ${matches.slice(0, 3).join(", ")}`,
-        sourceKey: null,
-        track: track.slug,
-      });
-
+    if (matches.length === 0) {
       return accumulator;
-    }, []);
+    }
+
+    accumulator.push({
+      ...job,
+      applicationId: null,
+      applicationStatus: null,
+      appliedDate: null,
+      contactEmail: null,
+      contactName: null,
+      followUpDate: null,
+      interviewDate: null,
+      jobId: null,
+      matchReason: `Matched: ${matches.slice(0, 3).join(", ")}`,
+      notes: null,
+      sourceKey: null,
+      track: track.slug,
+    });
+
+    return accumulator;
+  }, []);
 
   return sortJobs(matched);
 }

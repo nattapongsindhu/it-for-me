@@ -53,7 +53,7 @@ export default function Sidebar() {
             Current Focus
           </p>
           <p className="mt-2 text-sm font-semibold text-white">
-            Phase 2 · Job Tracking Operations
+            Phase 2 - Job Tracking Operations
           </p>
           <p className="mt-2 text-sm leading-6 text-slate-300">
             The portfolio shell is live, the Supabase catalog is connected, and application

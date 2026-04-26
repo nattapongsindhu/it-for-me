@@ -2,6 +2,7 @@ import Link from "next/link";
 import JobTable from "@/app/components/JobTable";
 import StatCard from "@/app/components/StatCard";
 import {
+  getApplicationSummary,
   getFeedSummary,
   getLatestPriorityJobs,
   getRoadmap,
@@ -22,6 +23,7 @@ function formatUpdated(value: string) {
 export const dynamic = "force-dynamic";
 
 export default async function DashboardPage() {
+  const applicationSummary = await getApplicationSummary();
   const summary = await getFeedSummary();
   const tracks = await Promise.all(
     getTracks().map(async (track) => ({
@@ -70,6 +72,31 @@ export default async function DashboardPage() {
           eyebrow="Updated"
           title={formatUpdated(summary.updated)}
           detail="Latest available job-catalog timestamp."
+          tone="ember"
+        />
+      </section>
+
+      <section className="grid gap-4 md:grid-cols-2 xl:grid-cols-4">
+        <StatCard
+          eyebrow="Tracked applications"
+          title={`${applicationSummary.tracked}`}
+          detail="Jobs that already have an application record in the tracking table."
+        />
+        <StatCard
+          eyebrow="Saved or shortlisted"
+          title={`${applicationSummary.saved}`}
+          detail="Roles worth keeping on the radar before submitting a formal application."
+          tone="accent"
+        />
+        <StatCard
+          eyebrow="Applied"
+          title={`${applicationSummary.applied}`}
+          detail="Applications that have already been submitted and are awaiting movement."
+        />
+        <StatCard
+          eyebrow="Interviewing"
+          title={`${applicationSummary.interviewing}`}
+          detail="Active conversations where interview planning and follow-up matter most."
           tone="ember"
         />
       </section>

@@ -1,6 +1,6 @@
 'use client';
 
-import { useMemo, useState, useTransition } from "react";
+import { Fragment, useMemo, useState, useTransition } from "react";
 import { useRouter } from "next/navigation";
 import {
   APPLICATION_STATUS_OPTIONS,
@@ -15,6 +15,15 @@ type JobTableProps = {
 };
 
 type StatusMap = Record<string, ApplicationStatus | null>;
+type ExpandedDraft = {
+  appliedDate: string;
+  contactEmail: string;
+  contactName: string;
+  followUpDate: string;
+  interviewDate: string;
+  notes: string;
+};
+type DraftMap = Record<string, ExpandedDraft>;
 
 const statusBadgeClasses: Record<string, string> = {
   APPLIED: "border-emerald-200 bg-emerald-50 text-emerald-700",
@@ -58,14 +67,37 @@ function getStatusKey(status: ApplicationStatus | null) {
   return status ?? "UNTRACKED";
 }
 
+function createInitialDraft(job: TrackedJob): ExpandedDraft {
+  return {
+    appliedDate: job.appliedDate ?? "",
+    contactEmail: job.contactEmail ?? "",
+    contactName: job.contactName ?? "",
+    followUpDate: job.followUpDate ?? "",
+    interviewDate: job.interviewDate ?? "",
+    notes: job.notes ?? "",
+  };
+}
+
+function formatOptionalDate(value: string | null) {
+  return value ? formatDate(value) : "Not set";
+}
+
 export default function JobTable({ jobs, track }: JobTableProps) {
   const router = useRouter();
   const [isPending, startTransition] = useTransition();
   const [errorMessage, setErrorMessage] = useState<string | null>(null);
+  const [successMessage, setSuccessMessage] = useState<string | null>(null);
+  const [expandedJobUrl, setExpandedJobUrl] = useState<string | null>(null);
   const trackingEnabled = process.env.NODE_ENV !== "production";
   const [statusMap, setStatusMap] = useState<StatusMap>(() =>
     jobs.reduce<StatusMap>((accumulator, job) => {
       accumulator[job.url] = job.applicationStatus;
+      return accumulator;
+    }, {})
+  );
+  const [drafts, setDrafts] = useState<DraftMap>(() =>
+    jobs.reduce<DraftMap>((accumulator, job) => {
+      accumulator[job.url] = createInitialDraft(job);
       return accumulator;
     }, {})
   );
@@ -83,6 +115,7 @@ export default function JobTable({ jobs, track }: JobTableProps) {
 
     const previousStatus = statusMap[job.url] ?? null;
     setErrorMessage(null);
+    setSuccessMessage(null);
     setStatusMap((current) => ({
       ...current,
       [job.url]: nextStatus,
@@ -102,13 +135,14 @@ export default function JobTable({ jobs, track }: JobTableProps) {
         });
 
         const payload = (await response.json().catch(() => null)) as
-          | { error?: string }
+          | { error?: string; message?: string }
           | null;
 
         if (!response.ok) {
           throw new Error(payload?.error ?? "Unable to save the application status.");
         }
 
+        setSuccessMessage(payload?.message ?? "Application status saved.");
         router.refresh();
       } catch (error) {
         setStatusMap((current) => ({
@@ -117,6 +151,56 @@ export default function JobTable({ jobs, track }: JobTableProps) {
         }));
         setErrorMessage(
           error instanceof Error ? error.message : "Unable to save the application status."
+        );
+      }
+    });
+  }
+
+  async function saveDetails(job: TrackedJob) {
+    if (!job.jobId) {
+      setErrorMessage("This row is still using local preview data and cannot be tracked yet.");
+      return;
+    }
+
+    const draft = drafts[job.url];
+    setErrorMessage(null);
+    setSuccessMessage(null);
+
+    startTransition(async () => {
+      try {
+        const response = await fetch("/api/applications/details", {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify({
+            appliedDate: draft.appliedDate,
+            contactEmail: draft.contactEmail,
+            contactName: draft.contactName,
+            followUpDate: draft.followUpDate,
+            interviewDate: draft.interviewDate,
+            jobId: job.jobId,
+            notes: draft.notes,
+          }),
+        });
+
+        const payload = (await response.json().catch(() => null)) as
+          | { error?: string; message?: string }
+          | null;
+
+        if (!response.ok) {
+          throw new Error(payload?.error ?? "Unable to save the application details.");
+        }
+
+        setStatusMap((current) => ({
+          ...current,
+          [job.url]: current[job.url] ?? "SAVED",
+        }));
+        setSuccessMessage(payload?.message ?? "Application details saved.");
+        router.refresh();
+      } catch (error) {
+        setErrorMessage(
+          error instanceof Error ? error.message : "Unable to save the application details."
         );
       }
     });
@@ -152,6 +236,11 @@ export default function JobTable({ jobs, track }: JobTableProps) {
             {errorMessage}
           </p>
         ) : null}
+        {successMessage ? (
+          <p className="mt-4 rounded-[1rem] border border-emerald-200 bg-emerald-50 px-4 py-3 text-sm text-emerald-700">
+            {successMessage}
+          </p>
+        ) : null}
       </div>
 
       {jobs.length === 0 ? (
@@ -170,70 +259,229 @@ export default function JobTable({ jobs, track }: JobTableProps) {
                 <th className="px-6 py-4 font-semibold">Posted</th>
                 <th className="px-6 py-4 font-semibold">Status</th>
                 <th className="px-6 py-4 font-semibold">Match</th>
-                <th className="px-6 py-4 font-semibold">Action</th>
+                <th className="px-6 py-4 font-semibold">Actions</th>
               </tr>
             </thead>
             <tbody className="divide-y divide-line">
               {jobs.map((job) => {
                 const currentStatus = statusMap[job.url] ?? null;
                 const badgeKey = getStatusKey(currentStatus);
-                return (
-                  <tr key={`${track.slug}-${job.url}`} className="align-top">
-                    <td className="px-6 py-5">
-                      <p className="font-semibold text-ink">{job.title}</p>
-                      <p className="mt-2 text-xs leading-5 text-slate-500">
-                        {formatSalary(job.salary)} · {job.source}
-                      </p>
-                    </td>
-                    <td className="px-6 py-5 text-sm text-slate-700">{job.company}</td>
-                    <td className="px-6 py-5 text-sm text-slate-700">{job.location}</td>
-                    <td className="px-6 py-5 text-sm text-slate-700">{formatDate(job.posted)}</td>
-                    <td className="px-6 py-5">
-                      <div className="space-y-3">
-                        <span
-                          className={`inline-flex rounded-full border px-3 py-1 text-xs font-semibold uppercase tracking-[0.24em] ${statusBadgeClasses[badgeKey]}`}
-                        >
-                          {getApplicationStatusLabel(currentStatus)}
-                        </span>
-                        <select
-                          aria-label={`Application status for ${job.title}`}
-                          className="w-full min-w-[180px] rounded-full border border-slate-300 bg-white px-4 py-2 text-sm text-slate-700 outline-none transition focus:border-slate-900"
-                          disabled={isPending || !trackingEnabled}
-                          onChange={(event) => {
-                            const nextStatus = event.target.value as ApplicationStatus;
-                            if (!nextStatus || nextStatus === currentStatus) {
-                              return;
-                            }
+                const draft = drafts[job.url];
+                const isExpanded = expandedJobUrl === job.url;
 
-                            void updateStatus(job, nextStatus);
-                          }}
-                          value={currentStatus ?? ""}
-                        >
-                          <option value="">Select status</option>
-                          {APPLICATION_STATUS_OPTIONS.map((option) => (
-                            <option key={option.value} value={option.value}>
-                              {option.label}
-                            </option>
-                          ))}
-                        </select>
-                      </div>
-                    </td>
-                    <td className="px-6 py-5">
-                      <p className="rounded-full bg-slate-100 px-3 py-1 text-xs font-medium text-slate-700">
-                        {job.matchReason}
-                      </p>
-                    </td>
-                    <td className="px-6 py-5">
-                      <a
-                        href={job.url}
-                        target="_blank"
-                        rel="noreferrer"
-                        className="inline-flex rounded-full border border-slate-300 px-4 py-2 text-xs font-semibold uppercase tracking-[0.25em] text-slate-700 transition hover:border-slate-900 hover:text-slate-900"
-                      >
-                        Review
-                      </a>
-                    </td>
-                  </tr>
+                return (
+                  <Fragment key={`${track.slug}-${job.url}`}>
+                    <tr className="align-top">
+                      <td className="px-6 py-5">
+                        <p className="font-semibold text-ink">{job.title}</p>
+                        <p className="mt-2 text-xs leading-5 text-slate-500">
+                          {formatSalary(job.salary)} - {job.source}
+                        </p>
+                      </td>
+                      <td className="px-6 py-5 text-sm text-slate-700">{job.company}</td>
+                      <td className="px-6 py-5 text-sm text-slate-700">{job.location}</td>
+                      <td className="px-6 py-5 text-sm text-slate-700">{formatDate(job.posted)}</td>
+                      <td className="px-6 py-5">
+                        <div className="space-y-3">
+                          <span
+                            className={`inline-flex rounded-full border px-3 py-1 text-xs font-semibold uppercase tracking-[0.24em] ${statusBadgeClasses[badgeKey]}`}
+                          >
+                            {getApplicationStatusLabel(currentStatus)}
+                          </span>
+                          <select
+                            aria-label={`Application status for ${job.title}`}
+                            className="w-full min-w-[180px] rounded-full border border-slate-300 bg-white px-4 py-2 text-sm text-slate-700 outline-none transition focus:border-slate-900"
+                            disabled={isPending || !trackingEnabled}
+                            onChange={(event) => {
+                              const nextStatus = event.target.value as ApplicationStatus;
+                              if (!nextStatus || nextStatus === currentStatus) {
+                                return;
+                              }
+
+                              void updateStatus(job, nextStatus);
+                            }}
+                            value={currentStatus ?? ""}
+                          >
+                            <option value="">Select status</option>
+                            {APPLICATION_STATUS_OPTIONS.map((option) => (
+                              <option key={option.value} value={option.value}>
+                                {option.label}
+                              </option>
+                            ))}
+                          </select>
+                          <div className="space-y-1 text-xs leading-5 text-slate-500">
+                            <p>Applied: {formatOptionalDate(job.appliedDate)}</p>
+                            <p>Interview: {formatOptionalDate(job.interviewDate)}</p>
+                          </div>
+                        </div>
+                      </td>
+                      <td className="px-6 py-5">
+                        <p className="rounded-full bg-slate-100 px-3 py-1 text-xs font-medium text-slate-700">
+                          {job.matchReason}
+                        </p>
+                      </td>
+                      <td className="px-6 py-5">
+                        <div className="flex flex-wrap gap-2">
+                          <button
+                            className="inline-flex rounded-full border border-slate-300 px-4 py-2 text-xs font-semibold uppercase tracking-[0.25em] text-slate-700 transition hover:border-slate-900 hover:text-slate-900"
+                            onClick={() =>
+                              setExpandedJobUrl((current) => (current === job.url ? null : job.url))
+                            }
+                            type="button"
+                          >
+                            {isExpanded ? "Hide details" : "Manage"}
+                          </button>
+                          <a
+                            href={job.url}
+                            target="_blank"
+                            rel="noreferrer"
+                            className="inline-flex rounded-full border border-slate-300 px-4 py-2 text-xs font-semibold uppercase tracking-[0.25em] text-slate-700 transition hover:border-slate-900 hover:text-slate-900"
+                          >
+                            Review
+                          </a>
+                        </div>
+                      </td>
+                    </tr>
+                    {isExpanded ? (
+                      <tr>
+                        <td colSpan={7} className="bg-slate-50 px-6 py-5">
+                          <div className="rounded-[1.5rem] border border-line bg-white p-5 shadow-sm">
+                            <div className="flex flex-col gap-4 md:flex-row md:items-end md:justify-between">
+                              <div>
+                                <p className="text-[0.65rem] font-semibold uppercase tracking-[0.35em] text-slate-500">
+                                  Application details
+                                </p>
+                                <h3 className="mt-2 text-lg font-semibold text-ink">
+                                  Save recruiter notes and key dates
+                                </h3>
+                              </div>
+                              <button
+                                className="inline-flex rounded-full bg-slate-900 px-5 py-3 text-xs font-semibold uppercase tracking-[0.25em] text-white transition hover:bg-slate-800 disabled:cursor-not-allowed disabled:opacity-60"
+                                disabled={isPending || !trackingEnabled}
+                                onClick={() => void saveDetails(job)}
+                                type="button"
+                              >
+                                Save details
+                              </button>
+                            </div>
+
+                            <div className="mt-5 grid gap-4 md:grid-cols-2 xl:grid-cols-3">
+                              <label className="space-y-2 text-sm text-slate-700">
+                                <span className="font-medium">Applied date</span>
+                                <input
+                                  className="w-full rounded-[1rem] border border-slate-300 bg-white px-4 py-3 outline-none transition focus:border-slate-900"
+                                  disabled={!trackingEnabled}
+                                  onChange={(event) =>
+                                    setDrafts((current) => ({
+                                      ...current,
+                                      [job.url]: {
+                                        ...current[job.url],
+                                        appliedDate: event.target.value,
+                                      },
+                                    }))
+                                  }
+                                  type="date"
+                                  value={draft.appliedDate}
+                                />
+                              </label>
+                              <label className="space-y-2 text-sm text-slate-700">
+                                <span className="font-medium">Interview date</span>
+                                <input
+                                  className="w-full rounded-[1rem] border border-slate-300 bg-white px-4 py-3 outline-none transition focus:border-slate-900"
+                                  disabled={!trackingEnabled}
+                                  onChange={(event) =>
+                                    setDrafts((current) => ({
+                                      ...current,
+                                      [job.url]: {
+                                        ...current[job.url],
+                                        interviewDate: event.target.value,
+                                      },
+                                    }))
+                                  }
+                                  type="date"
+                                  value={draft.interviewDate}
+                                />
+                              </label>
+                              <label className="space-y-2 text-sm text-slate-700">
+                                <span className="font-medium">Follow-up date</span>
+                                <input
+                                  className="w-full rounded-[1rem] border border-slate-300 bg-white px-4 py-3 outline-none transition focus:border-slate-900"
+                                  disabled={!trackingEnabled}
+                                  onChange={(event) =>
+                                    setDrafts((current) => ({
+                                      ...current,
+                                      [job.url]: {
+                                        ...current[job.url],
+                                        followUpDate: event.target.value,
+                                      },
+                                    }))
+                                  }
+                                  type="date"
+                                  value={draft.followUpDate}
+                                />
+                              </label>
+                              <label className="space-y-2 text-sm text-slate-700">
+                                <span className="font-medium">Contact name</span>
+                                <input
+                                  className="w-full rounded-[1rem] border border-slate-300 bg-white px-4 py-3 outline-none transition focus:border-slate-900"
+                                  disabled={!trackingEnabled}
+                                  onChange={(event) =>
+                                    setDrafts((current) => ({
+                                      ...current,
+                                      [job.url]: {
+                                        ...current[job.url],
+                                        contactName: event.target.value,
+                                      },
+                                    }))
+                                  }
+                                  placeholder="Recruiter or hiring manager"
+                                  type="text"
+                                  value={draft.contactName}
+                                />
+                              </label>
+                              <label className="space-y-2 text-sm text-slate-700">
+                                <span className="font-medium">Contact email</span>
+                                <input
+                                  className="w-full rounded-[1rem] border border-slate-300 bg-white px-4 py-3 outline-none transition focus:border-slate-900"
+                                  disabled={!trackingEnabled}
+                                  onChange={(event) =>
+                                    setDrafts((current) => ({
+                                      ...current,
+                                      [job.url]: {
+                                        ...current[job.url],
+                                        contactEmail: event.target.value,
+                                      },
+                                    }))
+                                  }
+                                  placeholder="name@example.com"
+                                  type="email"
+                                  value={draft.contactEmail}
+                                />
+                              </label>
+                              <label className="space-y-2 text-sm text-slate-700 md:col-span-2 xl:col-span-1">
+                                <span className="font-medium">Quick notes</span>
+                                <textarea
+                                  className="min-h-[132px] w-full rounded-[1rem] border border-slate-300 bg-white px-4 py-3 outline-none transition focus:border-slate-900"
+                                  disabled={!trackingEnabled}
+                                  onChange={(event) =>
+                                    setDrafts((current) => ({
+                                      ...current,
+                                      [job.url]: {
+                                        ...current[job.url],
+                                        notes: event.target.value,
+                                      },
+                                    }))
+                                  }
+                                  placeholder="Why this role matters, interview prep notes, or follow-up context."
+                                  value={draft.notes}
+                                />
+                              </label>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                    ) : null}
+                  </Fragment>
                 );
               })}
             </tbody>
