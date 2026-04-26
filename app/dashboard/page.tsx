@@ -37,16 +37,15 @@ export default async function DashboardPage() {
     <div className="space-y-6">
       <section className="rounded-panel border border-line bg-white p-6 shadow-card md:p-8">
         <p className="text-[0.65rem] font-semibold uppercase tracking-[0.35em] text-slate-500">
-          Phase 0 foundation
+          Phase 2 operations
         </p>
         <h1 className="mt-3 text-3xl font-semibold tracking-tight text-ink md:text-5xl">
-          Build a recruiter-ready portfolio shell before adding complexity.
+          Track real applications without losing the clean portfolio structure.
         </h1>
         <p className="mt-4 max-w-4xl text-sm leading-7 text-slate-600 md:text-base">
-          This repo now pivots away from a raw static job feed and toward a clean, professional
-          portfolio system. The design intentionally borrows the structure and visual discipline
-          of the completed IT Asset Tracker project while keeping the early implementation
-          practical for a beginner to extend.
+          The portfolio foundation is complete, the Supabase job catalog is live, and the next
+          layer now focuses on practical application tracking. The goal remains the same: keep the
+          system clean, professional, and easy to extend without overwhelming a beginner.
         </p>
       </section>
 

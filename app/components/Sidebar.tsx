@@ -2,19 +2,14 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import {
-  LayoutDashboard,
-  MonitorCog,
-  Stethoscope,
-  Wrench,
-} from "lucide-react";
+import { LayoutDashboard, MonitorCog, Stethoscope, Wrench } from "lucide-react";
 
 const navigation = [
   {
     name: "Dashboard",
     href: "/dashboard",
     icon: LayoutDashboard,
-    note: "Portfolio mission and delivery roadmap",
+    note: "Portfolio mission, progress, and delivery roadmap",
   },
   {
     name: "Biomedical & Device",
@@ -48,7 +43,8 @@ export default function Sidebar() {
           </p>
           <h1 className="mt-3 text-2xl font-semibold tracking-tight">it-for-me</h1>
           <p className="mt-2 text-sm leading-6 text-slate-300">
-            A practical portfolio shell for Rogers to grow from maintenance into biomedical, healthcare IT, and technical support work.
+            A practical portfolio shell for Rogers to grow from maintenance into biomedical,
+            healthcare IT, and technical support work.
           </p>
         </div>
 
@@ -56,16 +52,18 @@ export default function Sidebar() {
           <p className="text-[0.65rem] font-semibold uppercase tracking-[0.35em] text-slate-500">
             Current Focus
           </p>
-          <p className="mt-2 text-sm font-semibold text-white">Phase 0 · Foundation & UI Shell</p>
+          <p className="mt-2 text-sm font-semibold text-white">
+            Phase 2 · Job Tracking Operations
+          </p>
           <p className="mt-2 text-sm leading-6 text-slate-300">
-            Build the structure first, keep the flows clean, and leave the data layer easy to extend in later phases.
+            The portfolio shell is live, the Supabase catalog is connected, and application
+            tracking is now the active workflow layer.
           </p>
         </div>
 
         <nav className="mt-4 space-y-2">
           {navigation.map((item) => {
-            const isActive =
-              pathname === item.href || pathname.startsWith(`${item.href}/`);
+            const isActive = pathname === item.href || pathname.startsWith(`${item.href}/`);
 
             return (
               <Link
@@ -94,9 +92,7 @@ export default function Sidebar() {
                         </span>
                       ) : null}
                     </div>
-                    <p className="mt-1 text-xs leading-5 text-slate-400">
-                      {item.note}
-                    </p>
+                    <p className="mt-1 text-xs leading-5 text-slate-400">{item.note}</p>
                   </div>
                 </div>
               </Link>

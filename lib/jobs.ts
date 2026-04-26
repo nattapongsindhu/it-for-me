@@ -1,6 +1,12 @@
 import jobFeed from "@/jobs.json";
+import {
+  APPLICATION_STATUS_OPTIONS,
+  getApplicationStatusLabel as getSharedApplicationStatusLabel,
+  type ApplicationStatus,
+} from "@/lib/application-status";
+import { createSupabaseAdminClient } from "@/lib/supabase/admin";
+import { hasSupabaseEnv, hasSupabaseServiceRoleKey } from "@/lib/supabase/env";
 import { createSupabaseServerClient } from "@/lib/supabase/server";
-import { hasSupabaseEnv } from "@/lib/supabase/env";
 
 export type PortfolioTrack = "biomedical-device" | "it-helpdesk" | "facilities-tech";
 
@@ -24,7 +30,13 @@ export type RawJob = {
 };
 
 export type TrackedJob = RawJob & {
+  applicationId: string | null;
+  applicationStatus: ApplicationStatus | null;
+  appliedDate: string | null;
+  interviewDate: string | null;
+  jobId: string | null;
   matchReason: string;
+  sourceKey: string | null;
   track: PortfolioTrack;
 };
 
@@ -40,6 +52,7 @@ type JobRow = {
   created_at: string;
   description: string | null;
   employment_type: string | null;
+  id: string;
   last_seen_at: string;
   location_text: string;
   posted_date: string | null;
@@ -48,11 +61,21 @@ type JobRow = {
   salary_min: number | null;
   salary_text: string | null;
   source: string;
+  source_key: string;
   status: string;
   title: string;
   track_slug: PortfolioTrack;
   updated_at: string;
   url: string;
+};
+
+type ApplicationRow = {
+  applied_date: string | null;
+  id: string;
+  interview_date: string | null;
+  job_id: string | null;
+  status: ApplicationStatus;
+  updated_at: string;
 };
 
 type TrackDefinition = PortfolioTrackMeta & {
@@ -215,10 +238,20 @@ function mapJobRowToRawJob(row: JobRow): RawJob {
   };
 }
 
-function mapJobRowToTrackedJob(row: JobRow): TrackedJob {
+function mapJobRowToTrackedJob(
+  row: JobRow,
+  application: ApplicationRow | undefined,
+  matchReason: string
+): TrackedJob {
   return {
     ...mapJobRowToRawJob(row),
-    matchReason: "Loaded from the Supabase portfolio catalog.",
+    applicationId: application?.id ?? null,
+    applicationStatus: application?.status ?? null,
+    appliedDate: application?.applied_date ?? null,
+    interviewDate: application?.interview_date ?? null,
+    jobId: row.id,
+    matchReason,
+    sourceKey: row.source_key,
     track: row.track_slug,
   };
 }
@@ -237,6 +270,40 @@ function buildSummaryFromRows(rows: JobRow[]): FeedSummary {
   };
 }
 
+async function loadApplicationsByJobId(jobIds: string[]) {
+  if (!hasSupabaseServiceRoleKey() || jobIds.length === 0) {
+    return new Map<string, ApplicationRow>();
+  }
+
+  try {
+    const supabase = createSupabaseAdminClient();
+    const { data, error } = await supabase
+      .from("applications")
+      .select("applied_date, id, interview_date, job_id, status, updated_at")
+      .in("job_id", jobIds)
+      .order("updated_at", { ascending: false });
+
+    if (error || !data) {
+      return new Map<string, ApplicationRow>();
+    }
+
+    const rows = data as ApplicationRow[];
+    const applications = new Map<string, ApplicationRow>();
+
+    for (const row of rows) {
+      if (!row.job_id || applications.has(row.job_id)) {
+        continue;
+      }
+
+      applications.set(row.job_id, row);
+    }
+
+    return applications;
+  } catch {
+    return new Map<string, ApplicationRow>();
+  }
+}
+
 async function loadJobsFromSupabase() {
   if (!hasSupabaseEnv()) {
     return null;
@@ -247,7 +314,7 @@ async function loadJobsFromSupabase() {
     const { data, error } = await supabase
       .from("jobs")
       .select(
-        "company, created_at, description, employment_type, last_seen_at, location_text, posted_date, remote_mode, salary_max, salary_min, salary_text, source, status, title, track_slug, updated_at, url"
+        "company, created_at, description, employment_type, id, last_seen_at, location_text, posted_date, remote_mode, salary_max, salary_min, salary_text, source, source_key, status, title, track_slug, updated_at, url"
       )
       .neq("status", "ARCHIVED")
       .order("posted_date", { ascending: false, nullsFirst: false });
@@ -257,9 +324,16 @@ async function loadJobsFromSupabase() {
     }
 
     const rows = data as JobRow[];
+    const applicationsByJobId = await loadApplicationsByJobId(rows.map((row) => row.id));
 
     return {
-      jobs: rows,
+      jobs: rows.map((row) =>
+        mapJobRowToTrackedJob(
+          row,
+          applicationsByJobId.get(row.id),
+          "Loaded from the Supabase portfolio catalog."
+        )
+      ),
       summary: buildSummaryFromRows(rows),
     };
   } catch {
@@ -269,6 +343,10 @@ async function loadJobsFromSupabase() {
 
 export function getTracks(): PortfolioTrackMeta[] {
   return TRACKS.map(({ keywords, ...track }) => track);
+}
+
+export function getApplicationStatusLabel(status: ApplicationStatus | null) {
+  return getSharedApplicationStatusLabel(status);
 }
 
 export async function getFeedSummary() {
@@ -286,30 +364,30 @@ export async function getTrackJobs(trackSlug: PortfolioTrack) {
   const supabaseFeed = await loadJobsFromSupabase();
 
   if (supabaseFeed) {
-    return sortJobs(
-      supabaseFeed.jobs
-        .filter((job) => job.track_slug === trackSlug)
-        .map(mapJobRowToTrackedJob)
-    );
+    return sortJobs(supabaseFeed.jobs.filter((job) => job.track === trackSlug));
   }
 
-  const sourceJobs = localJobs;
-
-  const matched = sourceJobs
-    .map((job) => {
+  const matched = localJobs.reduce<TrackedJob[]>((accumulator, job) => {
       const matches = getTrackMatches(job, track);
 
       if (matches.length === 0) {
-        return null;
+        return accumulator;
       }
 
-      return {
+      accumulator.push({
         ...job,
-        track: track.slug,
+        applicationId: null,
+        applicationStatus: null,
+        appliedDate: null,
+        interviewDate: null,
+        jobId: null,
         matchReason: `Matched: ${matches.slice(0, 3).join(", ")}`,
-      } satisfies TrackedJob;
-    })
-    .filter((job): job is TrackedJob => job !== null);
+        sourceKey: null,
+        track: track.slug,
+      });
+
+      return accumulator;
+    }, []);
 
   return sortJobs(matched);
 }
@@ -318,7 +396,7 @@ export async function getLatestPriorityJobs(limit = 8) {
   const supabaseFeed = await loadJobsFromSupabase();
 
   if (supabaseFeed) {
-    return sortJobs(supabaseFeed.jobs.map(mapJobRowToTrackedJob)).slice(0, limit);
+    return sortJobs(supabaseFeed.jobs).slice(0, limit);
   }
 
   const trackJobs = await Promise.all(TRACKS.map((track) => getTrackJobs(track.slug)));
@@ -346,9 +424,9 @@ export function getRoadmap() {
       title: "Foundation & UI Shell",
       estimate: "1 day",
       items: [
-        "Upgrade the repo from a static job feed into a clean Next.js portfolio shell",
-        "Establish the sidebar, route structure, and category lanes",
-        "Reuse jobs.json as a lightweight local data source for previews",
+        "Upgrade the repo from a static job feed into a clean Next.js portfolio shell.",
+        "Establish the sidebar, route structure, and category lanes.",
+        "Reuse jobs.json as a lightweight local data source for previews.",
       ],
     },
     {
@@ -356,9 +434,9 @@ export function getRoadmap() {
       title: "Database & Data Fetching",
       estimate: "2 to 3 days",
       items: [
-        "Introduce Supabase and define jobs plus applications tables",
-        "Connect category pages to structured records instead of only local JSON",
-        "Create a clean table model that is easy to extend",
+        "Introduce Supabase and define jobs plus applications tables.",
+        "Connect category pages to structured records instead of relying only on local JSON.",
+        "Create a clean table model that is easy to extend.",
       ],
     },
     {
@@ -366,9 +444,9 @@ export function getRoadmap() {
       title: "Job Tracking Operations",
       estimate: "2 to 3 days",
       items: [
-        "Add create, update, and detail flows for tracked applications",
-        "Introduce status changes such as Applied, Interviewing, and Rejected",
-        "Keep the implementation beginner-friendly and easy to modify",
+        "Add create, update, and detail flows for tracked applications.",
+        "Introduce status changes such as Applied, Interviewing, and Rejected.",
+        "Keep the implementation beginner-friendly and easy to modify.",
       ],
     },
     {
@@ -376,9 +454,9 @@ export function getRoadmap() {
       title: "Dashboard & Analytics",
       estimate: "1 to 2 days",
       items: [
-        "Add summary cards and simple progress reporting",
-        "Show portfolio-ready operational signals instead of complex BI",
-        "Highlight current job targets and application activity",
+        "Add summary cards and simple progress reporting.",
+        "Show portfolio-ready operational signals instead of complex BI.",
+        "Highlight current job targets and application activity.",
       ],
     },
     {
@@ -386,9 +464,9 @@ export function getRoadmap() {
       title: "Final Polish & Deployment",
       estimate: "1 day",
       items: [
-        "Improve responsive behavior and clean up the last UX details",
-        "Refresh documentation and recruiter-facing messaging",
-        "Deploy to Vercel and finalize the portfolio presentation",
+        "Improve responsive behavior and clean up the last UX details.",
+        "Refresh documentation and recruiter-facing messaging.",
+        "Deploy to Vercel and finalize the portfolio presentation.",
       ],
     },
   ];
