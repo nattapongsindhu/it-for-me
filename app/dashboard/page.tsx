@@ -19,15 +19,19 @@ function formatUpdated(value: string) {
   }).format(date);
 }
 
-export default function DashboardPage() {
-  const summary = getFeedSummary();
-  const tracks = getTracks().map((track) => ({
-    ...track,
-    count: getTrackJobs(track.slug).length,
-  }));
+export const dynamic = "force-dynamic";
+
+export default async function DashboardPage() {
+  const summary = await getFeedSummary();
+  const tracks = await Promise.all(
+    getTracks().map(async (track) => ({
+      ...track,
+      count: (await getTrackJobs(track.slug)).length,
+    }))
+  );
   const roadmap = getRoadmap();
   const featuredTrack = getTrackBySlug("it-helpdesk");
-  const featuredJobs = getLatestPriorityJobs(8);
+  const featuredJobs = await getLatestPriorityJobs(8);
 
   return (
     <div className="space-y-6">
@@ -39,7 +43,10 @@ export default function DashboardPage() {
           Build a recruiter-ready portfolio shell before adding complexity.
         </h1>
         <p className="mt-4 max-w-4xl text-sm leading-7 text-slate-600 md:text-base">
-          This repo now pivots away from a raw static job feed and toward a clean, professional portfolio system. The design intentionally borrows the structure and visual discipline of the completed IT Asset Tracker project while keeping the early implementation practical for a beginner to extend.
+          This repo now pivots away from a raw static job feed and toward a clean, professional
+          portfolio system. The design intentionally borrows the structure and visual discipline
+          of the completed IT Asset Tracker project while keeping the early implementation
+          practical for a beginner to extend.
         </p>
       </section>
 
@@ -47,7 +54,7 @@ export default function DashboardPage() {
         <StatCard
           eyebrow="Live feed"
           title={`${summary.count}`}
-          detail="Jobs currently available in the reused local feed for Phase 0 previews."
+          detail="Jobs currently available from Supabase when available, with a local feed fallback during setup."
         />
         <StatCard
           eyebrow="Primary radius"
@@ -63,7 +70,7 @@ export default function DashboardPage() {
         <StatCard
           eyebrow="Updated"
           title={formatUpdated(summary.updated)}
-          detail="Latest imported feed timestamp from the legacy automation source."
+          detail="Latest available job-catalog timestamp."
           tone="ember"
         />
       </section>
@@ -108,7 +115,10 @@ export default function DashboardPage() {
           </h2>
           <div className="mt-6 space-y-4">
             {roadmap.map((phase) => (
-              <div key={phase.phase} className="rounded-[1.5rem] border border-line bg-slate-50 p-5">
+              <div
+                key={phase.phase}
+                className="rounded-[1.5rem] border border-line bg-slate-50 p-5"
+              >
                 <div className="flex items-center justify-between gap-4">
                   <p className="text-sm font-semibold uppercase tracking-[0.25em] text-slate-500">
                     {phase.phase}
@@ -120,7 +130,7 @@ export default function DashboardPage() {
                 <h3 className="mt-3 text-lg font-semibold text-ink">{phase.title}</h3>
                 <ul className="mt-3 space-y-2 text-sm leading-6 text-slate-600">
                   {phase.items.map((item) => (
-                    <li key={item}>• {item}</li>
+                    <li key={item}>- {item}</li>
                   ))}
                 </ul>
               </div>

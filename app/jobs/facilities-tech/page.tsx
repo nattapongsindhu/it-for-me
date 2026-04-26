@@ -2,10 +2,12 @@ import JobTable from "@/app/components/JobTable";
 import StatCard from "@/app/components/StatCard";
 import { getFeedSummary, getTrackBySlug, getTrackJobs } from "@/lib/jobs";
 
-export default function FacilitiesTechPage() {
+export const dynamic = "force-dynamic";
+
+export default async function FacilitiesTechPage() {
   const track = getTrackBySlug("facilities-tech");
-  const jobs = getTrackJobs("facilities-tech");
-  const summary = getFeedSummary();
+  const jobs = await getTrackJobs("facilities-tech");
+  const summary = await getFeedSummary();
 
   return (
     <div className="space-y-6">
@@ -37,9 +39,9 @@ export default function FacilitiesTechPage() {
           tone="accent"
         />
         <StatCard
-          eyebrow="Data source"
+          eyebrow="Search footprint"
           title={`ZIP ${summary.zip}`}
-          detail="Local market context remains visible while the UI shell is being established."
+          detail="This lane still reflects the current market filter while the tracking system is being built out."
           tone="ember"
         />
       </section>

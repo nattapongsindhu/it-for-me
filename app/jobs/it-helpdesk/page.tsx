@@ -2,10 +2,12 @@ import JobTable from "@/app/components/JobTable";
 import StatCard from "@/app/components/StatCard";
 import { getFeedSummary, getTrackBySlug, getTrackJobs } from "@/lib/jobs";
 
-export default function ItHelpdeskPage() {
+export const dynamic = "force-dynamic";
+
+export default async function ItHelpdeskPage() {
   const track = getTrackBySlug("it-helpdesk");
-  const jobs = getTrackJobs("it-helpdesk");
-  const summary = getFeedSummary();
+  const jobs = await getTrackJobs("it-helpdesk");
+  const summary = await getFeedSummary();
 
   return (
     <div className="space-y-6">
@@ -37,9 +39,9 @@ export default function ItHelpdeskPage() {
           tone="accent"
         />
         <StatCard
-          eyebrow="Source state"
-          title={`${summary.count} raw jobs`}
-          detail="The local job feed is intentionally reused in Phase 0 to keep the system understandable."
+          eyebrow="Catalog state"
+          title={`${summary.count} jobs`}
+          detail="Supabase is now the preferred source when the jobs table is available."
           tone="ember"
         />
       </section>

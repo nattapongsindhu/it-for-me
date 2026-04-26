@@ -2,10 +2,12 @@ import JobTable from "@/app/components/JobTable";
 import StatCard from "@/app/components/StatCard";
 import { getFeedSummary, getTrackBySlug, getTrackJobs } from "@/lib/jobs";
 
-export default function BiomedicalDevicePage() {
+export const dynamic = "force-dynamic";
+
+export default async function BiomedicalDevicePage() {
   const track = getTrackBySlug("biomedical-device");
-  const jobs = getTrackJobs("biomedical-device");
-  const summary = getFeedSummary();
+  const jobs = await getTrackJobs("biomedical-device");
+  const summary = await getFeedSummary();
 
   return (
     <div className="space-y-6">
@@ -33,7 +35,7 @@ export default function BiomedicalDevicePage() {
         <StatCard
           eyebrow="Feed radius"
           title={`${summary.radiusMiles} miles`}
-          detail={`Phase 0 still relies on the existing ZIP ${summary.zip} job feed.`}
+          detail={`The current live read path still uses the ZIP ${summary.zip} search footprint.`}
           tone="accent"
         />
         <StatCard

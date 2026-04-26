@@ -1,4 +1,6 @@
 import jobFeed from "@/jobs.json";
+import { createSupabaseServerClient } from "@/lib/supabase/server";
+import { hasSupabaseEnv } from "@/lib/supabase/env";
 
 export type PortfolioTrack = "biomedical-device" | "it-helpdesk" | "facilities-tech";
 
@@ -24,6 +26,33 @@ export type RawJob = {
 export type TrackedJob = RawJob & {
   matchReason: string;
   track: PortfolioTrack;
+};
+
+type FeedSummary = {
+  count: number;
+  radiusMiles: number;
+  updated: string;
+  zip: string;
+};
+
+type JobRow = {
+  company: string;
+  created_at: string;
+  description: string | null;
+  employment_type: string | null;
+  last_seen_at: string;
+  location_text: string;
+  posted_date: string | null;
+  remote_mode: string | null;
+  salary_max: number | null;
+  salary_min: number | null;
+  salary_text: string | null;
+  source: string;
+  status: string;
+  title: string;
+  track_slug: PortfolioTrack;
+  updated_at: string;
+  url: string;
 };
 
 type TrackDefinition = PortfolioTrackMeta & {
@@ -52,7 +81,7 @@ const TRACKS: TrackDefinition[] = [
       "health administration",
       "health",
       "equipment",
-      "engineer"
+      "engineer",
     ],
   },
   {
@@ -78,7 +107,7 @@ const TRACKS: TrackDefinition[] = [
       "datamgt",
       "operations center",
       "data scientist",
-      "ux"
+      "ux",
     ],
   },
   {
@@ -101,15 +130,22 @@ const TRACKS: TrackDefinition[] = [
       "pneumatic",
       "reliability",
       "operations",
-      "equipment support"
+      "equipment support",
     ],
   },
 ];
 
-const jobs = (jobFeed.jobs as RawJob[]).map((job) => ({
+const localJobs = (jobFeed.jobs as RawJob[]).map((job) => ({
   ...job,
   type: job.type?.trim() || "Open",
 }));
+
+const localSummary: FeedSummary = {
+  count: jobFeed.count,
+  radiusMiles: jobFeed.radius_mi,
+  updated: jobFeed.updated,
+  zip: jobFeed.zip,
+};
 
 function buildSearchText(job: RawJob) {
   return `${job.title} ${job.company} ${job.location}`.toLowerCase();
@@ -128,27 +164,103 @@ function sortJobs(items: TrackedJob[]) {
   });
 }
 
+function buildSalaryText(row: JobRow) {
+  if (row.salary_text?.trim()) {
+    return row.salary_text.trim();
+  }
+
+  if (typeof row.salary_min === "number" && typeof row.salary_max === "number") {
+    return `${row.salary_min}-${row.salary_max}`;
+  }
+
+  if (typeof row.salary_min === "number") {
+    return `${row.salary_min}`;
+  }
+
+  if (typeof row.salary_max === "number") {
+    return `${row.salary_max}`;
+  }
+
+  return "";
+}
+
+function mapJobRowToRawJob(row: JobRow): RawJob {
+  return {
+    company: row.company,
+    location: row.location_text,
+    posted: row.posted_date ?? row.created_at.slice(0, 10),
+    salary: buildSalaryText(row),
+    source: row.source,
+    title: row.title,
+    type: row.employment_type?.trim() || row.remote_mode?.trim() || "Open",
+    url: row.url,
+  };
+}
+
+function buildSummaryFromRows(rows: JobRow[]): FeedSummary {
+  const updated = rows.reduce((latest, row) => {
+    const candidate = row.last_seen_at || row.updated_at || row.created_at;
+    return candidate > latest ? candidate : latest;
+  }, localSummary.updated);
+
+  return {
+    count: rows.length,
+    radiusMiles: localSummary.radiusMiles,
+    updated,
+    zip: localSummary.zip,
+  };
+}
+
+async function loadJobsFromSupabase() {
+  if (!hasSupabaseEnv()) {
+    return null;
+  }
+
+  try {
+    const supabase = createSupabaseServerClient();
+    const { data, error } = await supabase
+      .from("jobs")
+      .select(
+        "company, created_at, description, employment_type, last_seen_at, location_text, posted_date, remote_mode, salary_max, salary_min, salary_text, source, status, title, track_slug, updated_at, url"
+      )
+      .neq("status", "ARCHIVED")
+      .order("posted_date", { ascending: false, nullsFirst: false });
+
+    if (error || !data) {
+      return null;
+    }
+
+    const rows = data as JobRow[];
+
+    return {
+      jobs: rows.map(mapJobRowToRawJob),
+      summary: buildSummaryFromRows(rows),
+    };
+  } catch {
+    return null;
+  }
+}
+
 export function getTracks(): PortfolioTrackMeta[] {
   return TRACKS.map(({ keywords, ...track }) => track);
 }
 
-export function getFeedSummary() {
-  return {
-    count: jobFeed.count,
-    radiusMiles: jobFeed.radius_mi,
-    updated: jobFeed.updated,
-    zip: jobFeed.zip,
-  };
+export async function getFeedSummary() {
+  const supabaseFeed = await loadJobsFromSupabase();
+  return supabaseFeed?.summary ?? localSummary;
 }
 
-export function getTrackJobs(trackSlug: PortfolioTrack) {
+export async function getTrackJobs(trackSlug: PortfolioTrack) {
   const track = TRACKS.find((item) => item.slug === trackSlug);
 
   if (!track) {
     return [];
   }
 
-  const matched = jobs
+  const supabaseFeed = await loadJobsFromSupabase();
+  const sourceJobs = supabaseFeed?.jobs ?? localJobs;
+
+  const matched = sourceJobs
     .map((job) => {
       const matches = getTrackMatches(job, track);
 
@@ -167,11 +279,10 @@ export function getTrackJobs(trackSlug: PortfolioTrack) {
   return sortJobs(matched);
 }
 
-export function getLatestPriorityJobs(limit = 8) {
-  const items = TRACKS.flatMap((track) => getTrackJobs(track.slug));
-  const uniqueJobs = Array.from(
-    new Map(items.map((job) => [job.url, job])).values()
-  );
+export async function getLatestPriorityJobs(limit = 8) {
+  const trackJobs = await Promise.all(TRACKS.map((track) => getTrackJobs(track.slug)));
+  const items = trackJobs.flat();
+  const uniqueJobs = Array.from(new Map(items.map((job) => [job.url, job])).values());
 
   return sortJobs(uniqueJobs).slice(0, limit);
 }
