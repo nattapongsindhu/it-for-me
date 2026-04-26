@@ -15,6 +15,7 @@ type JobTableProps = {
 };
 
 type StatusMap = Record<string, ApplicationStatus | null>;
+type StatusFilter = ApplicationStatus | "ALL" | "UNTRACKED";
 type ExpandedDraft = {
   appliedDate: string;
   contactEmail: string;
@@ -88,6 +89,7 @@ export default function JobTable({ jobs, track }: JobTableProps) {
   const [errorMessage, setErrorMessage] = useState<string | null>(null);
   const [successMessage, setSuccessMessage] = useState<string | null>(null);
   const [expandedJobUrl, setExpandedJobUrl] = useState<string | null>(null);
+  const [statusFilter, setStatusFilter] = useState<StatusFilter>("ALL");
   const trackingEnabled = process.env.NODE_ENV !== "production";
   const [statusMap, setStatusMap] = useState<StatusMap>(() =>
     jobs.reduce<StatusMap>((accumulator, job) => {
@@ -105,6 +107,23 @@ export default function JobTable({ jobs, track }: JobTableProps) {
   const trackedCount = useMemo(
     () => Object.values(statusMap).filter((status) => status !== null).length,
     [statusMap]
+  );
+  const filteredJobs = useMemo(
+    () =>
+      jobs.filter((job) => {
+        if (statusFilter === "ALL") {
+          return true;
+        }
+
+        const currentStatus = statusMap[job.url] ?? null;
+
+        if (statusFilter === "UNTRACKED") {
+          return currentStatus === null;
+        }
+
+        return currentStatus === statusFilter;
+      }),
+    [jobs, statusFilter, statusMap]
   );
 
   async function updateStatus(job: TrackedJob, nextStatus: ApplicationStatus) {
@@ -227,8 +246,28 @@ export default function JobTable({ jobs, track }: JobTableProps) {
               </p>
             ) : null}
           </div>
-          <div className="rounded-full border border-line bg-slate-50 px-4 py-2 text-xs font-semibold uppercase tracking-[0.24em] text-slate-600">
-            {trackedCount} tracked
+          <div className="flex flex-col gap-3 md:items-end">
+            <label className="text-xs font-semibold uppercase tracking-[0.24em] text-slate-500">
+              Filter by status
+            </label>
+            <div className="flex flex-wrap items-center gap-3">
+              <select
+                className="rounded-full border border-slate-300 bg-white px-4 py-2 text-sm text-slate-700 outline-none transition focus:border-slate-900"
+                onChange={(event) => setStatusFilter(event.target.value as StatusFilter)}
+                value={statusFilter}
+              >
+                <option value="ALL">All statuses</option>
+                <option value="UNTRACKED">Not tracked</option>
+                {APPLICATION_STATUS_OPTIONS.map((option) => (
+                  <option key={option.value} value={option.value}>
+                    {option.label}
+                  </option>
+                ))}
+              </select>
+              <div className="rounded-full border border-line bg-slate-50 px-4 py-2 text-xs font-semibold uppercase tracking-[0.24em] text-slate-600">
+                {trackedCount} tracked
+              </div>
+            </div>
           </div>
         </div>
         {errorMessage ? (
@@ -248,6 +287,10 @@ export default function JobTable({ jobs, track }: JobTableProps) {
           No jobs are mapped to this lane yet. That is acceptable while the catalog grows because
           the main goal is to keep the portfolio structure clean and easy to extend.
         </div>
+      ) : filteredJobs.length === 0 ? (
+        <div className="px-6 py-12 text-sm leading-7 text-slate-600">
+          No jobs match the current status filter.
+        </div>
       ) : (
         <div className="overflow-x-auto">
           <table className="min-w-full divide-y divide-line">
@@ -263,7 +306,7 @@ export default function JobTable({ jobs, track }: JobTableProps) {
               </tr>
             </thead>
             <tbody className="divide-y divide-line">
-              {jobs.map((job) => {
+              {filteredJobs.map((job) => {
                 const currentStatus = statusMap[job.url] ?? null;
                 const badgeKey = getStatusKey(currentStatus);
                 const draft = drafts[job.url];
