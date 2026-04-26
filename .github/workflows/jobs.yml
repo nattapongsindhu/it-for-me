@@ -1,10 +1,7 @@
-name: IT For Me — Job Scanner
+name: IT For Me Legacy Job Scanner
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 6 * * *"    # 06:00 UTC = 10:00 PM PST
-    - cron: "0 18 * * *"   # 18:00 UTC = 10:00 AM PST
 
 permissions:
   contents: write
@@ -25,8 +22,8 @@ jobs:
       - name: Fetch jobs
         run: python3 scripts/fetch_jobs.py
         env:
-          USAJOBS_KEY:       ${{ secrets.USAJOBS_KEY }}
-          JOBS_SEARCH_API:   ${{ secrets.JOBS_SEARCH_API }}
+          USAJOBS_KEY: ${{ secrets.USAJOBS_KEY }}
+          JOBS_SEARCH_API: ${{ secrets.JOBS_SEARCH_API }}
 
       - name: Update README
         run: python3 scripts/update_readme.py
@@ -37,12 +34,12 @@ jobs:
       - name: Validate
         run: |
           python3 - <<'EOF'
-          import json, sys
+          import json
           with open("jobs.json") as f:
               d = json.load(f)
           assert "updated" in d, "missing updated"
-          assert "jobs" in d,    "missing jobs"
-          assert "count" in d,   "missing count"
+          assert "jobs" in d, "missing jobs"
+          assert "count" in d, "missing count"
           print(f"OK: {d['count']} jobs, updated {d['updated']}")
           EOF
 
