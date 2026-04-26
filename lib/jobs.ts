@@ -156,6 +156,24 @@ function getTrackMatches(job: RawJob, track: TrackDefinition) {
   return track.keywords.filter((keyword) => haystack.includes(keyword.toLowerCase()));
 }
 
+export function getBestTrackForJob(job: RawJob) {
+  const ranked = TRACKS.map((track) => ({
+    matches: getTrackMatches(job, track),
+    track,
+  }))
+    .filter((item) => item.matches.length > 0)
+    .sort((left, right) => right.matches.length - left.matches.length);
+
+  if (ranked.length === 0) {
+    return null;
+  }
+
+  return {
+    matchReason: `Matched: ${ranked[0].matches.slice(0, 3).join(", ")}`,
+    track: ranked[0].track.slug,
+  };
+}
+
 function sortJobs(items: TrackedJob[]) {
   return [...items].sort((left, right) => {
     const rightTime = new Date(right.posted).getTime();
@@ -197,6 +215,14 @@ function mapJobRowToRawJob(row: JobRow): RawJob {
   };
 }
 
+function mapJobRowToTrackedJob(row: JobRow): TrackedJob {
+  return {
+    ...mapJobRowToRawJob(row),
+    matchReason: "Loaded from the Supabase portfolio catalog.",
+    track: row.track_slug,
+  };
+}
+
 function buildSummaryFromRows(rows: JobRow[]): FeedSummary {
   const updated = rows.reduce((latest, row) => {
     const candidate = row.last_seen_at || row.updated_at || row.created_at;
@@ -233,7 +259,7 @@ async function loadJobsFromSupabase() {
     const rows = data as JobRow[];
 
     return {
-      jobs: rows.map(mapJobRowToRawJob),
+      jobs: rows,
       summary: buildSummaryFromRows(rows),
     };
   } catch {
@@ -258,7 +284,16 @@ export async function getTrackJobs(trackSlug: PortfolioTrack) {
   }
 
   const supabaseFeed = await loadJobsFromSupabase();
-  const sourceJobs = supabaseFeed?.jobs ?? localJobs;
+
+  if (supabaseFeed) {
+    return sortJobs(
+      supabaseFeed.jobs
+        .filter((job) => job.track_slug === trackSlug)
+        .map(mapJobRowToTrackedJob)
+    );
+  }
+
+  const sourceJobs = localJobs;
 
   const matched = sourceJobs
     .map((job) => {
@@ -280,6 +315,12 @@ export async function getTrackJobs(trackSlug: PortfolioTrack) {
 }
 
 export async function getLatestPriorityJobs(limit = 8) {
+  const supabaseFeed = await loadJobsFromSupabase();
+
+  if (supabaseFeed) {
+    return sortJobs(supabaseFeed.jobs.map(mapJobRowToTrackedJob)).slice(0, limit);
+  }
+
   const trackJobs = await Promise.all(TRACKS.map((track) => getTrackJobs(track.slug)));
   const items = trackJobs.flat();
   const uniqueJobs = Array.from(new Map(items.map((job) => [job.url, job])).values());
