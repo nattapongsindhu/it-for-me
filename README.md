@@ -1,7 +1,7 @@
 # 🔍 IT For Me
 
-![Updated](https://img.shields.io/badge/Updated-2026-04-26T19%3A03%3A38Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-65-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-04-27T08%3A35%3A52Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-62-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > Auto-updated twice daily — IT jobs within 5 miles of ZIP 90029 (East LA / Silver Lake area)
@@ -9,10 +9,14 @@
 
 ---
 
-## 💼 Latest Jobs — April 26, 2026
+## 💼 Latest Jobs — April 27, 2026
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
+| Supervisory IT Specialist (Security) | Federal Aviation Administration | FAA Nationwide-Selectee Remains in Current Duty Location | — | 95489 | 2026-04-27 | [Apply](https://www.usajobs.gov:443/job/866560200) |
+| Medical Records Technician (Coder) Auditor | Veterans Health Administration | Anywhere in the U.S. (remote job) | — | 61722 | 2026-04-27 | [Apply](https://www.usajobs.gov:443/job/866491500) |
+| Statistician | Veterans Health Administration | Anywhere in the U.S. (remote job) | — | 89508 | 2026-04-27 | [Apply](https://www.usajobs.gov:443/job/866443600) |
+| Accident Management Center Team Lead | Federal Acquisition Service | Multiple Locations | — | 89508 | 2026-04-27 | [Apply](https://www.usajobs.gov:443/job/866619100) |
 | Clinical Pharmacist Specialist - Pharmacist Quality and Education Manager | Veterans Health Administration | Anywhere in the U.S. (remote job) | — | 106437 | 2026-04-24 | [Apply](https://www.usajobs.gov:443/job/866643800) |
 | User Experience Designer | Office of the Assistant Secretary for Administration and Management | Location Negotiable After Selection | — | 112556 | 2026-04-24 | [Apply](https://www.usajobs.gov:443/job/866497400) |
 | Contract Administrator | Defense Contract Management Agency | Location Negotiable After Selection | — | 125776 | 2026-04-24 | [Apply](https://www.usajobs.gov:443/job/866584300) |
@@ -26,13 +30,9 @@
 | Information Technology Specialist | Office of the Assistant Secretary for Administration and Management | Location Negotiable After Selection | — | 112556 | 2026-04-22 | [Apply](https://www.usajobs.gov:443/job/866127000) |
 | SUPERVISORY INFORMATION TECHNOLOGY PROGRAM MANAGER | Office of the Chief Information Officer | Location Negotiable After Selection | — | 125776 | 2026-04-22 | [Apply](https://www.usajobs.gov:443/job/866000100) |
 | Deputy Chief Officer (Clinical Contact Center) - Detail NTE 120 Days | Veterans Health Administration | Anywhere in the U.S. (remote job) | — | 61722 | 2026-04-22 | [Apply](https://www.usajobs.gov:443/job/866252500) |
-| Physician (Radiologist) - EDRP Eligible | Veterans Health Administration | Anywhere in the U.S. (remote job) | — | 124308 | 2026-04-22 | [Apply](https://www.usajobs.gov:443/job/866312300) |
 | Transportation Specialist - MERIT PROMOTION ONLY | Federal Highway Administration | Multiple Locations | Full Time | 90925 | 2026-04-22 | [Apply](https://www.usajobs.gov:443/job/865978400) |
 | Advanced Practice Provider, Medical Asset Support Team (O-5 Billet) Non-Supervisory - Internal | Immigration and Customs Enforcement | Location Negotiable After Selection | — | 1 | 2026-04-22 | [Apply](https://www.usajobs.gov:443/job/866105100) |
 | Clinical Psychologist - Suicide Prevention 2.0 | Veterans Health Administration | Anywhere in the U.S. (remote job) | — | 144243 | 2026-04-21 | [Apply](https://www.usajobs.gov:443/job/865886300) |
-| Chief Technology Officer | Office of Inspector General | Location Negotiable After Selection | — | 151661 | 2026-04-21 | [Apply](https://www.usajobs.gov:443/job/865983400) |
-| Registered Nurse - VISN 4 Chief Nursing Officer | Veterans Health Administration | Location Negotiable After Selection | — | 210562 | 2026-04-21 | [Apply](https://www.usajobs.gov:443/job/865976900) |
-| Data Scientist | Assistant Secretary for Community Planning and Development | Multiple Locations | — | 121785 | 2026-04-21 | [Apply](https://www.usajobs.gov:443/job/865903700) |
 
 ---
 
@@ -40,13 +40,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 65 |
+| Total jobs found | 62 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-04-26T19:03:38Z |
+| Last updated | 2026-04-27T08:35:52Z |
 | Update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 65 jobs
+- USAJobs: 62 jobs
 
 ---
 
@@ -73,4 +73,4 @@ GitHub Actions (06:00 + 18:00 UTC)
 
 ---
 
-_Auto-generated · Last run: 2026-04-26T19:03:38Z_
+_Auto-generated · Last run: 2026-04-27T08:35:52Z_

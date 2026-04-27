@@ -1,9 +1,49 @@
 {
-  "updated": "2026-04-26T19:03:38Z",
+  "updated": "2026-04-27T08:35:52Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 65,
+  "count": 62,
   "jobs": [
+    {
+      "title": "Supervisory IT Specialist (Security)",
+      "company": "Federal Aviation Administration",
+      "location": "FAA Nationwide-Selectee Remains in Current Duty Location",
+      "url": "https://www.usajobs.gov:443/job/866560200",
+      "salary": "95489",
+      "posted": "2026-04-27",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Medical Records Technician (Coder) Auditor",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/866491500",
+      "salary": "61722",
+      "posted": "2026-04-27",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Statistician",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/866443600",
+      "salary": "89508",
+      "posted": "2026-04-27",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Accident Management Center Team Lead",
+      "company": "Federal Acquisition Service",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/866619100",
+      "salary": "89508",
+      "posted": "2026-04-27",
+      "source": "USAJobs",
+      "type": ""
+    },
     {
       "title": "Clinical Pharmacist Specialist - Pharmacist Quality and Education Manager",
       "company": "Veterans Health Administration",
@@ -135,16 +175,6 @@
       "type": ""
     },
     {
-      "title": "Physician (Radiologist) - EDRP Eligible",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/866312300",
-      "salary": "124308",
-      "posted": "2026-04-22",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
       "title": "Transportation Specialist - MERIT PROMOTION ONLY",
       "company": "Federal Highway Administration",
       "location": "Multiple Locations",
@@ -255,16 +285,6 @@
       "type": ""
     },
     {
-      "title": "Instructional Systems Specialist",
-      "company": "Federal Aviation Administration",
-      "location": "May be filled in various FAA duty locations",
-      "url": "https://www.usajobs.gov:443/job/865696400",
-      "salary": "95489",
-      "posted": "2026-04-18",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
       "title": "Tele - Radiologist (Diagnostic)",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -315,16 +335,6 @@
       "type": ""
     },
     {
-      "title": "Director, Air Traffic Systems",
-      "company": "Federal Aviation Administration",
-      "location": "FAA Location Negotiable Upon Request - See Additional Info",
-      "url": "https://www.usajobs.gov:443/job/865427400",
-      "salary": "153700",
-      "posted": "2026-04-16",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
       "title": "Physician (Regular Ft) - EDRP Authorized",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -340,16 +350,6 @@
       "location": "Los Angeles, California",
       "url": "https://www.usajobs.gov:443/job/865773200",
       "salary": "50459",
-      "posted": "2026-04-15",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
-      "title": "Supervisory Medical Support Assistant",
-      "company": "Veterans Health Administration",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/865773300",
-      "salary": "69220",
       "posted": "2026-04-15",
       "source": "USAJobs",
       "type": ""
@@ -450,16 +450,6 @@
       "location": "Location Negotiable After Selection",
       "url": "https://www.usajobs.gov:443/job/858700600",
       "salary": "89508",
-      "posted": "2026-02-24",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
-      "title": "Public Notice for Engineering Technician (Direct Hire)",
-      "company": "Federal Aviation Administration",
-      "location": "May be filled in various FAA duty locations",
-      "url": "https://www.usajobs.gov:443/job/858693800",
-      "salary": "46830",
       "posted": "2026-02-24",
       "source": "USAJobs",
       "type": ""
@@ -630,26 +620,6 @@
       "location": "Multiple Locations",
       "url": "https://www.usajobs.gov:443/job/846774300",
       "salary": "49960",
-      "posted": "2025-09-29",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
-      "title": "PHYSICAL SCIENTIST (ENVIRONMENTAL)",
-      "company": "Air Force Civilian Career Training",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/846709200",
-      "salary": "49960",
-      "posted": "2025-09-29",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
-      "title": "Student Trainee",
-      "company": "Air Force Civilian Career Training",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/846866000",
-      "salary": "36825",
       "posted": "2025-09-29",
       "source": "USAJobs",
       "type": ""
