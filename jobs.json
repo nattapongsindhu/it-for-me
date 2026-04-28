@@ -1,9 +1,29 @@
 {
-  "updated": "2026-04-28T08:34:06Z",
+  "updated": "2026-04-28T19:48:39Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 59,
+  "count": 60,
   "jobs": [
+    {
+      "title": "Information Technology (IT) Specialist (ENTARCH)",
+      "company": "Veterans Affairs, Inspector General",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/866980900",
+      "salary": "125776",
+      "posted": "2026-04-28",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "IT Specialist",
+      "company": "Farm Production and Conservation (FPAC) Business Center",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/866989200",
+      "salary": "106437",
+      "posted": "2026-04-28",
+      "source": "USAJobs",
+      "type": ""
+    },
     {
       "title": "Supervisory IT Specialist (Security)",
       "company": "Federal Aviation Administration",
@@ -20,6 +40,16 @@
       "location": "FAA Location Negotiable Upon Request - See Additional Info",
       "url": "https://www.usajobs.gov:443/job/866824100",
       "salary": "95489",
+      "posted": "2026-04-28",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Medical Records Technician (Coder In/Out)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/867058400",
+      "salary": "36409",
       "posted": "2026-04-28",
       "source": "USAJobs",
       "type": ""
@@ -55,6 +85,16 @@
       "type": ""
     },
     {
+      "title": "Medical Records Technician (Coder Outpatient and Inpatient)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/866871400",
+      "salary": "37193",
+      "posted": "2026-04-27",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
       "title": "Statistician",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -70,16 +110,6 @@
       "location": "Anywhere in the U.S. (remote job)",
       "url": "https://www.usajobs.gov:443/job/866830400",
       "salary": "61722",
-      "posted": "2026-04-27",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
-      "title": "Medical Records Technician (Coder Outpatient and Inpatient)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/866871400",
-      "salary": "37193",
       "posted": "2026-04-27",
       "source": "USAJobs",
       "type": ""
@@ -375,7 +405,7 @@
       "type": ""
     },
     {
-      "title": "SUP MED RECORDS TECHNICIAN (CO",
+      "title": "Supervisory Medical Records Technician (Coder)",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
       "url": "https://www.usajobs.gov:443/job/861932900",
@@ -570,26 +600,6 @@
       "location": "Multiple Locations",
       "url": "https://www.usajobs.gov:443/job/846773600",
       "salary": "55486",
-      "posted": "2025-09-29",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
-      "title": "PHYSICIST",
-      "company": "Air Force Civilian Career Training",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/846774500",
-      "salary": "49960",
-      "posted": "2025-09-29",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
-      "title": "BIOLOGICAL SCIENTIST (ENVIRONMENTAL)",
-      "company": "Air Force Civilian Career Training",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/846774300",
-      "salary": "49960",
       "posted": "2025-09-29",
       "source": "USAJobs",
       "type": ""
