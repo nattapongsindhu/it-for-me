@@ -2,6 +2,10 @@ name: IT For Me Legacy Job Scanner
 
 on:
   workflow_dispatch:
+  schedule:
+    # GitHub cron uses UTC. These map to 06:00 and 18:00 in Los Angeles during PDT.
+    - cron: "0 13 * * *"
+    - cron: "0 1 * * *"
 
 permissions:
   contents: write
@@ -25,6 +29,9 @@ jobs:
           USAJOBS_KEY: ${{ secrets.USAJOBS_KEY }}
           JOBS_SEARCH_API: ${{ secrets.JOBS_SEARCH_API }}
 
+      - name: Fetch hospital jobs
+        run: python3 scripts/fetch_hospital_jobs.py
+
       - name: Update latest jobs snapshot
         run: python3 scripts/update_readme.py
 
@@ -41,19 +48,34 @@ jobs:
           assert "jobs" in d, "missing jobs"
           assert "count" in d, "missing count"
           print(f"OK: {d['count']} jobs, updated {d['updated']}")
+          with open("hospital_jobs.json") as f:
+              h = json.load(f)
+          assert "updated" in h, "missing hospital updated"
+          assert "jobs" in h, "missing hospital jobs"
+          assert "count" in h, "missing hospital count"
+          print(f"OK: {h['count']} hospital jobs, updated {h['updated']}")
           EOF
 
       - name: Commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions@users.noreply.github.com"
-          git add jobs.json LATEST_JOBS.md index.html
+          git add jobs.json hospital_jobs.json LATEST_JOBS.md index.html
           git stash
           git pull --rebase origin main
           git stash pop
-          git add jobs.json LATEST_JOBS.md index.html
+          git add jobs.json hospital_jobs.json LATEST_JOBS.md index.html
           git diff --cached --quiet && echo "no change" && exit 0
-          git commit -m "jobs: $(python3 -c "import json; d=json.load(open('jobs.json')); print(d['count'])") found near 90029 [$(date -u +%Y-%m-%d)]"
+          COUNTS=$(python3 - <<'EOF'
+          import json
+          with open("jobs.json") as f:
+              local = json.load(f)
+          with open("hospital_jobs.json") as f:
+              hospital = json.load(f)
+          print(f"{local['count']} local, {hospital['count']} hospital")
+          EOF
+          )
+          git commit -m "jobs: ${COUNTS} [$(date -u +%Y-%m-%d)]"
           git push
 
   deploy:
