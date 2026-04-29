@@ -1,4 +1,4 @@
-# 🏥 it-for-me: Healthcare IT Portfolio & Tracker
+# 🏥 it-for-me: IT Portfolio & Tracker
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
