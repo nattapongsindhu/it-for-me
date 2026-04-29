@@ -2,6 +2,7 @@
 
 import { Fragment, useMemo, useState, useTransition } from "react";
 import { useRouter } from "next/navigation";
+import JobFilterBar, { type JobStatusFilter } from "@/app/components/JobFilterBar";
 import {
   APPLICATION_STATUS_OPTIONS,
   getApplicationStatusLabel,
@@ -15,7 +16,6 @@ type JobTableProps = {
 };
 
 type StatusMap = Record<string, ApplicationStatus | null>;
-type StatusFilter = ApplicationStatus | "ALL" | "UNTRACKED";
 type ExpandedDraft = {
   appliedDate: string;
   contactEmail: string;
@@ -89,7 +89,8 @@ export default function JobTable({ jobs, track }: JobTableProps) {
   const [errorMessage, setErrorMessage] = useState<string | null>(null);
   const [successMessage, setSuccessMessage] = useState<string | null>(null);
   const [expandedJobUrl, setExpandedJobUrl] = useState<string | null>(null);
-  const [statusFilter, setStatusFilter] = useState<StatusFilter>("ALL");
+  const [searchTerm, setSearchTerm] = useState("");
+  const [statusFilter, setStatusFilter] = useState<JobStatusFilter>("ALL");
   const trackingEnabled = process.env.NODE_ENV !== "production";
   const [statusMap, setStatusMap] = useState<StatusMap>(() =>
     jobs.reduce<StatusMap>((accumulator, job) => {
@@ -109,22 +110,36 @@ export default function JobTable({ jobs, track }: JobTableProps) {
     [statusMap]
   );
   const filteredJobs = useMemo(
-    () =>
-      jobs.filter((job) => {
-        if (statusFilter === "ALL") {
-          return true;
-        }
+    () => {
+      const normalizedSearch = searchTerm.trim().toLowerCase();
 
+      return jobs.filter((job) => {
         const currentStatus = statusMap[job.url] ?? null;
+        const matchesSearch =
+          normalizedSearch.length === 0 ||
+          [job.title, job.company, job.location, job.source, job.type]
+            .join(" ")
+            .toLowerCase()
+            .includes(normalizedSearch);
+
+        if (!matchesSearch) {
+          return false;
+        }
 
         if (statusFilter === "UNTRACKED") {
           return currentStatus === null;
         }
 
         return currentStatus === statusFilter;
-      }),
-    [jobs, statusFilter, statusMap]
+      });
+    },
+    [jobs, searchTerm, statusFilter, statusMap]
   );
+
+  function clearFilters() {
+    setSearchTerm("");
+    setStatusFilter("ALL");
+  }
 
   async function updateStatus(job: TrackedJob, nextStatus: ApplicationStatus) {
     if (!job.jobId) {
@@ -246,30 +261,14 @@ export default function JobTable({ jobs, track }: JobTableProps) {
               </p>
             ) : null}
           </div>
-          <div className="flex flex-col gap-3 md:items-end">
-            <label className="text-xs font-semibold uppercase tracking-[0.24em] text-slate-500">
-              Filter by status
-            </label>
-            <div className="flex flex-wrap items-center gap-3">
-              <select
-                className="rounded-full border border-slate-300 bg-white px-4 py-2 text-sm text-slate-700 outline-none transition focus:border-slate-900"
-                onChange={(event) => setStatusFilter(event.target.value as StatusFilter)}
-                value={statusFilter}
-              >
-                <option value="ALL">All statuses</option>
-                <option value="UNTRACKED">Not tracked</option>
-                {APPLICATION_STATUS_OPTIONS.map((option) => (
-                  <option key={option.value} value={option.value}>
-                    {option.label}
-                  </option>
-                ))}
-              </select>
-              <div className="rounded-full border border-line bg-slate-50 px-4 py-2 text-xs font-semibold uppercase tracking-[0.24em] text-slate-600">
-                {trackedCount} tracked
-              </div>
-            </div>
-          </div>
         </div>
+        <JobFilterBar
+          onSearch={setSearchTerm}
+          onStatusChange={setStatusFilter}
+          searchTerm={searchTerm}
+          statusFilter={statusFilter}
+          trackedCount={trackedCount}
+        />
         {errorMessage ? (
           <p className="mt-4 rounded-[1rem] border border-rose-200 bg-rose-50 px-4 py-3 text-sm text-rose-700">
             {errorMessage}
@@ -288,8 +287,19 @@ export default function JobTable({ jobs, track }: JobTableProps) {
           the main goal is to keep the portfolio structure clean and easy to extend.
         </div>
       ) : filteredJobs.length === 0 ? (
-        <div className="px-6 py-12 text-sm leading-7 text-slate-600">
-          No jobs match the current status filter.
+        <div className="px-6 py-12">
+          <div className="rounded-[1.5rem] border border-dashed border-slate-300 bg-slate-50 p-8 text-center">
+            <p className="text-sm font-medium text-slate-600">
+              No jobs currently match this view.
+            </p>
+            <button
+              className="mt-4 text-sm font-semibold text-sky-700 transition hover:text-sky-900 hover:underline"
+              onClick={clearFilters}
+              type="button"
+            >
+              Clear filters to see all available jobs
+            </button>
+          </div>
         </div>
       ) : (
         <div className="overflow-x-auto">

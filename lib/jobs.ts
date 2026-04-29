@@ -336,6 +336,29 @@ function buildApplicationSummary(rows: TrackedJob[]): ApplicationSummary {
   );
 }
 
+export function getFollowUpJobs(jobs: TrackedJob[]) {
+  const today = new Date().toISOString().slice(0, 10);
+
+  return jobs
+    .filter((job) => {
+      if (!job.applicationStatus || !job.followUpDate) {
+        return false;
+      }
+
+      return (
+        job.followUpDate <= today &&
+        !["OFFER", "REJECTED", "WITHDRAWN"].includes(job.applicationStatus)
+      );
+    })
+    .sort((left, right) => {
+      if (left.followUpDate === right.followUpDate) {
+        return left.title.localeCompare(right.title);
+      }
+
+      return (left.followUpDate ?? "").localeCompare(right.followUpDate ?? "");
+    });
+}
+
 async function loadApplicationsByJobId(jobIds: string[]) {
   if (!hasSupabaseServiceRoleKey() || jobIds.length === 0) {
     return new Map<string, ApplicationRow>();
@@ -494,6 +517,18 @@ export async function getLatestPriorityJobs(limit = 8) {
   const uniqueJobs = Array.from(new Map(items.map((job) => [job.url, job])).values());
 
   return sortJobs(uniqueJobs).slice(0, limit);
+}
+
+export async function getAllPortfolioJobs() {
+  const supabaseFeed = await loadJobsFromSupabase();
+
+  if (supabaseFeed) {
+    return sortJobs(supabaseFeed.jobs);
+  }
+
+  const trackJobs = await Promise.all(TRACKS.map((track) => getTrackJobs(track.slug)));
+  const items = trackJobs.flat();
+  return sortJobs(Array.from(new Map(items.map((job) => [job.url, job])).values()));
 }
 
 export function getTrackBySlug(trackSlug: PortfolioTrack) {

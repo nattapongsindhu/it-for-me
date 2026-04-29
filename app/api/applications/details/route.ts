@@ -1,5 +1,4 @@
 import { NextResponse } from "next/server";
-import { type ApplicationStatus } from "@/lib/application-status";
 import { createSupabaseAdminClient } from "@/lib/supabase/admin";
 import { hasSupabaseServiceRoleKey } from "@/lib/supabase/env";
 
@@ -15,7 +14,6 @@ type DetailsPayload = {
 
 type ExistingApplication = {
   id: string;
-  status: ApplicationStatus;
 };
 
 type JobSnapshot = {
@@ -88,7 +86,7 @@ export async function POST(request: Request) {
     const job = jobData as JobSnapshot;
     const { data: existingData, error: existingError } = await supabase
       .from("applications")
-      .select("id, status")
+      .select("id")
       .eq("job_id", jobId)
       .order("updated_at", { ascending: false })
       .limit(1)
@@ -117,37 +115,25 @@ export async function POST(request: Request) {
     };
 
     const existingApplication = existingData as ExistingApplication | null;
+    const { error: upsertError } = await supabase.from("applications").upsert({
+      ...(existingApplication ? { id: existingApplication.id } : {}),
+      ...payload,
+      job_id: job.id,
+      ...(existingApplication
+        ? {}
+        : {
+            status: "SAVED",
+            status_updated_at: new Date().toISOString(),
+          }),
+    });
 
-    if (existingApplication) {
-      const { error: updateError } = await supabase
-        .from("applications")
-        .update(payload)
-        .eq("id", existingApplication.id);
-
-      if (updateError) {
-        return NextResponse.json(
-          {
-            error: updateError.message,
-          },
-          { status: 500 }
-        );
-      }
-    } else {
-      const { error: insertError } = await supabase.from("applications").insert({
-        ...payload,
-        job_id: job.id,
-        status: "SAVED",
-        status_updated_at: new Date().toISOString(),
-      });
-
-      if (insertError) {
-        return NextResponse.json(
-          {
-            error: insertError.message,
-          },
-          { status: 500 }
-        );
-      }
+    if (upsertError) {
+      return NextResponse.json(
+        {
+          error: upsertError.message,
+        },
+        { status: 500 }
+      );
     }
 
     return NextResponse.json({

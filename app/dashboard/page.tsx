@@ -1,9 +1,14 @@
 import Link from "next/link";
+import AnalyticsBrief from "@/app/components/AnalyticsBrief";
+import CareerLaneChart from "@/app/components/CareerLaneChart";
+import FollowUpQueue from "@/app/components/FollowUpQueue";
 import JobTable from "@/app/components/JobTable";
 import StatCard from "@/app/components/StatCard";
 import {
+  getAllPortfolioJobs,
   getApplicationSummary,
   getFeedSummary,
+  getFollowUpJobs,
   getLatestPriorityJobs,
   getRoadmap,
   getTrackBySlug,
@@ -34,6 +39,8 @@ export default async function DashboardPage() {
   const roadmap = getRoadmap();
   const featuredTrack = getTrackBySlug("it-helpdesk");
   const featuredJobs = await getLatestPriorityJobs(8);
+  const portfolioJobs = await getAllPortfolioJobs();
+  const followUpJobs = getFollowUpJobs(portfolioJobs);
 
   return (
     <div className="space-y-6">
@@ -50,6 +57,12 @@ export default async function DashboardPage() {
           system clean, professional, and easy to extend without overwhelming a beginner.
         </p>
       </section>
+
+      <FollowUpQueue followUpJobs={followUpJobs} />
+
+      <AnalyticsBrief jobs={portfolioJobs} tracks={tracks} />
+
+      <CareerLaneChart jobs={portfolioJobs} />
 
       <section className="grid gap-4 md:grid-cols-2 xl:grid-cols-4">
         <StatCard
