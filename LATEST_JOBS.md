@@ -1,6 +1,6 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-04-28T19%3A48%3A39Z-blue?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-04-29T00%3A18%3A45Z-blue?style=flat-square)
 ![Jobs](https://img.shields.io/badge/Jobs_Found-60-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
@@ -8,7 +8,7 @@
 
 ---
 
-## Latest Jobs - April 28, 2026
+## Latest Jobs - April 29, 2026
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
@@ -16,7 +16,7 @@
 | IT Specialist | Farm Production and Conservation (FPAC) Business Center | Location Negotiable After Selection | Not listed | 106437 | 2026-04-28 | [Apply](https://www.usajobs.gov:443/job/866989200) |
 | Supervisory IT Specialist (Security) | Federal Aviation Administration | FAA Nationwide-Selectee Remains in Current Duty Location | Not listed | 95489 | 2026-04-28 | [Apply](https://www.usajobs.gov:443/job/866813600) |
 | Supervisory Management & Program Analyst | Federal Aviation Administration | FAA Location Negotiable Upon Request - See Additional Info | Not listed | 95489 | 2026-04-28 | [Apply](https://www.usajobs.gov:443/job/866824100) |
-| Medical Records Technician (Coder In/Out) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 36409 | 2026-04-28 | [Apply](https://www.usajobs.gov:443/job/867058400) |
+| Medical Records Technician (Coder In/Out) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 36409 | 2026-04-28 | [Apply](https://www.usajobs.gov:443/job/867058000) |
 | Chaplain | Veterans Health Administration | Los Angeles, California | Not listed | 104349 | 2026-04-28 | [Apply](https://www.usajobs.gov:443/job/866889900) |
 | It Specialist (Digital  Advisor) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 147945 | 2026-04-27 | [Apply](https://www.usajobs.gov:443/job/866821300) |
 | Medical Records Technician (Coder) Auditor | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-04-27 | [Apply](https://www.usajobs.gov:443/job/866491500) |
@@ -41,7 +41,7 @@
 |--------|-------|
 | Total jobs found | 60 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-04-28T19:48:39Z |
+| Last updated | 2026-04-29T00:18:45Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-04-28T19:48:39Z_
+_Auto-generated legacy snapshot. Last run: 2026-04-29T00:18:45Z_

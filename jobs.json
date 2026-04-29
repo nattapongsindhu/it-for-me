@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-28T19:48:39Z",
+  "updated": "2026-04-29T00:18:45Z",
   "zip": "90029",
   "radius_mi": 5,
   "count": 60,
@@ -48,7 +48,7 @@
       "title": "Medical Records Technician (Coder In/Out)",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/867058400",
+      "url": "https://www.usajobs.gov:443/job/867058000",
       "salary": "36409",
       "posted": "2026-04-28",
       "source": "USAJobs",
@@ -405,21 +405,21 @@
       "type": ""
     },
     {
-      "title": "Supervisory Medical Records Technician (Coder)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/861932900",
-      "salary": "52619",
-      "posted": "2026-03-23",
-      "source": "USAJobs",
-      "type": ""
-    },
-    {
       "title": "Criminal Investigator, GS-1811-12/13 (MP)",
       "company": "Office of Inspector General",
       "location": "Multiple Locations",
       "url": "https://www.usajobs.gov:443/job/862186900",
       "salary": "89508",
+      "posted": "2026-03-23",
+      "source": "USAJobs",
+      "type": ""
+    },
+    {
+      "title": "Supervisory Medical Records Technician (Coder)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/861932900",
+      "salary": "52619",
       "posted": "2026-03-23",
       "source": "USAJobs",
       "type": ""
