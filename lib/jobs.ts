@@ -1,4 +1,5 @@
 import jobFeed from "@/jobs.json";
+import hospitalFeed from "@/hospital_jobs.json";
 import { cache } from "react";
 import {
   getApplicationStatusLabel as getSharedApplicationStatusLabel,
@@ -104,6 +105,11 @@ type TrackDefinition = PortfolioTrackMeta & {
   keywords: string[];
 };
 
+type HospitalSnapshotJob = RawJob & {
+  match_reason?: string;
+  source_key?: string;
+};
+
 const TRACKS: TrackDefinition[] = [
   {
     slug: "biomedical-device",
@@ -192,6 +198,12 @@ const TRACKS: TrackDefinition[] = [
 
 const localJobs = (jobFeed.jobs as RawJob[]).map((job) => ({
   ...job,
+  type: job.type?.trim() || "Open",
+}));
+
+const hospitalSnapshotJobs = (hospitalFeed.jobs as HospitalSnapshotJob[]).map((job) => ({
+  ...job,
+  posted: job.posted?.trim() || hospitalFeed.updated.slice(0, 10),
   type: job.type?.trim() || "Open",
 }));
 
@@ -487,7 +499,31 @@ export async function getTrackJobs(trackSlug: PortfolioTrack) {
   const supabaseFeed = await loadJobsFromSupabase();
 
   if (supabaseFeed) {
-    return sortJobs(supabaseFeed.jobs.filter((job) => job.track === trackSlug));
+    const supabaseJobs = sortJobs(supabaseFeed.jobs.filter((job) => job.track === trackSlug));
+
+    if (trackSlug !== "hospital-careers" || supabaseJobs.length > 0) {
+      return supabaseJobs;
+    }
+  }
+
+  if (trackSlug === "hospital-careers") {
+    return sortJobs(
+      hospitalSnapshotJobs.map((job) => ({
+        ...job,
+        applicationId: null,
+        applicationStatus: null,
+        appliedDate: null,
+        contactEmail: null,
+        contactName: null,
+        followUpDate: null,
+        interviewDate: null,
+        jobId: null,
+        matchReason: job.match_reason ?? "Loaded from the direct hospital career snapshot.",
+        notes: null,
+        sourceKey: job.source_key ?? null,
+        track: "hospital-careers",
+      }))
+    );
   }
 
   const matched = localJobs.reduce<TrackedJob[]>((accumulator, job) => {
