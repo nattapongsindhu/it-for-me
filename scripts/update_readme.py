@@ -73,7 +73,7 @@ def main():
         "```",
         "Legacy automation",
         "  fetch_jobs.py -> jobs.json",
-        "  update_readme.py -> README.md",
+        "  update_readme.py -> LATEST_JOBS.md",
         "  update_dashboard.py -> index.html",
         "```",
         "",
@@ -82,10 +82,10 @@ def main():
         f"_Auto-generated legacy snapshot. Last run: {updated}_\n",
     ]
 
-    with open("README.md", "w", encoding="utf-8") as file_handle:
+    with open("LATEST_JOBS.md", "w", encoding="utf-8") as file_handle:
         file_handle.write("\n".join(readme_parts))
 
-    print(f"README.md updated with a legacy snapshot for {count} jobs")
+    print(f"LATEST_JOBS.md updated with a legacy snapshot for {count} jobs")
 
 
 if __name__ == "__main__":
