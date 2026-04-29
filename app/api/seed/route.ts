@@ -136,6 +136,7 @@ export async function GET() {
     {
       "biomedical-device": 0,
       "facilities-tech": 0,
+      "hospital-careers": 0,
       "it-helpdesk": 0,
     }
   );

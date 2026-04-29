@@ -8,7 +8,11 @@ import { createSupabaseAdminClient } from "@/lib/supabase/admin";
 import { hasSupabaseEnv, hasSupabaseServiceRoleKey } from "@/lib/supabase/env";
 import { createSupabaseServerClient } from "@/lib/supabase/server";
 
-export type PortfolioTrack = "biomedical-device" | "it-helpdesk" | "facilities-tech";
+export type PortfolioTrack =
+  | "biomedical-device"
+  | "it-helpdesk"
+  | "facilities-tech"
+  | "hospital-careers";
 
 export type PortfolioTrackMeta = {
   slug: PortfolioTrack;
@@ -173,6 +177,16 @@ const TRACKS: TrackDefinition[] = [
       "operations",
       "equipment support",
     ],
+  },
+  {
+    slug: "hospital-careers",
+    name: "Hospital Careers",
+    shortName: "Hospitals",
+    description:
+      "Focuses on direct hospital career sources across Greater Los Angeles medical centers.",
+    focus:
+      "Phase 5 will connect hospital career boards for Healthcare IT, BMET, facilities, and technical support opportunities.",
+    keywords: [],
   },
 ];
 

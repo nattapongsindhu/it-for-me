@@ -2,7 +2,15 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { LayoutDashboard, Menu, MonitorCog, Stethoscope, Wrench, X } from "lucide-react";
+import {
+  Hospital,
+  LayoutDashboard,
+  Menu,
+  MonitorCog,
+  Stethoscope,
+  Wrench,
+  X,
+} from "lucide-react";
 import { useState } from "react";
 
 const navigation = [
@@ -29,6 +37,12 @@ const navigation = [
     href: "/jobs/facilities-tech",
     icon: Wrench,
     note: "Maintenance, technician, and field operations pathways",
+  },
+  {
+    name: "Hospital Careers",
+    href: "/jobs/hospital-careers",
+    icon: Hospital,
+    note: "Direct hospital career sources across Greater Los Angeles",
   },
 ];
 
