@@ -2,9 +2,8 @@
 fetch_hospital_jobs.py
 Fetch direct hospital career listings for the Phase 5 hospital-careers lane.
 
-Step 5.2.1 covers Kaiser Permanente and Huntington Health only. The script
-writes a separate hospital_jobs.json snapshot so the legacy USAJobs feed stays
-isolated until the Supabase sync step is ready.
+The script writes a separate hospital_jobs.json snapshot so the legacy USAJobs
+feed stays isolated until the Supabase sync step is ready.
 """
 
 import datetime
@@ -12,11 +11,13 @@ from html.parser import HTMLParser
 import json
 import re
 import sys
+import time
 import urllib.parse
 import urllib.request
 
 TRACK_SLUG = "hospital-careers"
 SOURCE = "Hospital_Direct"
+REQUEST_DELAY_SECONDS = 1.0
 
 KAISER_URLS = [
     "https://www.kaiserpermanentejobs.org/category/information-technology-jobs/641/11210/1",
@@ -25,23 +26,95 @@ KAISER_URLS = [
 
 HUNTINGTON_URL = "https://www.hhcareers.com/career-search"
 
+GENERIC_LINK_SOURCES = [
+    {
+        "company": "Cedars-Sinai",
+        "hospital_name": "Cedars-Sinai",
+        "location": "Los Angeles, CA",
+        "urls": [
+            "https://careers.cshs.org/choose-your-area-of-interest-information-technology",
+            "https://careers.cshs.org/search-jobs",
+        ],
+        "job_path": "/job/",
+    },
+    {
+        "company": "UCLA Health",
+        "hospital_name": "UCLA Health",
+        "location": "Los Angeles, CA",
+        "urls": [
+            "https://www.uclahealthcareers.org/job-search-results/?primary_category%5B%5D=Information+Technology",
+            "https://www.uclahealthcareers.org/career-areas/information-careers/",
+            "https://www.uclahealthcareers.org/non-clinical-careers/",
+        ],
+        "job_path": "/job/",
+    },
+    {
+        "company": "Keck Medicine of USC",
+        "hospital_name": "Keck Medicine of USC",
+        "location": "Los Angeles, CA",
+        "urls": [
+            "https://www.keckmedicine.org/keck-medicine-careers-information/",
+        ],
+        "job_path": "/job/",
+    },
+    {
+        "company": "Children's Hospital Los Angeles",
+        "hospital_name": "Children's Hospital Los Angeles",
+        "location": "Los Angeles, CA",
+        "urls": [
+            "https://www.chla.org/careers",
+        ],
+        "job_path": "/careers/jobs/",
+    },
+    {
+        "company": "Providence Saint Joseph Medical Center",
+        "hospital_name": "Providence Saint Joseph Medical Center",
+        "location": "Burbank, CA",
+        "urls": [
+            "https://providence-burbank.jobs/",
+        ],
+        "job_path": "/job/",
+    },
+]
+
+COMMONSPIRIT_JOB_URLS = [
+    "https://www.commonspirit.careers/en/job/glendale/maintenance-mechanic-i/35300/88427204080",
+    "https://www.commonspirit.careers/job/glendale/maintenance-mechanic-ii/35300/88427204336",
+    "https://www.commonspirit.careers/job/glendale/maintenance-mechanic-iii/35300/89557141872",
+    "https://www.commonspirit.careers/job/glendale/instrument-tech/35300/93728030752",
+    "https://www.commonspirit.careers/job/glendale/central-service-tech-i/35300/91601441424",
+]
+
 TARGET_KEYWORDS = [
+    "application specialist",
+    "applications specialist",
+    "bmet",
     "biomedical",
+    "biomedical equipment",
     "clinical technology",
     "clinical systems",
     "desktop",
+    "electrical",
+    "electronics",
     "endpoint",
     "epic",
     "facilities",
     "field technician",
+    "help desk",
     "imaging",
+    "informatics",
     "information technology",
     "it support",
     "kphc",
     "maintenance",
     "medical equipment",
+    "network",
+    "radiant",
+    "security systems",
+    "sterile processing",
     "systems administrator",
     "technician",
+    "technologist",
 ]
 
 KAISER_LOCATION_KEYWORDS = [
@@ -87,6 +160,16 @@ HUNTINGTON_TECH_KEYWORDS = [
     "clinical technology",
     "equipment",
     "nuclear medicine tech",
+]
+
+EXCLUDED_TITLE_KEYWORDS = [
+    "registered nurse",
+    "rn ",
+    "physician",
+    "dietitian",
+    "food service",
+    "environmental service",
+    "security officer",
 ]
 
 
@@ -137,6 +220,7 @@ def absolute_url(base_url, href):
 
 
 def fetch_html(url):
+    time.sleep(REQUEST_DELAY_SECONDS)
     request = urllib.request.Request(
         url,
         headers={
@@ -168,6 +252,11 @@ def keyword_match(job):
     return [keyword for keyword in TARGET_KEYWORDS if keyword in haystack]
 
 
+def is_excluded_title(title):
+    haystack = f"{title} ".lower()
+    return any(keyword in haystack for keyword in EXCLUDED_TITLE_KEYWORDS)
+
+
 def huntington_match(job):
     title = job.get("title", "").lower()
 
@@ -190,6 +279,24 @@ def make_source_key(hospital_name, url, title):
     return normalize_space(raw)
 
 
+def build_job(title, company, hospital_name, location, url, job_type, match_reason):
+    title = normalize_space(title).rstrip(",")
+    return {
+        "title": title,
+        "company": company,
+        "hospital_name": hospital_name,
+        "location": location,
+        "url": url,
+        "salary": "",
+        "posted": "",
+        "source": SOURCE,
+        "source_key": make_source_key(hospital_name, url, title),
+        "track_slug": TRACK_SLUG,
+        "type": job_type or "Open",
+        "match_reason": match_reason,
+    }
+
+
 def parse_kaiser_link(base_url, link):
     text = normalize_space(link["text"])
     if "/job/" not in link.get("href", ""):
@@ -210,20 +317,15 @@ def parse_kaiser_link(base_url, link):
     job_type = ", ".join(tail_parts[:3])
     url = absolute_url(base_url, link["href"])
 
-    return {
-        "title": normalize_space(match.group("title")).rstrip(","),
-        "company": "Kaiser Permanente",
-        "hospital_name": "Kaiser Permanente",
-        "location": f"{normalize_space(match.group('city'))}, {match.group('state')}",
-        "url": url,
-        "salary": "",
-        "posted": "",
-        "source": SOURCE,
-        "source_key": make_source_key("Kaiser Permanente", url, text),
-        "track_slug": TRACK_SLUG,
-        "type": job_type or "Open",
-        "match_reason": "Direct Kaiser career listing.",
-    }
+    return build_job(
+        title=match.group("title"),
+        company="Kaiser Permanente",
+        hospital_name="Kaiser Permanente",
+        location=f"{normalize_space(match.group('city'))}, {match.group('state')}",
+        url=url,
+        job_type=job_type or "Open",
+        match_reason="Direct Kaiser career listing.",
+    )
 
 
 def fetch_kaiser_jobs():
@@ -326,6 +428,100 @@ def fetch_huntington_jobs():
     return parse_huntington_jobs_from_events(parser.events)
 
 
+def parse_generic_link_source(source):
+    jobs = []
+
+    for source_url in source["urls"]:
+        try:
+            parser = parse_html(fetch_html(source_url))
+        except Exception as error:
+            print(
+                f"{source['hospital_name']} fetch error for {source_url}: {error}",
+                file=sys.stderr,
+            )
+            continue
+
+        for link in parser.links:
+            href = link.get("href", "")
+            title = normalize_space(link.get("text", ""))
+
+            if source["job_path"] not in href or not title or is_excluded_title(title):
+                continue
+
+            url = absolute_url(source_url, href)
+            job = build_job(
+                title=title,
+                company=source["company"],
+                hospital_name=source["hospital_name"],
+                location=source["location"],
+                url=url,
+                job_type="Open",
+                match_reason=f"Direct {source['hospital_name']} career listing.",
+            )
+            matches = keyword_match(job)
+
+            if not matches:
+                continue
+
+            job["match_reason"] = f"{source['hospital_name']} direct match: {', '.join(matches[:3])}"
+            jobs.append(job)
+
+    return jobs
+
+
+def extract_direct_title(parser):
+    blocked = {
+        "apply",
+        "apply now",
+        "save for later",
+        "about us",
+        "our mission",
+    }
+
+    for _, text in event_texts(parser.events):
+        clean = normalize_space(text)
+        if len(clean) < 6 or clean.lower() in blocked:
+            continue
+        if " at commonspirit health" in clean.lower():
+            return clean.split(" at CommonSpirit Health")[0].strip()
+        if any(keyword in clean.lower() for keyword in TARGET_KEYWORDS):
+            return clean
+
+    return ""
+
+
+def fetch_commonspirit_jobs():
+    jobs = []
+
+    for url in COMMONSPIRIT_JOB_URLS:
+        try:
+            parser = parse_html(fetch_html(url))
+        except Exception as error:
+            print(f"CommonSpirit fetch error for {url}: {error}", file=sys.stderr)
+            continue
+
+        title = extract_direct_title(parser)
+        if not title or is_excluded_title(title):
+            continue
+
+        job = build_job(
+            title=title,
+            company="Dignity Health",
+            hospital_name="Glendale Memorial Hospital and Health",
+            location="Glendale, CA",
+            url=url,
+            job_type="Facilities",
+            match_reason="Direct CommonSpirit / Dignity Health career listing.",
+        )
+        matches = keyword_match(job)
+
+        if matches:
+            job["match_reason"] = f"Dignity Health direct match: {', '.join(matches[:3])}"
+            jobs.append(job)
+
+    return jobs
+
+
 def dedupe(jobs):
     seen = set()
     clean = []
@@ -345,13 +541,16 @@ def main():
     now = datetime.datetime.now(datetime.UTC).strftime("%Y-%m-%dT%H:%M:%SZ")
     jobs = fetch_kaiser_jobs()
     jobs += fetch_huntington_jobs()
+    jobs += fetch_commonspirit_jobs()
+    for source in GENERIC_LINK_SOURCES:
+        jobs += parse_generic_link_source(source)
     jobs = dedupe(jobs)
     jobs.sort(key=lambda job: (job["hospital_name"], job["title"]))
 
     result = {
         "updated": now,
         "count": len(jobs),
-        "sources": ["Kaiser Permanente", "Huntington Health"],
+        "sources": sorted({job["hospital_name"] for job in jobs}),
         "track_slug": TRACK_SLUG,
         "jobs": jobs,
     }
