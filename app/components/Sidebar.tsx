@@ -135,11 +135,11 @@ export default function Sidebar() {
             Current Focus
           </p>
           <p className="mt-2 text-sm font-semibold text-white">
-            Phase 4 - Production Ready
+            Phase 5 - Stable & Automated
           </p>
           <p className="mt-2 text-sm leading-6 text-slate-300">
-            The portfolio is live on Vercel with real-time analytics, client-side filtering, and
-            strict security guardrails. Application tracking is fully operational.
+            The portfolio is fully automated with a multi-source medical network scraper,
+            twice-daily sync, salary normalization, and production security guardrails.
           </p>
         </div>
 
