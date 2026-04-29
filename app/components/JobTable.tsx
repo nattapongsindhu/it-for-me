@@ -126,6 +126,10 @@ export default function JobTable({ jobs, track }: JobTableProps) {
           return false;
         }
 
+        if (statusFilter === "ALL") {
+          return true;
+        }
+
         if (statusFilter === "UNTRACKED") {
           return currentStatus === null;
         }
