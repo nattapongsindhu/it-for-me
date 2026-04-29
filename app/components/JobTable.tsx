@@ -9,6 +9,7 @@ import {
   type ApplicationStatus,
 } from "@/lib/application-status";
 import { type PortfolioTrackMeta, type TrackedJob } from "@/lib/jobs";
+import { formatNormalizedSalary } from "@/lib/salary";
 
 type JobTableProps = {
   jobs: TrackedJob[];
@@ -35,20 +36,6 @@ const statusBadgeClasses: Record<string, string> = {
   UNTRACKED: "border-slate-200 bg-slate-50 text-slate-600",
   WITHDRAWN: "border-slate-300 bg-slate-100 text-slate-700",
 };
-
-function formatSalary(value: string) {
-  const numeric = Number(value);
-
-  if (!Number.isFinite(numeric) || numeric <= 1) {
-    return "Salary not listed";
-  }
-
-  return new Intl.NumberFormat("en-US", {
-    style: "currency",
-    currency: "USD",
-    maximumFractionDigits: 0,
-  }).format(numeric);
-}
 
 function formatDate(value: string) {
   const date = new Date(value);
@@ -331,9 +318,12 @@ export default function JobTable({ jobs, track }: JobTableProps) {
                     <tr className="align-top">
                       <td className="px-6 py-5">
                         <p className="font-semibold text-ink">{job.title}</p>
-                        <p className="mt-2 text-xs leading-5 text-slate-500">
-                          {formatSalary(job.salary)} - {job.source}
-                        </p>
+                        <div className="mt-2 flex flex-wrap items-center gap-2 text-xs leading-5">
+                          <span className="rounded-full border border-emerald-200 bg-emerald-50 px-3 py-1 font-semibold text-emerald-700">
+                            {formatNormalizedSalary(job.salary)}
+                          </span>
+                          <span className="text-slate-500">{job.source}</span>
+                        </div>
                       </td>
                       <td className="px-6 py-5 text-sm text-slate-700">{job.company}</td>
                       <td className="px-6 py-5 text-sm text-slate-700">{job.location}</td>

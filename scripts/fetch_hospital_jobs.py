@@ -18,6 +18,7 @@ import urllib.request
 TRACK_SLUG = "hospital-careers"
 SOURCE = "Hospital_Direct"
 REQUEST_DELAY_SECONDS = 1.0
+HOURS_PER_YEAR = 2080
 
 KAISER_URLS = [
     "https://www.kaiserpermanentejobs.org/category/information-technology-jobs/641/11210/1",
@@ -215,6 +216,37 @@ def normalize_space(value):
     return re.sub(r"\s+", " ", value or "").strip()
 
 
+def normalize_salary(value):
+    numbers = [
+        float(item.replace(",", ""))
+        for item in re.findall(r"\d[\d,]*(?:\.\d+)?", value or "")
+    ]
+    numbers = [item for item in numbers if item > 0]
+
+    if not numbers:
+        return {"salary_annual": None, "salary_hourly": None}
+
+    midpoint = sum(numbers) / len(numbers)
+    normalized = value.lower()
+    is_hourly = (
+        "hour" in normalized
+        or "/hr" in normalized
+        or "per hr" in normalized
+        or max(numbers) <= 300
+    )
+
+    if is_hourly:
+        return {
+            "salary_annual": round(midpoint * HOURS_PER_YEAR, 2),
+            "salary_hourly": round(midpoint, 2),
+        }
+
+    return {
+        "salary_annual": round(midpoint, 2),
+        "salary_hourly": round(midpoint / HOURS_PER_YEAR, 2),
+    }
+
+
 def absolute_url(base_url, href):
     return urllib.parse.urljoin(base_url, href)
 
@@ -288,6 +320,8 @@ def build_job(title, company, hospital_name, location, url, job_type, match_reas
         "location": location,
         "url": url,
         "salary": "",
+        "salary_annual": None,
+        "salary_hourly": None,
         "posted": "",
         "source": SOURCE,
         "source_key": make_source_key(hospital_name, url, title),
@@ -545,6 +579,8 @@ def main():
     for source in GENERIC_LINK_SOURCES:
         jobs += parse_generic_link_source(source)
     jobs = dedupe(jobs)
+    for job in jobs:
+        job.update(normalize_salary(job.get("salary", "")))
     jobs.sort(key=lambda job: (job["hospital_name"], job["title"]))
 
     result = {
