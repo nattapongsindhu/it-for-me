@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-29T15:14:40Z",
-  "count": 16,
+  "updated": "2026-04-30T04:37:16Z",
+  "count": 17,
   "sources": [
     "Cedars-Sinai",
     "Glendale Memorial Hospital and Health",
@@ -42,22 +42,6 @@
       "match_reason": "Cedars-Sinai direct match: bmet, biomedical, biomedical equipment"
     },
     {
-      "title": "Biomedical Technician Cedars-Sinai Medical Center Beverly Hills, CA Academic / Research Req ID: 16621",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/beverly-hills/biomedical-technician/252/94500080464",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/biomedical-technician/252/94500080464",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: biomedical, technician"
-    },
-    {
       "title": "Epic Clarity Analyst/ SQL Developer - Remote",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
@@ -88,6 +72,38 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: informatics"
+    },
+    {
+      "title": "Nuclear Medicine Technologist, Full-time, Day Shift Cedars-Sinai Marina Hospital Marina del Rey, CA Imaging Req ID: 10716",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/marina-del-rey/nuclear-medicine-technologist-full-time-day-shift/252/91952103472",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/marina-del-rey/nuclear-medicine-technologist-full-time-day-shift/252/91952103472",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: imaging, technologist"
+    },
+    {
+      "title": "Ultrasound Technologist, Full-Time, Days Cedars-Sinai Marina Hospital Marina del Rey, CA Imaging Req ID: 15806",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/marina-del-rey/ultrasound-technologist-full-time-days/252/94532441088",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/marina-del-rey/ultrasound-technologist-full-time-days/252/94532441088",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: imaging, technologist"
     },
     {
       "title": "Central Service Tech I",

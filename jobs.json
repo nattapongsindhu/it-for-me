@@ -1,9 +1,33 @@
 {
-  "updated": "2026-04-29T15:14:37Z",
+  "updated": "2026-04-30T04:37:08Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 62,
+  "count": 64,
   "jobs": [
+    {
+      "title": "Supervisory Information Technology Program Manager",
+      "company": "Office of the Assistant Secretary for Administration and Management",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/867238000",
+      "salary": "156451",
+      "posted": "2026-04-30",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 156451.0,
+      "salary_hourly": 75.22
+    },
+    {
+      "title": "Physician - Cardiology",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/867237300",
+      "salary": "320000",
+      "posted": "2026-04-29",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 320000.0,
+      "salary_hourly": 153.85
+    },
     {
       "title": "Supervisory Social Science Program Specialist",
       "company": "Veterans Health Administration",
@@ -41,6 +65,18 @@
       "salary_hourly": 63.95
     },
     {
+      "title": "Technical Director, GPS Ground System-PCC",
+      "company": "Space Systems Command",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/867252500",
+      "salary": "146632",
+      "posted": "2026-04-29",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 146632.0,
+      "salary_hourly": 70.5
+    },
+    {
       "title": "Supervisory Financial Manager",
       "company": "Animal and Plant Health Inspection Service",
       "location": "Location Negotiable After Selection",
@@ -53,18 +89,6 @@
       "salary_hourly": 60.47
     },
     {
-      "title": "Registered Nurse (Clinical Contact Center)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/867164000",
-      "salary": "82819",
-      "posted": "2026-04-29",
-      "source": "USAJobs",
-      "type": "Holiday work is mandatory and will be assigned based on seniority.",
-      "salary_annual": 82819.0,
-      "salary_hourly": 39.82
-    },
-    {
       "title": "Technical Surveillance Specialist",
       "company": "Bureau of Alcohol, Tobacco, Firearms, and Explosives",
       "location": "Multiple Locations",
@@ -75,6 +99,18 @@
       "type": "",
       "salary_annual": 90925.0,
       "salary_hourly": 43.71
+    },
+    {
+      "title": "Legal Administrative Specialist (Litigation Support)",
+      "company": "Equal Employment Opportunity Commission",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/867290400",
+      "salary": "107446",
+      "posted": "2026-04-29",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 107446.0,
+      "salary_hourly": 51.66
     },
     {
       "title": "Information Technology (IT) Specialist (ENTARCH)",
@@ -197,18 +233,6 @@
       "salary_hourly": 43.03
     },
     {
-      "title": "Medical Records Technician (Coder Outpatient and Inpatient)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/866871700",
-      "salary": "37193",
-      "posted": "2026-04-27",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 37193.0,
-      "salary_hourly": 17.88
-    },
-    {
       "title": "Accident Management Center Team Lead",
       "company": "Federal Acquisition Service",
       "location": "Multiple Locations",
@@ -291,18 +315,6 @@
       "type": "",
       "salary_annual": 147945.0,
       "salary_hourly": 71.13
-    },
-    {
-      "title": "INTELLIGENCE SPECIALIST",
-      "company": "United States Space Force",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/866182100",
-      "salary": "124085",
-      "posted": "2026-04-23",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 124085.0,
-      "salary_hourly": 59.66
     },
     {
       "title": "Financial Analyst",
@@ -449,6 +461,18 @@
       "salary_hourly": 60.47
     },
     {
+      "title": "Director, Air Traffic Systems",
+      "company": "Federal Aviation Administration",
+      "location": "FAA Location Negotiable Upon Request - See Additional Info",
+      "url": "https://www.usajobs.gov:443/job/865427400",
+      "salary": "153700",
+      "posted": "2026-04-16",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 153700.0,
+      "salary_hourly": 73.89
+    },
+    {
       "title": "Physician - Psychiatrist",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -495,18 +519,6 @@
       "type": "",
       "salary_annual": 22584.0,
       "salary_hourly": 10.86
-    },
-    {
-      "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
-      "company": "Defense Contract Management Agency",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/862698900",
-      "salary": "89859",
-      "posted": "2026-03-26",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 89859.0,
-      "salary_hourly": 43.2
     },
     {
       "title": "Supervisory Medical Records Technician (Coder)",
@@ -747,6 +759,18 @@
       "type": "",
       "salary_annual": 55486.0,
       "salary_hourly": 26.68
+    },
+    {
+      "title": "PHYSICIST",
+      "company": "Air Force Civilian Career Training",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/846774500",
+      "salary": "49960",
+      "posted": "2025-09-29",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 49960.0,
+      "salary_hourly": 24.02
     }
   ]
 }
