@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-30T15:11:04Z",
+  "updated": "2026-05-01T04:53:38Z",
   "count": 17,
   "sources": [
     "Cedars-Sinai",
@@ -9,22 +9,6 @@
   ],
   "track_slug": "hospital-careers",
   "jobs": [
-    {
-      "title": "Applications Specialist in Enterprise Imaging - Hybrid",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/applications-specialist-in-enterprise-imaging-hybrid/252/93774825760",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/applications-specialist-in-enterprise-imaging-hybrid/252/93774825760",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: applications specialist, imaging"
-    },
     {
       "title": "Biomedical Equipment Technician (BMET) II - Onsite (Evenings, 10-Hour Shift)",
       "company": "Cedars-Sinai",
@@ -40,6 +24,38 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: bmet, biomedical, biomedical equipment"
+    },
+    {
+      "title": "Biomedical Technician - Biomanufacturing Center Cedars-Sinai Medical Center West Hollywood, CA Academic / Research Req ID: 16146",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/west-hollywood/biomedical-technician-biomanufacturing-center/252/94569828592",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/west-hollywood/biomedical-technician-biomanufacturing-center/252/94569828592",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: biomedical, technician"
+    },
+    {
+      "title": "Diagnostic Imaging Systems Admin Cedars-Sinai Medical Care Foundation Beverly Hills, CA Imaging Req ID: 15841",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/beverly-hills/diagnostic-imaging-systems-admin/252/94227945472",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/diagnostic-imaging-systems-admin/252/94227945472",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: imaging"
     },
     {
       "title": "Epic Clarity Analyst/ SQL Developer - Remote",
@@ -74,36 +90,20 @@
       "match_reason": "Cedars-Sinai direct match: informatics"
     },
     {
-      "title": "Nuclear Medicine Technologist, Full-time, Day Shift Cedars-Sinai Marina Hospital Marina del Rey, CA Imaging Req ID: 10716",
+      "title": "Stationary Engineer, Central Plant - Plant Operations - Full Time Cedars-Sinai Medical Center Los Angeles, CA Facilities Req ID: 15916",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/marina-del-rey/nuclear-medicine-technologist-full-time-day-shift/252/91952103472",
+      "url": "https://careers.cshs.org/job/los-angeles/stationary-engineer-central-plant-plant-operations-full-time/252/92893962976",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/marina-del-rey/nuclear-medicine-technologist-full-time-day-shift/252/91952103472",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/stationary-engineer-central-plant-plant-operations-full-time/252/92893962976",
       "track_slug": "hospital-careers",
       "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging, technologist"
-    },
-    {
-      "title": "Ultrasound Technologist, Full-Time, Days Cedars-Sinai Marina Hospital Marina del Rey, CA Imaging Req ID: 15806",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/marina-del-rey/ultrasound-technologist-full-time-days/252/94532441088",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/marina-del-rey/ultrasound-technologist-full-time-days/252/94532441088",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging, technologist"
+      "match_reason": "Cedars-Sinai direct match: facilities"
     },
     {
       "title": "Central Service Tech I",
