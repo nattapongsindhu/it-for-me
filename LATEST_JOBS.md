@@ -1,7 +1,7 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-05-01T04%3A53%3A36Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-64-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-05-01T14%3A17%3A16Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-62-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
@@ -12,6 +12,11 @@
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
+| IT Portfolio Data Visualization | Office of the Secretary of the Interior | Anywhere in the U.S. (remote job) | 8 - 20 hours per week | 0 | 2026-05-01 | [Apply](https://www.usajobs.gov:443/job/867522500) |
+| IT Cybersecurity Specialist (INFOSEC) | Deputy Assistant Secretary for Information and Technology | Multiple Locations | Not listed | 106437 | 2026-05-01 | [Apply](https://www.usajobs.gov:443/job/867543500) |
+| Automation and Process Improvement | Office of the Secretary of the Interior | Anywhere in the U.S. (remote job) | 8 - 20 hours per week | 0 | 2026-05-01 | [Apply](https://www.usajobs.gov:443/job/867522100) |
+| Beneficiary Outreach Support | Bureau of Trust Funds Administration | Anywhere in the U.S. (remote job) | 8 - 20 hours per week | 0 | 2026-05-01 | [Apply](https://www.usajobs.gov:443/job/867520400) |
+| Training Administrator | Defense Health Agency | Location Negotiable After Selection | Not listed | 106437 | 2026-05-01 | [Apply](https://www.usajobs.gov:443/job/867527500) |
 | IT Specialist | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 147945 | 2026-04-30 | [Apply](https://www.usajobs.gov:443/job/867416500) |
 | IT Specialist (APPSW/DATAMGT) | Veterans Affairs, Inspector General | Location Negotiable After Selection | Not listed | 89508 | 2026-04-30 | [Apply](https://www.usajobs.gov:443/job/867326000) |
 | Supervisory Information Technology Program Manager | Office of the Assistant Secretary for Administration and Management | Location Negotiable After Selection | Not listed | 156451 | 2026-04-30 | [Apply](https://www.usajobs.gov:443/job/867238000) |
@@ -27,11 +32,6 @@
 | Medical Records Technician (Coder) Auditor- (Outpatient and Inpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-04-29 | [Apply](https://www.usajobs.gov:443/job/867107000) |
 | Supervisory Financial Manager | Animal and Plant Health Inspection Service | Location Negotiable After Selection | Not listed | 125776 | 2026-04-29 | [Apply](https://www.usajobs.gov:443/job/867065500) |
 | Technical Surveillance Specialist | Bureau of Alcohol, Tobacco, Firearms, and Explosives | Multiple Locations | Not listed | 90925 | 2026-04-29 | [Apply](https://www.usajobs.gov:443/job/867123300) |
-| Legal Administrative Specialist (Litigation Support) | Equal Employment Opportunity Commission | Location Negotiable After Selection | Not listed | 107446 | 2026-04-29 | [Apply](https://www.usajobs.gov:443/job/867290400) |
-| Information Technology (IT) Specialist (ENTARCH) | Veterans Affairs, Inspector General | Location Negotiable After Selection | Not listed | 125776 | 2026-04-28 | [Apply](https://www.usajobs.gov:443/job/866980900) |
-| IT Specialist | Farm Production and Conservation (FPAC) Business Center | Location Negotiable After Selection | Not listed | 106437 | 2026-04-28 | [Apply](https://www.usajobs.gov:443/job/866989200) |
-| Supervisory IT Specialist (Security) | Federal Aviation Administration | FAA Nationwide-Selectee Remains in Current Duty Location | Not listed | 95489 | 2026-04-28 | [Apply](https://www.usajobs.gov:443/job/866813600) |
-| Supervisory Management & Program Analyst | Federal Aviation Administration | FAA Location Negotiable Upon Request - See Additional Info | Not listed | 95489 | 2026-04-28 | [Apply](https://www.usajobs.gov:443/job/866824100) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 64 |
+| Total jobs found | 62 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-05-01T04:53:36Z |
+| Last updated | 2026-05-01T14:17:16Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 64 jobs
+- USAJobs: 62 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-05-01T04:53:36Z_
+_Auto-generated legacy snapshot. Last run: 2026-05-01T14:17:16Z_

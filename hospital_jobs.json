@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-01T04:53:38Z",
-  "count": 17,
+  "updated": "2026-05-01T14:17:19Z",
+  "count": 15,
   "sources": [
     "Cedars-Sinai",
     "Glendale Memorial Hospital and Health",
@@ -232,38 +232,6 @@
       "match_reason": "Huntington direct match: engineer, stationary engineer",
       "salary_annual": null,
       "salary_hourly": null
-    },
-    {
-      "title": "Director, Clinical / Service Delivery",
-      "company": "Kaiser Permanente",
-      "hospital_name": "Kaiser Permanente",
-      "location": "Medical Imaging Los Angeles, CA",
-      "url": "https://www.kaiserpermanentejobs.org/job/los-angeles/director-clinical-service-delivery-medical-imaging/641/94021614288",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::kaiser permanente::https://www.kaiserpermanentejobs.org/job/los-angeles/director-clinical-service-delivery-medical-imaging/641/94021614288",
-      "track_slug": "hospital-careers",
-      "type": "Flexible, Full-time, Day",
-      "match_reason": "Kaiser direct match: imaging"
-    },
-    {
-      "title": "IT Consultant IV, Solutions-SSD (Radiant - EPIC)",
-      "company": "Kaiser Permanente",
-      "hospital_name": "Kaiser Permanente",
-      "location": "SCAL Pasadena, CA",
-      "url": "https://www.kaiserpermanentejobs.org/job/pasadena/it-consultant-iv-solutions-ssd-radiant-epic-scal/641/84716077424",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::kaiser permanente::https://www.kaiserpermanentejobs.org/job/pasadena/it-consultant-iv-solutions-ssd-radiant-epic-scal/641/84716077424",
-      "track_slug": "hospital-careers",
-      "type": "Flexible, Full-time, Day",
-      "match_reason": "Kaiser direct match: epic, radiant"
     },
     {
       "title": "IT Support Technician - SSD - EPIC",
