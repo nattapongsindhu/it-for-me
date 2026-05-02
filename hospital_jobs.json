@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-01T14:17:19Z",
-  "count": 15,
+  "updated": "2026-05-02T04:22:19Z",
+  "count": 14,
   "sources": [
     "Cedars-Sinai",
     "Glendale Memorial Hospital and Health",
@@ -24,38 +24,6 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: bmet, biomedical, biomedical equipment"
-    },
-    {
-      "title": "Biomedical Technician - Biomanufacturing Center Cedars-Sinai Medical Center West Hollywood, CA Academic / Research Req ID: 16146",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/west-hollywood/biomedical-technician-biomanufacturing-center/252/94569828592",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/west-hollywood/biomedical-technician-biomanufacturing-center/252/94569828592",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: biomedical, technician"
-    },
-    {
-      "title": "Diagnostic Imaging Systems Admin Cedars-Sinai Medical Care Foundation Beverly Hills, CA Imaging Req ID: 15841",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/beverly-hills/diagnostic-imaging-systems-admin/252/94227945472",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/diagnostic-imaging-systems-admin/252/94227945472",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging"
     },
     {
       "title": "Epic Clarity Analyst/ SQL Developer - Remote",
@@ -90,20 +58,36 @@
       "match_reason": "Cedars-Sinai direct match: informatics"
     },
     {
-      "title": "Stationary Engineer, Central Plant - Plant Operations - Full Time Cedars-Sinai Medical Center Los Angeles, CA Facilities Req ID: 15916",
+      "title": "Instrument Technician - 8hr, Days (Calabasas) Cedars-Sinai Medical Care Foundation Los Angeles, CA Clinical Operations Req ID: 16707",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/stationary-engineer-central-plant-plant-operations-full-time/252/92893962976",
+      "url": "https://careers.cshs.org/job/los-angeles/instrument-technician-8hr-days-calabasas/252/94608117472",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/stationary-engineer-central-plant-plant-operations-full-time/252/92893962976",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/instrument-technician-8hr-days-calabasas/252/94608117472",
       "track_slug": "hospital-careers",
       "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: facilities"
+      "match_reason": "Cedars-Sinai direct match: technician"
+    },
+    {
+      "title": "Specialty Technician II - GI Lab - 12-Hour - Full Time - Days Cedars-Sinai Medical Center Los Angeles, CA Clinical Operations Req ID: 16406",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/specialty-technician-ii-gi-lab-12-hour-full-time-days/252/93546261264",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/specialty-technician-ii-gi-lab-12-hour-full-time-days/252/93546261264",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: technician"
     },
     {
       "title": "Central Service Tech I",
