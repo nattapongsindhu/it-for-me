@@ -1,14 +1,14 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-05-02T14%3A10%3A22Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-60-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-05-03T04%3A44%3A42Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-59-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
 
 ---
 
-## Latest Jobs - May 02, 2026
+## Latest Jobs - May 03, 2026
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 60 |
+| Total jobs found | 59 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-05-02T14:10:22Z |
+| Last updated | 2026-05-03T04:44:42Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 60 jobs
+- USAJobs: 59 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-05-02T14:10:22Z_
+_Auto-generated legacy snapshot. Last run: 2026-05-03T04:44:42Z_

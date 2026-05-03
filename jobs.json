@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-02T14:10:22Z",
+  "updated": "2026-05-03T04:44:42Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 60,
+  "count": 59,
   "jobs": [
     {
       "title": "IT Portfolio Data Visualization",
@@ -315,18 +315,6 @@
       "type": "",
       "salary_annual": 95489.0,
       "salary_hourly": 45.91
-    },
-    {
-      "title": "Contract Administrator",
-      "company": "Defense Contract Management Agency",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/866889800",
-      "salary": "125776",
-      "posted": "2026-04-28",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
     },
     {
       "title": "Chaplain",
