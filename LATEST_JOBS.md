@@ -1,7 +1,7 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-05-04T04%3A44%3A45Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-60-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-05-04T15%3A10%3A14Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-59-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
@@ -12,6 +12,8 @@
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
+| Medical Records Technician (Coder) Auditor | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-05-04 | [Apply](https://www.usajobs.gov:443/job/867721000) |
+| Supervisory Workers' Compensation Claims Examiner | Office of Workers' Compensation Programs | Anywhere in the U.S. (remote job) | Not listed | 125776 | 2026-05-04 | [Apply](https://www.usajobs.gov:443/job/867695300) |
 | Program Analyst | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 89508 | 2026-05-04 | [Apply](https://www.usajobs.gov:443/job/867414600) |
 | Contract Specialist | Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys | Location Negotiable After Selection | Not listed | 61722 | 2026-05-04 | [Apply](https://www.usajobs.gov:443/job/867603600) |
 | IT Portfolio Data Visualization | Office of the Secretary of the Interior | Anywhere in the U.S. (remote job) | 8 - 20 hours per week | 0 | 2026-05-01 | [Apply](https://www.usajobs.gov:443/job/867522500) |
@@ -30,8 +32,6 @@
 | Senior Software Developer | Railroad Retirement Board | Anywhere in the U.S. (remote job) | Incumbent may be required to work outside of normal duty hours, such as nights, weekends, and holidays, due to operational needs. | 90925 | 2026-04-30 | [Apply](https://www.usajobs.gov:443/job/867462100) |
 | Examiner/Senior Examiner (Operational Risk) | Federal Housing Finance Agency | Location Negotiable After Selection | Not listed | 111677 | 2026-04-30 | [Apply](https://www.usajobs.gov:443/job/867360200) |
 | Management & Program Analyst | Government Accountability Office | Location Negotiable After Selection | Not listed | 117929 | 2026-04-30 | [Apply](https://www.usajobs.gov:443/job/867379900) |
-| Supervisory Contracts Program Support Specialist | Office of the Assistant Secretary for Administration and Management | Location Negotiable After Selection | Not listed | 133007 | 2026-04-29 | [Apply](https://www.usajobs.gov:443/job/867002300) |
-| Technical Director, GPS Ground System-PCC | Space Systems Command | Los Angeles, California | Not listed | 146632 | 2026-04-29 | [Apply](https://www.usajobs.gov:443/job/867252500) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 60 |
+| Total jobs found | 59 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-05-04T04:44:45Z |
+| Last updated | 2026-05-04T15:10:14Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 60 jobs
+- USAJobs: 59 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-05-04T04:44:45Z_
+_Auto-generated legacy snapshot. Last run: 2026-05-04T15:10:14Z_

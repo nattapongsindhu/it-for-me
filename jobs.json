@@ -1,9 +1,33 @@
 {
-  "updated": "2026-05-04T04:44:45Z",
+  "updated": "2026-05-04T15:10:14Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 60,
+  "count": 59,
   "jobs": [
+    {
+      "title": "Medical Records Technician (Coder) Auditor",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/867721000",
+      "salary": "61722",
+      "posted": "2026-05-04",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 61722.0,
+      "salary_hourly": 29.67
+    },
+    {
+      "title": "Supervisory Workers' Compensation Claims Examiner",
+      "company": "Office of Workers' Compensation Programs",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/867695300",
+      "salary": "125776",
+      "posted": "2026-05-04",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 125776.0,
+      "salary_hourly": 60.47
+    },
     {
       "title": "Program Analyst",
       "company": "Veterans Health Administration",
@@ -353,18 +377,6 @@
       "salary_hourly": 50.17
     },
     {
-      "title": "Medical Records Technician (Coder) Auditor",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/866491500",
-      "salary": "61722",
-      "posted": "2026-04-27",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 61722.0,
-      "salary_hourly": 29.67
-    },
-    {
       "title": "Accident Management Center Team Lead",
       "company": "Federal Acquisition Service",
       "location": "Multiple Locations",
@@ -459,18 +471,6 @@
       "type": "",
       "salary_annual": 151661.0,
       "salary_hourly": 72.91
-    },
-    {
-      "title": "Data Scientist",
-      "company": "Assistant Secretary for Community Planning and Development",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/865903700",
-      "salary": "121785",
-      "posted": "2026-04-21",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 121785.0,
-      "salary_hourly": 58.55
     },
     {
       "title": "IT Spec (APPSW) \"Principal Software Engineer\", GS-2210-15, FPL GS-15 (DH), Full-time",
@@ -579,18 +579,6 @@
       "type": "",
       "salary_annual": 89508.0,
       "salary_hourly": 43.03
-    },
-    {
-      "title": "Public Notice for Engineering Technician (Direct Hire)",
-      "company": "Federal Aviation Administration",
-      "location": "May be filled in various FAA duty locations",
-      "url": "https://www.usajobs.gov:443/job/858693800",
-      "salary": "46830",
-      "posted": "2026-02-24",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 46830.0,
-      "salary_hourly": 22.51
     },
     {
       "title": "Physician - Diagnostic Radiologist",
