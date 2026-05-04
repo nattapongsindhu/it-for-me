@@ -1,17 +1,19 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-05-03T14%3A11%3A06Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-59-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-05-04T04%3A44%3A45Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-60-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
 
 ---
 
-## Latest Jobs - May 03, 2026
+## Latest Jobs - May 04, 2026
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
+| Program Analyst | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 89508 | 2026-05-04 | [Apply](https://www.usajobs.gov:443/job/867414600) |
+| Contract Specialist | Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys | Location Negotiable After Selection | Not listed | 61722 | 2026-05-04 | [Apply](https://www.usajobs.gov:443/job/867603600) |
 | IT Portfolio Data Visualization | Office of the Secretary of the Interior | Anywhere in the U.S. (remote job) | 8 - 20 hours per week | 0 | 2026-05-01 | [Apply](https://www.usajobs.gov:443/job/867522500) |
 | IT Cybersecurity Specialist (INFOSEC) | Deputy Assistant Secretary for Information and Technology | Multiple Locations | Not listed | 106437 | 2026-05-01 | [Apply](https://www.usajobs.gov:443/job/867543500) |
 | Physician (Radiologist-Remote) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 375000 | 2026-05-01 | [Apply](https://www.usajobs.gov:443/job/867605000) |
@@ -30,8 +32,6 @@
 | Management & Program Analyst | Government Accountability Office | Location Negotiable After Selection | Not listed | 117929 | 2026-04-30 | [Apply](https://www.usajobs.gov:443/job/867379900) |
 | Supervisory Contracts Program Support Specialist | Office of the Assistant Secretary for Administration and Management | Location Negotiable After Selection | Not listed | 133007 | 2026-04-29 | [Apply](https://www.usajobs.gov:443/job/867002300) |
 | Technical Director, GPS Ground System-PCC | Space Systems Command | Los Angeles, California | Not listed | 146632 | 2026-04-29 | [Apply](https://www.usajobs.gov:443/job/867252500) |
-| Medical Records Technician (Coder) Auditor- (Outpatient and Inpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-04-29 | [Apply](https://www.usajobs.gov:443/job/867107000) |
-| Supervisory Financial Manager | Animal and Plant Health Inspection Service | Location Negotiable After Selection | Not listed | 125776 | 2026-04-29 | [Apply](https://www.usajobs.gov:443/job/867065500) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 59 |
+| Total jobs found | 60 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-05-03T14:11:06Z |
+| Last updated | 2026-05-04T04:44:45Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 59 jobs
+- USAJobs: 60 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-05-03T14:11:06Z_
+_Auto-generated legacy snapshot. Last run: 2026-05-04T04:44:45Z_

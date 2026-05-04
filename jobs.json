@@ -1,9 +1,33 @@
 {
-  "updated": "2026-05-03T14:11:06Z",
+  "updated": "2026-05-04T04:44:45Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 59,
+  "count": 60,
   "jobs": [
+    {
+      "title": "Program Analyst",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/867414600",
+      "salary": "89508",
+      "posted": "2026-05-04",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 89508.0,
+      "salary_hourly": 43.03
+    },
+    {
+      "title": "Contract Specialist",
+      "company": "Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/867603600",
+      "salary": "61722",
+      "posted": "2026-05-04",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 61722.0,
+      "salary_hourly": 29.67
+    },
     {
       "title": "IT Portfolio Data Visualization",
       "company": "Office of the Secretary of the Interior",
@@ -363,18 +387,6 @@
       "type": "",
       "salary_annual": 111677.0,
       "salary_hourly": 53.69
-    },
-    {
-      "title": "Legal Assistant (OA)",
-      "company": "Internal Revenue Service",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/866629200",
-      "salary": "55882",
-      "posted": "2026-04-27",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 55882.0,
-      "salary_hourly": 26.87
     },
     {
       "title": "Clinical Pharmacist Specialist - Pharmacist Quality and Education Manager",
