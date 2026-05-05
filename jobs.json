@@ -1,9 +1,21 @@
 {
-  "updated": "2026-05-05T04:20:37Z",
+  "updated": "2026-05-05T15:08:47Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 63,
+  "count": 64,
   "jobs": [
+    {
+      "title": "It Specialist (OS)",
+      "company": "Deputy Assistant Secretary for Information and Technology",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/867866400",
+      "salary": "106437",
+      "posted": "2026-05-05",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
+    },
     {
       "title": "IT Specialist (SYSADMIN/OS)",
       "company": "Deputy Assistant Secretary for Information and Technology",
@@ -27,6 +39,30 @@
       "type": "",
       "salary_annual": 95489.0,
       "salary_hourly": 45.91
+    },
+    {
+      "title": "Social Science Specialist (Crisis Responder)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/867872100",
+      "salary": "74678",
+      "posted": "2026-05-05",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 74678.0,
+      "salary_hourly": 35.9
+    },
+    {
+      "title": "Supervisory Procurement Analyst (Chief, Acquisition Policy and Grants Division)",
+      "company": "Library of Congress",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/867887000",
+      "salary": "169279",
+      "posted": "2026-05-05",
+      "source": "USAJobs",
+      "type": "Flexitime, Compflex, Maxiflex",
+      "salary_annual": 169279.0,
+      "salary_hourly": 81.38
     },
     {
       "title": "Supervisory Criminal Investigator",
@@ -75,18 +111,6 @@
       "type": "",
       "salary_annual": 325000.0,
       "salary_hourly": 156.25
-    },
-    {
-      "title": "Physician-Diagnostic Radiologist-Recruitment/Relocation-EDRP Authorized",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/867689000",
-      "salary": "124308",
-      "posted": "2026-05-04",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 124308.0,
-      "salary_hourly": 59.76
     },
     {
       "title": "Medical Records Technician (Coder) Auditor",
@@ -483,18 +507,6 @@
       "type": "",
       "salary_annual": 89508.0,
       "salary_hourly": 43.03
-    },
-    {
-      "title": "Examiner/Senior Examiner (Capital Markets)",
-      "company": "Federal Housing Finance Agency",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/866771900",
-      "salary": "111677",
-      "posted": "2026-04-27",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 111677.0,
-      "salary_hourly": 53.69
     },
     {
       "title": "Clinical Pharmacist Specialist - Pharmacist Quality and Education Manager",
