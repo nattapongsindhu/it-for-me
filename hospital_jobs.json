@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-04T15:10:16Z",
+  "updated": "2026-05-05T04:20:38Z",
   "count": 15,
   "sources": [
     "Cedars-Sinai",
@@ -58,6 +58,38 @@
       "match_reason": "Cedars-Sinai direct match: informatics"
     },
     {
+      "title": "Lead Radiation Therapist - 10-Hour Day Shift Cedars-Sinai Medical Center Los Angeles, CA Imaging Req ID: 17151",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/lead-radiation-therapist-10-hour-day-shift/252/94708149808",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/lead-radiation-therapist-10-hour-day-shift/252/94708149808",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: imaging"
+    },
+    {
+      "title": "Nuclear Medicine Technologist - Los Angeles Cedars-Sinai Medical Care Foundation Los Angeles, CA Imaging Req ID: 16247",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/nuclear-medicine-technologist-los-angeles/252/93650612928",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/nuclear-medicine-technologist-los-angeles/252/93650612928",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: imaging, technologist"
+    },
+    {
       "title": "Pharmacy Technician - Controlled Substance Surveillance Cedars-Sinai Medical Center Beverly Hills, CA Pharmacy Req ID: 16718",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
@@ -72,38 +104,6 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: technician"
-    },
-    {
-      "title": "Sterile Processing Tech (SPD Tech) - Per Diem - Marina del Rey Hospital Cedars-Sinai Marina Hospital Marina del Rey, CA Clinical Operations Req ID: 16554",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/marina-del-rey/sterile-processing-tech-spd-tech-per-diem-marina-del-rey-hospital/252/94653973104",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/marina-del-rey/sterile-processing-tech-spd-tech-per-diem-marina-del-rey-hospital/252/94653973104",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: sterile processing"
-    },
-    {
-      "title": "Ultrasound Technologist, Full-Time, Days Cedars-Sinai Marina Hospital Marina del Rey, CA Imaging Req ID: 15806",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/marina-del-rey/ultrasound-technologist-full-time-days/252/94532441088",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/marina-del-rey/ultrasound-technologist-full-time-days/252/94532441088",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging, technologist"
     },
     {
       "title": "Central Service Tech I",
