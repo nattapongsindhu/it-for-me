@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-06T04:37:05Z",
+  "updated": "2026-05-06T15:27:19Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 60,
+  "count": 61,
   "jobs": [
     {
       "title": "It Specialist (OS)",
@@ -27,6 +27,18 @@
       "type": "",
       "salary_annual": 106437.0,
       "salary_hourly": 51.17
+    },
+    {
+      "title": "Physician - Urology",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/867992600",
+      "salary": "124308",
+      "posted": "2026-05-05",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 124308.0,
+      "salary_hourly": 59.76
     },
     {
       "title": "Program Specialist",
@@ -99,18 +111,6 @@
       "type": "",
       "salary_annual": 42947.0,
       "salary_hourly": 20.65
-    },
-    {
-      "title": "Physician - Diagnostic Radiologist",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/867789400",
-      "salary": "325000",
-      "posted": "2026-05-04",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 325000.0,
-      "salary_hourly": 156.25
     },
     {
       "title": "Physician-Diagnostic Radiologist-Recruitment/Relocation-EDRP Authorized",
@@ -389,18 +389,6 @@
       "salary_hourly": 56.7
     },
     {
-      "title": "Physician - Cardiology",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/867237300",
-      "salary": "320000",
-      "posted": "2026-04-29",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 320000.0,
-      "salary_hourly": 153.85
-    },
-    {
       "title": "Technical Director, GPS Ground System-PCC",
       "company": "Space Systems Command",
       "location": "Los Angeles, California",
@@ -615,6 +603,30 @@
       "type": "",
       "salary_annual": 84114.0,
       "salary_hourly": 40.44
+    },
+    {
+      "title": "Radiologist- Hampton (Remote)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/858447900",
+      "salary": "350000",
+      "posted": "2026-02-20",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 350000.0,
+      "salary_hourly": 168.27
+    },
+    {
+      "title": "Physician - Diagnostic Radiologist",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/854743800",
+      "salary": "375000",
+      "posted": "2026-01-16",
+      "source": "USAJobs",
+      "type": "Evening shift with negotiable tour of duty.",
+      "salary_annual": 375000.0,
+      "salary_hourly": 180.29
     },
     {
       "title": "Special Agent - Cybersecurity/Technology Background",
