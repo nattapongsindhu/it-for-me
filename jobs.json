@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-07T04:37:51Z",
+  "updated": "2026-05-07T15:28:25Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 58,
+  "count": 60,
   "jobs": [
     {
       "title": "IT Specialist (INFOSEC)",
@@ -29,6 +29,18 @@
       "salary_hourly": 60.47
     },
     {
+      "title": "MEDICAL RECORDS TECHNICAN (CODER) AUDITOR",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/868307900",
+      "salary": "61722",
+      "posted": "2026-05-07",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 61722.0,
+      "salary_hourly": 29.67
+    },
+    {
       "title": "Supervisory Program Analyst",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -53,6 +65,18 @@
       "salary_hourly": 69.19
     },
     {
+      "title": "Physician (Cardiology)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/868303900",
+      "salary": "124308",
+      "posted": "2026-05-07",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 124308.0,
+      "salary_hourly": 59.76
+    },
+    {
       "title": "Account Executive",
       "company": "Assistant Secretary for Housing-Federal Housing Commissioner",
       "location": "Multiple Locations",
@@ -63,6 +87,18 @@
       "type": "",
       "salary_annual": 106437.0,
       "salary_hourly": 51.17
+    },
+    {
+      "title": "Lead Medical Support Assistant",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/868258600",
+      "salary": "50460",
+      "posted": "2026-05-07",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 50460.0,
+      "salary_hourly": 24.26
     },
     {
       "title": "IT System Administrator GS 7/9",
@@ -459,18 +495,6 @@
       "type": "",
       "salary_annual": 95489.0,
       "salary_hourly": 45.91
-    },
-    {
-      "title": "Medical Records Technician (Coder In/Out)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/867058000",
-      "salary": "36409",
-      "posted": "2026-04-28",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 36409.0,
-      "salary_hourly": 17.5
     },
     {
       "title": "Chaplain",

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-07T04:37:53Z",
-  "count": 12,
+  "updated": "2026-05-07T15:28:28Z",
+  "count": 11,
   "sources": [
     "Cedars-Sinai",
     "Glendale Memorial Hospital and Health",
@@ -56,22 +56,6 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: informatics"
-    },
-    {
-      "title": "Project Manager - Strategic Integration, Medical Network Cedars-Sinai Medical Center Los Angeles, CA Administrative Req ID: 14244",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/project-manager-strategic-integration-medical-network/252/91952108976",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/project-manager-strategic-integration-medical-network/252/91952108976",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: network"
     },
     {
       "title": "ServiceNow Developer - Remote Cedars-Sinai Medical Center Los Angeles, CA Information Technology Req ID: 16974",
