@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-07T15:28:28Z",
-  "count": 11,
+  "updated": "2026-05-08T04:19:22Z",
+  "count": 9,
   "sources": [
     "Cedars-Sinai",
     "Glendale Memorial Hospital and Health",
@@ -26,22 +26,6 @@
       "match_reason": "Cedars-Sinai direct match: bmet, biomedical, biomedical equipment"
     },
     {
-      "title": "CT Manager - CT Imaging - 8-Hour Day Shift Cedars-Sinai Medical Center Beverly Hills, CA Imaging Req ID: 17160",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/beverly-hills/ct-manager-ct-imaging-8-hour-day-shift/252/94735336912",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/ct-manager-ct-imaging-8-hour-day-shift/252/94735336912",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging"
-    },
-    {
       "title": "Executive Director, Research Informatics (Academic & Translational Science)",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
@@ -56,38 +40,6 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: informatics"
-    },
-    {
-      "title": "ServiceNow Developer - Remote Cedars-Sinai Medical Center Los Angeles, CA Information Technology Req ID: 16974",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/servicenow-developer-remote/252/94792219904",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/servicenow-developer-remote/252/94792219904",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: information technology"
-    },
-    {
-      "title": "Supervisor, Clinical Engineering - Onsite @ Cedars-Sinai Marina Hospital Cedars-Sinai Medical Center Marina del Rey, CA Information Technology Req ID: 17199",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/marina-del-rey/supervisor-clinical-engineering-onsite-cedars-sinai-marina-hospital/252/94792220992",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/marina-del-rey/supervisor-clinical-engineering-onsite-cedars-sinai-marina-hospital/252/94792220992",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: information technology"
     },
     {
       "title": "Central Service Tech I",
@@ -168,6 +120,22 @@
       "match_reason": "Huntington direct match: plumber",
       "salary_annual": null,
       "salary_hourly": null
+    },
+    {
+      "title": "IT Applications Engineer V",
+      "company": "Kaiser Permanente",
+      "hospital_name": "Kaiser Permanente",
+      "location": "Medical Imaging Pasadena, CA",
+      "url": "https://www.kaiserpermanentejobs.org/job/pasadena/it-applications-engineer-v-medical-imaging/641/93284083120",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::kaiser permanente::https://www.kaiserpermanentejobs.org/job/pasadena/it-applications-engineer-v-medical-imaging/641/93284083120",
+      "track_slug": "hospital-careers",
+      "type": "Flexible, Full-time, Day",
+      "match_reason": "Kaiser direct match: imaging"
     },
     {
       "title": "IT Support Technician - SSD - EPIC",
