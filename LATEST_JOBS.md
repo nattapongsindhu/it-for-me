@@ -1,18 +1,17 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-05-09T14%3A17%3A02Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-62-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-05-10T04%3A49%3A53Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-63-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
 
 ---
 
-## Latest Jobs - May 09, 2026
+## Latest Jobs - May 10, 2026
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
-| IT Specialist (Security) | Administrative Office of the U.S. Courts | Anywhere in the U.S. (remote job) | Not listed | 89508 | 2026-05-08 | [Apply](https://www.usajobs.gov:443/job/868463800) |
 | IT Specialist (PLCYPLN) | Deputy Assistant Secretary for Information and Technology | Multiple Locations | Not listed | 125776 | 2026-05-08 | [Apply](https://www.usajobs.gov:443/job/868261600) |
 | IT Specialist | Deputy Assistant Secretary for Information and Technology | Multiple Locations | Not listed | 89508 | 2026-05-08 | [Apply](https://www.usajobs.gov:443/job/868467600) |
 | Supervisory IT Program Manager | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 147945 | 2026-05-08 | [Apply](https://www.usajobs.gov:443/job/868540600) |
@@ -26,12 +25,13 @@
 | Supv Medical Records Technician (Coder) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 67970 | 2026-05-07 | [Apply](https://www.usajobs.gov:443/job/868319400) |
 | Supervisory Program Analyst | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 106437 | 2026-05-07 | [Apply](https://www.usajobs.gov:443/job/868139100) |
 | Financial Systems Project Manager | Library of Congress | Anywhere in the U.S. (remote job) | Flexitime. | 143913 | 2026-05-07 | [Apply](https://www.usajobs.gov:443/job/867896200) |
-| MEDICAL RECORDS TECHNICAN (CODER) AUDITOR | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-05-07 | [Apply](https://www.usajobs.gov:443/job/868307900) |
+| Advanced Medical Support Assistant | Veterans Health Administration | Los Angeles, California | Not listed | 56247 | 2026-05-07 | [Apply](https://www.usajobs.gov:443/job/868630300) |
 | Physician (Cardiology) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 124308 | 2026-05-07 | [Apply](https://www.usajobs.gov:443/job/868303900) |
 | Program Analyst (Informatics) | Veterans Health Administration | Los Angeles, California | Not listed | 104349 | 2026-05-07 | [Apply](https://www.usajobs.gov:443/job/868423400) |
 | Account Executive | Assistant Secretary for Housing-Federal Housing Commissioner | Multiple Locations | Not listed | 106437 | 2026-05-07 | [Apply](https://www.usajobs.gov:443/job/868156000) |
 | IT System Administrator GS 7/9 | Federal Bureau of Investigation | Multiple Locations | Not listed | 42679 | 2026-05-06 | [Apply](https://www.usajobs.gov:443/job/868123300) |
 | IT System Administrator GS 11/12 | Federal Bureau of Investigation | Multiple Locations | Not listed | 63163 | 2026-05-06 | [Apply](https://www.usajobs.gov:443/job/868142400) |
+| Management and Program Analyst (Deployment) | Electronic Health Record Modernization | Multiple Locations | Not listed | 74678 | 2026-05-06 | [Apply](https://www.usajobs.gov:443/job/868201100) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 62 |
+| Total jobs found | 63 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-05-09T14:17:02Z |
+| Last updated | 2026-05-10T04:49:53Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 62 jobs
+- USAJobs: 63 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-05-09T14:17:02Z_
+_Auto-generated legacy snapshot. Last run: 2026-05-10T04:49:53Z_
