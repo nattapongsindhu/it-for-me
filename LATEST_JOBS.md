@@ -1,7 +1,7 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-05-11T05%3A02%3A33Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-65-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-05-11T15%3A55%3A59Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-66-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
@@ -21,6 +21,7 @@
 | Research Analyst | Department of State - Agency Wide | Anywhere in the U.S. (remote job) | 8-20 hours per week | 0 | 2026-05-11 | [Apply](https://www.usajobs.gov:443/job/868509000) |
 | AI Systems Developer | Department of State - Agency Wide | Anywhere in the U.S. (remote job) | 8-20 hours per week | 0 | 2026-05-11 | [Apply](https://www.usajobs.gov:443/job/868509300) |
 | American Sign Language Data Analyst | Department of State - Agency Wide | Anywhere in the U.S. (remote job) | 8-20 hours per week | 0 | 2026-05-11 | [Apply](https://www.usajobs.gov:443/job/868509700) |
+| Medical Support Assistant (Advanced) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 54307 | 2026-05-11 | [Apply](https://www.usajobs.gov:443/job/868676300) |
 | Contact Representative | Vet Customer Experience (VCE) | Anywhere in the U.S. (remote job) | Not listed | 45409 | 2026-05-11 | [Apply](https://www.usajobs.gov:443/job/868634100) |
 | Medical Records Technician (CDIS-Outpatient and Inpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-05-11 | [Apply](https://www.usajobs.gov:443/job/868577400) |
 | IT Specialist (PLCYPLN) | Deputy Assistant Secretary for Information and Technology | Multiple Locations | Not listed | 125776 | 2026-05-08 | [Apply](https://www.usajobs.gov:443/job/868261600) |
@@ -31,7 +32,6 @@
 | IT Specialist (Network) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 89508 | 2026-05-07 | [Apply](https://www.usajobs.gov:443/job/868325700) |
 | IT Specialist (INFOSEC) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 105383 | 2026-05-07 | [Apply](https://www.usajobs.gov:443/job/868180200) |
 | Supervisory IT Program Manager (Portfolio Director) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 147945 | 2026-05-07 | [Apply](https://www.usajobs.gov:443/job/868387100) |
-| Supv Medical Records Technician (Coder) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 67970 | 2026-05-07 | [Apply](https://www.usajobs.gov:443/job/868319400) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 65 |
+| Total jobs found | 66 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-05-11T05:02:33Z |
+| Last updated | 2026-05-11T15:55:59Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 65 jobs
+- USAJobs: 66 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-05-11T05:02:33Z_
+_Auto-generated legacy snapshot. Last run: 2026-05-11T15:55:59Z_

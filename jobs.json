@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-11T05:02:33Z",
+  "updated": "2026-05-11T15:55:59Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 65,
+  "count": 66,
   "jobs": [
     {
       "title": "Tele - Radiologist (Diagnostic)",
@@ -111,6 +111,18 @@
       "type": "8-20 hours per week",
       "salary_annual": null,
       "salary_hourly": null
+    },
+    {
+      "title": "Medical Support Assistant (Advanced)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/868676300",
+      "salary": "54307",
+      "posted": "2026-05-11",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 54307.0,
+      "salary_hourly": 26.11
     },
     {
       "title": "Contact Representative",
@@ -497,6 +509,18 @@
       "salary_hourly": 41.1
     },
     {
+      "title": "Advanced Practice Nurse - Centralized Eligibility and Assessment Team",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/867761400",
+      "salary": "96007",
+      "posted": "2026-05-04",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 96007.0,
+      "salary_hourly": 46.16
+    },
+    {
       "title": "Physician (Radiologist-Remote)",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -553,18 +577,6 @@
       "posted": "2026-04-30",
       "source": "USAJobs",
       "type": "Incumbent may be required to work outside of normal duty hours, such as nights, weekends, and holidays, due to operational needs.",
-      "salary_annual": 90925.0,
-      "salary_hourly": 43.71
-    },
-    {
-      "title": "Technical Surveillance Specialist",
-      "company": "Bureau of Alcohol, Tobacco, Firearms, and Explosives",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/867123300",
-      "salary": "90925",
-      "posted": "2026-04-29",
-      "source": "USAJobs",
-      "type": "",
       "salary_annual": 90925.0,
       "salary_hourly": 43.71
     },
