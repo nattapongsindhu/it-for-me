@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-11T15:56:01Z",
-  "count": 11,
+  "updated": "2026-05-12T04:41:59Z",
+  "count": 9,
   "sources": [
     "Cedars-Sinai",
     "Glendale Memorial Hospital and Health",
@@ -9,6 +9,22 @@
   ],
   "track_slug": "hospital-careers",
   "jobs": [
+    {
+      "title": "Anesthesia Technologist - Operating Room - 10-Hour - Full Time - Mid Shift - (Hours: 1330 pm \u2013 2400 pm) Cedars-Sinai Medical Center Los Angeles, CA Clinical Operations Req ID: 16428",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/anesthesia-technologist-operating-room-10-hour-full-time-mid-shift-hours-1330-pm-2400-pm/252/94985111808",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/anesthesia-technologist-operating-room-10-hour-full-time-mid-shift-hours-1330-pm-2400-pm/252/94985111808",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: technologist"
+    },
     {
       "title": "Biomedical Equipment Technician (BMET) II - Onsite (Evenings, 10-Hour Shift)",
       "company": "Cedars-Sinai",
@@ -40,38 +56,6 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: informatics"
-    },
-    {
-      "title": "Facilities Coordinator I - 8hr, Days Cedars-Sinai Medical Center Beverly Hills, CA Facilities Req ID: 17243",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/beverly-hills/facilities-coordinator-i-8hr-days/252/94858448240",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/facilities-coordinator-i-8hr-days/252/94858448240",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: facilities"
-    },
-    {
-      "title": "Imaging Department Administrative Assistant Cedars-Sinai Medical Center Los Angeles, CA Administrative Req ID: 17063",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/imaging-department-administrative-assistant/252/94870495680",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/imaging-department-administrative-assistant/252/94870495680",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging"
     },
     {
       "title": "Central Service Tech I",
@@ -134,22 +118,6 @@
       "track_slug": "hospital-careers",
       "type": "Service / Maintenance",
       "match_reason": "Huntington direct match: painter",
-      "salary_annual": null,
-      "salary_hourly": null
-    },
-    {
-      "title": "Plumber FT, Days (6am-2:30pm)",
-      "company": "Huntington Health",
-      "hospital_name": "Huntington Health",
-      "location": "Pasadena, CA",
-      "url": "https://www.hhcareers.com/jobs/plumber-ft-days-6am-230pm-location-pasadena-ca-jobs-category-service-maintenance-r-31092",
-      "salary": "",
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::huntington health::https://www.hhcareers.com/jobs/plumber-ft-days-6am-230pm-location-pasadena-ca-jobs-category-service-maintenance-r-31092",
-      "track_slug": "hospital-careers",
-      "type": "Service / Maintenance",
-      "match_reason": "Huntington direct match: plumber",
       "salary_annual": null,
       "salary_hourly": null
     },
