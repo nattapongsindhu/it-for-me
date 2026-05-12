@@ -1,6 +1,6 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-05-12T04%3A41%3A56Z-blue?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-05-12T15%3A39%3A59Z-blue?style=flat-square)
 ![Jobs](https://img.shields.io/badge/Jobs_Found-66-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
@@ -14,11 +14,11 @@
 |-------|---------|----------|------|--------|--------|------|
 | IT Specialist (OS) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 106437 | 2026-05-12 | [Apply](https://www.usajobs.gov:443/job/868789700) |
 | Information Technology Specialist | Office of the Secretary of Health and Human Services | Multiple Locations | Not listed | 78972 | 2026-05-12 | [Apply](https://www.usajobs.gov:443/job/868841000) |
+| Mental Health Sleep Psychologist with Recruitment/Relocation Incentive/Remote | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 84114 | 2026-05-12 | [Apply](https://www.usajobs.gov:443/job/868905200) |
 | Foreign Affairs Advisor | Department of State - Agency Wide | Anywhere in the U.S. (remote job) | 8-20 hours per week | 0 | 2026-05-12 | [Apply](https://www.usajobs.gov:443/job/868506200) |
 | Researcher | Department of State - Agency Wide | Anywhere in the U.S. (remote job) | 8-20 hours per week | 0 | 2026-05-12 | [Apply](https://www.usajobs.gov:443/job/868506900) |
 | Applied AI Evaluation Research Assistant    | Department of State - Agency Wide | Anywhere in the U.S. (remote job) | 8-20 hours per week | 0 | 2026-05-12 | [Apply](https://www.usajobs.gov:443/job/868507300) |
 | Alumni Engagement Research Assistant | Department of State - Agency Wide | Anywhere in the U.S. (remote job) | 8-20 hours per week | 0 | 2026-05-12 | [Apply](https://www.usajobs.gov:443/job/868515600) |
-| Tele - Radiologist (Diagnostic) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 300000 | 2026-05-11 | [Apply](https://www.usajobs.gov:443/job/868606200) |
 | Medical Records Technician (CDIS-Outpatient and Inpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-05-11 | [Apply](https://www.usajobs.gov:443/job/868577400) |
 | Records and Information Management Specialist | Office of the Assistant Secretary for Administration and Management | Location Negotiable After Selection | Not listed | 112556 | 2026-05-11 | [Apply](https://www.usajobs.gov:443/job/868633400) |
 | Supervisory Health System Specialist | Veterans Health Administration | Los Angeles, California | Not listed | 74678 | 2026-05-11 | [Apply](https://www.usajobs.gov:443/job/868421600) |
@@ -41,7 +41,7 @@
 |--------|-------|
 | Total jobs found | 66 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-05-12T04:41:56Z |
+| Last updated | 2026-05-12T15:39:59Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-05-12T04:41:56Z_
+_Auto-generated legacy snapshot. Last run: 2026-05-12T15:39:59Z_

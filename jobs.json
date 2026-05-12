@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12T04:41:56Z",
+  "updated": "2026-05-12T15:39:59Z",
   "zip": "90029",
   "radius_mi": 5,
   "count": 66,
@@ -27,6 +27,18 @@
       "type": "",
       "salary_annual": 78972.0,
       "salary_hourly": 37.97
+    },
+    {
+      "title": "Mental Health Sleep Psychologist with Recruitment/Relocation Incentive/Remote",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/868905200",
+      "salary": "84114",
+      "posted": "2026-05-12",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 84114.0,
+      "salary_hourly": 40.44
     },
     {
       "title": "Foreign Affairs Advisor",
@@ -75,18 +87,6 @@
       "type": "8-20 hours per week",
       "salary_annual": null,
       "salary_hourly": null
-    },
-    {
-      "title": "Tele - Radiologist (Diagnostic)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/868606200",
-      "salary": "300000",
-      "posted": "2026-05-11",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 300000.0,
-      "salary_hourly": 144.23
     },
     {
       "title": "Medical Records Technician (CDIS-Outpatient and Inpatient)",
