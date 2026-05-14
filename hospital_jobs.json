@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-13T15:43:58Z",
-  "count": 7,
+  "updated": "2026-05-14T04:52:57Z",
+  "count": 6,
   "sources": [
     "Cedars-Sinai",
     "Glendale Memorial Hospital and Health",
@@ -9,52 +9,36 @@
   "track_slug": "hospital-careers",
   "jobs": [
     {
-      "title": "Biomedical Equipment Technician (BMET) II - Onsite (Evenings, 10-Hour Shift)",
+      "title": "Lead DBA (DataBase Administrator) - Hybrid Cedars-Sinai Medical Center Los Angeles, CA Information Technology Req ID: 15902",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/beverly-hills/biomedical-equipment-technician-bmet-ii-onsite-evenings-10-hour-shift/252/93739609072",
+      "url": "https://careers.cshs.org/job/los-angeles/lead-dba-database-administrator-hybrid/252/93131253552",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/biomedical-equipment-technician-bmet-ii-onsite-evenings-10-hour-shift/252/93739609072",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/lead-dba-database-administrator-hybrid/252/93131253552",
       "track_slug": "hospital-careers",
       "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: bmet, biomedical, biomedical equipment"
+      "match_reason": "Cedars-Sinai direct match: information technology"
     },
     {
-      "title": "Executive Director, Research Informatics (Academic & Translational Science)",
+      "title": "Senior Epic Report Developer - Remote",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/beverly-hills/executive-director-research-informatics-academic-and-translational-science/252/94305368704",
+      "url": "https://careers.cshs.org/job/los-angeles/senior-epic-report-developer-remote/252/91952109328",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/executive-director-research-informatics-academic-and-translational-science/252/94305368704",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/senior-epic-report-developer-remote/252/91952109328",
       "track_slug": "hospital-careers",
       "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: informatics"
-    },
-    {
-      "title": "Radiologic Intervention Technologist, Full-time, Day 8 Hour Shift Cedars-Sinai Marina Hospital Marina del Rey, CA Imaging Req ID: 16461",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/marina-del-rey/radiologic-intervention-technologist-full-time-day-8-hour-shift/252/95045066384",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/marina-del-rey/radiologic-intervention-technologist-full-time-day-8-hour-shift/252/95045066384",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging, technologist"
+      "match_reason": "Cedars-Sinai direct match: epic"
     },
     {
       "title": "Central Service Tech I",
