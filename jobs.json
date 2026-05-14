@@ -1,9 +1,45 @@
 {
-  "updated": "2026-05-14T04:52:54Z",
+  "updated": "2026-05-14T15:19:55Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 59,
+  "count": 61,
   "jobs": [
+    {
+      "title": "IT SPECIALIST (ARTIFICIAL INTELLIGENCE)",
+      "company": "Centers for Medicare & Medicaid Services",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/869314400",
+      "salary": "107466",
+      "posted": "2026-05-14",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 107466.0,
+      "salary_hourly": 51.67
+    },
+    {
+      "title": "Pharmacist (Pharmacy Supervisor) - VISN 23 Clinical Contact Center",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/869310500",
+      "salary": "106437",
+      "posted": "2026-05-14",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
+    },
+    {
+      "title": "Medical Records Technician - Coder In/Out",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/869318400",
+      "salary": "36409",
+      "posted": "2026-05-14",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 36409.0,
+      "salary_hourly": 17.5
+    },
     {
       "title": "Supervisory Management and Program Analyst",
       "company": "Farm Service Agency",
@@ -89,7 +125,7 @@
       "salary_hourly": 60.47
     },
     {
-      "title": "Social Worker Program Manager (Chief of CERS (Homeless Programs))",
+      "title": "Social Worker Program Manager (DETAIL/TEMP PROMOTION OPPORTUNITY)",
       "company": "Veterans Health Administration",
       "location": "Los Angeles, California",
       "url": "https://www.usajobs.gov:443/job/869251200",
@@ -99,18 +135,6 @@
       "type": "",
       "salary_annual": 189576.0,
       "salary_hourly": 91.14
-    },
-    {
-      "title": "It Specialist",
-      "company": "Deputy Assistant Secretary for Information and Technology",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/868715400",
-      "salary": "106437",
-      "posted": "2026-05-13",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 106437.0,
-      "salary_hourly": 51.17
     },
     {
       "title": "IT Specialist (Enterprise Architecture)",
@@ -221,18 +245,6 @@
       "salary_hourly": 144.23
     },
     {
-      "title": "American Sign Language Data Analyst",
-      "company": "Department of State - Agency Wide",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/868509700",
-      "salary": "0",
-      "posted": "2026-05-11",
-      "source": "USAJobs",
-      "type": "8-20 hours per week",
-      "salary_annual": null,
-      "salary_hourly": null
-    },
-    {
       "title": "Medical Records Technician (CDIS-Outpatient and Inpatient)",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -267,6 +279,18 @@
       "type": "",
       "salary_annual": 74678.0,
       "salary_hourly": 35.9
+    },
+    {
+      "title": "American Sign Language Data Analyst",
+      "company": "Department of State - Agency Wide",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/868509700",
+      "salary": "0",
+      "posted": "2026-05-11",
+      "source": "USAJobs",
+      "type": "8-20 hours per week",
+      "salary_annual": null,
+      "salary_hourly": null
     },
     {
       "title": "Contact Representative",
@@ -497,6 +521,18 @@
       "salary_hourly": 41.1
     },
     {
+      "title": "Advanced Practice Nurse - Centralized Eligibility and Assessment Team",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/867761400",
+      "salary": "96007",
+      "posted": "2026-05-04",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 96007.0,
+      "salary_hourly": 46.16
+    },
+    {
       "title": "Solutions Architect",
       "company": "Library of Congress",
       "location": "Anywhere in the U.S. (remote job)",
@@ -687,18 +723,6 @@
       "type": "",
       "salary_annual": 63795.0,
       "salary_hourly": 30.67
-    },
-    {
-      "title": "Economist",
-      "company": "Department of the Air Force - Agency Wide",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/853032300",
-      "salary": "74678",
-      "posted": "2025-12-22",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 74678.0,
-      "salary_hourly": 35.9
     },
     {
       "title": "IT SPECIALIST",
