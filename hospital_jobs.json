@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-15T04:56:37Z",
-  "count": 8,
+  "updated": "2026-05-15T15:13:25Z",
+  "count": 9,
   "sources": [
     "Cedars-Sinai",
     "Glendale Memorial Hospital and Health",
@@ -72,6 +72,22 @@
       "track_slug": "hospital-careers",
       "type": "Facilities",
       "match_reason": "Dignity Health direct match: facilities"
+    },
+    {
+      "title": "Painter FT, Days (6am-2:30pm)",
+      "company": "Huntington Health",
+      "hospital_name": "Huntington Health",
+      "location": "Pasadena, CA",
+      "url": "https://www.hhcareers.com/jobs/painter-ft-days-6am-230pm-location-pasadena-ca-jobs-category-service-maintenance-r-30813-33488",
+      "salary": "",
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::huntington health::https://www.hhcareers.com/jobs/painter-ft-days-6am-230pm-location-pasadena-ca-jobs-category-service-maintenance-r-30813-33488",
+      "track_slug": "hospital-careers",
+      "type": "Service / Maintenance",
+      "match_reason": "Huntington direct match: painter",
+      "salary_annual": null,
+      "salary_hourly": null
     },
     {
       "title": "Painter FT, Days (6am-2:30pm)",

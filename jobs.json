@@ -1,9 +1,21 @@
 {
-  "updated": "2026-05-15T04:56:36Z",
+  "updated": "2026-05-15T15:13:23Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 59,
+  "count": 60,
   "jobs": [
+    {
+      "title": "Veterans Service Representative (VSR)",
+      "company": "Veterans Benefits Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/869488900",
+      "salary": "58064",
+      "posted": "2026-05-15",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 58064.0,
+      "salary_hourly": 27.92
+    },
     {
       "title": "Digital Media Design Volunteer",
       "company": "Department of State - Agency Wide",

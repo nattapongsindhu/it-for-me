@@ -1,7 +1,7 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-05-15T04%3A56%3A36Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-59-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-05-15T15%3A13%3A23Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-60-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
@@ -12,6 +12,7 @@
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
+| Veterans Service Representative (VSR) | Veterans Benefits Administration | Anywhere in the U.S. (remote job) | Not listed | 58064 | 2026-05-15 | [Apply](https://www.usajobs.gov:443/job/869488900) |
 | Digital Media Design Volunteer | Department of State - Agency Wide | Anywhere in the U.S. (remote job) | 8-20 hours per week | 0 | 2026-05-15 | [Apply](https://www.usajobs.gov:443/job/868934500) |
 | Equal Employment Opportunity Volunteer | Department of State - Agency Wide | Anywhere in the U.S. (remote job) | 8-20 hours per week | 0 | 2026-05-15 | [Apply](https://www.usajobs.gov:443/job/868928800) |
 | Digital Modernization & Data Volunteer | Department of State - Agency Wide | Anywhere in the U.S. (remote job) | 8-20 hours per week | 0 | 2026-05-15 | [Apply](https://www.usajobs.gov:443/job/868932400) |
@@ -31,7 +32,6 @@
 | Physician - Cardiology | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 320000 | 2026-05-13 | [Apply](https://www.usajobs.gov:443/job/869105800) |
 | Criminal Investigator (Operations Officer) | National Science Foundation | Anywhere in the U.S. (remote job) | Not listed | 125776 | 2026-05-13 | [Apply](https://www.usajobs.gov:443/job/868980100) |
 | Hardware Test Automation Engineer | Department of State - Agency Wide | Anywhere in the U.S. (remote job) | 8-20 hours per week | 0 | 2026-05-13 | [Apply](https://www.usajobs.gov:443/job/868734500) |
-| Psychology Program Manager - Mental Health Process Improvement and Analytics | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 107446 | 2026-05-13 | [Apply](https://www.usajobs.gov:443/job/869129300) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 59 |
+| Total jobs found | 60 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-05-15T04:56:36Z |
+| Last updated | 2026-05-15T15:13:23Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 59 jobs
+- USAJobs: 60 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-05-15T04:56:36Z_
+_Auto-generated legacy snapshot. Last run: 2026-05-15T15:13:23Z_
