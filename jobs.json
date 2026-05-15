@@ -1,9 +1,81 @@
 {
-  "updated": "2026-05-14T15:19:55Z",
+  "updated": "2026-05-15T04:56:36Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 61,
+  "count": 59,
   "jobs": [
+    {
+      "title": "Digital Media Design Volunteer",
+      "company": "Department of State - Agency Wide",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/868934500",
+      "salary": "0",
+      "posted": "2026-05-15",
+      "source": "USAJobs",
+      "type": "8-20 hours per week",
+      "salary_annual": null,
+      "salary_hourly": null
+    },
+    {
+      "title": "Equal Employment Opportunity Volunteer",
+      "company": "Department of State - Agency Wide",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/868928800",
+      "salary": "0",
+      "posted": "2026-05-15",
+      "source": "USAJobs",
+      "type": "8-20 hours per week",
+      "salary_annual": null,
+      "salary_hourly": null
+    },
+    {
+      "title": "Digital Modernization & Data Volunteer",
+      "company": "Department of State - Agency Wide",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/868932400",
+      "salary": "0",
+      "posted": "2026-05-15",
+      "source": "USAJobs",
+      "type": "8-20 hours per week",
+      "salary_annual": null,
+      "salary_hourly": null
+    },
+    {
+      "title": "Public Affairs Volunteer",
+      "company": "Department of State - Agency Wide",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/868933800",
+      "salary": "0",
+      "posted": "2026-05-15",
+      "source": "USAJobs",
+      "type": "8-20 hours per week",
+      "salary_annual": null,
+      "salary_hourly": null
+    },
+    {
+      "title": "Congressional Research Specialist",
+      "company": "Department of State - Agency Wide",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/868936100",
+      "salary": "0",
+      "posted": "2026-05-15",
+      "source": "USAJobs",
+      "type": "8-20 hours per week",
+      "salary_annual": null,
+      "salary_hourly": null
+    },
+    {
+      "title": "Supervisory Investigator - Investigations Division",
+      "company": "Office of Accountability and Whistleblower Protection",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/869428500",
+      "salary": "125776",
+      "posted": "2026-05-15",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 125776.0,
+      "salary_hourly": 60.47
+    },
     {
       "title": "IT SPECIALIST (ARTIFICIAL INTELLIGENCE)",
       "company": "Centers for Medicare & Medicaid Services",
@@ -17,16 +89,28 @@
       "salary_hourly": 51.67
     },
     {
-      "title": "Pharmacist (Pharmacy Supervisor) - VISN 23 Clinical Contact Center",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/869310500",
-      "salary": "106437",
+      "title": "Trial Attorney (ITFO-NY)",
+      "company": "Offices, Boards and Divisions",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/868358300",
+      "salary": "147945",
       "posted": "2026-05-14",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 106437.0,
-      "salary_hourly": 51.17
+      "salary_annual": 147945.0,
+      "salary_hourly": 71.13
+    },
+    {
+      "title": "Medical Records Technician (Coder-Outpatient)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/869422700",
+      "salary": "55695",
+      "posted": "2026-05-14",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 55695.0,
+      "salary_hourly": 26.78
     },
     {
       "title": "Medical Records Technician - Coder In/Out",
@@ -39,6 +123,18 @@
       "type": "",
       "salary_annual": 36409.0,
       "salary_hourly": 17.5
+    },
+    {
+      "title": "Installation Child and Youth Program Director (Small or Medium)",
+      "company": "Commander, Navy Installations Command",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/869427900",
+      "salary": "89511",
+      "posted": "2026-05-14",
+      "source": "USAJobs",
+      "type": "This position is a flexible position",
+      "salary_annual": 89511.0,
+      "salary_hourly": 43.03
     },
     {
       "title": "Supervisory Management and Program Analyst",
@@ -63,54 +159,6 @@
       "type": "",
       "salary_annual": 134118.0,
       "salary_hourly": 64.48
-    },
-    {
-      "title": "Research and Data Analytics Assistant",
-      "company": "Department of State - Agency Wide",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/868748300",
-      "salary": "0",
-      "posted": "2026-05-14",
-      "source": "USAJobs",
-      "type": "8-20 hours per week",
-      "salary_annual": null,
-      "salary_hourly": null
-    },
-    {
-      "title": "Social Media Analyst (Law Enforcement)",
-      "company": "Department of State - Agency Wide",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/868752100",
-      "salary": "0",
-      "posted": "2026-05-14",
-      "source": "USAJobs",
-      "type": "8-20 hours per week",
-      "salary_annual": null,
-      "salary_hourly": null
-    },
-    {
-      "title": "Research Analyst",
-      "company": "Department of State - Agency Wide",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/868765400",
-      "salary": "0",
-      "posted": "2026-05-14",
-      "source": "USAJobs",
-      "type": "8-20 hours per week",
-      "salary_annual": null,
-      "salary_hourly": null
-    },
-    {
-      "title": "Research Assistant",
-      "company": "Department of State - Agency Wide",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/868767500",
-      "salary": "0",
-      "posted": "2026-05-14",
-      "source": "USAJobs",
-      "type": "8-20 hours per week",
-      "salary_annual": null,
-      "salary_hourly": null
     },
     {
       "title": "Social Science Specialist (Peer Recovery Specialist)",
@@ -185,16 +233,16 @@
       "salary_hourly": null
     },
     {
-      "title": "Legal Curriculum & Content Developer",
-      "company": "Department of State - Agency Wide",
+      "title": "Psychology Program Manager - Mental Health Process Improvement and Analytics",
+      "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/868739200",
-      "salary": "0",
+      "url": "https://www.usajobs.gov:443/job/869129300",
+      "salary": "107446",
       "posted": "2026-05-13",
       "source": "USAJobs",
-      "type": "8-20 hours per week",
-      "salary_annual": null,
-      "salary_hourly": null
+      "type": "",
+      "salary_annual": 107446.0,
+      "salary_hourly": 51.66
     },
     {
       "title": "IT Specialist (OS)",
@@ -281,30 +329,6 @@
       "salary_hourly": 35.9
     },
     {
-      "title": "American Sign Language Data Analyst",
-      "company": "Department of State - Agency Wide",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/868509700",
-      "salary": "0",
-      "posted": "2026-05-11",
-      "source": "USAJobs",
-      "type": "8-20 hours per week",
-      "salary_annual": null,
-      "salary_hourly": null
-    },
-    {
-      "title": "Contact Representative",
-      "company": "Vet Customer Experience (VCE)",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/868634100",
-      "salary": "45409",
-      "posted": "2026-05-11",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 45409.0,
-      "salary_hourly": 21.83
-    },
-    {
       "title": "Lead Medical Support Assistant",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -315,30 +339,6 @@
       "type": "",
       "salary_annual": 50460.0,
       "salary_hourly": 24.26
-    },
-    {
-      "title": "Supervisory IT Program Manager",
-      "company": "Deputy Assistant Secretary for Information and Technology",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/868540600",
-      "salary": "147945",
-      "posted": "2026-05-08",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 147945.0,
-      "salary_hourly": 71.13
-    },
-    {
-      "title": "Supervisory IT Specialist (Deputy Director)",
-      "company": "Office of the Inspector General",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/868610400",
-      "salary": "125776",
-      "posted": "2026-05-08",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
     },
     {
       "title": "Physician-Diagnostic Radiologist-Recruitment/Relocation Incentive-EDRP Authorized",
@@ -365,6 +365,18 @@
       "salary_hourly": 50.17
     },
     {
+      "title": "Medical Support Assistant (Adv",
+      "company": "Veterans Health Administration",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/868641300",
+      "salary": "56247",
+      "posted": "2026-05-08",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 56247.0,
+      "salary_hourly": 27.04
+    },
+    {
       "title": "Physician (Cardiology)",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -389,16 +401,16 @@
       "salary_hourly": 69.19
     },
     {
-      "title": "Program Analyst (Informatics)",
+      "title": "Advanced Medical Support Assistant",
       "company": "Veterans Health Administration",
       "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/868423400",
-      "salary": "104349",
+      "url": "https://www.usajobs.gov:443/job/868630300",
+      "salary": "56247",
       "posted": "2026-05-07",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 104349.0,
-      "salary_hourly": 50.17
+      "salary_annual": 56247.0,
+      "salary_hourly": 27.04
     },
     {
       "title": "Account Executive",
@@ -485,18 +497,6 @@
       "salary_hourly": 1.0
     },
     {
-      "title": "Medical Records Technician (Coder) Auditor",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/867721000",
-      "salary": "61722",
-      "posted": "2026-05-04",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 61722.0,
-      "salary_hourly": 29.67
-    },
-    {
       "title": "Protective Security Advisor",
       "company": "Cybersecurity and Infrastructure Security Agency",
       "location": "Multiple Locations",
@@ -507,42 +507,6 @@
       "type": "",
       "salary_annual": 90925.0,
       "salary_hourly": 43.71
-    },
-    {
-      "title": "Physician Assistant - Centralized Eligibility and Assessment Team",
-      "company": "Veterans Health Administration",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/867759800",
-      "salary": "85485",
-      "posted": "2026-05-04",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 85485.0,
-      "salary_hourly": 41.1
-    },
-    {
-      "title": "Advanced Practice Nurse - Centralized Eligibility and Assessment Team",
-      "company": "Veterans Health Administration",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/867761400",
-      "salary": "96007",
-      "posted": "2026-05-04",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 96007.0,
-      "salary_hourly": 46.16
-    },
-    {
-      "title": "Solutions Architect",
-      "company": "Library of Congress",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/867335800",
-      "salary": "143913",
-      "posted": "2026-04-30",
-      "source": "USAJobs",
-      "type": "Flexitime, Compflex.",
-      "salary_annual": 143913.0,
-      "salary_hourly": 69.19
     },
     {
       "title": "COBOL Developer",
@@ -723,6 +687,18 @@
       "type": "",
       "salary_annual": 63795.0,
       "salary_hourly": 30.67
+    },
+    {
+      "title": "Economist",
+      "company": "Department of the Air Force - Agency Wide",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/853032300",
+      "salary": "74678",
+      "posted": "2025-12-22",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 74678.0,
+      "salary_hourly": 35.9
     },
     {
       "title": "IT SPECIALIST",
