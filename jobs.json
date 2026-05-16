@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-16T04:33:17Z",
+  "updated": "2026-05-16T14:21:51Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 57,
+  "count": 56,
   "jobs": [
     {
       "title": "Medical Records Technician - Coder-Outpatient/Inpatient",
@@ -101,18 +101,6 @@
       "salary_hourly": 16.73
     },
     {
-      "title": "Equal Employment Opportunity Volunteer",
-      "company": "Department of State - Agency Wide",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/868928800",
-      "salary": "0",
-      "posted": "2026-05-15",
-      "source": "USAJobs",
-      "type": "8-20 hours per week",
-      "salary_annual": null,
-      "salary_hourly": null
-    },
-    {
       "title": "Digital Modernization & Data Volunteer",
       "company": "Department of State - Agency Wide",
       "location": "Anywhere in the U.S. (remote job)",
@@ -141,18 +129,6 @@
       "company": "Department of State - Agency Wide",
       "location": "Anywhere in the U.S. (remote job)",
       "url": "https://www.usajobs.gov:443/job/868934500",
-      "salary": "0",
-      "posted": "2026-05-15",
-      "source": "USAJobs",
-      "type": "8-20 hours per week",
-      "salary_annual": null,
-      "salary_hourly": null
-    },
-    {
-      "title": "Congressional Research Specialist",
-      "company": "Department of State - Agency Wide",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/868936100",
       "salary": "0",
       "posted": "2026-05-15",
       "source": "USAJobs",
@@ -377,6 +353,18 @@
       "salary_hourly": 59.76
     },
     {
+      "title": "Medical Support Assistant (Adv",
+      "company": "Veterans Health Administration",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/868641300",
+      "salary": "56247",
+      "posted": "2026-05-08",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 56247.0,
+      "salary_hourly": 27.04
+    },
+    {
       "title": "Financial Systems Project Manager",
       "company": "Library of Congress",
       "location": "Anywhere in the U.S. (remote job)",
@@ -447,18 +435,6 @@
       "type": "",
       "salary_annual": 74678.0,
       "salary_hourly": 35.9
-    },
-    {
-      "title": "Supervisory Procurement Analyst (Chief, Acquisition Policy and Grants Division)",
-      "company": "Library of Congress",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/867887000",
-      "salary": "169279",
-      "posted": "2026-05-05",
-      "source": "USAJobs",
-      "type": "Flexitime, Compflex, Maxiflex",
-      "salary_annual": 169279.0,
-      "salary_hourly": 81.38
     },
     {
       "title": "Program Specialist",
@@ -687,6 +663,18 @@
       "type": "",
       "salary_annual": 56763.0,
       "salary_hourly": 27.29
+    },
+    {
+      "title": "ENGINEERING",
+      "company": "Air Force Civilian Career Training",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/846773600",
+      "salary": "55486",
+      "posted": "2025-09-29",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 55486.0,
+      "salary_hourly": 26.68
     }
   ]
 }
