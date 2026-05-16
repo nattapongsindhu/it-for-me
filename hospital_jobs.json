@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-15T15:13:25Z",
-  "count": 9,
+  "updated": "2026-05-16T04:33:18Z",
+  "count": 7,
   "sources": [
     "Cedars-Sinai",
     "Glendale Memorial Hospital and Health",
@@ -9,22 +9,6 @@
   ],
   "track_slug": "hospital-careers",
   "jobs": [
-    {
-      "title": "Lead DBA (DataBase Administrator) - Hybrid Cedars-Sinai Medical Center Los Angeles, CA Information Technology Req ID: 15902",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/lead-dba-database-administrator-hybrid/252/93131253552",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/lead-dba-database-administrator-hybrid/252/93131253552",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: information technology"
-    },
     {
       "title": "Senior Epic Report Developer - Remote",
       "company": "Cedars-Sinai",
@@ -136,22 +120,6 @@
       "track_slug": "hospital-careers",
       "type": "Flexible, Full-time, Day",
       "match_reason": "Kaiser direct match: imaging"
-    },
-    {
-      "title": "IT Support Technician - SSD - EPIC",
-      "company": "Kaiser Permanente",
-      "hospital_name": "Kaiser Permanente",
-      "location": "KPHC Los Angeles, CA",
-      "url": "https://www.kaiserpermanentejobs.org/job/los-angeles/it-support-technician-ssd-epic-kphc/641/92662182288",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::kaiser permanente::https://www.kaiserpermanentejobs.org/job/los-angeles/it-support-technician-ssd-epic-kphc/641/92662182288",
-      "track_slug": "hospital-careers",
-      "type": "Flexible, Full-time, Day",
-      "match_reason": "Kaiser direct match: epic, it support, kphc"
     }
   ]
 }
