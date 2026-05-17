@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T14:21:51Z",
+  "updated": "2026-05-17T04:57:07Z",
   "zip": "90029",
   "radius_mi": 5,
   "count": 56,
@@ -99,30 +99,6 @@
       "type": "",
       "salary_annual": 34799.0,
       "salary_hourly": 16.73
-    },
-    {
-      "title": "Digital Modernization & Data Volunteer",
-      "company": "Department of State - Agency Wide",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/868932400",
-      "salary": "0",
-      "posted": "2026-05-15",
-      "source": "USAJobs",
-      "type": "8-20 hours per week",
-      "salary_annual": null,
-      "salary_hourly": null
-    },
-    {
-      "title": "Public Affairs Volunteer",
-      "company": "Department of State - Agency Wide",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/868933800",
-      "salary": "0",
-      "posted": "2026-05-15",
-      "source": "USAJobs",
-      "type": "8-20 hours per week",
-      "salary_annual": null,
-      "salary_hourly": null
     },
     {
       "title": "Digital Media Design Volunteer",
@@ -291,6 +267,18 @@
       "type": "8-20 hours per week",
       "salary_annual": null,
       "salary_hourly": null
+    },
+    {
+      "title": "Supervisory Hazardous Materials Aviation Safety Inspector",
+      "company": "Federal Aviation Administration",
+      "location": "May be filled in various FAA duty locations",
+      "url": "https://www.usajobs.gov:443/job/869045800",
+      "salary": "112283",
+      "posted": "2026-05-13",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 112283.0,
+      "salary_hourly": 53.98
     },
     {
       "title": "IT Specialist (OS)",
@@ -651,6 +639,18 @@
       "type": "",
       "salary_annual": 74678.0,
       "salary_hourly": 35.9
+    },
+    {
+      "title": "Mathematical Statistics Series",
+      "company": "Department of the Air Force - Agency Wide",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/852879600",
+      "salary": "63795",
+      "posted": "2025-12-22",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 63795.0,
+      "salary_hourly": 30.67
     },
     {
       "title": "IT SPECIALIST",

@@ -1,6 +1,6 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-05-16T14%3A21%3A51Z-blue?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-05-17T04%3A57%3A07Z-blue?style=flat-square)
 ![Jobs](https://img.shields.io/badge/Jobs_Found-56-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
@@ -8,7 +8,7 @@
 
 ---
 
-## Latest Jobs - May 16, 2026
+## Latest Jobs - May 17, 2026
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
@@ -20,8 +20,6 @@
 | Radiologist- Hampton (Remote) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 350000 | 2026-05-15 | [Apply](https://www.usajobs.gov:443/job/869547800) |
 | Medical Records Technician - Coder Auditor | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-05-15 | [Apply](https://www.usajobs.gov:443/job/869537600) |
 | CISA - Veterans and Individuals with Disabilities (Schedule A) Repository | Cybersecurity and Infrastructure Security Agency | Multiple Locations | Not listed | 34799 | 2026-05-15 | [Apply](https://www.usajobs.gov:443/job/869613100) |
-| Digital Modernization & Data Volunteer | Department of State - Agency Wide | Anywhere in the U.S. (remote job) | 8-20 hours per week | 0 | 2026-05-15 | [Apply](https://www.usajobs.gov:443/job/868932400) |
-| Public Affairs Volunteer | Department of State - Agency Wide | Anywhere in the U.S. (remote job) | 8-20 hours per week | 0 | 2026-05-15 | [Apply](https://www.usajobs.gov:443/job/868933800) |
 | Digital Media Design Volunteer | Department of State - Agency Wide | Anywhere in the U.S. (remote job) | 8-20 hours per week | 0 | 2026-05-15 | [Apply](https://www.usajobs.gov:443/job/868934500) |
 | Supervisory Investigator - Investigations Division | Office of Accountability and Whistleblower Protection | Anywhere in the U.S. (remote job) | Not listed | 125776 | 2026-05-15 | [Apply](https://www.usajobs.gov:443/job/869428500) |
 | Supervisory Legal Administrative Specialist | Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys | Los Angeles, California | Not listed | 124085 | 2026-05-15 | [Apply](https://www.usajobs.gov:443/job/869558400) |
@@ -32,6 +30,8 @@
 | Supervisory Aviation Technical Systems Specialist | Federal Aviation Administration | FAA Nationwide-Selectee Remains in Current Duty Location | Not listed | 134118 | 2026-05-14 | [Apply](https://www.usajobs.gov:443/job/869010900) |
 | Social Science Specialist (Peer Recovery Specialist) | Customs and Border Protection | Location Negotiable After Selection | Not listed | 125776 | 2026-05-14 | [Apply](https://www.usajobs.gov:443/job/869171500) |
 | Social Worker Program Manager (DETAIL/TEMP PROMOTION OPPORTUNITY) | Veterans Health Administration | Los Angeles, California | Not listed | 189576 | 2026-05-14 | [Apply](https://www.usajobs.gov:443/job/869251200) |
+| Installation Child and Youth Program Director (Small or Medium) | Commander, Navy Installations Command | Anywhere in the U.S. (remote job) | This position is a flexible position | 42.89 | 2026-05-14 | [Apply](https://www.usajobs.gov:443/job/869427900) |
+| IT Specialist (Enterprise Architecture) | Food Safety and Inspection Service | Location Negotiable After Selection | Not listed | 125776 | 2026-05-13 | [Apply](https://www.usajobs.gov:443/job/869020700) |
 
 ---
 
@@ -41,7 +41,7 @@
 |--------|-------|
 | Total jobs found | 56 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-05-16T14:21:51Z |
+| Last updated | 2026-05-17T04:57:07Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-05-16T14:21:51Z_
+_Auto-generated legacy snapshot. Last run: 2026-05-17T04:57:07Z_
