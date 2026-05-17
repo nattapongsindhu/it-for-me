@@ -43,9 +43,7 @@ GENERIC_LINK_SOURCES = [
         "hospital_name": "UCLA Health",
         "location": "Los Angeles, CA",
         "urls": [
-            "https://www.uclahealthcareers.org/job-search-results/?primary_category%5B%5D=Information+Technology",
-            "https://www.uclahealthcareers.org/career-areas/information-careers/",
-            "https://www.uclahealthcareers.org/non-clinical-careers/",
+            "https://www.uclahealthcareers.org/job-search-results/?primary_category[]=Admissions&primary_category[]=Billing%2FCollections&primary_category[]=Central%20Supply&primary_category[]=Clerical%2FAdministrative&primary_category[]=Clinical%20Engineering&primary_category[]=Environ.%20Svc%2FFacilities&primary_category[]=Finance%2FPurchasing&primary_category[]=Food%20Svc&primary_category[]=Human%20Resources&primary_category[]=Medical%20Coding&primary_category[]=Orderly%2FEscort&primary_category[]=Professional%2FManagerial",
         ],
         "job_path": "/job/",
     },
@@ -54,7 +52,7 @@ GENERIC_LINK_SOURCES = [
         "hospital_name": "Keck Medicine of USC",
         "location": "Los Angeles, CA",
         "urls": [
-            "https://www.keckmedicine.org/keck-medicine-careers-information/",
+            "https://usc.wd5.myworkdayjobs.com/ExternalKeckUSCCareers",
         ],
         "job_path": "/job/",
     },
@@ -63,7 +61,7 @@ GENERIC_LINK_SOURCES = [
         "hospital_name": "Children's Hospital Los Angeles",
         "location": "Los Angeles, CA",
         "urls": [
-            "https://www.chla.org/careers",
+            "https://www.chla.org/careers/jobs?category=Service%20Worker&sort=date_desc",
         ],
         "job_path": "/careers/jobs/",
     },
