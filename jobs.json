@@ -1,9 +1,21 @@
 {
-  "updated": "2026-05-18T05:13:00Z",
+  "updated": "2026-05-18T16:24:15Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 58,
+  "count": 59,
   "jobs": [
+    {
+      "title": "Physician - Diagnostic Imaging",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/869698900",
+      "salary": "375000",
+      "posted": "2026-05-18",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 375000.0,
+      "salary_hourly": 180.29
+    },
     {
       "title": "Senior Account Executive",
       "company": "Assistant Secretary for Housing-Federal Housing Commissioner",
@@ -461,6 +473,18 @@
       "salary_hourly": 1.0
     },
     {
+      "title": "Protective Security Advisor",
+      "company": "Cybersecurity and Infrastructure Security Agency",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/867830400",
+      "salary": "90925",
+      "posted": "2026-05-04",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 90925.0,
+      "salary_hourly": 43.71
+    },
+    {
       "title": "COBOL Developer",
       "company": "Railroad Retirement Board",
       "location": "Anywhere in the U.S. (remote job)",
@@ -567,18 +591,6 @@
       "type": "",
       "salary_annual": 89508.0,
       "salary_hourly": 43.03
-    },
-    {
-      "title": "Public Notice for Engineering Technician (Direct Hire)",
-      "company": "Federal Aviation Administration",
-      "location": "May be filled in various FAA duty locations",
-      "url": "https://www.usajobs.gov:443/job/858693800",
-      "salary": "46830",
-      "posted": "2026-02-24",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 46830.0,
-      "salary_hourly": 22.51
     },
     {
       "title": "Physician - Diagnostic Radiologist",
