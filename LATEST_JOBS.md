@@ -1,6 +1,6 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-05-19T05%3A07%3A48Z-blue?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-05-19T16%3A20%3A29Z-blue?style=flat-square)
 ![Jobs](https://img.shields.io/badge/Jobs_Found-64-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
@@ -13,6 +13,8 @@
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
 | It Specialist | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 106437 | 2026-05-19 | [Apply](https://www.usajobs.gov:443/job/869342900) |
+| Supervisory IT Specialist (Plcypln) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 125776 | 2026-05-19 | [Apply](https://www.usajobs.gov:443/job/869828600) |
+| Medical Records Technician (Clinical Documentation Improvement Specialist  (CDIS - Inpatient)) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-05-19 | [Apply](https://www.usajobs.gov:443/job/869894400) |
 | Learning Management Systems Specialist | Federal Aviation Administration | May be filled in various FAA duty locations | Not listed | 77357 | 2026-05-19 | [Apply](https://www.usajobs.gov:443/job/869778000) |
 | Wildland Firefighter (Fire Management Planning) | Forest Service | Location Negotiable After Selection | Not listed | 72832 | 2026-05-19 | [Apply](https://www.usajobs.gov:443/job/869746300) |
 | Physician - Diagnostic Imaging | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 375000 | 2026-05-18 | [Apply](https://www.usajobs.gov:443/job/869698900) |
@@ -30,8 +32,6 @@
 | Supervisory Legal Administrative Specialist | Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys | Los Angeles, California | Not listed | 124085 | 2026-05-15 | [Apply](https://www.usajobs.gov:443/job/869558400) |
 | IT SPECIALIST (ARTIFICIAL INTELLIGENCE) | Centers for Medicare & Medicaid Services | Anywhere in the U.S. (remote job) | Not listed | 107466 | 2026-05-14 | [Apply](https://www.usajobs.gov:443/job/869314400) |
 | Trial Attorney (ITFO-NY) | Offices, Boards and Divisions | Location Negotiable After Selection | Not listed | 147945 | 2026-05-14 | [Apply](https://www.usajobs.gov:443/job/868358300) |
-| Pharmacy Supervisor | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 106437 | 2026-05-14 | [Apply](https://www.usajobs.gov:443/job/869316900) |
-| Medical Records Technician - Coder In/Out | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 36409 | 2026-05-14 | [Apply](https://www.usajobs.gov:443/job/869318400) |
 
 ---
 
@@ -41,7 +41,7 @@
 |--------|-------|
 | Total jobs found | 64 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-05-19T05:07:48Z |
+| Last updated | 2026-05-19T16:20:29Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-05-19T05:07:48Z_
+_Auto-generated legacy snapshot. Last run: 2026-05-19T16:20:29Z_
