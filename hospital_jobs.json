@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-18T16:24:19Z",
-  "count": 7,
+  "updated": "2026-05-19T05:07:50Z",
+  "count": 9,
   "sources": [
     "Cedars-Sinai",
     "Glendale Memorial Hospital and Health",
@@ -9,6 +9,38 @@
   ],
   "track_slug": "hospital-careers",
   "jobs": [
+    {
+      "title": "Echo Sonographer II - Per Diem - 8-Hour Day Shift Cedars-Sinai Medical Center Los Angeles, CA Imaging Req ID: 17007",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/echo-sonographer-ii-per-diem-8-hour-day-shift/252/94748311568",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/echo-sonographer-ii-per-diem-8-hour-day-shift/252/94748311568",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: imaging"
+    },
+    {
+      "title": "Pharmacy Manager - Pharmacy Informatics Cedars-Sinai Medical Center Beverly Hills, CA Pharmacy Req ID: 16663",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/beverly-hills/pharmacy-manager-pharmacy-informatics/252/94259354256",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/pharmacy-manager-pharmacy-informatics/252/94259354256",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: informatics"
+    },
     {
       "title": "Senior Epic Report Developer - Remote",
       "company": "Cedars-Sinai",
