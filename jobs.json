@@ -1,9 +1,21 @@
 {
-  "updated": "2026-05-20T05:10:50Z",
+  "updated": "2026-05-20T16:26:02Z",
   "zip": "90029",
   "radius_mi": 5,
   "count": 62,
   "jobs": [
+    {
+      "title": "It Spec (Infosec/Network)",
+      "company": "Electronic Health Record Modernization",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/870046000",
+      "salary": "121785",
+      "posted": "2026-05-20",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 121785.0,
+      "salary_hourly": 58.55
+    },
     {
       "title": "Investigative Program Specialist (Cyber)",
       "company": "Customs and Border Protection",
@@ -123,6 +135,18 @@
       "type": "8-20 Hours Per Week",
       "salary_annual": null,
       "salary_hourly": null
+    },
+    {
+      "title": "MEDICAL SUPPORT ASSISTANT (ADVANCED)",
+      "company": "Veterans Health Administration",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/870045400",
+      "salary": "56247",
+      "posted": "2026-05-20",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 56247.0,
+      "salary_hourly": 27.04
     },
     {
       "title": "It Specialist",
@@ -437,18 +461,6 @@
       "salary_hourly": 91.14
     },
     {
-      "title": "Clinical Psychologist - Telemental Health",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/869297600",
-      "salary": "101753",
-      "posted": "2026-05-14",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 101753.0,
-      "salary_hourly": 48.92
-    },
-    {
       "title": "Physician - Cardiology",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -735,18 +747,6 @@
       "type": "",
       "salary_annual": 56763.0,
       "salary_hourly": 27.29
-    },
-    {
-      "title": "ENGINEERING",
-      "company": "Air Force Civilian Career Training",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/846773600",
-      "salary": "55486",
-      "posted": "2025-09-29",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 55486.0,
-      "salary_hourly": 26.68
     }
   ]
 }
