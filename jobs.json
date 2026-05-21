@@ -1,9 +1,33 @@
 {
-  "updated": "2026-05-20T16:26:02Z",
+  "updated": "2026-05-21T05:14:08Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 62,
+  "count": 63,
   "jobs": [
+    {
+      "title": "Systems & Procedures Analyst",
+      "company": "Deputy Assistant Secretary for Finance",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/870140800",
+      "salary": "43106",
+      "posted": "2026-05-21",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 43106.0,
+      "salary_hourly": 20.72
+    },
+    {
+      "title": "Nursing Assistant (Float Pool-Intermittent)",
+      "company": "Veterans Health Administration",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/870170900",
+      "salary": "42947",
+      "posted": "2026-05-21",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 42947.0,
+      "salary_hourly": 20.65
+    },
     {
       "title": "It Spec (Infosec/Network)",
       "company": "Electronic Health Record Modernization",
@@ -15,6 +39,18 @@
       "type": "",
       "salary_annual": 121785.0,
       "salary_hourly": 58.55
+    },
+    {
+      "title": "CLINICAL PHARMACIST",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/870171100",
+      "salary": "89508",
+      "posted": "2026-05-20",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 89508.0,
+      "salary_hourly": 43.03
     },
     {
       "title": "Investigative Program Specialist (Cyber)",
@@ -147,6 +183,18 @@
       "type": "",
       "salary_annual": 56247.0,
       "salary_hourly": 27.04
+    },
+    {
+      "title": "Pharmacist (Pharmacy Supervisor) Clinical Contact Center/VA Health Connect",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/870076300",
+      "salary": "149490",
+      "posted": "2026-05-20",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 149490.0,
+      "salary_hourly": 71.87
     },
     {
       "title": "It Specialist",
@@ -365,18 +413,6 @@
       "salary_hourly": 59.66
     },
     {
-      "title": "IT SPECIALIST (ARTIFICIAL INTELLIGENCE)",
-      "company": "Centers for Medicare & Medicaid Services",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/869314400",
-      "salary": "107466",
-      "posted": "2026-05-14",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 107466.0,
-      "salary_hourly": 51.67
-    },
-    {
       "title": "Trial Attorney (ITFO-NY)",
       "company": "Offices, Boards and Divisions",
       "location": "Location Negotiable After Selection",
@@ -425,30 +461,6 @@
       "salary_hourly": 42.89
     },
     {
-      "title": "Supervisory Management and Program Analyst",
-      "company": "Farm Service Agency",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/869160700",
-      "salary": "125776",
-      "posted": "2026-05-14",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
-    },
-    {
-      "title": "Social Science Specialist (Peer Recovery Specialist)",
-      "company": "Customs and Border Protection",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/869171500",
-      "salary": "125776",
-      "posted": "2026-05-14",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
-    },
-    {
       "title": "Social Worker Program Manager (DETAIL/TEMP PROMOTION OPPORTUNITY)",
       "company": "Veterans Health Administration",
       "location": "Los Angeles, California",
@@ -459,6 +471,18 @@
       "type": "",
       "salary_annual": 189576.0,
       "salary_hourly": 91.14
+    },
+    {
+      "title": "Clinical Psychologist - Telemental Health",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/869297600",
+      "salary": "101753",
+      "posted": "2026-05-14",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 101753.0,
+      "salary_hourly": 48.92
     },
     {
       "title": "Physician - Cardiology",
@@ -485,18 +509,6 @@
       "salary_hourly": 36.76
     },
     {
-      "title": "Psychology Program Manager - Mental Health Process Improvement and Analytics",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/869129300",
-      "salary": "107446",
-      "posted": "2026-05-13",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 107446.0,
-      "salary_hourly": 51.66
-    },
-    {
       "title": "Licensed Professional Mental Health Counselor - Mental Health Process Improvement and Analytics",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -507,6 +519,18 @@
       "type": "",
       "salary_annual": 76463.0,
       "salary_hourly": 36.76
+    },
+    {
+      "title": "Psychology Program Manager - Mental Health Process Improvement and Analytics",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/869129300",
+      "salary": "107446",
+      "posted": "2026-05-13",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 107446.0,
+      "salary_hourly": 51.66
     },
     {
       "title": "Physician-Diagnostic Radiologist-Recruitment/Relocation Incentive-EDRP Authorized",
@@ -543,30 +567,6 @@
       "type": "",
       "salary_annual": 106437.0,
       "salary_hourly": 51.17
-    },
-    {
-      "title": "IT System Administrator GS 7/9",
-      "company": "Federal Bureau of Investigation",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/868123300",
-      "salary": "42679",
-      "posted": "2026-05-06",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 42679.0,
-      "salary_hourly": 20.52
-    },
-    {
-      "title": "IT System Administrator GS 11/12",
-      "company": "Federal Bureau of Investigation",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/868142400",
-      "salary": "63163",
-      "posted": "2026-05-06",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 63163.0,
-      "salary_hourly": 30.37
     },
     {
       "title": "COBOL Developer",
@@ -747,6 +747,18 @@
       "type": "",
       "salary_annual": 56763.0,
       "salary_hourly": 27.29
+    },
+    {
+      "title": "ENGINEERING",
+      "company": "Air Force Civilian Career Training",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/846773600",
+      "salary": "55486",
+      "posted": "2025-09-29",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 55486.0,
+      "salary_hourly": 26.68
     }
   ]
 }

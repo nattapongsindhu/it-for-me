@@ -1,18 +1,21 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-05-20T16%3A26%3A02Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-62-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-05-21T05%3A14%3A08Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-63-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
 
 ---
 
-## Latest Jobs - May 20, 2026
+## Latest Jobs - May 21, 2026
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
+| Systems & Procedures Analyst | Deputy Assistant Secretary for Finance | Anywhere in the U.S. (remote job) | Not listed | 43106 | 2026-05-21 | [Apply](https://www.usajobs.gov:443/job/870140800) |
+| Nursing Assistant (Float Pool-Intermittent) | Veterans Health Administration | Los Angeles, California | Not listed | 42947 | 2026-05-21 | [Apply](https://www.usajobs.gov:443/job/870170900) |
 | It Spec (Infosec/Network) | Electronic Health Record Modernization | Multiple Locations | Not listed | 121785 | 2026-05-20 | [Apply](https://www.usajobs.gov:443/job/870046000) |
+| CLINICAL PHARMACIST | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 89508 | 2026-05-20 | [Apply](https://www.usajobs.gov:443/job/870171100) |
 | Investigative Program Specialist (Cyber) | Customs and Border Protection | Location Negotiable After Selection | Not listed | 125776 | 2026-05-20 | [Apply](https://www.usajobs.gov:443/job/868081200) |
 | Deputy Director for Tax Audit Division | Alcohol and Tobacco Tax and Trade Bureau | Location Negotiable After Selection | Not listed | 147945 | 2026-05-20 | [Apply](https://www.usajobs.gov:443/job/869976000) |
 | Safety and Public Health Analysis | Agricultural Marketing Service | Anywhere in the U.S. (remote job) | 8 to 20 Hours Per Week | 0 | 2026-05-20 | [Apply](https://www.usajobs.gov:443/job/869998000) |
@@ -24,14 +27,11 @@
 | Database Testing & Reports Programming | Agricultural Marketing Service | Location Negotiable After Selection | 8-20 hours per week | 0 | 2026-05-20 | [Apply](https://www.usajobs.gov:443/job/869998700) |
 | Dashboard Development | Agricultural Marketing Service | Location Negotiable After Selection | 8-20 Hours Per Week | 0 | 2026-05-20 | [Apply](https://www.usajobs.gov:443/job/869998900) |
 | MEDICAL SUPPORT ASSISTANT (ADVANCED) | Veterans Health Administration | Los Angeles, California | Not listed | 56247 | 2026-05-20 | [Apply](https://www.usajobs.gov:443/job/870045400) |
+| Pharmacist (Pharmacy Supervisor) Clinical Contact Center/VA Health Connect | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 149490 | 2026-05-20 | [Apply](https://www.usajobs.gov:443/job/870076300) |
 | It Specialist | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 106437 | 2026-05-19 | [Apply](https://www.usajobs.gov:443/job/869342900) |
 | Supervisory IT Specialist (Plcypln) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 125776 | 2026-05-19 | [Apply](https://www.usajobs.gov:443/job/869828600) |
 | SUP MED RECORDS TECHNICIAN (CODER OUTPATIENT/INPATIENT) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 67970 | 2026-05-19 | [Apply](https://www.usajobs.gov:443/job/869910400) |
 | Medical Records Technician (Clinical Documentation Improvement Specialist  (CDIS - Inpatient)) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-05-19 | [Apply](https://www.usajobs.gov:443/job/869894400) |
-| Learning Management Systems Specialist | Federal Aviation Administration | May be filled in various FAA duty locations | Not listed | 77357 | 2026-05-19 | [Apply](https://www.usajobs.gov:443/job/869778000) |
-| Wildland Firefighter (Fire Management Planning) | Forest Service | Multiple Locations | Not listed | 72832 | 2026-05-19 | [Apply](https://www.usajobs.gov:443/job/869746300) |
-| Physician - Diagnostic Imaging | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 375000 | 2026-05-18 | [Apply](https://www.usajobs.gov:443/job/869698900) |
-| Supervisory Health System Specialist (Corporate Compliance Chief) | Veterans Health Administration | Los Angeles, California | Not listed | 146632 | 2026-05-18 | [Apply](https://www.usajobs.gov:443/job/869797600) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 62 |
+| Total jobs found | 63 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-05-20T16:26:02Z |
+| Last updated | 2026-05-21T05:14:08Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 62 jobs
+- USAJobs: 63 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-05-20T16:26:02Z_
+_Auto-generated legacy snapshot. Last run: 2026-05-21T05:14:08Z_
