@@ -1,9 +1,93 @@
 {
-  "updated": "2026-05-21T16:15:38Z",
+  "updated": "2026-05-22T05:08:12Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 64,
+  "count": 67,
   "jobs": [
+    {
+      "title": "Executive Director Portfolio Management for Corporate",
+      "company": "Deputy Assistant Secretary for Information and Technology",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/870227400",
+      "salary": "151661",
+      "posted": "2026-05-22",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 151661.0,
+      "salary_hourly": 72.91
+    },
+    {
+      "title": "Lead Systems & Procedures Analyst",
+      "company": "Deputy Assistant Secretary for Finance",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/870185700",
+      "salary": "63795",
+      "posted": "2026-05-22",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 63795.0,
+      "salary_hourly": 30.67
+    },
+    {
+      "title": "Health System Specialist",
+      "company": "Electronic Health Record Modernization",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/870342400",
+      "salary": "121785",
+      "posted": "2026-05-22",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 121785.0,
+      "salary_hourly": 58.55
+    },
+    {
+      "title": "Investigator",
+      "company": "Office of Accountability and Whistleblower Protection",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/870261800",
+      "salary": "106437",
+      "posted": "2026-05-22",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
+    },
+    {
+      "title": "Registered Nurse-Cardiology (Clinical Resource Hub)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/870262000",
+      "salary": "85600",
+      "posted": "2026-05-22",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 85600.0,
+      "salary_hourly": 41.15
+    },
+    {
+      "title": "Aviation Safety Technician",
+      "company": "Federal Aviation Administration",
+      "location": "FAA Nationwide-Selectee Remains in Current Duty Location",
+      "url": "https://www.usajobs.gov:443/job/870228600",
+      "salary": "47738",
+      "posted": "2026-05-22",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 47738.0,
+      "salary_hourly": 22.95
+    },
+    {
+      "title": "Supervisory Housing Program Officer",
+      "company": "Assistant Secretary for Housing-Federal Housing Commissioner",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/870230900",
+      "salary": "125776",
+      "posted": "2026-05-22",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 125776.0,
+      "salary_hourly": 60.47
+    },
     {
       "title": "IT Specialist",
       "company": "Deputy Assistant Secretary for Information and Technology",
@@ -29,28 +113,52 @@
       "salary_hourly": 60.47
     },
     {
-      "title": "Senior Social Worker -Behavioral Health Interdisciplinary Program- Dual Diagnosis",
+      "title": "Medical Records Technician (Coder - Inpatient)",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/870220500",
-      "salary": "97100",
+      "url": "https://www.usajobs.gov:443/job/870273500",
+      "salary": "36409",
       "posted": "2026-05-21",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 97100.0,
-      "salary_hourly": 46.68
+      "salary_annual": 36409.0,
+      "salary_hourly": 17.5
     },
     {
-      "title": "Pharmacy Technician",
+      "title": "Supervisory Pharmacy Technician",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/870212800",
-      "salary": "50460",
+      "url": "https://www.usajobs.gov:443/job/870329500",
+      "salary": "72870",
       "posted": "2026-05-21",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 50460.0,
-      "salary_hourly": 24.26
+      "salary_annual": 72870.0,
+      "salary_hourly": 35.03
+    },
+    {
+      "title": "Pharmacy Technician-Clinical Contact Center",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/870358000",
+      "salary": "68194",
+      "posted": "2026-05-21",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 68194.0,
+      "salary_hourly": 32.79
+    },
+    {
+      "title": "Human Resources Specialist (Employee & Labor Relations)",
+      "company": "Deputy Assistant Secretary for Information and Technology",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/870270400",
+      "salary": "90925",
+      "posted": "2026-05-21",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 90925.0,
+      "salary_hourly": 43.71
     },
     {
       "title": "Systems & Procedures Analyst",
@@ -99,18 +207,6 @@
       "type": "",
       "salary_annual": 121785.0,
       "salary_hourly": 58.55
-    },
-    {
-      "title": "CLINICAL PHARMACIST",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/870171100",
-      "salary": "89508",
-      "posted": "2026-05-20",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 89508.0,
-      "salary_hourly": 43.03
     },
     {
       "title": "Investigative Program Specialist (Cyber)",
@@ -233,18 +329,6 @@
       "salary_hourly": null
     },
     {
-      "title": "Pharmacist (Pharmacy Supervisor) Clinical Contact Center/VA Health Connect",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/870076300",
-      "salary": "149490",
-      "posted": "2026-05-20",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 149490.0,
-      "salary_hourly": 71.87
-    },
-    {
       "title": "Supervisory IT Specialist (Plcypln)",
       "company": "Deputy Assistant Secretary for Information and Technology",
       "location": "Location Negotiable After Selection",
@@ -341,6 +425,18 @@
       "salary_hourly": 60.47
     },
     {
+      "title": "Account Executive",
+      "company": "Assistant Secretary for Housing-Federal Housing Commissioner",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/869586800",
+      "salary": "106437",
+      "posted": "2026-05-18",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
+    },
+    {
       "title": "Management & Program Analyst",
       "company": "Federal Aviation Administration",
       "location": "May be filled in various FAA duty locations",
@@ -363,18 +459,6 @@
       "type": "",
       "salary_annual": 125776.0,
       "salary_hourly": 60.47
-    },
-    {
-      "title": "Information Technology Specialist",
-      "company": "Veterans Affairs, Inspector General",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/869604200",
-      "salary": "106991",
-      "posted": "2026-05-15",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 106991.0,
-      "salary_hourly": 51.44
     },
     {
       "title": "Veterans Service Representative (VSR)",
@@ -461,28 +545,16 @@
       "salary_hourly": 71.13
     },
     {
-      "title": "Medical Records Technician - Coder In/Out",
+      "title": "Pharmacy Supervisor",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/869318400",
-      "salary": "36409",
+      "url": "https://www.usajobs.gov:443/job/869316900",
+      "salary": "106437",
       "posted": "2026-05-14",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 36409.0,
-      "salary_hourly": 17.5
-    },
-    {
-      "title": "Social Worker Program Manager (DETAIL/TEMP PROMOTION OPPORTUNITY)",
-      "company": "Veterans Health Administration",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/869251200",
-      "salary": "189576",
-      "posted": "2026-05-14",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 189576.0,
-      "salary_hourly": 91.14
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
     },
     {
       "title": "Installation Child and Youth Program Director (Small or Medium)",
@@ -497,16 +569,28 @@
       "salary_hourly": 42.89
     },
     {
-      "title": "Pharmacy Supervisor",
+      "title": "Social Worker Program Manager (DETAIL/TEMP PROMOTION OPPORTUNITY)",
       "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/869316900",
-      "salary": "106437",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/869251200",
+      "salary": "189576",
       "posted": "2026-05-14",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 106437.0,
-      "salary_hourly": 51.17
+      "salary_annual": 189576.0,
+      "salary_hourly": 91.14
+    },
+    {
+      "title": "Clinical Psychologist - Telemental Health",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/869297600",
+      "salary": "101753",
+      "posted": "2026-05-14",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 101753.0,
+      "salary_hourly": 48.92
     },
     {
       "title": "Physician - Cardiology",
@@ -521,42 +605,6 @@
       "salary_hourly": 153.85
     },
     {
-      "title": "Psychology Program Manager - Mental Health Process Improvement and Analytics",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/869129300",
-      "salary": "107446",
-      "posted": "2026-05-13",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 107446.0,
-      "salary_hourly": 51.66
-    },
-    {
-      "title": "Licensed Professional Mental Health Counselor - Mental Health Process Improvement and Analytics",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/869129400",
-      "salary": "76463",
-      "posted": "2026-05-13",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 76463.0,
-      "salary_hourly": 36.76
-    },
-    {
-      "title": "Social Worker - Program Coordinator - Mental Health Process Improvement and Analytics",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/869129500",
-      "salary": "76463",
-      "posted": "2026-05-13",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 76463.0,
-      "salary_hourly": 36.76
-    },
-    {
       "title": "Physician-Diagnostic Radiologist-Recruitment/Relocation Incentive-EDRP Authorized",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -567,42 +615,6 @@
       "type": "",
       "salary_annual": 124308.0,
       "salary_hourly": 59.76
-    },
-    {
-      "title": "Financial Systems Project Manager",
-      "company": "Library of Congress",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/867896200",
-      "salary": "143913",
-      "posted": "2026-05-07",
-      "source": "USAJobs",
-      "type": "Flexitime.",
-      "salary_annual": 143913.0,
-      "salary_hourly": 69.19
-    },
-    {
-      "title": "Account Executive",
-      "company": "Assistant Secretary for Housing-Federal Housing Commissioner",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/868156000",
-      "salary": "106437",
-      "posted": "2026-05-07",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 106437.0,
-      "salary_hourly": 51.17
-    },
-    {
-      "title": "COBOL Developer",
-      "company": "Railroad Retirement Board",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/867462100",
-      "salary": "90925",
-      "posted": "2026-04-30",
-      "source": "USAJobs",
-      "type": "Incumbent may be required to work outside of normal duty hours, such as nights, weekends, and holidays, due to operational needs.",
-      "salary_annual": 90925.0,
-      "salary_hourly": 43.71
     },
     {
       "title": "Advanced Practice Provider, Medical Asset Support Team (O-5 Billet) Non-Supervisory - Internal",
@@ -771,6 +783,30 @@
       "type": "",
       "salary_annual": 56763.0,
       "salary_hourly": 27.29
+    },
+    {
+      "title": "ENGINEERING",
+      "company": "Air Force Civilian Career Training",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/846773600",
+      "salary": "55486",
+      "posted": "2025-09-29",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 55486.0,
+      "salary_hourly": 26.68
+    },
+    {
+      "title": "PHYSICIST",
+      "company": "Air Force Civilian Career Training",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/846774500",
+      "salary": "49960",
+      "posted": "2025-09-29",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 49960.0,
+      "salary_hourly": 24.02
     }
   ]
 }

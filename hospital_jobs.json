@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-21T16:15:40Z",
-  "count": 11,
+  "updated": "2026-05-22T05:08:15Z",
+  "count": 13,
   "sources": [
     "Cedars-Sinai",
     "Glendale Memorial Hospital and Health",
@@ -9,6 +9,22 @@
   ],
   "track_slug": "hospital-careers",
   "jobs": [
+    {
+      "title": "Epic Beaker Analyst - Remote",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/epic-beaker-analyst-remote/252/95396987216",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/epic-beaker-analyst-remote/252/95396987216",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: epic"
+    },
     {
       "title": "Epic MyChart Analyst - Remote",
       "company": "Cedars-Sinai",
@@ -42,36 +58,36 @@
       "match_reason": "Cedars-Sinai direct match: epic"
     },
     {
-      "title": "MRI Technologist - Coastal Ortho - Torrance Cedars-Sinai Medical Care Foundation Torrance, CA Imaging Req ID: 16240",
+      "title": "Pharmacist - Primary Care & Drug Therapy Management - Medical Network Cedars-Sinai Medical Care Foundation Beverly Hills, CA Pharmacy Req ID: 17670",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/torrance/mri-technologist-coastal-ortho-torrance/252/95377680720",
+      "url": "https://careers.cshs.org/job/beverly-hills/pharmacist-primary-care-and-drug-therapy-management-medical-network/252/95396987168",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/torrance/mri-technologist-coastal-ortho-torrance/252/95377680720",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/pharmacist-primary-care-and-drug-therapy-management-medical-network/252/95396987168",
       "track_slug": "hospital-careers",
       "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging, technologist"
+      "match_reason": "Cedars-Sinai direct match: network"
     },
     {
-      "title": "Senior Epic Beaker Analyst - Remote",
+      "title": "Specialty Technician III - Operating Room - 8-Hour - Full Time - Days - (Hours: 0630 - 1500) Cedars-Sinai Medical Center Los Angeles, CA Clinical Operations Req ID: 16383",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/senior-epic-beaker-analyst-remote/252/95307004224",
+      "url": "https://careers.cshs.org/job/los-angeles/specialty-technician-iii-operating-room-8-hour-full-time-days-hours-0630-1500/252/95391032672",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/senior-epic-beaker-analyst-remote/252/95307004224",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/specialty-technician-iii-operating-room-8-hour-full-time-days-hours-0630-1500/252/95391032672",
       "track_slug": "hospital-careers",
       "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: epic"
+      "match_reason": "Cedars-Sinai direct match: technician"
     },
     {
       "title": "Surgical Technologist III - Operating Room Cardiac/Liver - 12-Hour - Full Time - Nights - (Hours 1830 \u2013 0700) Cedars-Sinai Medical Center Los Angeles, CA Clinical Operations Req ID: 17357",
@@ -184,6 +200,22 @@
       "track_slug": "hospital-careers",
       "type": "Flexible, Full-time, Day",
       "match_reason": "Kaiser direct match: imaging"
+    },
+    {
+      "title": "IT Consultant IV, Solutions-SSD (Radiant - EPIC)",
+      "company": "Kaiser Permanente",
+      "hospital_name": "Kaiser Permanente",
+      "location": "SCAL Pasadena, CA",
+      "url": "https://www.kaiserpermanentejobs.org/job/pasadena/it-consultant-iv-solutions-ssd-radiant-epic-scal/641/84716077424",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::kaiser permanente::https://www.kaiserpermanentejobs.org/job/pasadena/it-consultant-iv-solutions-ssd-radiant-epic-scal/641/84716077424",
+      "track_slug": "hospital-careers",
+      "type": "Flexible, Full-time, Day",
+      "match_reason": "Kaiser direct match: epic, radiant"
     }
   ]
 }
