@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-22T05:08:15Z",
-  "count": 13,
+  "updated": "2026-05-22T15:48:00Z",
+  "count": 10,
   "sources": [
     "Cedars-Sinai",
     "Glendale Memorial Hospital and Health",
@@ -72,38 +72,6 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: network"
-    },
-    {
-      "title": "Specialty Technician III - Operating Room - 8-Hour - Full Time - Days - (Hours: 0630 - 1500) Cedars-Sinai Medical Center Los Angeles, CA Clinical Operations Req ID: 16383",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/specialty-technician-iii-operating-room-8-hour-full-time-days-hours-0630-1500/252/95391032672",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/specialty-technician-iii-operating-room-8-hour-full-time-days-hours-0630-1500/252/95391032672",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: technician"
-    },
-    {
-      "title": "Surgical Technologist III - Operating Room Cardiac/Liver - 12-Hour - Full Time - Nights - (Hours 1830 \u2013 0700) Cedars-Sinai Medical Center Los Angeles, CA Clinical Operations Req ID: 17357",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/surgical-technologist-iii-operating-room-cardiac-liver-12-hour-full-time-nights-hours-1830-0700/252/95377685024",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/surgical-technologist-iii-operating-room-cardiac-liver-12-hour-full-time-nights-hours-1830-0700/252/95377685024",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: technologist"
     },
     {
       "title": "Central Service Tech I",
@@ -184,22 +152,6 @@
       "match_reason": "Huntington direct match: plumber",
       "salary_annual": null,
       "salary_hourly": null
-    },
-    {
-      "title": "IT Applications Engineer V",
-      "company": "Kaiser Permanente",
-      "hospital_name": "Kaiser Permanente",
-      "location": "Medical Imaging Pasadena, CA",
-      "url": "https://www.kaiserpermanentejobs.org/job/pasadena/it-applications-engineer-v-medical-imaging/641/93284083120",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::kaiser permanente::https://www.kaiserpermanentejobs.org/job/pasadena/it-applications-engineer-v-medical-imaging/641/93284083120",
-      "track_slug": "hospital-careers",
-      "type": "Flexible, Full-time, Day",
-      "match_reason": "Kaiser direct match: imaging"
     },
     {
       "title": "IT Consultant IV, Solutions-SSD (Radiant - EPIC)",

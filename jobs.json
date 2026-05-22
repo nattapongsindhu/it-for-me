@@ -1,9 +1,33 @@
 {
-  "updated": "2026-05-22T05:08:12Z",
+  "updated": "2026-05-22T15:47:57Z",
   "zip": "90029",
   "radius_mi": 5,
   "count": 67,
   "jobs": [
+    {
+      "title": "IT Specialist (InfoSec)",
+      "company": "Deputy Assistant Secretary for Information and Technology",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/870424400",
+      "salary": "106437",
+      "posted": "2026-05-22",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
+    },
+    {
+      "title": "Medical Records Technician (Coder-Outpatient)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/870407300",
+      "salary": "36409",
+      "posted": "2026-05-22",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 36409.0,
+      "salary_hourly": 17.5
+    },
     {
       "title": "Executive Director Portfolio Management for Corporate",
       "company": "Deputy Assistant Secretary for Information and Technology",
@@ -15,18 +39,6 @@
       "type": "",
       "salary_annual": 151661.0,
       "salary_hourly": 72.91
-    },
-    {
-      "title": "Lead Systems & Procedures Analyst",
-      "company": "Deputy Assistant Secretary for Finance",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/870185700",
-      "salary": "63795",
-      "posted": "2026-05-22",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 63795.0,
-      "salary_hourly": 30.67
     },
     {
       "title": "Health System Specialist",
@@ -137,18 +149,6 @@
       "salary_hourly": 35.03
     },
     {
-      "title": "Pharmacy Technician-Clinical Contact Center",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/870358000",
-      "salary": "68194",
-      "posted": "2026-05-21",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 68194.0,
-      "salary_hourly": 32.79
-    },
-    {
       "title": "Human Resources Specialist (Employee & Labor Relations)",
       "company": "Deputy Assistant Secretary for Information and Technology",
       "location": "Location Negotiable After Selection",
@@ -183,6 +183,18 @@
       "type": "",
       "salary_annual": 74678.0,
       "salary_hourly": 35.9
+    },
+    {
+      "title": "Pharmacy Technician-Clinical Contact Center",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/870358000",
+      "salary": "68194",
+      "posted": "2026-05-21",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 68194.0,
+      "salary_hourly": 32.79
     },
     {
       "title": "Nursing Assistant (Float Pool-Intermittent)",
@@ -545,16 +557,16 @@
       "salary_hourly": 71.13
     },
     {
-      "title": "Pharmacy Supervisor",
+      "title": "Social Worker Program Manager (DETAIL/TEMP PROMOTION OPPORTUNITY)",
       "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/869316900",
-      "salary": "106437",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/869251200",
+      "salary": "189576",
       "posted": "2026-05-14",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 106437.0,
-      "salary_hourly": 51.17
+      "salary_annual": 189576.0,
+      "salary_hourly": 91.14
     },
     {
       "title": "Installation Child and Youth Program Director (Small or Medium)",
@@ -569,16 +581,16 @@
       "salary_hourly": 42.89
     },
     {
-      "title": "Social Worker Program Manager (DETAIL/TEMP PROMOTION OPPORTUNITY)",
+      "title": "Pharmacy Supervisor",
       "company": "Veterans Health Administration",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/869251200",
-      "salary": "189576",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/869316900",
+      "salary": "106437",
       "posted": "2026-05-14",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 189576.0,
-      "salary_hourly": 91.14
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
     },
     {
       "title": "Clinical Psychologist - Telemental Health",
@@ -795,18 +807,6 @@
       "type": "",
       "salary_annual": 55486.0,
       "salary_hourly": 26.68
-    },
-    {
-      "title": "PHYSICIST",
-      "company": "Air Force Civilian Career Training",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/846774500",
-      "salary": "49960",
-      "posted": "2025-09-29",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 49960.0,
-      "salary_hourly": 24.02
     }
   ]
 }
