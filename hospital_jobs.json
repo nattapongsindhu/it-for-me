@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22T15:48:00Z",
+  "updated": "2026-05-23T04:47:52Z",
   "count": 10,
   "sources": [
     "Cedars-Sinai",
@@ -56,22 +56,6 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: epic"
-    },
-    {
-      "title": "Pharmacist - Primary Care & Drug Therapy Management - Medical Network Cedars-Sinai Medical Care Foundation Beverly Hills, CA Pharmacy Req ID: 17670",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/beverly-hills/pharmacist-primary-care-and-drug-therapy-management-medical-network/252/95396987168",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/pharmacist-primary-care-and-drug-therapy-management-medical-network/252/95396987168",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: network"
     },
     {
       "title": "Central Service Tech I",
@@ -152,6 +136,22 @@
       "match_reason": "Huntington direct match: plumber",
       "salary_annual": null,
       "salary_hourly": null
+    },
+    {
+      "title": "IT Applications Engineer V",
+      "company": "Kaiser Permanente",
+      "hospital_name": "Kaiser Permanente",
+      "location": "Medical Imaging Pasadena, CA",
+      "url": "https://www.kaiserpermanentejobs.org/job/pasadena/it-applications-engineer-v-medical-imaging/641/93284083120",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::kaiser permanente::https://www.kaiserpermanentejobs.org/job/pasadena/it-applications-engineer-v-medical-imaging/641/93284083120",
+      "track_slug": "hospital-careers",
+      "type": "Flexible, Full-time, Day",
+      "match_reason": "Kaiser direct match: imaging"
     },
     {
       "title": "IT Consultant IV, Solutions-SSD (Radiant - EPIC)",
