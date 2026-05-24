@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-23T14:39:53Z",
+  "updated": "2026-05-24T05:07:33Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 67,
+  "count": 69,
   "jobs": [
     {
       "title": "Medical Records Technician (Clinical Documentation Improvement Specialist Outpatient and Inpatient)",
@@ -63,6 +63,18 @@
       "type": "",
       "salary_annual": 151661.0,
       "salary_hourly": 72.91
+    },
+    {
+      "title": "Lead Systems & Procedures Analyst",
+      "company": "Deputy Assistant Secretary for Finance",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/870185700",
+      "salary": "63795",
+      "posted": "2026-05-22",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 63795.0,
+      "salary_hourly": 30.67
     },
     {
       "title": "Health System Specialist",
@@ -173,18 +185,6 @@
       "salary_hourly": 60.47
     },
     {
-      "title": "Medical Records Technician (Coder - Inpatient)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/870273500",
-      "salary": "36409",
-      "posted": "2026-05-21",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 36409.0,
-      "salary_hourly": 17.5
-    },
-    {
       "title": "Supervisory Pharmacy Technician",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -267,18 +267,6 @@
       "type": "",
       "salary_annual": 121785.0,
       "salary_hourly": 58.55
-    },
-    {
-      "title": "Investigative Program Specialist (Cyber)",
-      "company": "Customs and Border Protection",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/868081200",
-      "salary": "125776",
-      "posted": "2026-05-20",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
     },
     {
       "title": "Deputy Director for Tax Audit Division",
@@ -569,16 +557,16 @@
       "salary_hourly": 51.17
     },
     {
-      "title": "Social Worker Program Manager (DETAIL/TEMP PROMOTION OPPORTUNITY)",
+      "title": "Clinical Psychologist - Telemental Health",
       "company": "Veterans Health Administration",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/869251200",
-      "salary": "189576",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/869297600",
+      "salary": "101753",
       "posted": "2026-05-14",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 189576.0,
-      "salary_hourly": 91.14
+      "salary_annual": 101753.0,
+      "salary_hourly": 48.92
     },
     {
       "title": "Installation Child and Youth Program Director (Small or Medium)",
@@ -593,16 +581,16 @@
       "salary_hourly": 42.89
     },
     {
-      "title": "Clinical Psychologist - Telemental Health",
+      "title": "Social Worker Program Manager (DETAIL/TEMP PROMOTION OPPORTUNITY)",
       "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/869297600",
-      "salary": "101753",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/869251200",
+      "salary": "189576",
       "posted": "2026-05-14",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 101753.0,
-      "salary_hourly": 48.92
+      "salary_annual": 189576.0,
+      "salary_hourly": 91.14
     },
     {
       "title": "Physician - Cardiology",
@@ -785,6 +773,18 @@
       "salary_hourly": 35.9
     },
     {
+      "title": "Mathematical Statistics Series",
+      "company": "Department of the Air Force - Agency Wide",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/852879600",
+      "salary": "63795",
+      "posted": "2025-12-22",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 63795.0,
+      "salary_hourly": 30.67
+    },
+    {
       "title": "IT SPECIALIST",
       "company": "Air Force Civilian Career Training",
       "location": "Location Negotiable After Selection",
@@ -807,6 +807,30 @@
       "type": "",
       "salary_annual": 55486.0,
       "salary_hourly": 26.68
+    },
+    {
+      "title": "PHYSICIST",
+      "company": "Air Force Civilian Career Training",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/846774500",
+      "salary": "49960",
+      "posted": "2025-09-29",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 49960.0,
+      "salary_hourly": 24.02
+    },
+    {
+      "title": "BIOLOGICAL SCIENTIST (ENVIRONMENTAL)",
+      "company": "Air Force Civilian Career Training",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/846774300",
+      "salary": "49960",
+      "posted": "2025-09-29",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 49960.0,
+      "salary_hourly": 24.02
     }
   ]
 }
