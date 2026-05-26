@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-26T05:08:54Z",
+  "updated": "2026-05-26T16:43:19Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 66,
+  "count": 69,
   "jobs": [
     {
       "title": "IT Specialist (Enterprise Architecture)",
@@ -15,6 +15,42 @@
       "type": "",
       "salary_annual": 106437.0,
       "salary_hourly": 51.17
+    },
+    {
+      "title": "Supervisory Financial Operations Specialist (Branch Chief)",
+      "company": "Office of the Assistant Secretary for Administration and Management",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/870509500",
+      "salary": "125776",
+      "posted": "2026-05-26",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 125776.0,
+      "salary_hourly": 60.47
+    },
+    {
+      "title": "Safety & Occupational Health Manager (Safety Administrator - Trainee)",
+      "company": "Bureau of Prisons/Federal Prison System",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/870523600",
+      "salary": "74678",
+      "posted": "2026-05-26",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 74678.0,
+      "salary_hourly": 35.9
+    },
+    {
+      "title": "Medical Support Assistant (Advanced)",
+      "company": "Veterans Health Administration",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/870520400",
+      "salary": "56247",
+      "posted": "2026-05-26",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 56247.0,
+      "salary_hourly": 27.04
     },
     {
       "title": "Medical Records Technician (Clinical Documentation Improvement Specialist Outpatient and Inpatient)",

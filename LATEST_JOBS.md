@@ -1,7 +1,7 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-05-26T05%3A08%3A54Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-66-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-05-26T16%3A43%3A19Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-69-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
@@ -13,6 +13,9 @@
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
 | IT Specialist (Enterprise Architecture) | Food Safety and Inspection Service | Location Negotiable After Selection | Not listed | 106437 | 2026-05-26 | [Apply](https://www.usajobs.gov:443/job/870412000) |
+| Supervisory Financial Operations Specialist (Branch Chief) | Office of the Assistant Secretary for Administration and Management | Location Negotiable After Selection | Not listed | 125776 | 2026-05-26 | [Apply](https://www.usajobs.gov:443/job/870509500) |
+| Safety & Occupational Health Manager (Safety Administrator - Trainee) | Bureau of Prisons/Federal Prison System | Multiple Locations | Not listed | 74678 | 2026-05-26 | [Apply](https://www.usajobs.gov:443/job/870523600) |
+| Medical Support Assistant (Advanced) | Veterans Health Administration | Los Angeles, California | Not listed | 56247 | 2026-05-26 | [Apply](https://www.usajobs.gov:443/job/870520400) |
 | Medical Records Technician (Clinical Documentation Improvement Specialist Outpatient and Inpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 52727 | 2026-05-23 | [Apply](https://www.usajobs.gov:443/job/870485300) |
 | IT Specialist (InfoSec) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 106437 | 2026-05-22 | [Apply](https://www.usajobs.gov:443/job/870424400) |
 | Medical Records Technician (Coder-Outpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 36409 | 2026-05-22 | [Apply](https://www.usajobs.gov:443/job/870407300) |
@@ -29,9 +32,6 @@
 | IT Specialist | Deputy Assistant Secretary for Information and Technology | Multiple Locations | Not listed | 76463 | 2026-05-21 | [Apply](https://www.usajobs.gov:443/job/870186900) |
 | IT Specialist (Policy and Planning) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 125776 | 2026-05-21 | [Apply](https://www.usajobs.gov:443/job/870187100) |
 | Supervisory Pharmacy Technician | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 72870 | 2026-05-21 | [Apply](https://www.usajobs.gov:443/job/870329500) |
-| Pharmacy Technician-Clinical Contact Center | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 68194 | 2026-05-21 | [Apply](https://www.usajobs.gov:443/job/870358000) |
-| Systems & Procedures Analyst | Deputy Assistant Secretary for Finance | Anywhere in the U.S. (remote job) | Not listed | 43106 | 2026-05-21 | [Apply](https://www.usajobs.gov:443/job/870140800) |
-| Program Specialist | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 74678 | 2026-05-21 | [Apply](https://www.usajobs.gov:443/job/870201700) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 66 |
+| Total jobs found | 69 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-05-26T05:08:54Z |
+| Last updated | 2026-05-26T16:43:19Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 66 jobs
+- USAJobs: 69 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-05-26T05:08:54Z_
+_Auto-generated legacy snapshot. Last run: 2026-05-26T16:43:19Z_
