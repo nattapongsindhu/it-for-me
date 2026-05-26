@@ -1,9 +1,21 @@
 {
-  "updated": "2026-05-25T15:51:06Z",
+  "updated": "2026-05-26T05:08:54Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 69,
+  "count": 66,
   "jobs": [
+    {
+      "title": "IT Specialist (Enterprise Architecture)",
+      "company": "Food Safety and Inspection Service",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/870412000",
+      "salary": "106437",
+      "posted": "2026-05-26",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
+    },
     {
       "title": "Medical Records Technician (Clinical Documentation Improvement Specialist Outpatient and Inpatient)",
       "company": "Veterans Health Administration",
@@ -209,18 +221,6 @@
       "salary_hourly": 32.79
     },
     {
-      "title": "Human Resources Specialist (Employee & Labor Relations)",
-      "company": "Deputy Assistant Secretary for Information and Technology",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/870270400",
-      "salary": "90925",
-      "posted": "2026-05-21",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 90925.0,
-      "salary_hourly": 43.71
-    },
-    {
       "title": "Systems & Procedures Analyst",
       "company": "Deputy Assistant Secretary for Finance",
       "location": "Anywhere in the U.S. (remote job)",
@@ -389,18 +389,6 @@
       "salary_hourly": 60.47
     },
     {
-      "title": "SUP MED RECORDS TECHNICIAN (CODER OUTPATIENT/INPATIENT)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/869910400",
-      "salary": "67970",
-      "posted": "2026-05-19",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 67970.0,
-      "salary_hourly": 32.68
-    },
-    {
       "title": "Medical Records Technician (Clinical Documentation Improvement Specialist  (CDIS - Inpatient))",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -483,18 +471,6 @@
       "type": "",
       "salary_annual": 77351.0,
       "salary_hourly": 37.19
-    },
-    {
-      "title": "Veterans Service Representative (VSR)",
-      "company": "Veterans Benefits Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/869488900",
-      "salary": "58064",
-      "posted": "2026-05-15",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 58064.0,
-      "salary_hourly": 27.92
     },
     {
       "title": "Radiologist- Hampton (Remote)",
@@ -771,18 +747,6 @@
       "type": "",
       "salary_annual": 74678.0,
       "salary_hourly": 35.9
-    },
-    {
-      "title": "Mathematical Statistics Series",
-      "company": "Department of the Air Force - Agency Wide",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/852879600",
-      "salary": "63795",
-      "posted": "2025-12-22",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 63795.0,
-      "salary_hourly": 30.67
     },
     {
       "title": "IT SPECIALIST",

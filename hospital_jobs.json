@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-25T15:51:09Z",
-  "count": 10,
+  "updated": "2026-05-26T05:08:56Z",
+  "count": 11,
   "sources": [
     "Cedars-Sinai",
     "Glendale Memorial Hospital and Health",
@@ -56,6 +56,22 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: epic"
+    },
+    {
+      "title": "Surgical Technologist III - Operating Room - 10-Hour - Full Time - Various Shifts Cedars-Sinai Medical Center Los Angeles, CA Clinical Operations Req ID: 17776",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/surgical-technologist-iii-operating-room-10-hour-full-time-various-shifts/252/95557709600",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/surgical-technologist-iii-operating-room-10-hour-full-time-various-shifts/252/95557709600",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: technologist"
     },
     {
       "title": "Central Service Tech I",
