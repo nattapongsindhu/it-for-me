@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-27T05:23:07Z",
+  "updated": "2026-05-27T16:37:54Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 65,
+  "count": 66,
   "jobs": [
     {
       "title": "Senior Government Ethics Specialist",
@@ -15,6 +15,18 @@
       "type": "",
       "salary_annual": 125776.0,
       "salary_hourly": 60.47
+    },
+    {
+      "title": "Registered Nurse (Educator) Clinical Contact Center",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/870691500",
+      "salary": "75687",
+      "posted": "2026-05-27",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 75687.0,
+      "salary_hourly": 36.39
     },
     {
       "title": "IT Specialist (Enterprise Architecture)",
@@ -41,7 +53,7 @@
       "salary_hourly": 17.5
     },
     {
-      "title": "Medical Records Administration Specialist",
+      "title": "Medical Records Administration Specialist (Charge Analyst)",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
       "url": "https://www.usajobs.gov:443/job/870610500",

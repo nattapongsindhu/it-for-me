@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-27T05:23:08Z",
+  "updated": "2026-05-27T16:37:56Z",
   "count": 15,
   "sources": [
     "Cedars-Sinai",
@@ -37,22 +37,6 @@
       "posted": "",
       "source": "Hospital_Direct",
       "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/epic-mychart-analyst-remote/252/95335605152",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: epic"
-    },
-    {
-      "title": "Epic Tapestry Analyst (Managed Care Operations) - Remote",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/beverly-hills/epic-tapestry-analyst-managed-care-operations-remote/252/95300199120",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/epic-tapestry-analyst-managed-care-operations-remote/252/95300199120",
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: epic"
@@ -106,6 +90,38 @@
       "match_reason": "Cedars-Sinai direct match: facilities"
     },
     {
+      "title": "Research Associate Data Scientist - Ajami Lab - Department of Neurology Cedars-Sinai Medical Center Los Angeles, CA Information Technology Req ID: 17597",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/research-associate-data-scientist-ajami-lab-department-of-neurology/252/95628763600",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/research-associate-data-scientist-ajami-lab-department-of-neurology/252/95628763600",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: information technology"
+    },
+    {
+      "title": "Research Data Scientist - Ajami Lab - Department of Neurology Cedars-Sinai Medical Center Los Angeles, CA Information Technology Req ID: 17598",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/research-data-scientist-ajami-lab-department-of-neurology/252/95628763616",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/research-data-scientist-ajami-lab-department-of-neurology/252/95628763616",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: information technology"
+    },
+    {
       "title": "Security Hardware Specialist - Plant Ops - Full Time Cedars-Sinai Medical Center Los Angeles, CA Facilities Req ID: 15573",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
@@ -120,22 +136,6 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: facilities"
-    },
-    {
-      "title": "Surgical Technologist III - Operating Room - 10-Hour - Full Time - Various Shifts Cedars-Sinai Medical Center Los Angeles, CA Clinical Operations Req ID: 17776",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/surgical-technologist-iii-operating-room-10-hour-full-time-various-shifts/252/95557709600",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/surgical-technologist-iii-operating-room-10-hour-full-time-various-shifts/252/95557709600",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: technologist"
     },
     {
       "title": "Central Service Tech I",
