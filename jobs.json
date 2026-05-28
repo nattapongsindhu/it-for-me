@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-28T05:15:26Z",
+  "updated": "2026-05-28T16:54:01Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 63,
+  "count": 66,
   "jobs": [
     {
       "title": "Information Technology Specialist (Policy Planning)",
@@ -15,6 +15,30 @@
       "type": "",
       "salary_annual": 125776.0,
       "salary_hourly": 60.47
+    },
+    {
+      "title": "Human Resources Specialist (Employee & Labor Relations)",
+      "company": "Deputy Assistant Secretary for Information and Technology",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/870861800",
+      "salary": "90925",
+      "posted": "2026-05-28",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 90925.0,
+      "salary_hourly": 43.71
+    },
+    {
+      "title": "Medical Records Technician (Coder) Auditor (Outpatient)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/870871300",
+      "salary": "61722",
+      "posted": "2026-05-28",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 61722.0,
+      "salary_hourly": 29.67
     },
     {
       "title": "Supervisory Internal Revenue Agent",
@@ -39,6 +63,18 @@
       "type": "",
       "salary_annual": 95489.0,
       "salary_hourly": 45.91
+    },
+    {
+      "title": "Supervisory Program Analyst",
+      "company": "Veterans Health Administration",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/870842800",
+      "salary": "89508",
+      "posted": "2026-05-28",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 89508.0,
+      "salary_hourly": 43.03
     },
     {
       "title": "Supervisory Criminal Investigator",
