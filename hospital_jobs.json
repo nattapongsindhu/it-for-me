@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-28T16:54:04Z",
-  "count": 9,
+  "updated": "2026-05-29T05:18:17Z",
+  "count": 8,
   "sources": [
     "Cedars-Sinai",
     "Glendale Memorial Hospital and Health",
@@ -9,22 +9,6 @@
   ],
   "track_slug": "hospital-careers",
   "jobs": [
-    {
-      "title": "Epic Beaker Analyst - Remote",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/epic-beaker-analyst-remote/252/95396987216",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/epic-beaker-analyst-remote/252/95396987216",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: epic"
-    },
     {
       "title": "Epic MyChart Analyst - Remote",
       "company": "Cedars-Sinai",
@@ -42,20 +26,36 @@
       "match_reason": "Cedars-Sinai direct match: epic"
     },
     {
-      "title": "Radiologic Intervention Technologist II, Full-time, Day 8 Hour Shift Cedars-Sinai Marina Hospital Marina del Rey, CA Imaging Req ID: 17818",
+      "title": "Epic Tapestry Analyst (Managed Care Operations) - Remote",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/marina-del-rey/radiologic-intervention-technologist-ii-full-time-day-8-hour-shift/252/95642613696",
+      "url": "https://careers.cshs.org/job/beverly-hills/epic-tapestry-analyst-managed-care-operations-remote/252/95300199120",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/marina-del-rey/radiologic-intervention-technologist-ii-full-time-day-8-hour-shift/252/95642613696",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/epic-tapestry-analyst-managed-care-operations-remote/252/95300199120",
       "track_slug": "hospital-careers",
       "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging, technologist"
+      "match_reason": "Cedars-Sinai direct match: epic"
+    },
+    {
+      "title": "Imaging Scheduler - 8-Hour Day Shift Cedars-Sinai Medical Center Beverly Hills, CA Administrative Req ID: 17634",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/beverly-hills/imaging-scheduler-8-hour-day-shift/252/95690675280",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/imaging-scheduler-8-hour-day-shift/252/95690675280",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: imaging"
     },
     {
       "title": "Central Service Tech I",
@@ -120,22 +120,6 @@
       "match_reason": "Huntington direct match: plumber",
       "salary_annual": null,
       "salary_hourly": null
-    },
-    {
-      "title": "IT Applications Engineer V",
-      "company": "Kaiser Permanente",
-      "hospital_name": "Kaiser Permanente",
-      "location": "Medical Imaging Pasadena, CA",
-      "url": "https://www.kaiserpermanentejobs.org/job/pasadena/it-applications-engineer-v-medical-imaging/641/93284083120",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::kaiser permanente::https://www.kaiserpermanentejobs.org/job/pasadena/it-applications-engineer-v-medical-imaging/641/93284083120",
-      "track_slug": "hospital-careers",
-      "type": "Flexible, Full-time, Day",
-      "match_reason": "Kaiser direct match: imaging"
     },
     {
       "title": "IT Consultant IV, Solutions-SSD (Radiant - EPIC)",
