@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-29T05:18:17Z",
-  "count": 8,
+  "updated": "2026-05-29T16:41:53Z",
+  "count": 9,
   "sources": [
     "Cedars-Sinai",
     "Glendale Memorial Hospital and Health",
@@ -56,6 +56,22 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: imaging"
+    },
+    {
+      "title": "Senior Radiologic Technologist - Tarzana Cedars-Sinai Medical Care Foundation Tarzana, CA Imaging Req ID: 17873",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/tarzana/senior-radiologic-technologist-tarzana/252/95716257168",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/tarzana/senior-radiologic-technologist-tarzana/252/95716257168",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: imaging, technologist"
     },
     {
       "title": "Central Service Tech I",

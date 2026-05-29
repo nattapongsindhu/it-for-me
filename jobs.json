@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-29T05:18:14Z",
+  "updated": "2026-05-29T16:41:49Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 66,
+  "count": 68,
   "jobs": [
     {
       "title": "IT Project Manager",
@@ -15,6 +15,30 @@
       "type": "",
       "salary_annual": 85447.0,
       "salary_hourly": 41.08
+    },
+    {
+      "title": "Medical Records Technician (Coder-In/Out)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/870996200",
+      "salary": "41236",
+      "posted": "2026-05-29",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 41236.0,
+      "salary_hourly": 19.82
+    },
+    {
+      "title": "Supervisory Health System Specialist (Deployment)",
+      "company": "Electronic Health Record Modernization",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/870996000",
+      "salary": "169279",
+      "posted": "2026-05-29",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 169279.0,
+      "salary_hourly": 81.38
     },
     {
       "title": "Health System Specialist (Associate Group Practice Manager)",
@@ -51,6 +75,30 @@
       "type": "",
       "salary_annual": 95489.0,
       "salary_hourly": 45.91
+    },
+    {
+      "title": "Lead Medical Support Assistant",
+      "company": "Veterans Health Administration",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/871061100",
+      "salary": "61885",
+      "posted": "2026-05-29",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 61885.0,
+      "salary_hourly": 29.75
+    },
+    {
+      "title": "Supervisory Contact Representative",
+      "company": "Veterans Health Administration",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/871040600",
+      "salary": "74678",
+      "posted": "2026-05-29",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 74678.0,
+      "salary_hourly": 35.9
     },
     {
       "title": "Information Technology Specialist (Policy Planning)",
@@ -231,18 +279,6 @@
       "type": "",
       "salary_annual": 125776.0,
       "salary_hourly": 60.47
-    },
-    {
-      "title": "Human Resources Specialist (Detail/Temp Promotion NTE 1 Year)",
-      "company": "Farm Production and Conservation (FPAC) Business Center",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/870664300",
-      "salary": "63795",
-      "posted": "2026-05-27",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 63795.0,
-      "salary_hourly": 30.67
     },
     {
       "title": "Writer-Editor",
@@ -569,18 +605,6 @@
       "salary_hourly": 71.13
     },
     {
-      "title": "Installation Child and Youth Program Director (Small or Medium)",
-      "company": "Commander, Navy Installations Command",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/869427900",
-      "salary": "42.89",
-      "posted": "2026-05-14",
-      "source": "USAJobs",
-      "type": "This position is a flexible position",
-      "salary_annual": 89211.2,
-      "salary_hourly": 42.89
-    },
-    {
       "title": "Social Worker Program Manager (DETAIL/TEMP PROMOTION OPPORTUNITY)",
       "company": "Veterans Health Administration",
       "location": "Los Angeles, California",
@@ -591,6 +615,18 @@
       "type": "",
       "salary_annual": 189576.0,
       "salary_hourly": 91.14
+    },
+    {
+      "title": "Installation Child and Youth Program Director (Small or Medium)",
+      "company": "Commander, Navy Installations Command",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/869427900",
+      "salary": "42.89",
+      "posted": "2026-05-14",
+      "source": "USAJobs",
+      "type": "This position is a flexible position",
+      "salary_annual": 89211.2,
+      "salary_hourly": 42.89
     },
     {
       "title": "Physician-Diagnostic Radiologist-Recruitment/Relocation Incentive-EDRP Authorized",
@@ -663,18 +699,6 @@
       "type": "",
       "salary_annual": 89508.0,
       "salary_hourly": 43.03
-    },
-    {
-      "title": "Public Notice for Engineering Technician (Direct Hire)",
-      "company": "Federal Aviation Administration",
-      "location": "May be filled in various FAA duty locations",
-      "url": "https://www.usajobs.gov:443/job/858693800",
-      "salary": "46830",
-      "posted": "2026-02-24",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 46830.0,
-      "salary_hourly": 22.51
     },
     {
       "title": "Physician - Diagnostic Radiologist",

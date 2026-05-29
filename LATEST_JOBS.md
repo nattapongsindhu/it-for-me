@@ -1,7 +1,7 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-05-29T05%3A18%3A14Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-66-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-05-29T16%3A41%3A49Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-68-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
@@ -13,9 +13,13 @@
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
 | IT Project Manager | Electronic Health Record Modernization | Multiple Locations | Not listed | 85447 | 2026-05-29 | [Apply](https://www.usajobs.gov:443/job/870950800) |
+| Medical Records Technician (Coder-In/Out) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 41236 | 2026-05-29 | [Apply](https://www.usajobs.gov:443/job/870996200) |
+| Supervisory Health System Specialist (Deployment) | Electronic Health Record Modernization | Multiple Locations | Not listed | 169279 | 2026-05-29 | [Apply](https://www.usajobs.gov:443/job/870996000) |
 | Health System Specialist (Associate Group Practice Manager) | Veterans Health Administration | Los Angeles, California | Not listed | 103316 | 2026-05-29 | [Apply](https://www.usajobs.gov:443/job/870971500) |
 | Supervisory Health System Specialist | Veterans Health Administration | Los Angeles, California | Not listed | 124085 | 2026-05-29 | [Apply](https://www.usajobs.gov:443/job/870965900) |
 | Project Manager | Federal Aviation Administration | FAA Nationwide-Selectee Remains in Current Duty Location | Not listed | 95489 | 2026-05-29 | [Apply](https://www.usajobs.gov:443/job/870841700) |
+| Lead Medical Support Assistant | Veterans Health Administration | Los Angeles, California | Not listed | 61885 | 2026-05-29 | [Apply](https://www.usajobs.gov:443/job/871061100) |
+| Supervisory Contact Representative | Veterans Health Administration | Multiple Locations | Not listed | 74678 | 2026-05-29 | [Apply](https://www.usajobs.gov:443/job/871040600) |
 | Information Technology Specialist (Policy Planning) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 125776 | 2026-05-28 | [Apply](https://www.usajobs.gov:443/job/870561300) |
 | Human Resources Specialist (Employee & Labor Relations) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 90925 | 2026-05-28 | [Apply](https://www.usajobs.gov:443/job/870861800) |
 | Medical Records Technician (Coder) Auditor (Outpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-05-28 | [Apply](https://www.usajobs.gov:443/job/870871300) |
@@ -28,10 +32,6 @@
 | Pharmacy Technician | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61012 | 2026-05-27 | [Apply](https://www.usajobs.gov:443/job/870794000) |
 | Medical Records Technician (Coder Inpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 55882 | 2026-05-27 | [Apply](https://www.usajobs.gov:443/job/870786800) |
 | Medical Records (Coder-Auditor) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 52727 | 2026-05-27 | [Apply](https://www.usajobs.gov:443/job/870727800) |
-| Medical Records Technician (Coder) Auditor- (Outpatient and Inpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-05-27 | [Apply](https://www.usajobs.gov:443/job/870767300) |
-| Health System Administrator (Associate Director of Ambulatory Care Services) | Veterans Health Administration | Los Angeles, California | Not listed | 172476 | 2026-05-27 | [Apply](https://www.usajobs.gov:443/job/870741600) |
-| Senior Government Ethics Specialist | Office of Government Ethics | Location Negotiable After Selection | Not listed | 125776 | 2026-05-27 | [Apply](https://www.usajobs.gov:443/job/870557300) |
-| Human Resources Specialist (Detail/Temp Promotion NTE 1 Year) | Farm Production and Conservation (FPAC) Business Center | Location Negotiable After Selection | Not listed | 63795 | 2026-05-27 | [Apply](https://www.usajobs.gov:443/job/870664300) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 66 |
+| Total jobs found | 68 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-05-29T05:18:14Z |
+| Last updated | 2026-05-29T16:41:49Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 66 jobs
+- USAJobs: 68 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-05-29T05:18:14Z_
+_Auto-generated legacy snapshot. Last run: 2026-05-29T16:41:49Z_
