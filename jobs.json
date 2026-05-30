@@ -1,9 +1,21 @@
 {
-  "updated": "2026-05-29T16:41:49Z",
+  "updated": "2026-05-30T04:56:21Z",
   "zip": "90029",
   "radius_mi": 5,
   "count": 68,
   "jobs": [
+    {
+      "title": "Operations Research Analyst",
+      "company": "Federal Aviation Administration",
+      "location": "May be filled in various FAA duty locations",
+      "url": "https://www.usajobs.gov:443/job/871062100",
+      "salary": "111779",
+      "posted": "2026-05-30",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 111779.0,
+      "salary_hourly": 53.74
+    },
     {
       "title": "IT Project Manager",
       "company": "Electronic Health Record Modernization",
@@ -15,6 +27,18 @@
       "type": "",
       "salary_annual": 85447.0,
       "salary_hourly": 41.08
+    },
+    {
+      "title": "Medical Records Technician (Coder Outpatient and Inpatient)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/871119100",
+      "salary": "55882",
+      "posted": "2026-05-29",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 55882.0,
+      "salary_hourly": 26.87
     },
     {
       "title": "Medical Records Technician (Coder-In/Out)",
@@ -29,6 +53,18 @@
       "salary_hourly": 19.82
     },
     {
+      "title": "Supervisory Legal Administrative Specialist (Coach)",
+      "company": "Veterans Benefits Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/871147800",
+      "salary": "89508",
+      "posted": "2026-05-29",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 89508.0,
+      "salary_hourly": 43.03
+    },
+    {
       "title": "Supervisory Health System Specialist (Deployment)",
       "company": "Electronic Health Record Modernization",
       "location": "Multiple Locations",
@@ -39,6 +75,18 @@
       "type": "",
       "salary_annual": 169279.0,
       "salary_hourly": 81.38
+    },
+    {
+      "title": "Health System Specialist",
+      "company": "Electronic Health Record Modernization",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/870984100",
+      "salary": "105383",
+      "posted": "2026-05-29",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 105383.0,
+      "salary_hourly": 50.66
     },
     {
       "title": "Health System Specialist (Associate Group Practice Manager)",
@@ -113,18 +161,6 @@
       "salary_hourly": 60.47
     },
     {
-      "title": "Human Resources Specialist (Employee & Labor Relations)",
-      "company": "Deputy Assistant Secretary for Information and Technology",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/870861800",
-      "salary": "90925",
-      "posted": "2026-05-28",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 90925.0,
-      "salary_hourly": 43.71
-    },
-    {
       "title": "Medical Records Technician (Coder) Auditor (Outpatient)",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -135,6 +171,18 @@
       "type": "",
       "salary_annual": 61722.0,
       "salary_hourly": 29.67
+    },
+    {
+      "title": "Human Resources Specialist (Employee & Labor Relations)",
+      "company": "Deputy Assistant Secretary for Information and Technology",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/870861800",
+      "salary": "90925",
+      "posted": "2026-05-28",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 90925.0,
+      "salary_hourly": 43.71
     },
     {
       "title": "Supervisory Internal Revenue Agent",
@@ -209,18 +257,6 @@
       "salary_hourly": 48.2
     },
     {
-      "title": "Pharmacy Technician",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/870794000",
-      "salary": "61012",
-      "posted": "2026-05-27",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 61012.0,
-      "salary_hourly": 29.33
-    },
-    {
       "title": "Medical Records Technician (Coder Inpatient)",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -281,6 +317,18 @@
       "salary_hourly": 60.47
     },
     {
+      "title": "Human Resources Specialist (Detail/Temp Promotion NTE 1 Year)",
+      "company": "Farm Production and Conservation (FPAC) Business Center",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/870664300",
+      "salary": "63795",
+      "posted": "2026-05-27",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 63795.0,
+      "salary_hourly": 30.67
+    },
+    {
       "title": "Writer-Editor",
       "company": "Veterans Health Administration",
       "location": "Location Negotiable After Selection",
@@ -329,18 +377,6 @@
       "salary_hourly": 60.47
     },
     {
-      "title": "Medical Support Assistant (Advanced)",
-      "company": "Veterans Health Administration",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/870520400",
-      "salary": "56247",
-      "posted": "2026-05-26",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 56247.0,
-      "salary_hourly": 27.04
-    },
-    {
       "title": "Public Affairs Specialist",
       "company": "Veterans Health Administration",
       "location": "Los Angeles, California",
@@ -365,54 +401,6 @@
       "salary_hourly": 29.67
     },
     {
-      "title": "Medical Records Technician (Clinical Documentation Improvement Specialist Outpatient and Inpatient)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/870485300",
-      "salary": "52727",
-      "posted": "2026-05-23",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 52727.0,
-      "salary_hourly": 25.35
-    },
-    {
-      "title": "IT Specialist (InfoSec)",
-      "company": "Deputy Assistant Secretary for Information and Technology",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/870424400",
-      "salary": "106437",
-      "posted": "2026-05-22",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 106437.0,
-      "salary_hourly": 51.17
-    },
-    {
-      "title": "Lead Pharmacy Technician",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/870475100",
-      "salary": "59911",
-      "posted": "2026-05-22",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 59911.0,
-      "salary_hourly": 28.8
-    },
-    {
-      "title": "Social Services Assistant",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/870429500",
-      "salary": "50460",
-      "posted": "2026-05-22",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 50460.0,
-      "salary_hourly": 24.26
-    },
-    {
       "title": "Executive Director Portfolio Management for Corporate",
       "company": "Deputy Assistant Secretary for Information and Technology",
       "location": "Location Negotiable After Selection",
@@ -423,18 +411,6 @@
       "type": "",
       "salary_annual": 151661.0,
       "salary_hourly": 72.91
-    },
-    {
-      "title": "Health System Specialist",
-      "company": "Electronic Health Record Modernization",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/870342400",
-      "salary": "121785",
-      "posted": "2026-05-22",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 121785.0,
-      "salary_hourly": 58.55
     },
     {
       "title": "Aviation Safety Technician",
@@ -483,18 +459,6 @@
       "type": "",
       "salary_annual": 74678.0,
       "salary_hourly": 35.9
-    },
-    {
-      "title": "Systems & Procedures Analyst",
-      "company": "Deputy Assistant Secretary for Finance",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/870140800",
-      "salary": "43106",
-      "posted": "2026-05-21",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 43106.0,
-      "salary_hourly": 20.72
     },
     {
       "title": "Program Specialist",
@@ -605,18 +569,6 @@
       "salary_hourly": 71.13
     },
     {
-      "title": "Social Worker Program Manager (DETAIL/TEMP PROMOTION OPPORTUNITY)",
-      "company": "Veterans Health Administration",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/869251200",
-      "salary": "189576",
-      "posted": "2026-05-14",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 189576.0,
-      "salary_hourly": 91.14
-    },
-    {
       "title": "Installation Child and Youth Program Director (Small or Medium)",
       "company": "Commander, Navy Installations Command",
       "location": "Anywhere in the U.S. (remote job)",
@@ -627,6 +579,18 @@
       "type": "This position is a flexible position",
       "salary_annual": 89211.2,
       "salary_hourly": 42.89
+    },
+    {
+      "title": "Social Worker Program Manager (DETAIL/TEMP PROMOTION OPPORTUNITY)",
+      "company": "Veterans Health Administration",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/869251200",
+      "salary": "189576",
+      "posted": "2026-05-14",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 189576.0,
+      "salary_hourly": 91.14
     },
     {
       "title": "Physician-Diagnostic Radiologist-Recruitment/Relocation Incentive-EDRP Authorized",
@@ -699,6 +663,18 @@
       "type": "",
       "salary_annual": 89508.0,
       "salary_hourly": 43.03
+    },
+    {
+      "title": "Public Notice for Engineering Technician (Direct Hire)",
+      "company": "Federal Aviation Administration",
+      "location": "May be filled in various FAA duty locations",
+      "url": "https://www.usajobs.gov:443/job/858693800",
+      "salary": "46830",
+      "posted": "2026-02-24",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 46830.0,
+      "salary_hourly": 22.51
     },
     {
       "title": "Physician - Diagnostic Radiologist",
@@ -819,6 +795,30 @@
       "type": "",
       "salary_annual": 55486.0,
       "salary_hourly": 26.68
+    },
+    {
+      "title": "PHYSICIST",
+      "company": "Air Force Civilian Career Training",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/846774500",
+      "salary": "49960",
+      "posted": "2025-09-29",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 49960.0,
+      "salary_hourly": 24.02
+    },
+    {
+      "title": "BIOLOGICAL SCIENTIST (ENVIRONMENTAL)",
+      "company": "Air Force Civilian Career Training",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/846774300",
+      "salary": "49960",
+      "posted": "2025-09-29",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 49960.0,
+      "salary_hourly": 24.02
     }
   ]
 }
