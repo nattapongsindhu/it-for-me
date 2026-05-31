@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-30T14:40:41Z",
-  "count": 14,
+  "updated": "2026-05-31T05:24:29Z",
+  "count": 11,
   "sources": [
     "Cedars-Sinai",
     "Glendale Memorial Hospital and Health",
@@ -74,22 +74,6 @@
       "match_reason": "Cedars-Sinai direct match: technician"
     },
     {
-      "title": "Radiologic Intervention Tech - Per Diem - Vascular Surgery-Outpatient Comprehensive Surgery Center Cedars-Sinai Medical Care Foundation Beverly Hills, CA Imaging Req ID: 15938",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/beverly-hills/radiologic-intervention-tech-per-diem-vascular-surgery-outpatient-comprehensive-surgery-center/252/93190902352",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/radiologic-intervention-tech-per-diem-vascular-surgery-outpatient-comprehensive-surgery-center/252/93190902352",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging"
-    },
-    {
       "title": "Radiologic Intervention Tech - Per Diem - Vascular Surgery-Outpatient Comprehensive Surgery Center Cedars-Sinai Medical Care Foundation Beverly Hills, CA Imaging Req ID: 15939",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
@@ -117,38 +101,6 @@
       "posted": "",
       "source": "Hospital_Direct",
       "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/radiologic-intervention-tech-per-diem-vascular-surgery-outpatient-comprehensive-surgery-center/252/93010639040",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging"
-    },
-    {
-      "title": "Radiologic Intervention Tech - Vascular Surgery-Outpatient Comprehensive Surgery Center Cedars-Sinai Medical Care Foundation Beverly Hills, CA Imaging Req ID: 15484",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/beverly-hills/radiologic-intervention-tech-vascular-surgery-outpatient-comprehensive-surgery-center/252/92686102112",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/radiologic-intervention-tech-vascular-surgery-outpatient-comprehensive-surgery-center/252/92686102112",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging"
-    },
-    {
-      "title": "Radiologic Intervention Tech-Vascular Surgery-Outpatient Comprehensive Surgery Center Cedars-Sinai Medical Care Foundation Beverly Hills, CA Imaging Req ID: 15485",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/beverly-hills/radiologic-intervention-tech-vascular-surgery-outpatient-comprehensive-surgery-center/252/93190899088",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/radiologic-intervention-tech-vascular-surgery-outpatient-comprehensive-surgery-center/252/93190899088",
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: imaging"

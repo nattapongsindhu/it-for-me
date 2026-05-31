@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-30T14:40:38Z",
+  "updated": "2026-05-31T05:24:28Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 68,
+  "count": 69,
   "jobs": [
     {
       "title": "Operations Research Analyst",
@@ -27,18 +27,6 @@
       "type": "",
       "salary_annual": 85447.0,
       "salary_hourly": 41.08
-    },
-    {
-      "title": "Medical Records Technician (Coder Outpatient and Inpatient)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/871119100",
-      "salary": "55882",
-      "posted": "2026-05-29",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 55882.0,
-      "salary_hourly": 26.87
     },
     {
       "title": "Medical Records Technician (Coder-In/Out)",
@@ -497,6 +485,18 @@
       "salary_hourly": 71.13
     },
     {
+      "title": "Physician",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/869715100",
+      "salary": "124308",
+      "posted": "2026-05-18",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 124308.0,
+      "salary_hourly": 59.76
+    },
+    {
       "title": "Senior Account Executive",
       "company": "Assistant Secretary for Housing-Federal Housing Commissioner",
       "location": "Multiple Locations",
@@ -777,6 +777,18 @@
       "company": "Air Force Civilian Career Training",
       "location": "Location Negotiable After Selection",
       "url": "https://www.usajobs.gov:443/job/847096900",
+      "salary": "56763",
+      "posted": "2025-10-01",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 56763.0,
+      "salary_hourly": 27.29
+    },
+    {
+      "title": "COMPUTER ENGINEER",
+      "company": "Air Force Civilian Career Training",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/847080100",
       "salary": "56763",
       "posted": "2025-10-01",
       "source": "USAJobs",

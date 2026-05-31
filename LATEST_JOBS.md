@@ -1,20 +1,19 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-05-30T14%3A40%3A38Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-68-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-05-31T05%3A24%3A28Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-69-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
 
 ---
 
-## Latest Jobs - May 30, 2026
+## Latest Jobs - May 31, 2026
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
 | Operations Research Analyst | Federal Aviation Administration | May be filled in various FAA duty locations | Not listed | 111779 | 2026-05-30 | [Apply](https://www.usajobs.gov:443/job/871062100) |
 | IT Project Manager | Electronic Health Record Modernization | Multiple Locations | Not listed | 85447 | 2026-05-29 | [Apply](https://www.usajobs.gov:443/job/870950800) |
-| Medical Records Technician (Coder Outpatient and Inpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 55882 | 2026-05-29 | [Apply](https://www.usajobs.gov:443/job/871119100) |
 | Medical Records Technician (Coder-In/Out) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 41236 | 2026-05-29 | [Apply](https://www.usajobs.gov:443/job/870996200) |
 | Supervisory Legal Administrative Specialist (Coach) | Veterans Benefits Administration | Anywhere in the U.S. (remote job) | Not listed | 89508 | 2026-05-29 | [Apply](https://www.usajobs.gov:443/job/871147800) |
 | Supervisory Health System Specialist (Deployment) | Electronic Health Record Modernization | Multiple Locations | Not listed | 169279 | 2026-05-29 | [Apply](https://www.usajobs.gov:443/job/870996000) |
@@ -32,6 +31,7 @@
 | Supervisory Program Analyst | Veterans Health Administration | Multiple Locations | Not listed | 89508 | 2026-05-28 | [Apply](https://www.usajobs.gov:443/job/870842800) |
 | Supervisory Criminal Investigator | Food and Drug Administration | FDA – US Locations, United States | Not listed | 107446 | 2026-05-28 | [Apply](https://www.usajobs.gov:443/job/870670100) |
 | IT Specialist | Deputy Assistant Secretary for Information and Technology | Multiple Locations | Not listed | 125776 | 2026-05-27 | [Apply](https://www.usajobs.gov:443/job/870790000) |
+| Physician Assistant - Urology | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 100264 | 2026-05-27 | [Apply](https://www.usajobs.gov:443/job/870720900) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 68 |
+| Total jobs found | 69 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-05-30T14:40:38Z |
+| Last updated | 2026-05-31T05:24:28Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 68 jobs
+- USAJobs: 69 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-05-30T14:40:38Z_
+_Auto-generated legacy snapshot. Last run: 2026-05-31T05:24:28Z_
