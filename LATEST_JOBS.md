@@ -1,7 +1,7 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-06-01T06%3A11%3A04Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-71-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-06-01T18%3A37%3A28Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-73-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
@@ -13,12 +13,15 @@
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
 | Supervisory IT Specialist | Federal Aviation Administration | FAA Nationwide-Selectee Remains in Current Duty Location | Not listed | 95489 | 2026-06-01 | [Apply](https://www.usajobs.gov:443/job/871004700) |
+| Supervisory IT Specialist | Office of the Inspector General | Location Negotiable After Selection | Not listed | 125776 | 2026-06-01 | [Apply](https://www.usajobs.gov:443/job/871210600) |
+| Medical Records Administrator Specialist | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 34799 | 2026-06-01 | [Apply](https://www.usajobs.gov:443/job/871247200) |
 | Program Analyst (Senior) | Employment and Training Administration | Anywhere in the U.S. (remote job) | Not listed | 106437 | 2026-06-01 | [Apply](https://www.usajobs.gov:443/job/870963700) |
 | Student Volunteer (Intern) | Office of the Chief Human Capital Officer | Multiple Locations | Not listed | 0 | 2026-06-01 | [Apply](https://www.usajobs.gov:443/job/871141800) |
 | Program Analyst | National Institutes of Health | Location Negotiable After Selection | Not listed | 74678 | 2026-06-01 | [Apply](https://www.usajobs.gov:443/job/870664500) |
 | Aviation Technical Systems Manager (Director, Financial Services) | Federal Aviation Administration | FAA Location Negotiable Upon Request - See Additional Info | Not listed | 134118 | 2026-06-01 | [Apply](https://www.usajobs.gov:443/job/870587900) |
 | Health Scientist Administrator (Program Officer) | National Institutes of Health | Location Negotiable After Selection | Not listed | 89508 | 2026-06-01 | [Apply](https://www.usajobs.gov:443/job/870713500) |
-| Health Scientist Administrator (Supervisory) (Program Officer) | National Institutes of Health | Location Negotiable After Selection | Not listed | 147945 | 2026-06-01 | [Apply](https://www.usajobs.gov:443/job/870713800) |
+| Audiologist (Clinical Specialist) | Veterans Health Administration | Los Angeles, California | Not listed | 140934 | 2026-06-01 | [Apply](https://www.usajobs.gov:443/job/871239800) |
+| Registered Nurse (Informaticist) | Veterans Health Administration | Location Negotiable After Selection | Not listed | 129090 | 2026-06-01 | [Apply](https://www.usajobs.gov:443/job/871209200) |
 | Operations Research Analyst | Federal Aviation Administration | May be filled in various FAA duty locations | Not listed | 111779 | 2026-05-30 | [Apply](https://www.usajobs.gov:443/job/871062100) |
 | IT Project Manager | Electronic Health Record Modernization | Multiple Locations | Not listed | 85447 | 2026-05-29 | [Apply](https://www.usajobs.gov:443/job/870950800) |
 | Medical Records Technician (Coder-In/Out) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 41236 | 2026-05-29 | [Apply](https://www.usajobs.gov:443/job/870996200) |
@@ -29,9 +32,6 @@
 | Supervisory Health System Specialist | Veterans Health Administration | Los Angeles, California | Not listed | 124085 | 2026-05-29 | [Apply](https://www.usajobs.gov:443/job/870965900) |
 | Project Manager | Federal Aviation Administration | FAA Nationwide-Selectee Remains in Current Duty Location | Not listed | 95489 | 2026-05-29 | [Apply](https://www.usajobs.gov:443/job/870841700) |
 | Lead Medical Support Assistant | Veterans Health Administration | Los Angeles, California | Not listed | 61885 | 2026-05-29 | [Apply](https://www.usajobs.gov:443/job/871061100) |
-| Supervisory Contact Representative | Veterans Health Administration | Multiple Locations | Not listed | 74678 | 2026-05-29 | [Apply](https://www.usajobs.gov:443/job/871040600) |
-| Information Technology Specialist (Policy Planning) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 125776 | 2026-05-28 | [Apply](https://www.usajobs.gov:443/job/870561300) |
-| Medical Records Technician (Coder) Auditor (Outpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-05-28 | [Apply](https://www.usajobs.gov:443/job/870871300) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 71 |
+| Total jobs found | 73 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-06-01T06:11:04Z |
+| Last updated | 2026-06-01T18:37:28Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 71 jobs
+- USAJobs: 73 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-06-01T06:11:04Z_
+_Auto-generated legacy snapshot. Last run: 2026-06-01T18:37:28Z_
