@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-31T14:45:04Z",
-  "count": 11,
+  "updated": "2026-06-01T06:11:12Z",
+  "count": 9,
   "sources": [
     "Cedars-Sinai",
     "Glendale Memorial Hospital and Health",
@@ -72,38 +72,6 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: technician"
-    },
-    {
-      "title": "Radiologic Intervention Tech - Per Diem - Vascular Surgery-Outpatient Comprehensive Surgery Center Cedars-Sinai Medical Care Foundation Beverly Hills, CA Imaging Req ID: 15939",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/beverly-hills/radiologic-intervention-tech-per-diem-vascular-surgery-outpatient-comprehensive-surgery-center/252/93657148992",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/radiologic-intervention-tech-per-diem-vascular-surgery-outpatient-comprehensive-surgery-center/252/93657148992",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging"
-    },
-    {
-      "title": "Radiologic Intervention Tech - Per Diem - Vascular Surgery-Outpatient Comprehensive Surgery Center Cedars-Sinai Medical Care Foundation Beverly Hills, CA Imaging Req ID: 15941",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/beverly-hills/radiologic-intervention-tech-per-diem-vascular-surgery-outpatient-comprehensive-surgery-center/252/93010639040",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/radiologic-intervention-tech-per-diem-vascular-surgery-outpatient-comprehensive-surgery-center/252/93010639040",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging"
     },
     {
       "title": "Central Service Tech I",

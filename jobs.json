@@ -1,9 +1,93 @@
 {
-  "updated": "2026-05-31T14:45:03Z",
+  "updated": "2026-06-01T06:11:04Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 69,
+  "count": 71,
   "jobs": [
+    {
+      "title": "Supervisory IT Specialist",
+      "company": "Federal Aviation Administration",
+      "location": "FAA Nationwide-Selectee Remains in Current Duty Location",
+      "url": "https://www.usajobs.gov:443/job/871004700",
+      "salary": "95489",
+      "posted": "2026-06-01",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 95489.0,
+      "salary_hourly": 45.91
+    },
+    {
+      "title": "Program Analyst (Senior)",
+      "company": "Employment and Training Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/870963700",
+      "salary": "106437",
+      "posted": "2026-06-01",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
+    },
+    {
+      "title": "Student Volunteer (Intern)",
+      "company": "Office of the Chief Human Capital Officer",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/871141800",
+      "salary": "0",
+      "posted": "2026-06-01",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": null,
+      "salary_hourly": null
+    },
+    {
+      "title": "Program Analyst",
+      "company": "National Institutes of Health",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/870664500",
+      "salary": "74678",
+      "posted": "2026-06-01",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 74678.0,
+      "salary_hourly": 35.9
+    },
+    {
+      "title": "Aviation Technical Systems Manager (Director, Financial Services)",
+      "company": "Federal Aviation Administration",
+      "location": "FAA Location Negotiable Upon Request - See Additional Info",
+      "url": "https://www.usajobs.gov:443/job/870587900",
+      "salary": "134118",
+      "posted": "2026-06-01",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 134118.0,
+      "salary_hourly": 64.48
+    },
+    {
+      "title": "Health Scientist Administrator (Program Officer)",
+      "company": "National Institutes of Health",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/870713500",
+      "salary": "89508",
+      "posted": "2026-06-01",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 89508.0,
+      "salary_hourly": 43.03
+    },
+    {
+      "title": "Health Scientist Administrator (Supervisory) (Program Officer)",
+      "company": "National Institutes of Health",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/870713800",
+      "salary": "147945",
+      "posted": "2026-06-01",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 147945.0,
+      "salary_hourly": 71.13
+    },
     {
       "title": "Operations Research Analyst",
       "company": "Federal Aviation Administration",
@@ -257,18 +341,6 @@
       "salary_hourly": 26.87
     },
     {
-      "title": "Medical Records (Coder-Auditor)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/870727800",
-      "salary": "52727",
-      "posted": "2026-05-27",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 52727.0,
-      "salary_hourly": 25.35
-    },
-    {
       "title": "Medical Records Technician (Coder) Auditor- (Outpatient and Inpatient)",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -303,18 +375,6 @@
       "type": "",
       "salary_annual": 125776.0,
       "salary_hourly": 60.47
-    },
-    {
-      "title": "Human Resources Specialist (Detail/Temp Promotion NTE 1 Year)",
-      "company": "Farm Production and Conservation (FPAC) Business Center",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/870664300",
-      "salary": "63795",
-      "posted": "2026-05-27",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 63795.0,
-      "salary_hourly": 30.67
     },
     {
       "title": "Writer-Editor",
@@ -485,18 +545,6 @@
       "salary_hourly": 71.13
     },
     {
-      "title": "Physician",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/869715100",
-      "salary": "124308",
-      "posted": "2026-05-18",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 124308.0,
-      "salary_hourly": 59.76
-    },
-    {
       "title": "Senior Account Executive",
       "company": "Assistant Secretary for Housing-Federal Housing Commissioner",
       "location": "Multiple Locations",
@@ -665,18 +713,6 @@
       "salary_hourly": 43.03
     },
     {
-      "title": "Public Notice for Engineering Technician (Direct Hire)",
-      "company": "Federal Aviation Administration",
-      "location": "May be filled in various FAA duty locations",
-      "url": "https://www.usajobs.gov:443/job/858693800",
-      "salary": "46830",
-      "posted": "2026-02-24",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 46830.0,
-      "salary_hourly": 22.51
-    },
-    {
       "title": "Physician - Diagnostic Radiologist",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -777,18 +813,6 @@
       "company": "Air Force Civilian Career Training",
       "location": "Location Negotiable After Selection",
       "url": "https://www.usajobs.gov:443/job/847096900",
-      "salary": "56763",
-      "posted": "2025-10-01",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 56763.0,
-      "salary_hourly": 27.29
-    },
-    {
-      "title": "COMPUTER ENGINEER",
-      "company": "Air Force Civilian Career Training",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/847080100",
       "salary": "56763",
       "posted": "2025-10-01",
       "source": "USAJobs",
