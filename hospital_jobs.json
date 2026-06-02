@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-01T18:37:30Z",
-  "count": 9,
+  "updated": "2026-06-02T05:56:25Z",
+  "count": 8,
   "sources": [
     "Cedars-Sinai",
     "Glendale Memorial Hospital and Health",
@@ -9,6 +9,22 @@
   ],
   "track_slug": "hospital-careers",
   "jobs": [
+    {
+      "title": "CT Technologist I - 12-Hour Night Shift - $7500 Hiring Incentive! Cedars-Sinai Medical Center Beverly Hills, CA Imaging Req ID: 17224",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/beverly-hills/ct-technologist-i-12-hour-night-shift-7500-hiring-incentive/252/95335603968",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/ct-technologist-i-12-hour-night-shift-7500-hiring-incentive/252/95335603968",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: imaging, technologist"
+    },
     {
       "title": "Epic MyChart Analyst - Remote",
       "company": "Cedars-Sinai",
@@ -40,38 +56,6 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: epic"
-    },
-    {
-      "title": "Pharmacy Technician - Outpatient Pharmacy - Per Diem Cedars-Sinai Medical Center Beverly Hills, CA Pharmacy Req ID: 17811",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/beverly-hills/pharmacy-technician-outpatient-pharmacy-per-diem/252/95730790576",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/pharmacy-technician-outpatient-pharmacy-per-diem/252/95730790576",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: technician"
-    },
-    {
-      "title": "Pharmacy Technician - Outpatient Pharmacy Cedars-Sinai Medical Center Beverly Hills, CA Pharmacy Req ID: 17810",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/beverly-hills/pharmacy-technician-outpatient-pharmacy/252/95730790544",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/pharmacy-technician-outpatient-pharmacy/252/95730790544",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: technician"
     },
     {
       "title": "Central Service Tech I",
