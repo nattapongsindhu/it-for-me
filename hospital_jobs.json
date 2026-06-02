@@ -1,30 +1,13 @@
 {
-  "updated": "2026-06-02T05:56:25Z",
-  "count": 8,
+  "updated": "2026-06-02T17:23:45Z",
+  "count": 6,
   "sources": [
     "Cedars-Sinai",
     "Glendale Memorial Hospital and Health",
-    "Huntington Health",
-    "Kaiser Permanente"
+    "Huntington Health"
   ],
   "track_slug": "hospital-careers",
   "jobs": [
-    {
-      "title": "CT Technologist I - 12-Hour Night Shift - $7500 Hiring Incentive! Cedars-Sinai Medical Center Beverly Hills, CA Imaging Req ID: 17224",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/beverly-hills/ct-technologist-i-12-hour-night-shift-7500-hiring-incentive/252/95335603968",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/ct-technologist-i-12-hour-night-shift-7500-hiring-incentive/252/95335603968",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging, technologist"
-    },
     {
       "title": "Epic MyChart Analyst - Remote",
       "company": "Cedars-Sinai",
@@ -120,22 +103,6 @@
       "match_reason": "Huntington direct match: plumber",
       "salary_annual": null,
       "salary_hourly": null
-    },
-    {
-      "title": "IT Consultant IV, Solutions-SSD (Radiant - EPIC)",
-      "company": "Kaiser Permanente",
-      "hospital_name": "Kaiser Permanente",
-      "location": "SCAL Pasadena, CA",
-      "url": "https://www.kaiserpermanentejobs.org/job/pasadena/it-consultant-iv-solutions-ssd-radiant-epic-scal/641/84716077424",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::kaiser permanente::https://www.kaiserpermanentejobs.org/job/pasadena/it-consultant-iv-solutions-ssd-radiant-epic-scal/641/84716077424",
-      "track_slug": "hospital-careers",
-      "type": "Flexible, Full-time, Day",
-      "match_reason": "Kaiser direct match: epic, radiant"
     }
   ]
 }

@@ -1,9 +1,33 @@
 {
-  "updated": "2026-06-02T05:56:23Z",
+  "updated": "2026-06-02T17:23:43Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 73,
+  "count": 75,
   "jobs": [
+    {
+      "title": "Medical Records Technician (Coder Outpatient)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/871405200",
+      "salary": "58355",
+      "posted": "2026-06-02",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 58355.0,
+      "salary_hourly": 28.06
+    },
+    {
+      "title": "Intelligence Research Specialist",
+      "company": "Cybersecurity and Infrastructure Security Agency",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/871371000",
+      "salary": "63795",
+      "posted": "2026-06-02",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 63795.0,
+      "salary_hourly": 30.67
+    },
     {
       "title": "Health System Specialist (Deployment)",
       "company": "Electronic Health Record Modernization",
@@ -27,6 +51,18 @@
       "type": "Selectee will work Shift 1.",
       "salary_annual": 143913.0,
       "salary_hourly": 69.19
+    },
+    {
+      "title": "Medical Support Assistant (Advanced)",
+      "company": "Veterans Health Administration",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/871347600",
+      "salary": "56247",
+      "posted": "2026-06-02",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 56247.0,
+      "salary_hourly": 27.04
     },
     {
       "title": "Supervisory IT Specialist",
@@ -711,18 +747,6 @@
       "type": "",
       "salary_annual": 89508.0,
       "salary_hourly": 43.03
-    },
-    {
-      "title": "Public Notice for Engineering Technician (Direct Hire)",
-      "company": "Federal Aviation Administration",
-      "location": "May be filled in various FAA duty locations",
-      "url": "https://www.usajobs.gov:443/job/858693800",
-      "salary": "46830",
-      "posted": "2026-02-24",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 46830.0,
-      "salary_hourly": 22.51
     },
     {
       "title": "Physician - Diagnostic Radiologist",

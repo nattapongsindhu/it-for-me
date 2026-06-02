@@ -1,7 +1,7 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-06-02T05%3A56%3A23Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-73-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-06-02T17%3A23%3A43Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-75-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
@@ -12,8 +12,11 @@
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
+| Medical Records Technician (Coder Outpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 58355 | 2026-06-02 | [Apply](https://www.usajobs.gov:443/job/871405200) |
+| Intelligence Research Specialist | Cybersecurity and Infrastructure Security Agency | Multiple Locations | Not listed | 63795 | 2026-06-02 | [Apply](https://www.usajobs.gov:443/job/871371000) |
 | Health System Specialist (Deployment) | Electronic Health Record Modernization | Multiple Locations | Not listed | 143913 | 2026-06-02 | [Apply](https://www.usajobs.gov:443/job/871305500) |
 | Printing Officer | Government Publishing Office | Anywhere in the U.S. (remote job) | Selectee will work Shift 1. | 143913 | 2026-06-02 | [Apply](https://www.usajobs.gov:443/job/871273900) |
+| Medical Support Assistant (Advanced) | Veterans Health Administration | Los Angeles, California | Not listed | 56247 | 2026-06-02 | [Apply](https://www.usajobs.gov:443/job/871347600) |
 | Supervisory IT Specialist | Federal Aviation Administration | FAA Nationwide-Selectee Remains in Current Duty Location | Not listed | 95489 | 2026-06-01 | [Apply](https://www.usajobs.gov:443/job/871004700) |
 | Supervisory IT Specialist | Office of the Inspector General | Location Negotiable After Selection | Not listed | 125776 | 2026-06-01 | [Apply](https://www.usajobs.gov:443/job/871210600) |
 | Program Analyst (Senior) | Employment and Training Administration | Anywhere in the U.S. (remote job) | Not listed | 106437 | 2026-06-01 | [Apply](https://www.usajobs.gov:443/job/870963700) |
@@ -29,9 +32,6 @@
 | Operations Research Analyst | Federal Aviation Administration | May be filled in various FAA duty locations | Not listed | 111779 | 2026-05-30 | [Apply](https://www.usajobs.gov:443/job/871062100) |
 | IT Project Manager | Electronic Health Record Modernization | Multiple Locations | Not listed | 85447 | 2026-05-29 | [Apply](https://www.usajobs.gov:443/job/870950800) |
 | Medical Records Technician (Coder-In/Out) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 41236 | 2026-05-29 | [Apply](https://www.usajobs.gov:443/job/870996200) |
-| Supervisory Legal Administrative Specialist (Coach) | Veterans Benefits Administration | Anywhere in the U.S. (remote job) | Not listed | 89508 | 2026-05-29 | [Apply](https://www.usajobs.gov:443/job/871147800) |
-| Supervisory Health System Specialist (Deployment) | Electronic Health Record Modernization | Multiple Locations | Not listed | 169279 | 2026-05-29 | [Apply](https://www.usajobs.gov:443/job/870996000) |
-| Health System Specialist (Associate Group Practice Manager) | Veterans Health Administration | Los Angeles, California | Not listed | 103316 | 2026-05-29 | [Apply](https://www.usajobs.gov:443/job/870971500) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 73 |
+| Total jobs found | 75 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-06-02T05:56:23Z |
+| Last updated | 2026-06-02T17:23:43Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 73 jobs
+- USAJobs: 75 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-06-02T05:56:23Z_
+_Auto-generated legacy snapshot. Last run: 2026-06-02T17:23:43Z_
