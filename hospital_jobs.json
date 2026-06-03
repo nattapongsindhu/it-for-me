@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-02T17:23:45Z",
-  "count": 6,
+  "updated": "2026-06-03T06:09:44Z",
+  "count": 8,
   "sources": [
     "Cedars-Sinai",
     "Glendale Memorial Hospital and Health",
@@ -39,6 +39,38 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: epic"
+    },
+    {
+      "title": "Polysomnographic Technician - 10hr - Nights - Pulmonary Cedars-Sinai Medical Care Foundation Los Angeles, CA Imaging Req ID: 17619",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/polysomnographic-technician-10hr-nights-pulmonary/252/95918910480",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/polysomnographic-technician-10hr-nights-pulmonary/252/95918910480",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: imaging, technician"
+    },
+    {
+      "title": "Polysomnographic Technician - Per Diem - Nights Cedars-Sinai Medical Care Foundation Los Angeles, CA Imaging Req ID: 17621",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/polysomnographic-technician-per-diem-nights/252/95918910528",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/polysomnographic-technician-per-diem-nights/252/95918910528",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: imaging, technician"
     },
     {
       "title": "Central Service Tech I",
