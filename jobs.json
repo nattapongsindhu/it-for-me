@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-03T06:09:31Z",
+  "updated": "2026-06-03T18:00:05Z",
   "zip": "90029",
   "radius_mi": 5,
   "count": 72,
@@ -15,6 +15,66 @@
       "type": "",
       "salary_annual": 106437.0,
       "salary_hourly": 51.17
+    },
+    {
+      "title": "IT Specialist (Customer Support Systems Analysis)",
+      "company": "Deputy Assistant Secretary for Information and Technology",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/871497200",
+      "salary": "90925",
+      "posted": "2026-06-03",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 90925.0,
+      "salary_hourly": 43.71
+    },
+    {
+      "title": "Information Technology Specialist",
+      "company": "Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/871567100",
+      "salary": "58827",
+      "posted": "2026-06-03",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 58827.0,
+      "salary_hourly": 28.28
+    },
+    {
+      "title": "Information Technology Specialist (APPSW), AI Software Engineer, GS-2210-15, FPL 15 (Direct Hire)",
+      "company": "Federal Student Aid",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/871490700",
+      "salary": "147945",
+      "posted": "2026-06-03",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 147945.0,
+      "salary_hourly": 71.13
+    },
+    {
+      "title": "Lead Medical Records Technician (Coder - Inpatient)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/871534000",
+      "salary": "61722",
+      "posted": "2026-06-03",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 61722.0,
+      "salary_hourly": 29.67
+    },
+    {
+      "title": "Social Science Program Specialist (Workflow Coordinator)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/871523800",
+      "salary": "74678",
+      "posted": "2026-06-03",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 74678.0,
+      "salary_hourly": 35.9
     },
     {
       "title": "Procurement Technician (OA)",
@@ -111,18 +171,6 @@
       "type": "",
       "salary_annual": 125776.0,
       "salary_hourly": 60.47
-    },
-    {
-      "title": "Program Analyst (Senior)",
-      "company": "Employment and Training Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/870963700",
-      "salary": "106437",
-      "posted": "2026-06-01",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 106437.0,
-      "salary_hourly": 51.17
     },
     {
       "title": "Student Volunteer (Intern)",
@@ -545,18 +593,6 @@
       "salary_hourly": 71.13
     },
     {
-      "title": "Physician",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/869715100",
-      "salary": "124308",
-      "posted": "2026-05-18",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 124308.0,
-      "salary_hourly": 59.76
-    },
-    {
       "title": "Radiologist- Hampton (Remote)",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -689,18 +725,6 @@
       "salary_hourly": 22.51
     },
     {
-      "title": "Public Notice for Electronics Engineer (Direct Hire)",
-      "company": "Federal Aviation Administration",
-      "location": "May be filled in various FAA duty locations",
-      "url": "https://www.usajobs.gov:443/job/858672400",
-      "salary": "53528",
-      "posted": "2026-02-24",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 53528.0,
-      "salary_hourly": 25.73
-    },
-    {
       "title": "Physician - Diagnostic Radiologist",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -807,30 +831,6 @@
       "type": "",
       "salary_annual": 56763.0,
       "salary_hourly": 27.29
-    },
-    {
-      "title": "COMPUTER ENGINEER",
-      "company": "Air Force Civilian Career Training",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/847080100",
-      "salary": "56763",
-      "posted": "2025-10-01",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 56763.0,
-      "salary_hourly": 27.29
-    },
-    {
-      "title": "Homeland Defender (Immigration Services Officer)",
-      "company": "Citizenship and Immigration Services",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/847041700",
-      "salary": "50420",
-      "posted": "2025-09-30",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 50420.0,
-      "salary_hourly": 24.24
     },
     {
       "title": "ENGINEERING",
