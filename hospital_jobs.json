@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-05T05:24:43Z",
-  "count": 6,
+  "updated": "2026-06-05T15:54:18Z",
+  "count": 7,
   "sources": [
     "Cedars-Sinai",
     "Glendale Memorial Hospital and Health",
@@ -25,20 +25,36 @@
       "match_reason": "Cedars-Sinai direct match: epic"
     },
     {
-      "title": "Senior Clinical Engineer - Onsite Cedars-Sinai Medical Center Los Angeles, CA Information Technology Req ID: 17844",
+      "title": "Postdoctoral Scientist - Slomka Lab - Innovation in Imaging / Department of Medicine / Division of AIM Cedars-Sinai Medical Center Los Angeles, CA Academic / Research Req ID: HRC1428640",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/senior-clinical-engineer-onsite/252/95964631232",
+      "url": "https://careers.cshs.org/job/los-angeles/postdoctoral-scientist-slomka-lab-innovation-in-imaging-department-of-medicine-division-of-aim/252/91952115056",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/senior-clinical-engineer-onsite/252/95964631232",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/postdoctoral-scientist-slomka-lab-innovation-in-imaging-department-of-medicine-division-of-aim/252/91952115056",
       "track_slug": "hospital-careers",
       "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: information technology"
+      "match_reason": "Cedars-Sinai direct match: imaging"
+    },
+    {
+      "title": "Project Scientist - Slomka Lab - Innovation in Imaging / Department of Medicine / Division of AIM Cedars-Sinai Medical Center Los Angeles, CA Academic / Research Req ID: HRC1122839A",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/project-scientist-slomka-lab-innovation-in-imaging-department-of-medicine-division-of-aim/252/91952114992",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/project-scientist-slomka-lab-innovation-in-imaging-department-of-medicine-division-of-aim/252/91952114992",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: imaging"
     },
     {
       "title": "Central Service Tech I",

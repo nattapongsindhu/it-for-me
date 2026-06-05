@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-05T05:24:42Z",
+  "updated": "2026-06-05T15:54:17Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 68,
+  "count": 66,
   "jobs": [
     {
       "title": "IT Specialist (Security)",
@@ -29,6 +29,18 @@
       "salary_hourly": 71.13
     },
     {
+      "title": "Medical Records Technician (Coder-Outpatient)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/871881400",
+      "salary": "55882",
+      "posted": "2026-06-05",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 55882.0,
+      "salary_hourly": 26.87
+    },
+    {
       "title": "Human Resources Specialist (Information Systems)",
       "company": "Offices, Boards and Divisions",
       "location": "Multiple Locations",
@@ -51,6 +63,18 @@
       "type": "The PSOC operates from 10 AM to 10 PM (EST). PSOC employees must be able to work any tour of duty during PSOC operating hours. Work schedule includes day and evening tours of duty, Monday - Friday: 10:00 am to 6:30 pm, or 1:30 pm to 10:00 pm.",
       "salary_annual": 74678.0,
       "salary_hourly": 35.9
+    },
+    {
+      "title": "Supervisory Veterans Claims Examiner",
+      "company": "Veterans Benefits Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/871940300",
+      "salary": "89508",
+      "posted": "2026-06-05",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 89508.0,
+      "salary_hourly": 43.03
     },
     {
       "title": "Information Technology Specialist (Applications Software)",
@@ -89,18 +113,6 @@
       "salary_hourly": 21.83
     },
     {
-      "title": "Program Analyst",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/871711900",
-      "salary": "74678",
-      "posted": "2026-06-04",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 74678.0,
-      "salary_hourly": 35.9
-    },
-    {
       "title": "Chief Information Security Officer",
       "company": "Office of the Secretary of the Interior",
       "location": "Location Negotiable After Selection",
@@ -135,6 +147,18 @@
       "type": "",
       "salary_annual": 124085.0,
       "salary_hourly": 59.66
+    },
+    {
+      "title": "Program Analyst",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/871711900",
+      "salary": "74678",
+      "posted": "2026-06-04",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 74678.0,
+      "salary_hourly": 35.9
     },
     {
       "title": "Budget And Financial Technician",
@@ -219,18 +243,6 @@
       "type": "",
       "salary_annual": 315000.0,
       "salary_hourly": 151.44
-    },
-    {
-      "title": "Social Science Program Specialist (Workflow Coordinator)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/871523800",
-      "salary": "74678",
-      "posted": "2026-06-03",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 74678.0,
-      "salary_hourly": 35.9
     },
     {
       "title": "Procurement Technician (OA)",
@@ -351,18 +363,6 @@
       "type": "",
       "salary_annual": 134118.0,
       "salary_hourly": 64.48
-    },
-    {
-      "title": "Health Scientist Administrator (Program Officer)",
-      "company": "National Institutes of Health",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/870713500",
-      "salary": "89508",
-      "posted": "2026-06-01",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 89508.0,
-      "salary_hourly": 43.03
     },
     {
       "title": "Program Analyst (Informatics)",
@@ -795,30 +795,6 @@
       "type": "",
       "salary_annual": 55486.0,
       "salary_hourly": 26.68
-    },
-    {
-      "title": "PHYSICIST",
-      "company": "Air Force Civilian Career Training",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/846774500",
-      "salary": "49960",
-      "posted": "2025-09-29",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 49960.0,
-      "salary_hourly": 24.02
-    },
-    {
-      "title": "BIOLOGICAL SCIENTIST (ENVIRONMENTAL)",
-      "company": "Air Force Civilian Career Training",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/846774300",
-      "salary": "49960",
-      "posted": "2025-09-29",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 49960.0,
-      "salary_hourly": 24.02
     }
   ]
 }
