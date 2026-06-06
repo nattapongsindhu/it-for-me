@@ -1,10 +1,11 @@
 {
-  "updated": "2026-06-05T15:54:18Z",
-  "count": 7,
+  "updated": "2026-06-06T04:59:42Z",
+  "count": 8,
   "sources": [
     "Cedars-Sinai",
     "Glendale Memorial Hospital and Health",
-    "Huntington Health"
+    "Huntington Health",
+    "Kaiser Permanente"
   ],
   "track_slug": "hospital-careers",
   "jobs": [
@@ -25,36 +26,20 @@
       "match_reason": "Cedars-Sinai direct match: epic"
     },
     {
-      "title": "Postdoctoral Scientist - Slomka Lab - Innovation in Imaging / Department of Medicine / Division of AIM Cedars-Sinai Medical Center Los Angeles, CA Academic / Research Req ID: HRC1428640",
+      "title": "MRI Technologist II - Biomedical Imaging Research Insititute Cedars-Sinai Medical Center Beverly Hills, CA Imaging Req ID: 17450",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/postdoctoral-scientist-slomka-lab-innovation-in-imaging-department-of-medicine-division-of-aim/252/91952115056",
+      "url": "https://careers.cshs.org/job/beverly-hills/mri-technologist-ii-biomedical-imaging-research-insititute/252/96055972448",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/postdoctoral-scientist-slomka-lab-innovation-in-imaging-department-of-medicine-division-of-aim/252/91952115056",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/mri-technologist-ii-biomedical-imaging-research-insititute/252/96055972448",
       "track_slug": "hospital-careers",
       "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging"
-    },
-    {
-      "title": "Project Scientist - Slomka Lab - Innovation in Imaging / Department of Medicine / Division of AIM Cedars-Sinai Medical Center Los Angeles, CA Academic / Research Req ID: HRC1122839A",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/project-scientist-slomka-lab-innovation-in-imaging-department-of-medicine-division-of-aim/252/91952114992",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/project-scientist-slomka-lab-innovation-in-imaging-department-of-medicine-division-of-aim/252/91952114992",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging"
+      "match_reason": "Cedars-Sinai direct match: biomedical, imaging, technologist"
     },
     {
       "title": "Central Service Tech I",
@@ -89,6 +74,22 @@
       "salary_hourly": null
     },
     {
+      "title": "Maintenance Electrical Journeyman FT, Days",
+      "company": "Huntington Health",
+      "hospital_name": "Huntington Health",
+      "location": "Pasadena, CA",
+      "url": "https://www.hhcareers.com/jobs/maintenance-electrical-journeyman-ft-days-location-pasadena-ca-jobs-category-service-maintenance-r-30816",
+      "salary": "",
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::huntington health::https://www.hhcareers.com/jobs/maintenance-electrical-journeyman-ft-days-location-pasadena-ca-jobs-category-service-maintenance-r-30816",
+      "track_slug": "hospital-careers",
+      "type": "Service / Maintenance",
+      "match_reason": "Huntington direct match: electrical, maintenance",
+      "salary_annual": null,
+      "salary_hourly": null
+    },
+    {
       "title": "Nuclear Medicine Tech",
       "company": "Huntington Health",
       "hospital_name": "Huntington Health",
@@ -119,6 +120,22 @@
       "match_reason": "Huntington direct match: plumber",
       "salary_annual": null,
       "salary_hourly": null
+    },
+    {
+      "title": "IT Consultant IV, Solutions-SSD (Radiant - EPIC)",
+      "company": "Kaiser Permanente",
+      "hospital_name": "Kaiser Permanente",
+      "location": "SCAL Pasadena, CA",
+      "url": "https://www.kaiserpermanentejobs.org/job/pasadena/it-consultant-iv-solutions-ssd-radiant-epic-scal/641/84716077424",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::kaiser permanente::https://www.kaiserpermanentejobs.org/job/pasadena/it-consultant-iv-solutions-ssd-radiant-epic-scal/641/84716077424",
+      "track_slug": "hospital-careers",
+      "type": "Flexible, Full-time, Day",
+      "match_reason": "Kaiser direct match: epic, radiant"
     }
   ]
 }

@@ -1,9 +1,21 @@
 {
-  "updated": "2026-06-05T15:54:17Z",
+  "updated": "2026-06-06T04:59:39Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 66,
+  "count": 63,
   "jobs": [
+    {
+      "title": "Aviation Technical Systems Manager",
+      "company": "Federal Aviation Administration",
+      "location": "FAA Nationwide-Selectee Remains in Current Duty Location",
+      "url": "https://www.usajobs.gov:443/job/872020600",
+      "salary": "134118",
+      "posted": "2026-06-06",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 134118.0,
+      "salary_hourly": 64.48
+    },
     {
       "title": "IT Specialist (Security)",
       "company": "Federal Aviation Administration",
@@ -53,6 +65,30 @@
       "salary_hourly": 43.71
     },
     {
+      "title": "LEAD MEDICAL RECORDS TECHNICIAN",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/871954100",
+      "salary": "64453",
+      "posted": "2026-06-05",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 64453.0,
+      "salary_hourly": 30.99
+    },
+    {
+      "title": "Medical Records Administrator Specialist",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/872019700",
+      "salary": "34799",
+      "posted": "2026-06-05",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 34799.0,
+      "salary_hourly": 16.73
+    },
+    {
       "title": "Supervisory Peer Specialist",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -75,6 +111,18 @@
       "type": "",
       "salary_annual": 89508.0,
       "salary_hourly": 43.03
+    },
+    {
+      "title": "Contract Specialist (Early Career - Procurement)",
+      "company": "Office of Personnel Management",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/871949300",
+      "salary": "50460",
+      "posted": "2026-06-05",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 50460.0,
+      "salary_hourly": 24.26
     },
     {
       "title": "Information Technology Specialist (Applications Software)",
@@ -123,18 +171,6 @@
       "type": "",
       "salary_annual": 186207.0,
       "salary_hourly": 89.52
-    },
-    {
-      "title": "Executive Director",
-      "company": "Federal Financial Institutions Examination Council",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/871627200",
-      "salary": "151661",
-      "posted": "2026-06-04",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 151661.0,
-      "salary_hourly": 72.91
     },
     {
       "title": "INTELLIGENCE SPECIALIST",
@@ -341,18 +377,6 @@
       "salary_hourly": null
     },
     {
-      "title": "Program Analyst",
-      "company": "National Institutes of Health",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/870664500",
-      "salary": "74678",
-      "posted": "2026-06-01",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 74678.0,
-      "salary_hourly": 35.9
-    },
-    {
       "title": "Aviation Technical Systems Manager (Director, Financial Services)",
       "company": "Federal Aviation Administration",
       "location": "FAA Location Negotiable Upon Request - See Additional Info",
@@ -401,30 +425,6 @@
       "salary_hourly": 53.74
     },
     {
-      "title": "Health System Specialist (Associate Group Practice Manager)",
-      "company": "Veterans Health Administration",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/870971500",
-      "salary": "103316",
-      "posted": "2026-05-29",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 103316.0,
-      "salary_hourly": 49.67
-    },
-    {
-      "title": "Supervisory Health System Specialist",
-      "company": "Veterans Health Administration",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/870965900",
-      "salary": "124085",
-      "posted": "2026-05-29",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 124085.0,
-      "salary_hourly": 59.66
-    },
-    {
       "title": "Lead Medical Support Assistant",
       "company": "Veterans Health Administration",
       "location": "Los Angeles, California",
@@ -435,18 +435,6 @@
       "type": "",
       "salary_annual": 61885.0,
       "salary_hourly": 29.75
-    },
-    {
-      "title": "Supervisory Contact Representative",
-      "company": "Veterans Health Administration",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/871040600",
-      "salary": "74678",
-      "posted": "2026-05-29",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 74678.0,
-      "salary_hourly": 35.9
     },
     {
       "title": "Supervisory Internal Revenue Agent",
@@ -519,18 +507,6 @@
       "type": "",
       "salary_annual": 125776.0,
       "salary_hourly": 60.47
-    },
-    {
-      "title": "Executive Director Portfolio Management for Corporate",
-      "company": "Deputy Assistant Secretary for Information and Technology",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/870227400",
-      "salary": "151661",
-      "posted": "2026-05-22",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 151661.0,
-      "salary_hourly": 72.91
     },
     {
       "title": "Aviation Safety Technician",
@@ -783,18 +759,6 @@
       "type": "",
       "salary_annual": 56763.0,
       "salary_hourly": 27.29
-    },
-    {
-      "title": "ENGINEERING",
-      "company": "Air Force Civilian Career Training",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/846773600",
-      "salary": "55486",
-      "posted": "2025-09-29",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 55486.0,
-      "salary_hourly": 26.68
     }
   ]
 }
