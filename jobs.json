@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-06T14:41:26Z",
+  "updated": "2026-06-07T05:46:01Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 63,
+  "count": 61,
   "jobs": [
     {
       "title": "Aviation Technical Systems Manager",
@@ -41,18 +41,6 @@
       "salary_hourly": 71.13
     },
     {
-      "title": "Medical Records Technician (Coder-Outpatient)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/871881400",
-      "salary": "55882",
-      "posted": "2026-06-05",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 55882.0,
-      "salary_hourly": 26.87
-    },
-    {
       "title": "Human Resources Specialist (Information Systems)",
       "company": "Offices, Boards and Divisions",
       "location": "Multiple Locations",
@@ -75,18 +63,6 @@
       "type": "",
       "salary_annual": 64453.0,
       "salary_hourly": 30.99
-    },
-    {
-      "title": "Medical Records Administrator Specialist",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/872019700",
-      "salary": "34799",
-      "posted": "2026-06-05",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 34799.0,
-      "salary_hourly": 16.73
     },
     {
       "title": "Supervisory Peer Specialist",
@@ -161,6 +137,18 @@
       "salary_hourly": 21.83
     },
     {
+      "title": "Program Analyst",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/871711900",
+      "salary": "74678",
+      "posted": "2026-06-04",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 74678.0,
+      "salary_hourly": 35.9
+    },
+    {
       "title": "Chief Information Security Officer",
       "company": "Office of the Secretary of the Interior",
       "location": "Location Negotiable After Selection",
@@ -183,18 +171,6 @@
       "type": "",
       "salary_annual": 124085.0,
       "salary_hourly": 59.66
-    },
-    {
-      "title": "Program Analyst",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/871711900",
-      "salary": "74678",
-      "posted": "2026-06-04",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 74678.0,
-      "salary_hourly": 35.9
     },
     {
       "title": "Budget And Financial Technician",

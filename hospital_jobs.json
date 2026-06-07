@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T14:41:28Z",
+  "updated": "2026-06-07T05:46:02Z",
   "count": 8,
   "sources": [
     "Cedars-Sinai",
@@ -26,20 +26,20 @@
       "match_reason": "Cedars-Sinai direct match: epic"
     },
     {
-      "title": "MRI Technologist II - Biomedical Imaging Research Insititute Cedars-Sinai Medical Center Beverly Hills, CA Imaging Req ID: 17450",
+      "title": "Radiologic Intervention Tech - Per Diem - Vascular Surgery-Outpatient Comprehensive Surgery Center Cedars-Sinai Medical Care Foundation Beverly Hills, CA Imaging Req ID: 15940",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/beverly-hills/mri-technologist-ii-biomedical-imaging-research-insititute/252/96055972448",
+      "url": "https://careers.cshs.org/job/beverly-hills/radiologic-intervention-tech-per-diem-vascular-surgery-outpatient-comprehensive-surgery-center/252/93190902368",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/mri-technologist-ii-biomedical-imaging-research-insititute/252/96055972448",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/radiologic-intervention-tech-per-diem-vascular-surgery-outpatient-comprehensive-surgery-center/252/93190902368",
       "track_slug": "hospital-careers",
       "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: biomedical, imaging, technologist"
+      "match_reason": "Cedars-Sinai direct match: imaging"
     },
     {
       "title": "Central Service Tech I",
