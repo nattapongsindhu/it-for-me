@@ -1,9 +1,21 @@
 {
-  "updated": "2026-06-08T06:00:04Z",
+  "updated": "2026-06-08T16:48:56Z",
   "zip": "90029",
   "radius_mi": 5,
   "count": 62,
   "jobs": [
+    {
+      "title": "Information Technology Specialist (APPSW)",
+      "company": "Internal Revenue Service",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/872128300",
+      "salary": "106437",
+      "posted": "2026-06-08",
+      "source": "USAJobs",
+      "type": "Tour of Duty: Day Shift, Monday-Friday 8: 00a.m. - 4:30p.m., 40 hours per week",
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
+    },
     {
       "title": "IT Specialist (DATAMGT)",
       "company": "Office of Inspector General",
@@ -291,18 +303,6 @@
       "type": "",
       "salary_annual": 52938.0,
       "salary_hourly": 25.45
-    },
-    {
-      "title": "Program Manager",
-      "company": "Citizenship and Immigration Services",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/871452600",
-      "salary": "146632",
-      "posted": "2026-06-03",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 146632.0,
-      "salary_hourly": 70.5
     },
     {
       "title": "Intelligence Research Specialist",

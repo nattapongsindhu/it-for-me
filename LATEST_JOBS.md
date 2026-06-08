@@ -1,6 +1,6 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-06-08T06%3A00%3A04Z-blue?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-06-08T16%3A48%3A56Z-blue?style=flat-square)
 ![Jobs](https://img.shields.io/badge/Jobs_Found-62-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
@@ -12,6 +12,7 @@
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
+| Information Technology Specialist (APPSW) | Internal Revenue Service | Multiple Locations | Tour of Duty: Day Shift, Monday-Friday 8: 00a.m. - 4:30p.m., 40 hours per week | 106437 | 2026-06-08 | [Apply](https://www.usajobs.gov:443/job/872128300) |
 | IT Specialist (DATAMGT) | Office of Inspector General | Multiple Locations | Not listed | 90968 | 2026-06-08 | [Apply](https://www.usajobs.gov:443/job/871495500) |
 | Medical Records Technician (Coder) Auditor | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 65271 | 2026-06-08 | [Apply](https://www.usajobs.gov:443/job/871921900) |
 | Medical Records Technician (Coder) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 65271 | 2026-06-08 | [Apply](https://www.usajobs.gov:443/job/871922200) |
@@ -31,7 +32,6 @@
 | Program Analyst | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 74678 | 2026-06-04 | [Apply](https://www.usajobs.gov:443/job/871711900) |
 | Budget And Financial Technician | Veterans Health Administration | Los Angeles, California | Not listed | 52938 | 2026-06-04 | [Apply](https://www.usajobs.gov:443/job/871572600) |
 | Clinical Psychologist-PCMHI (Primary Care Mental Health Integration) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 101753 | 2026-06-04 | [Apply](https://www.usajobs.gov:443/job/871837700) |
-| IT Specialist (SYSANALYSIS) | Deputy Assistant Secretary for Information and Technology | Multiple Locations | Not listed | 106437 | 2026-06-03 | [Apply](https://www.usajobs.gov:443/job/871231200) |
 
 ---
 
@@ -41,7 +41,7 @@
 |--------|-------|
 | Total jobs found | 62 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-06-08T06:00:04Z |
+| Last updated | 2026-06-08T16:48:56Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-06-08T06:00:04Z_
+_Auto-generated legacy snapshot. Last run: 2026-06-08T16:48:56Z_
