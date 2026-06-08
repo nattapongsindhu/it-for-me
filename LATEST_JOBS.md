@@ -1,17 +1,20 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-06-07T14%3A53%3A01Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-61-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-06-08T06%3A00%3A04Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-62-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
 
 ---
 
-## Latest Jobs - June 07, 2026
+## Latest Jobs - June 08, 2026
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
+| IT Specialist (DATAMGT) | Office of Inspector General | Multiple Locations | Not listed | 90968 | 2026-06-08 | [Apply](https://www.usajobs.gov:443/job/871495500) |
+| Medical Records Technician (Coder) Auditor | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 65271 | 2026-06-08 | [Apply](https://www.usajobs.gov:443/job/871921900) |
+| Medical Records Technician (Coder) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 65271 | 2026-06-08 | [Apply](https://www.usajobs.gov:443/job/871922200) |
 | Aviation Technical Systems Manager | Federal Aviation Administration | FAA Nationwide-Selectee Remains in Current Duty Location | Not listed | 134118 | 2026-06-06 | [Apply](https://www.usajobs.gov:443/job/872020600) |
 | IT Specialist (Security) | Federal Aviation Administration | FAA Nationwide-Selectee Remains in Current Duty Location | Not listed | 77351 | 2026-06-05 | [Apply](https://www.usajobs.gov:443/job/871752500) |
 | IT Specialist (ENTARCH) "AI Solutions Architect" GS-2210-15 FPL GS-15 (DH) | Federal Student Aid | Multiple Locations | Not listed | 147945 | 2026-06-05 | [Apply](https://www.usajobs.gov:443/job/871696400) |
@@ -23,15 +26,12 @@
 | Information Technology Specialist (Applications Software) | Internal Revenue Service | Multiple Locations | Tour of Duty: Monday-Friday 8:00am-4:30pm, 40 hours per week | 125776 | 2026-06-04 | [Apply](https://www.usajobs.gov:443/job/871723800) |
 | Supervisory IT Specialist | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 106437 | 2026-06-04 | [Apply](https://www.usajobs.gov:443/job/871578200) |
 | Advanced Medical Support Assistant | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 45409 | 2026-06-04 | [Apply](https://www.usajobs.gov:443/job/871854200) |
-| Program Analyst | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 74678 | 2026-06-04 | [Apply](https://www.usajobs.gov:443/job/871711900) |
 | Chief Information Security Officer | Office of the Secretary of the Interior | Location Negotiable After Selection | Not listed | 186207 | 2026-06-04 | [Apply](https://www.usajobs.gov:443/job/871679000) |
 | INTELLIGENCE SPECIALIST | United States Space Force | Los Angeles, California | Not listed | 124085 | 2026-06-04 | [Apply](https://www.usajobs.gov:443/job/871531900) |
+| Program Analyst | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 74678 | 2026-06-04 | [Apply](https://www.usajobs.gov:443/job/871711900) |
 | Budget And Financial Technician | Veterans Health Administration | Los Angeles, California | Not listed | 52938 | 2026-06-04 | [Apply](https://www.usajobs.gov:443/job/871572600) |
 | Clinical Psychologist-PCMHI (Primary Care Mental Health Integration) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 101753 | 2026-06-04 | [Apply](https://www.usajobs.gov:443/job/871837700) |
 | IT Specialist (SYSANALYSIS) | Deputy Assistant Secretary for Information and Technology | Multiple Locations | Not listed | 106437 | 2026-06-03 | [Apply](https://www.usajobs.gov:443/job/871231200) |
-| IT Specialist (Customer Support Systems Analysis) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 90925 | 2026-06-03 | [Apply](https://www.usajobs.gov:443/job/871497200) |
-| Information Technology Specialist | Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys | Los Angeles, California | Not listed | 58827 | 2026-06-03 | [Apply](https://www.usajobs.gov:443/job/871567100) |
-| Information Technology Specialist (APPSW), AI Software Engineer, GS-2210-15, FPL 15 (Direct Hire) | Federal Student Aid | Multiple Locations | Not listed | 147945 | 2026-06-03 | [Apply](https://www.usajobs.gov:443/job/871490700) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 61 |
+| Total jobs found | 62 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-06-07T14:53:01Z |
+| Last updated | 2026-06-08T06:00:04Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 61 jobs
+- USAJobs: 62 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-06-07T14:53:01Z_
+_Auto-generated legacy snapshot. Last run: 2026-06-08T06:00:04Z_
