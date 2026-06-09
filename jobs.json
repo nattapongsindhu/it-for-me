@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-09T05:12:27Z",
+  "updated": "2026-06-09T15:55:18Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 60,
+  "count": 62,
   "jobs": [
     {
       "title": "IT Specialist",
@@ -15,6 +15,30 @@
       "type": "",
       "salary_annual": 89508.0,
       "salary_hourly": 43.03
+    },
+    {
+      "title": "IT Cybersecurity (INFOSEC)",
+      "company": "Electronic Health Record Modernization",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/872256800",
+      "salary": "121785",
+      "posted": "2026-06-09",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 121785.0,
+      "salary_hourly": 58.55
+    },
+    {
+      "title": "Program Specialist",
+      "company": "Office of the Secretary",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/872304400",
+      "salary": "57736",
+      "posted": "2026-06-09",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 57736.0,
+      "salary_hourly": 27.76
     },
     {
       "title": "Information Technology Specialist (APPSW)",

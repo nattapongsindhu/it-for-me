@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09T05:12:27Z",
+  "updated": "2026-06-09T15:55:20Z",
   "count": 10,
   "sources": [
     "Cedars-Sinai",
@@ -26,52 +26,52 @@
       "match_reason": "Cedars-Sinai direct match: epic"
     },
     {
-      "title": "Performance Analyst (Omnichannel Sales and Marketing Measurement, Insights, and Analytics) Hybrid Cedars-Sinai Medical Center Los Angeles, CA Information Technology Req ID: 15709",
+      "title": "MRI Technologist II - Biomedical Imaging Research Insititute Cedars-Sinai Medical Center Beverly Hills, CA Imaging Req ID: 17450",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/performance-analyst-omnichannel-sales-and-marketing-measurement-insights-and-analytics-hybrid/252/92428487312",
+      "url": "https://careers.cshs.org/job/beverly-hills/mri-technologist-ii-biomedical-imaging-research-insititute/252/96055972448",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/performance-analyst-omnichannel-sales-and-marketing-measurement-insights-and-analytics-hybrid/252/92428487312",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/mri-technologist-ii-biomedical-imaging-research-insititute/252/96055972448",
       "track_slug": "hospital-careers",
       "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: information technology"
+      "match_reason": "Cedars-Sinai direct match: biomedical, imaging, technologist"
     },
     {
-      "title": "Postdoctoral Scientist - Li Lab - Biomedical Imaging Research Institute Cedars-Sinai Medical Center California, US Academic / Research Req ID: 14473",
+      "title": "Postdoctoral Scientist - Gao Lab - Biomedical Imaging Research Institute Cedars-Sinai Medical Center California, US Academic / Research Req ID: 14477",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/california/postdoctoral-scientist-li-lab-biomedical-imaging-research-institute/252/91952110048",
+      "url": "https://careers.cshs.org/job/california/postdoctoral-scientist-gao-lab-biomedical-imaging-research-institute/252/93275394080",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/california/postdoctoral-scientist-li-lab-biomedical-imaging-research-institute/252/91952110048",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/california/postdoctoral-scientist-gao-lab-biomedical-imaging-research-institute/252/93275394080",
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: biomedical, imaging"
     },
     {
-      "title": "Sterile Processing Educator (Evening) Cedars-Sinai Medical Center Los Angeles, CA Clinical Operations Req ID: 17998",
+      "title": "Postdoctoral Scientist - Yang Lab - Biomedical Imaging Research Insitute Cedars-Sinai Medical Center California, US Academic / Research Req ID: 16640",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/sterile-processing-educator-evening/252/96181874960",
+      "url": "https://careers.cshs.org/job/california/postdoctoral-scientist-yang-lab-biomedical-imaging-research-insitute/252/94500080640",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/sterile-processing-educator-evening/252/96181874960",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/california/postdoctoral-scientist-yang-lab-biomedical-imaging-research-insitute/252/94500080640",
       "track_slug": "hospital-careers",
       "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: sterile processing"
+      "match_reason": "Cedars-Sinai direct match: biomedical, imaging"
     },
     {
       "title": "Central Service Tech I",
