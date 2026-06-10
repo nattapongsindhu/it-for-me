@@ -1,14 +1,29 @@
 {
-  "updated": "2026-06-09T15:55:20Z",
-  "count": 10,
+  "updated": "2026-06-10T05:24:48Z",
+  "count": 7,
   "sources": [
     "Cedars-Sinai",
     "Glendale Memorial Hospital and Health",
-    "Huntington Health",
-    "Kaiser Permanente"
+    "Huntington Health"
   ],
   "track_slug": "hospital-careers",
   "jobs": [
+    {
+      "title": "Biomedical Specialist - Biomanufacturing Center Cedars-Sinai Medical Center West Hollywood, CA Academic / Research Req ID: 17341",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/west-hollywood/biomedical-specialist-biomanufacturing-center/252/95300201088",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/west-hollywood/biomedical-specialist-biomanufacturing-center/252/95300201088",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: biomedical"
+    },
     {
       "title": "Epic MyChart Analyst - Remote",
       "company": "Cedars-Sinai",
@@ -26,52 +41,20 @@
       "match_reason": "Cedars-Sinai direct match: epic"
     },
     {
-      "title": "MRI Technologist II - Biomedical Imaging Research Insititute Cedars-Sinai Medical Center Beverly Hills, CA Imaging Req ID: 17450",
+      "title": "Pharmacy Technician - Specialty Pharmacy Cedars-Sinai Medical Center Beverly Hills, CA Pharmacy Req ID: 18051",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/beverly-hills/mri-technologist-ii-biomedical-imaging-research-insititute/252/96055972448",
+      "url": "https://careers.cshs.org/job/beverly-hills/pharmacy-technician-specialty-pharmacy/252/96231442688",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/mri-technologist-ii-biomedical-imaging-research-insititute/252/96055972448",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/pharmacy-technician-specialty-pharmacy/252/96231442688",
       "track_slug": "hospital-careers",
       "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: biomedical, imaging, technologist"
-    },
-    {
-      "title": "Postdoctoral Scientist - Gao Lab - Biomedical Imaging Research Institute Cedars-Sinai Medical Center California, US Academic / Research Req ID: 14477",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/california/postdoctoral-scientist-gao-lab-biomedical-imaging-research-institute/252/93275394080",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/california/postdoctoral-scientist-gao-lab-biomedical-imaging-research-institute/252/93275394080",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: biomedical, imaging"
-    },
-    {
-      "title": "Postdoctoral Scientist - Yang Lab - Biomedical Imaging Research Insitute Cedars-Sinai Medical Center California, US Academic / Research Req ID: 16640",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/california/postdoctoral-scientist-yang-lab-biomedical-imaging-research-insitute/252/94500080640",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/california/postdoctoral-scientist-yang-lab-biomedical-imaging-research-insitute/252/94500080640",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: biomedical, imaging"
+      "match_reason": "Cedars-Sinai direct match: technician"
     },
     {
       "title": "Central Service Tech I",
@@ -122,22 +105,6 @@
       "salary_hourly": null
     },
     {
-      "title": "Nuclear Medicine Tech",
-      "company": "Huntington Health",
-      "hospital_name": "Huntington Health",
-      "location": "Pasadena, CA",
-      "url": "https://www.hhcareers.com/jobs/nuclear-medicine-tech-location-pasadena-ca-jobs-category-technical-r-30729",
-      "salary": "",
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::huntington health::https://www.hhcareers.com/jobs/nuclear-medicine-tech-location-pasadena-ca-jobs-category-technical-r-30729",
-      "track_slug": "hospital-careers",
-      "type": "Technical",
-      "match_reason": "Huntington direct match: nuclear medicine tech",
-      "salary_annual": null,
-      "salary_hourly": null
-    },
-    {
       "title": "Plumber FT, Days (6am-2:30pm)",
       "company": "Huntington Health",
       "hospital_name": "Huntington Health",
@@ -152,22 +119,6 @@
       "match_reason": "Huntington direct match: plumber",
       "salary_annual": null,
       "salary_hourly": null
-    },
-    {
-      "title": "IT Consultant IV, Solutions-SSD (Radiant - EPIC)",
-      "company": "Kaiser Permanente",
-      "hospital_name": "Kaiser Permanente",
-      "location": "SCAL Pasadena, CA",
-      "url": "https://www.kaiserpermanentejobs.org/job/pasadena/it-consultant-iv-solutions-ssd-radiant-epic-scal/641/84716077424",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::kaiser permanente::https://www.kaiserpermanentejobs.org/job/pasadena/it-consultant-iv-solutions-ssd-radiant-epic-scal/641/84716077424",
-      "track_slug": "hospital-careers",
-      "type": "Flexible, Full-time, Day",
-      "match_reason": "Kaiser direct match: epic, radiant"
     }
   ]
 }
