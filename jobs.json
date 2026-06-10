@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-10T05:24:45Z",
+  "updated": "2026-06-10T16:35:13Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 61,
+  "count": 62,
   "jobs": [
     {
       "title": "Systems & Procedures Analyst",
@@ -15,6 +15,18 @@
       "type": "",
       "salary_annual": 63795.0,
       "salary_hourly": 30.67
+    },
+    {
+      "title": "Pharmacy Technician",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/872456000",
+      "salary": "50460",
+      "posted": "2026-06-10",
+      "source": "USAJobs",
+      "type": "Monday-Friday 8:30am-5:00pm MST. Includes staffing at least 2 Federal Holidays in the calendar year.",
+      "salary_annual": 50460.0,
+      "salary_hourly": 24.26
     },
     {
       "title": "Medical Records Technician (Lead Cancer Registrar)",
@@ -33,6 +45,30 @@
       "company": "Office of the Secretary",
       "location": "Multiple Locations",
       "url": "https://www.usajobs.gov:443/job/872338900",
+      "salary": "147945",
+      "posted": "2026-06-10",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 147945.0,
+      "salary_hourly": 71.13
+    },
+    {
+      "title": "Medical Records Technician (Coder-Inpatient)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/872511100",
+      "salary": "37193",
+      "posted": "2026-06-10",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 37193.0,
+      "salary_hourly": 17.88
+    },
+    {
+      "title": "Program Manager",
+      "company": "Veterans Health Administration",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/872450400",
       "salary": "147945",
       "posted": "2026-06-10",
       "source": "USAJobs",
@@ -245,18 +281,6 @@
       "salary_hourly": 29.67
     },
     {
-      "title": "Advanced Medical Support Assistant",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/871854200",
-      "salary": "45409",
-      "posted": "2026-06-04",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 45409.0,
-      "salary_hourly": 21.83
-    },
-    {
       "title": "Chief Information Security Officer",
       "company": "Office of the Secretary of the Interior",
       "location": "Location Negotiable After Selection",
@@ -291,6 +315,18 @@
       "type": "",
       "salary_annual": 74678.0,
       "salary_hourly": 35.9
+    },
+    {
+      "title": "Advanced Medical Support Assistant",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/871854200",
+      "salary": "45409",
+      "posted": "2026-06-04",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 45409.0,
+      "salary_hourly": 21.83
     },
     {
       "title": "Budget And Financial Technician",
@@ -363,18 +399,6 @@
       "type": "",
       "salary_annual": 146632.0,
       "salary_hourly": 70.5
-    },
-    {
-      "title": "Medical Support Assistant (Advanced)",
-      "company": "Veterans Health Administration",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/871347600",
-      "salary": "56247",
-      "posted": "2026-06-02",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 56247.0,
-      "salary_hourly": 27.04
     },
     {
       "title": "Supervisory IT Specialist",
@@ -675,18 +699,6 @@
       "type": "",
       "salary_annual": 99461.0,
       "salary_hourly": 47.82
-    },
-    {
-      "title": "Immigration Judge",
-      "company": "Executive Office for Immigration Review",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/853385500",
-      "salary": "159951",
-      "posted": "2025-12-30",
-      "source": "USAJobs",
-      "type": "Full-Time, Intermittent",
-      "salary_annual": 159951.0,
-      "salary_hourly": 76.9
     },
     {
       "title": "Information Technology Specialist (INFOSEC)",
