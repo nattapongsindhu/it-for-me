@@ -1,9 +1,45 @@
 {
-  "updated": "2026-06-10T16:35:13Z",
+  "updated": "2026-06-11T05:59:04Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 62,
+  "count": 58,
   "jobs": [
+    {
+      "title": "Supervisory IT Specialist (Security)",
+      "company": "Administrative Office of the U.S. Courts",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/872623100",
+      "salary": "106437",
+      "posted": "2026-06-11",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
+    },
+    {
+      "title": "IT Project Manager (Deployment)",
+      "company": "Electronic Health Record Modernization",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/872627400",
+      "salary": "121785",
+      "posted": "2026-06-11",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 121785.0,
+      "salary_hourly": 58.55
+    },
+    {
+      "title": "IT Specialist (SYSADMIN OS)",
+      "company": "Office of the Inspector General for Tax Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/872591400",
+      "salary": "74678",
+      "posted": "2026-06-11",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 74678.0,
+      "salary_hourly": 35.9
+    },
     {
       "title": "Systems & Procedures Analyst",
       "company": "Deputy Assistant Secretary for Finance",
@@ -17,18 +53,6 @@
       "salary_hourly": 30.67
     },
     {
-      "title": "Pharmacy Technician",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/872456000",
-      "salary": "50460",
-      "posted": "2026-06-10",
-      "source": "USAJobs",
-      "type": "Monday-Friday 8:30am-5:00pm MST. Includes staffing at least 2 Federal Holidays in the calendar year.",
-      "salary_annual": 50460.0,
-      "salary_hourly": 24.26
-    },
-    {
       "title": "Medical Records Technician (Lead Cancer Registrar)",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -39,6 +63,18 @@
       "type": "",
       "salary_annual": 61722.0,
       "salary_hourly": 29.67
+    },
+    {
+      "title": "Pharmacy Technician",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/872456000",
+      "salary": "50460",
+      "posted": "2026-06-10",
+      "source": "USAJobs",
+      "type": "Monday-Friday 8:30am-5:00pm MST. Includes staffing at least 2 Federal Holidays in the calendar year.",
+      "salary_annual": 50460.0,
+      "salary_hourly": 24.26
     },
     {
       "title": "Supervisory General Engineer/ Architect Not to Exceed (NTE) 2 yrs",
@@ -161,18 +197,6 @@
       "salary_hourly": 34.59
     },
     {
-      "title": "Medical Records Technician (Coder-Outpatient)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/872213000",
-      "salary": "39694",
-      "posted": "2026-06-08",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 39694.0,
-      "salary_hourly": 19.08
-    },
-    {
       "title": "Aviation Technical Systems Manager",
       "company": "Federal Aviation Administration",
       "location": "FAA Nationwide-Selectee Remains in Current Duty Location",
@@ -185,18 +209,6 @@
       "salary_hourly": 64.48
     },
     {
-      "title": "Information Technology Specialist (CUSTSPT) Information Technology Specialist (ITSP)",
-      "company": "Federal Emergency Management Agency",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/872409000",
-      "salary": "29.27",
-      "posted": "2026-06-05",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 60881.6,
-      "salary_hourly": 29.27
-    },
-    {
       "title": "IT Specialist (Security)",
       "company": "Federal Aviation Administration",
       "location": "FAA Nationwide-Selectee Remains in Current Duty Location",
@@ -207,6 +219,18 @@
       "type": "",
       "salary_annual": 77351.0,
       "salary_hourly": 37.19
+    },
+    {
+      "title": "Supervisory IT Specialist",
+      "company": "Federal Aviation Administration",
+      "location": "FAA Nationwide-Selectee Remains in Current Duty Location",
+      "url": "https://www.usajobs.gov:443/job/871756900",
+      "salary": "95489",
+      "posted": "2026-06-05",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 95489.0,
+      "salary_hourly": 45.91
     },
     {
       "title": "IT Specialist (ENTARCH) \"AI Solutions Architect\" GS-2210-15 FPL GS-15 (DH)",
@@ -269,18 +293,6 @@
       "salary_hourly": 60.47
     },
     {
-      "title": "LEAD MEDICAL RECORDS TECHNICIAN (CODER)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/872338600",
-      "salary": "61722",
-      "posted": "2026-06-04",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 61722.0,
-      "salary_hourly": 29.67
-    },
-    {
       "title": "Chief Information Security Officer",
       "company": "Office of the Secretary of the Interior",
       "location": "Location Negotiable After Selection",
@@ -293,16 +305,16 @@
       "salary_hourly": 89.52
     },
     {
-      "title": "INTELLIGENCE SPECIALIST",
-      "company": "United States Space Force",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/871531900",
-      "salary": "124085",
+      "title": "LEAD MEDICAL RECORDS TECHNICIAN (CODER)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/872338600",
+      "salary": "61722",
       "posted": "2026-06-04",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 124085.0,
-      "salary_hourly": 59.66
+      "salary_annual": 61722.0,
+      "salary_hourly": 29.67
     },
     {
       "title": "Program Analyst",
@@ -401,18 +413,6 @@
       "salary_hourly": 70.5
     },
     {
-      "title": "Supervisory IT Specialist",
-      "company": "Federal Aviation Administration",
-      "location": "FAA Nationwide-Selectee Remains in Current Duty Location",
-      "url": "https://www.usajobs.gov:443/job/871004700",
-      "salary": "95489",
-      "posted": "2026-06-01",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 95489.0,
-      "salary_hourly": 45.91
-    },
-    {
       "title": "Student Volunteer (Intern)",
       "company": "Office of the Chief Human Capital Officer",
       "location": "Multiple Locations",
@@ -437,18 +437,6 @@
       "salary_hourly": 64.48
     },
     {
-      "title": "Program Analyst (Informatics)",
-      "company": "Veterans Health Administration",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/871280000",
-      "salary": "104349",
-      "posted": "2026-06-01",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 104349.0,
-      "salary_hourly": 50.17
-    },
-    {
       "title": "Audiologist (Clinical Specialist)",
       "company": "Veterans Health Administration",
       "location": "Los Angeles, California",
@@ -471,42 +459,6 @@
       "type": "",
       "salary_annual": 111779.0,
       "salary_hourly": 53.74
-    },
-    {
-      "title": "Lead Medical Support Assistant",
-      "company": "Veterans Health Administration",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/871061100",
-      "salary": "61885",
-      "posted": "2026-05-29",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 61885.0,
-      "salary_hourly": 29.75
-    },
-    {
-      "title": "Supervisory Internal Revenue Agent",
-      "company": "Internal Revenue Service",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/870750300",
-      "salary": "125776",
-      "posted": "2026-05-28",
-      "source": "USAJobs",
-      "type": "Tour of Duty: Monday-Friday, 40 hours per week - Day shift - Start and stop times between 6:00 AM and 6:00 PM",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
-    },
-    {
-      "title": "Health System Administrator (Associate Director of Ambulatory Care Services)",
-      "company": "Veterans Health Administration",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/870741600",
-      "salary": "172476",
-      "posted": "2026-05-27",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 172476.0,
-      "salary_hourly": 82.92
     },
     {
       "title": "Senior Government Ethics Specialist",
@@ -591,18 +543,6 @@
       "type": "",
       "salary_annual": 147945.0,
       "salary_hourly": 71.13
-    },
-    {
-      "title": "Physician-Diagnostic Radiologist-Recruitment/Relocation Incentive-EDRP Authorized",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/868648600",
-      "salary": "124308",
-      "posted": "2026-05-08",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 124308.0,
-      "salary_hourly": 59.76
     },
     {
       "title": "Advanced Practice Provider, Medical Asset Support Team (O-5 Billet) Non-Supervisory - Internal",
@@ -747,6 +687,18 @@
       "type": "",
       "salary_annual": 56763.0,
       "salary_hourly": 27.29
+    },
+    {
+      "title": "ENGINEERING",
+      "company": "Air Force Civilian Career Training",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/846773600",
+      "salary": "55486",
+      "posted": "2025-09-29",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 55486.0,
+      "salary_hourly": 26.68
     }
   ]
 }

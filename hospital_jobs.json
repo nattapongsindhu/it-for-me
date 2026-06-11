@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-10T16:35:15Z",
+  "updated": "2026-06-11T05:59:08Z",
   "count": 6,
   "sources": [
     "Cedars-Sinai",
@@ -25,20 +25,20 @@
       "match_reason": "Cedars-Sinai direct match: epic"
     },
     {
-      "title": "Pharmacy Technician - Specialty Pharmacy Cedars-Sinai Medical Center Beverly Hills, CA Pharmacy Req ID: 18051",
+      "title": "MRI Technologist II - Biomedical Imaging Research Insititute Cedars-Sinai Medical Center Beverly Hills, CA Imaging Req ID: 17450",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/beverly-hills/pharmacy-technician-specialty-pharmacy/252/96231442688",
+      "url": "https://careers.cshs.org/job/beverly-hills/mri-technologist-ii-biomedical-imaging-research-insititute/252/96055972448",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/pharmacy-technician-specialty-pharmacy/252/96231442688",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/mri-technologist-ii-biomedical-imaging-research-insititute/252/96055972448",
       "track_slug": "hospital-careers",
       "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: technician"
+      "match_reason": "Cedars-Sinai direct match: biomedical, imaging, technologist"
     },
     {
       "title": "Central Service Tech I",
