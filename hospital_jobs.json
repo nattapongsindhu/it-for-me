@@ -1,10 +1,11 @@
 {
-  "updated": "2026-06-11T16:55:08Z",
+  "updated": "2026-06-12T05:54:53Z",
   "count": 8,
   "sources": [
     "Cedars-Sinai",
     "Glendale Memorial Hospital and Health",
-    "Huntington Health"
+    "Huntington Health",
+    "Kaiser Permanente"
   ],
   "track_slug": "hospital-careers",
   "jobs": [
@@ -25,49 +26,33 @@
       "match_reason": "Cedars-Sinai direct match: epic"
     },
     {
-      "title": "MRI Technologist II - Imaging Core Cedars-Sinai Medical Center Beverly Hills, CA Imaging Req ID: 17450",
+      "title": "Polysomnographic Tech (Sleep Studies) - Beverly Hills - Hybrid Cedars-Sinai Medical Care Foundation Los Angeles, CA Imaging Req ID: 5848",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/beverly-hills/mri-technologist-ii-imaging-core/252/96055972448",
+      "url": "https://careers.cshs.org/job/los-angeles/polysomnographic-tech-sleep-studies-beverly-hills-hybrid/252/91952114144",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/mri-technologist-ii-imaging-core/252/96055972448",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/polysomnographic-tech-sleep-studies-beverly-hills-hybrid/252/91952114144",
       "track_slug": "hospital-careers",
       "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging, technologist"
+      "match_reason": "Cedars-Sinai direct match: imaging"
     },
     {
-      "title": "Senior EIS Portfolio Manager - Remote Cedars-Sinai Medical Center Los Angeles, CA Information Technology Req ID: 18178",
+      "title": "Research Associate Data Scientist - Omar Lab - Computational Biomedicine Cedars-Sinai Medical Center California, US Information Technology Req ID: 14197",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/senior-eis-portfolio-manager-remote/252/96298198992",
+      "url": "https://careers.cshs.org/job/california/research-associate-data-scientist-omar-lab-computational-biomedicine/252/91952108896",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/senior-eis-portfolio-manager-remote/252/96298198992",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: information technology"
-    },
-    {
-      "title": "Senior ERP Business Systems Analyst (Oracle Cloud HCM) - Remote Cedars-Sinai Medical Center Los Angeles, CA Information Technology Req ID: 17607",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/senior-erp-business-systems-analyst-oracle-cloud-hcm-remote/252/96298195680",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/senior-erp-business-systems-analyst-oracle-cloud-hcm-remote/252/96298195680",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/california/research-associate-data-scientist-omar-lab-computational-biomedicine/252/91952108896",
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: information technology"
@@ -135,6 +120,22 @@
       "match_reason": "Huntington direct match: plumber",
       "salary_annual": null,
       "salary_hourly": null
+    },
+    {
+      "title": "IT Applications Engineer V",
+      "company": "Kaiser Permanente",
+      "hospital_name": "Kaiser Permanente",
+      "location": "Medical Imaging Pasadena, CA",
+      "url": "https://www.kaiserpermanentejobs.org/job/pasadena/it-applications-engineer-v-medical-imaging/641/93284083120",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::kaiser permanente::https://www.kaiserpermanentejobs.org/job/pasadena/it-applications-engineer-v-medical-imaging/641/93284083120",
+      "track_slug": "hospital-careers",
+      "type": "Flexible, Full-time, Day",
+      "match_reason": "Kaiser direct match: imaging"
     }
   ]
 }
