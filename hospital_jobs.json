@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T05:54:53Z",
+  "updated": "2026-06-12T16:18:24Z",
   "count": 8,
   "sources": [
     "Cedars-Sinai",
@@ -9,6 +9,22 @@
   ],
   "track_slug": "hospital-careers",
   "jobs": [
+    {
+      "title": "Cardio Sonographer II - Per Diem - Cardiovascular Cedars-Sinai Medical Care Foundation Beverly Hills, CA Imaging Req ID: 18088",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/beverly-hills/cardio-sonographer-ii-per-diem-cardiovascular/252/96342498496",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/cardio-sonographer-ii-per-diem-cardiovascular/252/96342498496",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: imaging"
+    },
     {
       "title": "Epic ADT/Prelude Analyst - Remote",
       "company": "Cedars-Sinai",
@@ -26,36 +42,20 @@
       "match_reason": "Cedars-Sinai direct match: epic"
     },
     {
-      "title": "Polysomnographic Tech (Sleep Studies) - Beverly Hills - Hybrid Cedars-Sinai Medical Care Foundation Los Angeles, CA Imaging Req ID: 5848",
+      "title": "Radiation Therapist - 10-Hour Day Shift - $10K Hiring Incentive! Cedars-Sinai Medical Center Los Angeles, CA Imaging Req ID: 17997",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/polysomnographic-tech-sleep-studies-beverly-hills-hybrid/252/91952114144",
+      "url": "https://careers.cshs.org/job/los-angeles/radiation-therapist-10-hour-day-shift-10k-hiring-incentive/252/95964632464",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/polysomnographic-tech-sleep-studies-beverly-hills-hybrid/252/91952114144",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/radiation-therapist-10-hour-day-shift-10k-hiring-incentive/252/95964632464",
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: imaging"
-    },
-    {
-      "title": "Research Associate Data Scientist - Omar Lab - Computational Biomedicine Cedars-Sinai Medical Center California, US Information Technology Req ID: 14197",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/california/research-associate-data-scientist-omar-lab-computational-biomedicine/252/91952108896",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/california/research-associate-data-scientist-omar-lab-computational-biomedicine/252/91952108896",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: information technology"
     },
     {
       "title": "Central Service Tech I",

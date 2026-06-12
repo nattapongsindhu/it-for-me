@@ -1,7 +1,7 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-06-12T05%3A54%3A51Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-59-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-06-12T16%3A18%3A22Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-60-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
@@ -12,9 +12,10 @@
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
-| Health Application Services Office (O-6 Billet) Supervisory Lead | Immigration and Customs Enforcement | Location Negotiable After Selection | Not listed | 1 | 2026-06-12 | [Apply](https://www.usajobs.gov:443/job/872805500) |
+| Health Application Services Office Supervisory Lead (O-6 Billet) Supervisory | Immigration and Customs Enforcement | Location Negotiable After Selection | Not listed | 1 | 2026-06-12 | [Apply](https://www.usajobs.gov:443/job/872805500) |
 | Medical Records Technician (Coder-Outpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 36409 | 2026-06-12 | [Apply](https://www.usajobs.gov:443/job/872827100) |
 | Management and Program Analyst  | Federal Aviation Administration | FAA Nationwide-Selectee Remains in Current Duty Location | Not listed | 53528 | 2026-06-12 | [Apply](https://www.usajobs.gov:443/job/872728000) |
+| Medical  Records Technician (CDIS In/Outpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-06-12 | [Apply](https://www.usajobs.gov:443/job/872872900) |
 | Aviation Safety Inspector (Cabin Safety ) | Federal Aviation Administration | FAA Nationwide-Selectee Remains in Current Duty Location | Not listed | 90925 | 2026-06-12 | [Apply](https://www.usajobs.gov:443/job/872791300) |
 | Program Manager | Veterans Health Administration | Multiple Locations | Not listed | 125776 | 2026-06-12 | [Apply](https://www.usajobs.gov:443/job/872669000) |
 | Supervisory IT Specialist (Security) | Administrative Office of the U.S. Courts | Anywhere in the U.S. (remote job) | Not listed | 106437 | 2026-06-11 | [Apply](https://www.usajobs.gov:443/job/872623100) |
@@ -31,7 +32,6 @@
 | Medical Records Technician (Coder-Inpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 37193 | 2026-06-10 | [Apply](https://www.usajobs.gov:443/job/872511100) |
 | IT Specialist | Deputy Assistant Secretary for Information and Technology | Multiple Locations | Not listed | 89508 | 2026-06-09 | [Apply](https://www.usajobs.gov:443/job/872116700) |
 | Human Resources Specialist (Employee & Labor Relations) | Veterans Health Administration | Location Negotiable After Selection | Not listed | 106437 | 2026-06-09 | [Apply](https://www.usajobs.gov:443/job/872349100) |
-| Program Specialist | Office of the Secretary | Multiple Locations | Not listed | 57736 | 2026-06-09 | [Apply](https://www.usajobs.gov:443/job/872304400) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 59 |
+| Total jobs found | 60 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-06-12T05:54:51Z |
+| Last updated | 2026-06-12T16:18:22Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 59 jobs
+- USAJobs: 60 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-06-12T05:54:51Z_
+_Auto-generated legacy snapshot. Last run: 2026-06-12T16:18:22Z_
