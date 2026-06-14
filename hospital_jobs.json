@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T15:00:54Z",
+  "updated": "2026-06-14T05:58:51Z",
   "count": 9,
   "sources": [
     "Cedars-Sinai",
@@ -8,22 +8,6 @@
   ],
   "track_slug": "hospital-careers",
   "jobs": [
-    {
-      "title": "Clinical LIS Applications Analyst - Remote Cedars-Sinai Medical Center Los Angeles, CA Information Technology Req ID: 15650",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/clinical-lis-applications-analyst-remote/252/92860389232",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/clinical-lis-applications-analyst-remote/252/92860389232",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: information technology"
-    },
     {
       "title": "Epic ADT/Prelude Analyst - Remote",
       "company": "Cedars-Sinai",
@@ -71,6 +55,22 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: imaging, technologist"
+    },
+    {
+      "title": "Research Nurse Coordinator II - Biomedical Imaging Research Insititute Cedars-Sinai Medical Center Beverly Hills, CA Nursing Req ID: 17889",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/beverly-hills/research-nurse-coordinator-ii-biomedical-imaging-research-insititute/252/96398683344",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/research-nurse-coordinator-ii-biomedical-imaging-research-insititute/252/96398683344",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: biomedical, imaging"
     },
     {
       "title": "X-Ray Tech, Ltd Permit (Float) - 8hr, Days Cedars-Sinai Medical Care Foundation Los Angeles, CA Imaging Req ID: 17924",
