@@ -1,9 +1,21 @@
 {
-  "updated": "2026-06-15T06:32:18Z",
+  "updated": "2026-06-15T17:58:29Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 63,
+  "count": 64,
   "jobs": [
+    {
+      "title": "Supervisory Financial Management Advisor",
+      "company": "Cybersecurity and Infrastructure Security Agency",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/873103400",
+      "salary": "169279",
+      "posted": "2026-06-15",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 169279.0,
+      "salary_hourly": 81.38
+    },
     {
       "title": "Systems And Procedures Analyst",
       "company": "Deputy Assistant Secretary for Finance",
@@ -15,6 +27,18 @@
       "type": "",
       "salary_annual": 52727.0,
       "salary_hourly": 25.35
+    },
+    {
+      "title": "Branch Chief, Pilot Operations (Aerial Supervision)",
+      "company": "Office of the Secretary of the Interior",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/873095800",
+      "salary": "129549",
+      "posted": "2026-06-15",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 129549.0,
+      "salary_hourly": 62.28
     },
     {
       "title": "Health Application Services Office Supervisory Lead (O-6 Billet) Supervisory",
@@ -99,18 +123,6 @@
       "type": "",
       "salary_annual": 106437.0,
       "salary_hourly": 51.17
-    },
-    {
-      "title": "Airway Transportation System Specialist (Technical Operations Training Policy & Requirement)",
-      "company": "Federal Aviation Administration",
-      "location": "May be filled in various FAA duty locations",
-      "url": "https://www.usajobs.gov:443/job/872705900",
-      "salary": "77351",
-      "posted": "2026-06-12",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 77351.0,
-      "salary_hourly": 37.19
     },
     {
       "title": "Management and Program Analyst (Deployment)",
