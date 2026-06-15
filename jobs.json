@@ -1,9 +1,21 @@
 {
-  "updated": "2026-06-14T15:07:08Z",
+  "updated": "2026-06-15T06:32:18Z",
   "zip": "90029",
   "radius_mi": 5,
   "count": 63,
   "jobs": [
+    {
+      "title": "Systems And Procedures Analyst",
+      "company": "Deputy Assistant Secretary for Finance",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/872968200",
+      "salary": "52727",
+      "posted": "2026-06-15",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 52727.0,
+      "salary_hourly": 25.35
+    },
     {
       "title": "Health Application Services Office Supervisory Lead (O-6 Billet) Supervisory",
       "company": "Immigration and Customs Enforcement",
@@ -243,18 +255,6 @@
       "type": "",
       "salary_annual": 37193.0,
       "salary_hourly": 17.88
-    },
-    {
-      "title": "Pharmacy Technician",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/872456000",
-      "salary": "50460",
-      "posted": "2026-06-10",
-      "source": "USAJobs",
-      "type": "Monday-Friday 8:30am-5:00pm MST. Includes staffing at least 2 Federal Holidays in the calendar year.",
-      "salary_annual": 50460.0,
-      "salary_hourly": 24.26
     },
     {
       "title": "Supervisory General Engineer/ Architect Not to Exceed (NTE) 2 yrs",
