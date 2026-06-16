@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-16T06:38:46Z",
-  "count": 4,
+  "updated": "2026-06-16T18:04:31Z",
+  "count": 6,
   "sources": [
     "Cedars-Sinai",
     "Glendale Memorial Hospital and Health",
@@ -8,6 +8,22 @@
   ],
   "track_slug": "hospital-careers",
   "jobs": [
+    {
+      "title": "Biomedical Technician - Genomics Core Cedars-Sinai Medical Center California, US Academic / Research Req ID: 14423",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/california/biomedical-technician-genomics-core/252/91952109840",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/california/biomedical-technician-genomics-core/252/91952109840",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: biomedical, technician"
+    },
     {
       "title": "Epic ADT/Prelude Analyst - Remote",
       "company": "Cedars-Sinai",
@@ -23,6 +39,22 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: epic"
+    },
+    {
+      "title": "Nuclear Medicine Technologist, Full-time, Day Shift Cedars-Sinai Marina Hospital Marina del Rey, CA Imaging Req ID: 10716",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/marina-del-rey/nuclear-medicine-technologist-full-time-day-shift/252/91952103472",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/marina-del-rey/nuclear-medicine-technologist-full-time-day-shift/252/91952103472",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: imaging, technologist"
     },
     {
       "title": "Physical Therapist - Pasadena - Medical Network Cedars-Sinai Medical Care Foundation Pasadena, CA Therapy / Rehab Req ID: 13133",
