@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-17T06:22:19Z",
-  "count": 7,
+  "updated": "2026-06-17T16:38:38Z",
+  "count": 8,
   "sources": [
     "Cedars-Sinai",
     "Glendale Memorial Hospital and Health",
@@ -8,22 +8,6 @@
   ],
   "track_slug": "hospital-careers",
   "jobs": [
-    {
-      "title": "Construction Project Coordinator - Onsite Cedars-Sinai Medical Center Los Angeles, CA Facilities Req ID: 14618",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/construction-project-coordinator-onsite/252/96534212272",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/construction-project-coordinator-onsite/252/96534212272",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: facilities"
-    },
     {
       "title": "Construction Project Manager - Onsite Cedars-Sinai Medical Center Los Angeles, CA Facilities Req ID: 9769",
       "company": "Cedars-Sinai",
@@ -73,20 +57,52 @@
       "match_reason": "Cedars-Sinai direct match: imaging"
     },
     {
-      "title": "Senior Construction Project Manager - Onsite Cedars-Sinai Medical Center Beverly Hills, CA Facilities Req ID: 10331",
+      "title": "Sterile Processing Educator - Full Time - Evening Shift Cedars-Sinai Medical Center Los Angeles, CA Clinical Operations Req ID: 17998",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/beverly-hills/senior-construction-project-manager-onsite/252/91952103264",
+      "url": "https://careers.cshs.org/job/los-angeles/sterile-processing-educator-full-time-evening-shift/252/96181874960",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/senior-construction-project-manager-onsite/252/91952103264",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/sterile-processing-educator-full-time-evening-shift/252/96181874960",
       "track_slug": "hospital-careers",
       "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: facilities"
+      "match_reason": "Cedars-Sinai direct match: sterile processing"
+    },
+    {
+      "title": "Sterile Processing Tech III - Full Time - Evening Shift Cedars-Sinai Medical Center Los Angeles, CA Clinical Operations Req ID: 18000",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/sterile-processing-tech-iii-full-time-evening-shift/252/96527850736",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/sterile-processing-tech-iii-full-time-evening-shift/252/96527850736",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: sterile processing"
+    },
+    {
+      "title": "Sterile Processing Tech III - Full Time - Night Shift Cedars-Sinai Medical Center Los Angeles, CA Clinical Operations Req ID: 18006",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/sterile-processing-tech-iii-full-time-night-shift/252/96527850752",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/sterile-processing-tech-iii-full-time-night-shift/252/96527850752",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: sterile processing"
     },
     {
       "title": "Central Service Tech I",
