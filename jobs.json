@@ -1,9 +1,45 @@
 {
-  "updated": "2026-06-17T16:38:35Z",
+  "updated": "2026-06-18T06:02:50Z",
   "zip": "90029",
   "radius_mi": 5,
   "count": 69,
   "jobs": [
+    {
+      "title": "Senior Human Capital Specialist",
+      "company": "Office of the Assistant Secretary for Administration and Management",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/873445300",
+      "salary": "133007",
+      "posted": "2026-06-18",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 133007.0,
+      "salary_hourly": 63.95
+    },
+    {
+      "title": "Medical Records Technician (Coder) Auditor",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/873428300",
+      "salary": "61722",
+      "posted": "2026-06-18",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 61722.0,
+      "salary_hourly": 29.67
+    },
+    {
+      "title": "Registered Nurse, Director of Training",
+      "company": "Veterans Health Administration",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/873506300",
+      "salary": "207239",
+      "posted": "2026-06-18",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 207239.0,
+      "salary_hourly": 99.63
+    },
     {
       "title": "IT Specialist",
       "company": "Electronic Health Record Modernization",
@@ -305,18 +341,6 @@
       "salary_hourly": 43.03
     },
     {
-      "title": "Human Resources Specialist",
-      "company": "Internal Revenue Service",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/873234700",
-      "salary": "147945",
-      "posted": "2026-06-16",
-      "source": "USAJobs",
-      "type": "Monday - Friday, Day Shift hours negotiable start time between 6:00am and end time by 6:00pm.",
-      "salary_annual": 147945.0,
-      "salary_hourly": 71.13
-    },
-    {
       "title": "Supervisory Financial Management Advisor",
       "company": "Cybersecurity and Infrastructure Security Agency",
       "location": "Location Negotiable After Selection",
@@ -411,18 +435,6 @@
       "type": "",
       "salary_annual": 52938.0,
       "salary_hourly": 25.45
-    },
-    {
-      "title": "Program Manager",
-      "company": "Veterans Health Administration",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/872669000",
-      "salary": "125776",
-      "posted": "2026-06-12",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
     },
     {
       "title": "Program Specialist",
@@ -533,18 +545,6 @@
       "salary_hourly": 17.88
     },
     {
-      "title": "Program Specialist",
-      "company": "Office of the Secretary",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/872304400",
-      "salary": "57736",
-      "posted": "2026-06-09",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 57736.0,
-      "salary_hourly": 27.76
-    },
-    {
       "title": "Information Technology Specialist (APPSW)",
       "company": "Internal Revenue Service",
       "location": "Multiple Locations",
@@ -581,6 +581,18 @@
       "salary_hourly": 37.19
     },
     {
+      "title": "Information Technology Specialist (Applications Software)",
+      "company": "Internal Revenue Service",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/871919900",
+      "salary": "106437",
+      "posted": "2026-06-05",
+      "source": "USAJobs",
+      "type": "Day Shift, Monday-Friday 8:00AM - 4:30PM, 40 hours per week",
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
+    },
+    {
       "title": "Contract Specialist (Early Career - Procurement)",
       "company": "Office of Personnel Management",
       "location": "Location Negotiable After Selection",
@@ -591,18 +603,6 @@
       "type": "",
       "salary_annual": 50460.0,
       "salary_hourly": 24.26
-    },
-    {
-      "title": "Information Technology Specialist (Applications Software)",
-      "company": "Internal Revenue Service",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/871723800",
-      "salary": "125776",
-      "posted": "2026-06-04",
-      "source": "USAJobs",
-      "type": "Tour of Duty: Monday-Friday 8:00am-4:30pm, 40 hours per week",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
     },
     {
       "title": "Chief Information Security Officer",
@@ -675,6 +675,18 @@
       "type": "",
       "salary_annual": 42947.0,
       "salary_hourly": 20.65
+    },
+    {
+      "title": "Radiologist- Hampton (Remote)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/869547800",
+      "salary": "350000",
+      "posted": "2026-05-15",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 350000.0,
+      "salary_hourly": 168.27
     },
     {
       "title": "CISA - Veterans and Individuals with Disabilities (Schedule A) Repository",
@@ -807,18 +819,6 @@
       "type": "",
       "salary_annual": 63795.0,
       "salary_hourly": 30.67
-    },
-    {
-      "title": "Economist",
-      "company": "Department of the Air Force - Agency Wide",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/853032300",
-      "salary": "74678",
-      "posted": "2025-12-22",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 74678.0,
-      "salary_hourly": 35.9
     },
     {
       "title": "IT SPECIALIST",

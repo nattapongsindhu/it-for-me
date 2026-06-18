@@ -1,6 +1,6 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-06-17T16%3A38%3A35Z-blue?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-06-18T06%3A02%3A50Z-blue?style=flat-square)
 ![Jobs](https://img.shields.io/badge/Jobs_Found-69-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
@@ -8,10 +8,13 @@
 
 ---
 
-## Latest Jobs - June 17, 2026
+## Latest Jobs - June 18, 2026
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
+| Senior Human Capital Specialist | Office of the Assistant Secretary for Administration and Management | Location Negotiable After Selection | Not listed | 133007 | 2026-06-18 | [Apply](https://www.usajobs.gov:443/job/873445300) |
+| Medical Records Technician (Coder) Auditor | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-06-18 | [Apply](https://www.usajobs.gov:443/job/873428300) |
+| Registered Nurse, Director of Training | Veterans Health Administration | Multiple Locations | Not listed | 207239 | 2026-06-18 | [Apply](https://www.usajobs.gov:443/job/873506300) |
 | IT Specialist | Electronic Health Record Modernization | Multiple Locations | Not listed | 121785 | 2026-06-17 | [Apply](https://www.usajobs.gov:443/job/873447300) |
 | IT Project Manager | Electronic Health Record Modernization | Multiple Locations | Not listed | 121785 | 2026-06-17 | [Apply](https://www.usajobs.gov:443/job/873332500) |
 | It Specialist (Infosec) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 90925 | 2026-06-17 | [Apply](https://www.usajobs.gov:443/job/873403800) |
@@ -29,9 +32,6 @@
 | Economics (Student Trainee / Graduate Student) | Economic Research Service | Anywhere in the U.S. (remote job) | Not listed | 0 | 2026-06-17 | [Apply](https://www.usajobs.gov:443/job/873384200) |
 | Agricultural Scientist (Student Trainee / Graduate Student) | National Institute of Food and Agriculture | Anywhere in the U.S. (remote job) | Flexible Schedule:   Monday-Friday - 10 Hours Per Week | 0 | 2026-06-17 | [Apply](https://www.usajobs.gov:443/job/873389200) |
 | Economics (Student Trainee) | Economic Research Service | Anywhere in the U.S. (remote job) | Not listed | 0 | 2026-06-17 | [Apply](https://www.usajobs.gov:443/job/873393400) |
-| Public Health Data Analytics Student | Food Safety and Inspection Service | Anywhere in the U.S. (remote job) | Flexible Part-Time Schedule:  Monday - Friday between 7:30 AM-4:30 PM EST | 0 | 2026-06-17 | [Apply](https://www.usajobs.gov:443/job/873399400) |
-| Administrative Officer | Veterans Health Administration | Location Negotiable After Selection | Not listed | 76463 | 2026-06-17 | [Apply](https://www.usajobs.gov:443/job/873386200) |
-| IT Specialist (DATAMGT) | Office of Inspector General | Multiple Locations | Not listed | 90968 | 2026-06-16 | [Apply](https://www.usajobs.gov:443/job/873097100) |
 
 ---
 
@@ -41,7 +41,7 @@
 |--------|-------|
 | Total jobs found | 69 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-06-17T16:38:35Z |
+| Last updated | 2026-06-18T06:02:50Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-06-17T16:38:35Z_
+_Auto-generated legacy snapshot. Last run: 2026-06-18T06:02:50Z_
