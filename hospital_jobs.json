@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-19T06:26:04Z",
-  "count": 4,
+  "updated": "2026-06-19T15:59:33Z",
+  "count": 5,
   "sources": [
     "Cedars-Sinai",
     "Huntington Health"
@@ -19,6 +19,22 @@
       "posted": "",
       "source": "Hospital_Direct",
       "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/epic-adt-prelude-analyst-remote/252/96298197408",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: epic"
+    },
+    {
+      "title": "Epic Credentialed Trainer - Inpatient (Orders/ClinDoc) - Hybrid",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/epic-credentialed-trainer-inpatient-orders-clindoc-hybrid/252/91952113296",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/epic-credentialed-trainer-inpatient-orders-clindoc-hybrid/252/91952113296",
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: epic"
