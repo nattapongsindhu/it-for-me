@@ -1,9 +1,8 @@
 {
-  "updated": "2026-06-18T16:32:53Z",
-  "count": 5,
+  "updated": "2026-06-19T06:26:04Z",
+  "count": 4,
   "sources": [
     "Cedars-Sinai",
-    "Glendale Memorial Hospital and Health",
     "Huntington Health"
   ],
   "track_slug": "hospital-careers",
@@ -25,52 +24,36 @@
       "match_reason": "Cedars-Sinai direct match: epic"
     },
     {
-      "title": "Mammography Technologist II - 8-Hour Day Shift - $10,000 Hiring Incentive! Cedars-Sinai Medical Center Los Angeles, CA Imaging Req ID: 18334",
+      "title": "Per Diem Echo Sonographer I - 8-Hour Day Shift (Inpatient) Cedars-Sinai Medical Center Beverly Hills, CA Imaging Req ID: 17808",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/mammography-technologist-ii-8-hour-day-shift-10-000-hiring-incentive/252/96577035360",
+      "url": "https://careers.cshs.org/job/beverly-hills/per-diem-echo-sonographer-i-8-hour-day-shift-inpatient/252/95635051024",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/mammography-technologist-ii-8-hour-day-shift-10-000-hiring-incentive/252/96577035360",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/per-diem-echo-sonographer-i-8-hour-day-shift-inpatient/252/95635051024",
       "track_slug": "hospital-careers",
       "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging, technologist"
+      "match_reason": "Cedars-Sinai direct match: imaging"
     },
     {
-      "title": "Sterile Processing Tech III - Full Time - Night Shift Cedars-Sinai Medical Center Los Angeles, CA Clinical Operations Req ID: 18006",
+      "title": "Technical Assistant - CT - 12-Hour Day Shift Cedars-Sinai Medical Center Beverly Hills, CA Imaging Req ID: 18121",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/sterile-processing-tech-iii-full-time-night-shift/252/96527850752",
+      "url": "https://careers.cshs.org/job/beverly-hills/technical-assistant-ct-12-hour-day-shift/252/96609479952",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/sterile-processing-tech-iii-full-time-night-shift/252/96527850752",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/technical-assistant-ct-12-hour-day-shift/252/96609479952",
       "track_slug": "hospital-careers",
       "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: sterile processing"
-    },
-    {
-      "title": "Central Service Tech I",
-      "company": "Dignity Health",
-      "hospital_name": "Glendale Memorial Hospital and Health",
-      "location": "Glendale, CA",
-      "url": "https://www.commonspirit.careers/job/glendale/central-service-tech-i/35300/91601441424",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::glendale memorial hospital and health::https://www.commonspirit.careers/job/glendale/central-service-tech-i/35300/91601441424",
-      "track_slug": "hospital-careers",
-      "type": "Facilities",
-      "match_reason": "Dignity Health direct match: facilities"
+      "match_reason": "Cedars-Sinai direct match: imaging"
     },
     {
       "title": "Certified Anesthesia Technologist",
