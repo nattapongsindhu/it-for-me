@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T15:59:31Z",
+  "updated": "2026-06-20T05:22:01Z",
   "zip": "90029",
   "radius_mi": 5,
   "count": 70,
@@ -99,18 +99,6 @@
       "type": "Tour of Duty: Day Shift, Monday - Friday",
       "salary_annual": 61722.0,
       "salary_hourly": 29.67
-    },
-    {
-      "title": "Environmental Protection Specialist (Environmental Specialist) - Reservist",
-      "company": "Federal Emergency Management Agency",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/873587300",
-      "salary": "29.27",
-      "posted": "2026-06-18",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 60881.6,
-      "salary_hourly": 29.27
     },
     {
       "title": "Registered Nurse, Director of Training",
@@ -831,6 +819,18 @@
       "type": "",
       "salary_annual": 52727.0,
       "salary_hourly": 25.35
+    },
+    {
+      "title": "Electronic Engineer",
+      "company": "Department of the Air Force - Agency Wide",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/852987000",
+      "salary": "63795",
+      "posted": "2025-12-22",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 63795.0,
+      "salary_hourly": 30.67
     },
     {
       "title": "IT SPECIALIST",

@@ -1,6 +1,6 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-06-19T15%3A59%3A31Z-blue?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-06-20T05%3A22%3A01Z-blue?style=flat-square)
 ![Jobs](https://img.shields.io/badge/Jobs_Found-70-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
@@ -8,7 +8,7 @@
 
 ---
 
-## Latest Jobs - June 19, 2026
+## Latest Jobs - June 20, 2026
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
@@ -20,7 +20,6 @@
 | Medical Records Technician (Coder) Auditor | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-06-18 | [Apply](https://www.usajobs.gov:443/job/873428300) |
 | Lead National Resource Specialist (Program Services) | Small Business Administration | Location Negotiable After Selection | Not listed | 63795 | 2026-06-18 | [Apply](https://www.usajobs.gov:443/job/873616300) |
 | Computer Investigative Forensic Specialist (CIFA) | Internal Revenue Service | Multiple Locations | Tour of Duty: Day Shift, Monday - Friday | 61722 | 2026-06-18 | [Apply](https://www.usajobs.gov:443/job/873584600) |
-| Environmental Protection Specialist (Environmental Specialist) - Reservist | Federal Emergency Management Agency | Location Negotiable After Selection | Not listed | 29.27 | 2026-06-18 | [Apply](https://www.usajobs.gov:443/job/873587300) |
 | Registered Nurse, Director of Training | Veterans Health Administration | Multiple Locations | Not listed | 207239 | 2026-06-18 | [Apply](https://www.usajobs.gov:443/job/873506300) |
 | IT Specialist | Electronic Health Record Modernization | Multiple Locations | Not listed | 121785 | 2026-06-17 | [Apply](https://www.usajobs.gov:443/job/873447300) |
 | IT Project Manager | Electronic Health Record Modernization | Multiple Locations | Not listed | 121785 | 2026-06-17 | [Apply](https://www.usajobs.gov:443/job/873332500) |
@@ -32,6 +31,7 @@
 | Supervisory Medical Records Technician (Coder) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 67970 | 2026-06-17 | [Apply](https://www.usajobs.gov:443/job/873334200) |
 | Foreign Investment Risk Analyst | Cybersecurity and Infrastructure Security Agency | Location Negotiable After Selection | Not listed | 90925 | 2026-06-17 | [Apply](https://www.usajobs.gov:443/job/873397600) |
 | GEOGRAPHER | Risk Management Agency | Location Negotiable After Selection | Not listed | 90925 | 2026-06-17 | [Apply](https://www.usajobs.gov:443/job/873371100) |
+| Health System Specialist | Veterans Health Administration | Los Angeles, California | Not listed | 87061 | 2026-06-17 | [Apply](https://www.usajobs.gov:443/job/873272200) |
 
 ---
 
@@ -41,7 +41,7 @@
 |--------|-------|
 | Total jobs found | 70 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-06-19T15:59:31Z |
+| Last updated | 2026-06-20T05:22:01Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-06-19T15:59:31Z_
+_Auto-generated legacy snapshot. Last run: 2026-06-20T05:22:01Z_
