@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-20T15:02:55Z",
-  "count": 7,
+  "updated": "2026-06-21T06:10:58Z",
+  "count": 6,
   "sources": [
     "Cedars-Sinai",
     "Huntington Health"
@@ -54,22 +54,6 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: epic"
-    },
-    {
-      "title": "Linen Service Tech - Full Time Cedars-Sinai Medical Center Los Angeles, CA Facilities Req ID: 17386",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/linen-service-tech-full-time/252/95964627408",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/linen-service-tech-full-time/252/95964627408",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: facilities"
     },
     {
       "title": "Senior Clinical Systems Engineer (Medical Device Integration) - Hybrid",
