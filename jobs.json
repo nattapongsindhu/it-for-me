@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-22T06:35:14Z",
+  "updated": "2026-06-22T14:56:06Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 67,
+  "count": 68,
   "jobs": [
     {
       "title": "IT Specialist (Security)",
@@ -29,6 +29,42 @@
       "salary_hourly": 60.47
     },
     {
+      "title": "Staff Physician/PC Section Chief - CRH",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/873774900",
+      "salary": "285000",
+      "posted": "2026-06-22",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 285000.0,
+      "salary_hourly": 137.02
+    },
+    {
+      "title": "Administrative Support Assistant (OA)",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/873794200",
+      "salary": "43106",
+      "posted": "2026-06-22",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 43106.0,
+      "salary_hourly": 20.72
+    },
+    {
+      "title": "Physician (Dermatology)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/873765900",
+      "salary": "250000",
+      "posted": "2026-06-22",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 250000.0,
+      "salary_hourly": 120.19
+    },
+    {
       "title": "Medical Records Technician (Coder)",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -51,18 +87,6 @@
       "type": "",
       "salary_annual": 125776.0,
       "salary_hourly": 60.47
-    },
-    {
-      "title": "Physician - Diagnostic Radiologist - Recruitment/Relocation Incentive and EDRP Authorized",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/873734400",
-      "salary": "335000",
-      "posted": "2026-06-18",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 335000.0,
-      "salary_hourly": 161.06
     },
     {
       "title": "Senior Human Capital Specialist",
@@ -783,18 +807,6 @@
       "type": "",
       "salary_annual": 52727.0,
       "salary_hourly": 25.35
-    },
-    {
-      "title": "Electronic Engineer",
-      "company": "Department of the Air Force - Agency Wide",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/852987000",
-      "salary": "63795",
-      "posted": "2025-12-22",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 63795.0,
-      "salary_hourly": 30.67
     },
     {
       "title": "IT SPECIALIST",

@@ -1,7 +1,7 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-06-22T06%3A35%3A14Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-67-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-06-22T14%3A56%3A06Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-68-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
@@ -14,9 +14,11 @@
 |-------|---------|----------|------|--------|--------|------|
 | IT Specialist (Security) | Federal Aviation Administration | FAA Nationwide-Selectee Remains in Current Duty Location | Not listed | 77351 | 2026-06-22 | [Apply](https://www.usajobs.gov:443/job/873282000) |
 | Supervisory Information Technology Specialist | Forest Service | Location Negotiable After Selection | Not listed | 125776 | 2026-06-22 | [Apply](https://www.usajobs.gov:443/job/873671100) |
+| Staff Physician/PC Section Chief - CRH | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 285000 | 2026-06-22 | [Apply](https://www.usajobs.gov:443/job/873774900) |
+| Administrative Support Assistant (OA) | Veterans Health Administration | Location Negotiable After Selection | Not listed | 43106 | 2026-06-22 | [Apply](https://www.usajobs.gov:443/job/873794200) |
+| Physician (Dermatology) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 250000 | 2026-06-22 | [Apply](https://www.usajobs.gov:443/job/873765900) |
 | Medical Records Technician (Coder) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 29078 | 2026-06-19 | [Apply](https://www.usajobs.gov:443/job/873441600) |
 | Human Resources Specialist (Compensation) | Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys | Location Negotiable After Selection | Not listed | 125776 | 2026-06-19 | [Apply](https://www.usajobs.gov:443/job/873717800) |
-| Physician - Diagnostic Radiologist - Recruitment/Relocation Incentive and EDRP Authorized | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 335000 | 2026-06-18 | [Apply](https://www.usajobs.gov:443/job/873734400) |
 | Senior Human Capital Specialist | Office of the Assistant Secretary for Administration and Management | Location Negotiable After Selection | Not listed | 133007 | 2026-06-18 | [Apply](https://www.usajobs.gov:443/job/873445300) |
 | Medical Records Technician (Coder) Auditor | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-06-18 | [Apply](https://www.usajobs.gov:443/job/873428300) |
 | Lead National Resource Specialist (Program Services) | Small Business Administration | Location Negotiable After Selection | Not listed | 63795 | 2026-06-18 | [Apply](https://www.usajobs.gov:443/job/873616300) |
@@ -30,8 +32,6 @@
 | Division Chief, Artificial Intelligence | Office of the Assistant Secretary for Administration and Management | Location Negotiable After Selection | Not listed | 156451 | 2026-06-17 | [Apply](https://www.usajobs.gov:443/job/873318600) |
 | Foreign Investment Risk Analyst | Cybersecurity and Infrastructure Security Agency | Location Negotiable After Selection | Not listed | 90925 | 2026-06-17 | [Apply](https://www.usajobs.gov:443/job/873397600) |
 | Supervisory Medical Records Technician (Coder) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 67970 | 2026-06-17 | [Apply](https://www.usajobs.gov:443/job/873334200) |
-| GEOGRAPHER | Risk Management Agency | Location Negotiable After Selection | Not listed | 90925 | 2026-06-17 | [Apply](https://www.usajobs.gov:443/job/873371100) |
-| Health System Specialist | Veterans Health Administration | Los Angeles, California | Not listed | 87061 | 2026-06-17 | [Apply](https://www.usajobs.gov:443/job/873272200) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 67 |
+| Total jobs found | 68 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-06-22T06:35:14Z |
+| Last updated | 2026-06-22T14:56:06Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 67 jobs
+- USAJobs: 68 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-06-22T06:35:14Z_
+_Auto-generated legacy snapshot. Last run: 2026-06-22T14:56:06Z_
