@@ -1,9 +1,33 @@
 {
-  "updated": "2026-06-21T15:11:01Z",
+  "updated": "2026-06-22T06:35:14Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 70,
+  "count": 67,
   "jobs": [
+    {
+      "title": "IT Specialist (Security)",
+      "company": "Federal Aviation Administration",
+      "location": "FAA Nationwide-Selectee Remains in Current Duty Location",
+      "url": "https://www.usajobs.gov:443/job/873282000",
+      "salary": "77351",
+      "posted": "2026-06-22",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 77351.0,
+      "salary_hourly": 37.19
+    },
+    {
+      "title": "Supervisory Information Technology Specialist",
+      "company": "Forest Service",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/873671100",
+      "salary": "125776",
+      "posted": "2026-06-22",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 125776.0,
+      "salary_hourly": 60.47
+    },
     {
       "title": "Medical Records Technician (Coder)",
       "company": "Veterans Health Administration",
@@ -39,18 +63,6 @@
       "type": "",
       "salary_annual": 335000.0,
       "salary_hourly": 161.06
-    },
-    {
-      "title": "Veterans Service Representative",
-      "company": "Veterans Benefits Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/873686900",
-      "salary": "50460",
-      "posted": "2026-06-18",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 50460.0,
-      "salary_hourly": 24.26
     },
     {
       "title": "Senior Human Capital Specialist",
@@ -99,18 +111,6 @@
       "type": "Tour of Duty: Day Shift, Monday - Friday",
       "salary_annual": 61722.0,
       "salary_hourly": 29.67
-    },
-    {
-      "title": "Registered Nurse, Director of Training",
-      "company": "Veterans Health Administration",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/873506300",
-      "salary": "207239",
-      "posted": "2026-06-18",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 207239.0,
-      "salary_hourly": 99.63
     },
     {
       "title": "IT Specialist",
@@ -197,18 +197,6 @@
       "salary_hourly": 75.22
     },
     {
-      "title": "Supervisory Medical Records Technician (Coder)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/873334200",
-      "salary": "67970",
-      "posted": "2026-06-17",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 67970.0,
-      "salary_hourly": 32.68
-    },
-    {
       "title": "Foreign Investment Risk Analyst",
       "company": "Cybersecurity and Infrastructure Security Agency",
       "location": "Location Negotiable After Selection",
@@ -219,6 +207,18 @@
       "type": "",
       "salary_annual": 90925.0,
       "salary_hourly": 43.71
+    },
+    {
+      "title": "Supervisory Medical Records Technician (Coder)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/873334200",
+      "salary": "67970",
+      "posted": "2026-06-17",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 67970.0,
+      "salary_hourly": 32.68
     },
     {
       "title": "GEOGRAPHER",
@@ -401,30 +401,6 @@
       "salary_hourly": 43.03
     },
     {
-      "title": "Clinical Pharmacy Specialist (Inpatient/Outpatient Hybrid Pharmacist)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/873214700",
-      "salary": "154663",
-      "posted": "2026-06-16",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 154663.0,
-      "salary_hourly": 74.36
-    },
-    {
-      "title": "Clinical Pharmacist",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/873344600",
-      "salary": "89508",
-      "posted": "2026-06-16",
-      "source": "USAJobs",
-      "type": "9:00am-5:30pm MST, Monday-Friday",
-      "salary_annual": 89508.0,
-      "salary_hourly": 43.03
-    },
-    {
       "title": "Supervisory Financial Management Advisor",
       "company": "Cybersecurity and Infrastructure Security Agency",
       "location": "Location Negotiable After Selection",
@@ -545,18 +521,6 @@
       "salary_hourly": 60.47
     },
     {
-      "title": "Lead Medical Records Technician (Coder)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/872656500",
-      "salary": "61722",
-      "posted": "2026-06-11",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 61722.0,
-      "salary_hourly": 29.67
-    },
-    {
       "title": "Registered Nurse - Chief Nurse of Acute Care",
       "company": "Veterans Health Administration",
       "location": "Los Angeles, California",
@@ -567,6 +531,18 @@
       "type": "",
       "salary_annual": 191482.0,
       "salary_hourly": 92.06
+    },
+    {
+      "title": "Lead Medical Records Technician (Coder)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/872656500",
+      "salary": "61722",
+      "posted": "2026-06-11",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 61722.0,
+      "salary_hourly": 29.67
     },
     {
       "title": "Police Officer - Recruitment/Relocation Incentive Authorized",
@@ -699,18 +675,6 @@
       "type": "",
       "salary_annual": 147945.0,
       "salary_hourly": 71.13
-    },
-    {
-      "title": "Physician-Diagnostic Radiologist-Recruitment/Relocation Incentive-EDRP Authorized",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/868648600",
-      "salary": "124308",
-      "posted": "2026-05-08",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 124308.0,
-      "salary_hourly": 59.76
     },
     {
       "title": "Advanced Practice Provider, Medical Asset Support Team (O-5 Billet) Non-Supervisory - Internal",
