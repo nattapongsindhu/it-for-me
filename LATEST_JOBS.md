@@ -1,14 +1,14 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-06-22T14%3A56%3A06Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-68-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-06-23T01%3A47%3A06Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-69-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
 
 ---
 
-## Latest Jobs - June 22, 2026
+## Latest Jobs - June 23, 2026
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
@@ -17,6 +17,7 @@
 | Staff Physician/PC Section Chief - CRH | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 285000 | 2026-06-22 | [Apply](https://www.usajobs.gov:443/job/873774900) |
 | Administrative Support Assistant (OA) | Veterans Health Administration | Location Negotiable After Selection | Not listed | 43106 | 2026-06-22 | [Apply](https://www.usajobs.gov:443/job/873794200) |
 | Physician (Dermatology) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 250000 | 2026-06-22 | [Apply](https://www.usajobs.gov:443/job/873765900) |
+| Medical Records Technician (Coder- Inpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 36409 | 2026-06-22 | [Apply](https://www.usajobs.gov:443/job/873851500) |
 | Medical Records Technician (Coder) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 29078 | 2026-06-19 | [Apply](https://www.usajobs.gov:443/job/873441600) |
 | Human Resources Specialist (Compensation) | Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys | Location Negotiable After Selection | Not listed | 125776 | 2026-06-19 | [Apply](https://www.usajobs.gov:443/job/873717800) |
 | Senior Human Capital Specialist | Office of the Assistant Secretary for Administration and Management | Location Negotiable After Selection | Not listed | 133007 | 2026-06-18 | [Apply](https://www.usajobs.gov:443/job/873445300) |
@@ -31,7 +32,6 @@
 | Data Scientist/AI Intern | National Agricultural Statistics Service | Anywhere in the U.S. (remote job) | Not listed | 0 | 2026-06-17 | [Apply](https://www.usajobs.gov:443/job/873379100) |
 | Division Chief, Artificial Intelligence | Office of the Assistant Secretary for Administration and Management | Location Negotiable After Selection | Not listed | 156451 | 2026-06-17 | [Apply](https://www.usajobs.gov:443/job/873318600) |
 | Foreign Investment Risk Analyst | Cybersecurity and Infrastructure Security Agency | Location Negotiable After Selection | Not listed | 90925 | 2026-06-17 | [Apply](https://www.usajobs.gov:443/job/873397600) |
-| Supervisory Medical Records Technician (Coder) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 67970 | 2026-06-17 | [Apply](https://www.usajobs.gov:443/job/873334200) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 68 |
+| Total jobs found | 69 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-06-22T14:56:06Z |
+| Last updated | 2026-06-23T01:47:06Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 68 jobs
+- USAJobs: 69 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-06-22T14:56:06Z_
+_Auto-generated legacy snapshot. Last run: 2026-06-23T01:47:06Z_

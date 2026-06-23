@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-22T14:56:08Z",
-  "count": 6,
+  "updated": "2026-06-23T01:47:07Z",
+  "count": 5,
   "sources": [
     "Cedars-Sinai",
     "Huntington Health"
@@ -8,36 +8,20 @@
   "track_slug": "hospital-careers",
   "jobs": [
     {
-      "title": "Cardiac Cath Lab Interventional Radiology Tech II - 10-Hour Day Shift - $5,000 Hiring Incentive! Cedars-Sinai Medical Center Beverly Hills, CA Imaging Req ID: 18424",
+      "title": "Epic ADT/Prelude Analyst - Remote",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/beverly-hills/cardiac-cath-lab-interventional-radiology-tech-ii-10-hour-day-shift-5-000-hiring-incentive/252/96663092144",
+      "url": "https://careers.cshs.org/job/beverly-hills/epic-adt-prelude-analyst-remote/252/96298197408",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/cardiac-cath-lab-interventional-radiology-tech-ii-10-hour-day-shift-5-000-hiring-incentive/252/96663092144",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/epic-adt-prelude-analyst-remote/252/96298197408",
       "track_slug": "hospital-careers",
       "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging"
-    },
-    {
-      "title": "Cath Lab Cardiovascular Tech II - 10-Hour Day Shift - $5,000 Hiring Incentive! Cedars-Sinai Medical Center Beverly Hills, CA Imaging Req ID: 18423",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/beverly-hills/cath-lab-cardiovascular-tech-ii-10-hour-day-shift-5-000-hiring-incentive/252/96663092128",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/cath-lab-cardiovascular-tech-ii-10-hour-day-shift-5-000-hiring-incentive/252/96663092128",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging"
+      "match_reason": "Cedars-Sinai direct match: epic"
     },
     {
       "title": "Epic Credentialed Trainer - Inpatient (Orders/ClinDoc) - Hybrid",
@@ -72,20 +56,20 @@
       "match_reason": "Cedars-Sinai direct match: clinical systems"
     },
     {
-      "title": "Senior Data Intelligence Analyst (Health Equity Analyst) - Remote Cedars-Sinai Medical Center Los Angeles, CA Information Technology Req ID: 17989",
+      "title": "Surgical Technologist III - Operating Room - 10/12-Hour - Full Time - Various Shifts Cedars-Sinai Medical Center Los Angeles, CA Clinical Operations Req ID: 17776",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/senior-data-intelligence-analyst-health-equity-analyst-remote/252/96669508976",
+      "url": "https://careers.cshs.org/job/los-angeles/surgical-technologist-iii-operating-room-10-12-hour-full-time-various-shifts/252/95557709600",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/senior-data-intelligence-analyst-health-equity-analyst-remote/252/96669508976",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/surgical-technologist-iii-operating-room-10-12-hour-full-time-various-shifts/252/95557709600",
       "track_slug": "hospital-careers",
       "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: information technology"
+      "match_reason": "Cedars-Sinai direct match: technologist"
     },
     {
       "title": "Certified Anesthesia Technologist",

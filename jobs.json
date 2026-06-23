@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-22T14:56:06Z",
+  "updated": "2026-06-23T01:47:06Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 68,
+  "count": 69,
   "jobs": [
     {
       "title": "IT Specialist (Security)",
@@ -63,6 +63,18 @@
       "type": "",
       "salary_annual": 250000.0,
       "salary_hourly": 120.19
+    },
+    {
+      "title": "Medical Records Technician (Coder- Inpatient)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/873851500",
+      "salary": "36409",
+      "posted": "2026-06-22",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 36409.0,
+      "salary_hourly": 17.5
     },
     {
       "title": "Medical Records Technician (Coder)",
