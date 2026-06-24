@@ -1,12 +1,27 @@
 {
-  "updated": "2026-06-23T13:53:30Z",
-  "count": 5,
+  "updated": "2026-06-24T01:46:02Z",
+  "count": 4,
   "sources": [
-    "Cedars-Sinai",
-    "Huntington Health"
+    "Cedars-Sinai"
   ],
   "track_slug": "hospital-careers",
   "jobs": [
+    {
+      "title": "Echo Sonographer I - Per Diem - Cheng Lab, Heart Institute Cedars-Sinai Medical Center Los Angeles, CA Imaging Req ID: 18511",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/echo-sonographer-i-per-diem-cheng-lab-heart-institute/252/96839490320",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/echo-sonographer-i-per-diem-cheng-lab-heart-institute/252/96839490320",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: imaging"
+    },
     {
       "title": "Epic ADT/Prelude Analyst - Remote",
       "company": "Cedars-Sinai",
@@ -54,38 +69,6 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: clinical systems"
-    },
-    {
-      "title": "Surgical Technologist III - Operating Room - 10/12-Hour - Full Time - Various Shifts Cedars-Sinai Medical Center Los Angeles, CA Clinical Operations Req ID: 17776",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/surgical-technologist-iii-operating-room-10-12-hour-full-time-various-shifts/252/95557709600",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/surgical-technologist-iii-operating-room-10-12-hour-full-time-various-shifts/252/95557709600",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: technologist"
-    },
-    {
-      "title": "Certified Anesthesia Technologist",
-      "company": "Huntington Health",
-      "hospital_name": "Huntington Health",
-      "location": "Pasadena, CA",
-      "url": "https://www.hhcareers.com/career-search",
-      "salary": "",
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::huntington health::https://www.hhcareers.com/career-search",
-      "track_slug": "hospital-careers",
-      "type": "Technical",
-      "match_reason": "Huntington direct match: anesthesia technologist",
-      "salary_annual": null,
-      "salary_hourly": null
     }
   ]
 }

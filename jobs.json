@@ -1,9 +1,57 @@
 {
-  "updated": "2026-06-23T13:53:29Z",
+  "updated": "2026-06-24T01:46:00Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 67,
+  "count": 69,
   "jobs": [
+    {
+      "title": "IT Specialist",
+      "company": "Deputy Assistant Secretary for Information and Technology",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/873949100",
+      "salary": "147945",
+      "posted": "2026-06-23",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 147945.0,
+      "salary_hourly": 71.13
+    },
+    {
+      "title": "Supervisory Health System Specialist",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/874038300",
+      "salary": "106437",
+      "posted": "2026-06-23",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
+    },
+    {
+      "title": "Supervisory Management and Program Analyst",
+      "company": "Wage and Hour Division",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/873952300",
+      "salary": "106437",
+      "posted": "2026-06-23",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
+    },
+    {
+      "title": "Health System Specialist (Executive Assistant to the VISN Chief Nursing Officer)",
+      "company": "Veterans Health Administration",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/874042400",
+      "salary": "106437",
+      "posted": "2026-06-23",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
+    },
     {
       "title": "IT Specialist (Security)",
       "company": "Federal Aviation Administration",
@@ -125,18 +173,6 @@
       "salary_hourly": 161.06
     },
     {
-      "title": "Veterans Service Representative",
-      "company": "Veterans Benefits Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/873686900",
-      "salary": "50460",
-      "posted": "2026-06-18",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 50460.0,
-      "salary_hourly": 24.26
-    },
-    {
       "title": "Medical Records Technician (Coder) Auditor",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -195,18 +231,6 @@
       "type": "Tour of Duty: Day Shift, Monday-Friday 8:00 AM -4:30 PM, 40 hours per week",
       "salary_annual": 125776.0,
       "salary_hourly": 60.47
-    },
-    {
-      "title": "Human Resources Specialist",
-      "company": "Internal Revenue Service",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/873658000",
-      "salary": "147945",
-      "posted": "2026-06-18",
-      "source": "USAJobs",
-      "type": "Monday - Friday, Day Shift hours negotiable start time between 6:00am and end time by 6:00pm.",
-      "salary_annual": 147945.0,
-      "salary_hourly": 71.13
     },
     {
       "title": "IT Specialist",
