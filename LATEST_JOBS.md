@@ -1,6 +1,6 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-06-24T13%3A45%3A37Z-blue?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-06-25T01%3A48%3A22Z-blue?style=flat-square)
 ![Jobs](https://img.shields.io/badge/Jobs_Found-71-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
@@ -8,13 +8,16 @@
 
 ---
 
-## Latest Jobs - June 24, 2026
+## Latest Jobs - June 25, 2026
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
 | IT Specialist (Security) | Federal Aviation Administration | FAA Nationwide-Selectee Remains in Current Duty Location | Not listed | 77351 | 2026-06-24 | [Apply](https://www.usajobs.gov:443/job/874014400) |
+| Senior Social Worker | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 89508 | 2026-06-24 | [Apply](https://www.usajobs.gov:443/job/874133200) |
 | Intelligence Research Specialist | Cybersecurity and Infrastructure Security Agency | Multiple Locations | Not listed | 143913 | 2026-06-24 | [Apply](https://www.usajobs.gov:443/job/874115600) |
 | Program Analyst | Veterans Health Administration | Multiple Locations | Not listed | 74678 | 2026-06-24 | [Apply](https://www.usajobs.gov:443/job/874108100) |
+| Visual Information Specialist | Veterans Health Administration | Los Angeles, California | Not listed | 87061 | 2026-06-24 | [Apply](https://www.usajobs.gov:443/job/874260600) |
+| Public Notice for Aviation Safety Technician (Direct Hire) | Federal Aviation Administration | May be filled in various FAA duty locations | Not listed | 47738 | 2026-06-24 | [Apply](https://www.usajobs.gov:443/job/874245100) |
 | Supervisory Management and Program Analyst | Veterans Health Administration | Multiple Locations | Not listed | 125776 | 2026-06-24 | [Apply](https://www.usajobs.gov:443/job/874084400) |
 | IT Specialist | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 147945 | 2026-06-23 | [Apply](https://www.usajobs.gov:443/job/873949100) |
 | Supervisory Health System Specialist | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 106437 | 2026-06-23 | [Apply](https://www.usajobs.gov:443/job/874038300) |
@@ -29,9 +32,6 @@
 | Medical Records Technician (Coder) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 29078 | 2026-06-19 | [Apply](https://www.usajobs.gov:443/job/873441600) |
 | Human Resources Specialist (Compensation) | Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys | Location Negotiable After Selection | Not listed | 125776 | 2026-06-19 | [Apply](https://www.usajobs.gov:443/job/873717800) |
 | Physician - Diagnostic Radiologist - Recruitment/Relocation Incentive and EDRP Authorized | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 335000 | 2026-06-18 | [Apply](https://www.usajobs.gov:443/job/873734400) |
-| Medical Records Technician (Coder) Auditor | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-06-18 | [Apply](https://www.usajobs.gov:443/job/873428300) |
-| Senior Human Capital Specialist | Office of the Assistant Secretary for Administration and Management | Location Negotiable After Selection | Not listed | 133007 | 2026-06-18 | [Apply](https://www.usajobs.gov:443/job/873445300) |
-| Lead National Resource Specialist (Program Services) | Small Business Administration | Location Negotiable After Selection | Not listed | 63795 | 2026-06-18 | [Apply](https://www.usajobs.gov:443/job/873616300) |
 
 ---
 
@@ -41,7 +41,7 @@
 |--------|-------|
 | Total jobs found | 71 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-06-24T13:45:37Z |
+| Last updated | 2026-06-25T01:48:22Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-06-24T13:45:37Z_
+_Auto-generated legacy snapshot. Last run: 2026-06-25T01:48:22Z_

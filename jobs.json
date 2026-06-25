@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T13:45:37Z",
+  "updated": "2026-06-25T01:48:22Z",
   "zip": "90029",
   "radius_mi": 5,
   "count": 71,
@@ -15,6 +15,18 @@
       "type": "",
       "salary_annual": 77351.0,
       "salary_hourly": 37.19
+    },
+    {
+      "title": "Senior Social Worker",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/874133200",
+      "salary": "89508",
+      "posted": "2026-06-24",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 89508.0,
+      "salary_hourly": 43.03
     },
     {
       "title": "Intelligence Research Specialist",
@@ -39,6 +51,30 @@
       "type": "",
       "salary_annual": 74678.0,
       "salary_hourly": 35.9
+    },
+    {
+      "title": "Visual Information Specialist",
+      "company": "Veterans Health Administration",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/874260600",
+      "salary": "87061",
+      "posted": "2026-06-24",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 87061.0,
+      "salary_hourly": 41.86
+    },
+    {
+      "title": "Public Notice for Aviation Safety Technician (Direct Hire)",
+      "company": "Federal Aviation Administration",
+      "location": "May be filled in various FAA duty locations",
+      "url": "https://www.usajobs.gov:443/job/874245100",
+      "salary": "47738",
+      "posted": "2026-06-24",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 47738.0,
+      "salary_hourly": 22.95
     },
     {
       "title": "Supervisory Management and Program Analyst",
@@ -267,18 +303,6 @@
       "type": "Tour of Duty: Day Shift, Monday-Friday 8:00 AM -4:30 PM, 40 hours per week",
       "salary_annual": 125776.0,
       "salary_hourly": 60.47
-    },
-    {
-      "title": "Human Resources Specialist",
-      "company": "Internal Revenue Service",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/873658000",
-      "salary": "147945",
-      "posted": "2026-06-18",
-      "source": "USAJobs",
-      "type": "Monday - Friday, Day Shift hours negotiable start time between 6:00am and end time by 6:00pm.",
-      "salary_annual": 147945.0,
-      "salary_hourly": 71.13
     },
     {
       "title": "IT Specialist",
@@ -713,18 +737,6 @@
       "salary_hourly": 71.13
     },
     {
-      "title": "Physician-Diagnostic Radiologist-Recruitment/Relocation Incentive-EDRP Authorized",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/868648600",
-      "salary": "124308",
-      "posted": "2026-05-08",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 124308.0,
-      "salary_hourly": 59.76
-    },
-    {
       "title": "Advanced Practice Provider, Medical Asset Support Team (O-5 Billet) Non-Supervisory - Internal",
       "company": "Immigration and Customs Enforcement",
       "location": "Location Negotiable After Selection",
@@ -831,18 +843,6 @@
       "type": "",
       "salary_annual": 63795.0,
       "salary_hourly": 30.67
-    },
-    {
-      "title": "Economist",
-      "company": "Department of the Air Force - Agency Wide",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/853032300",
-      "salary": "74678",
-      "posted": "2025-12-22",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 74678.0,
-      "salary_hourly": 35.9
     },
     {
       "title": "IT SPECIALIST",

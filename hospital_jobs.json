@@ -1,42 +1,26 @@
 {
-  "updated": "2026-06-24T13:45:38Z",
-  "count": 4,
+  "updated": "2026-06-25T01:48:24Z",
+  "count": 7,
   "sources": [
     "Cedars-Sinai"
   ],
   "track_slug": "hospital-careers",
   "jobs": [
     {
-      "title": "Echo Sonographer I - Per Diem - Cheng Lab, Heart Institute Cedars-Sinai Medical Center Los Angeles, CA Imaging Req ID: 18511",
+      "title": "Echo Sonographer I - Per Diem - Cheng Lab, Heart Institute Cedars-Sinai Medical Center Los Angeles, CA Imaging Req ID: 18546",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/echo-sonographer-i-per-diem-cheng-lab-heart-institute/252/96839490320",
+      "url": "https://careers.cshs.org/job/los-angeles/echo-sonographer-i-per-diem-cheng-lab-heart-institute/252/96884049008",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/echo-sonographer-i-per-diem-cheng-lab-heart-institute/252/96839490320",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/echo-sonographer-i-per-diem-cheng-lab-heart-institute/252/96884049008",
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: imaging"
-    },
-    {
-      "title": "Epic ADT/Prelude Analyst - Remote",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/beverly-hills/epic-adt-prelude-analyst-remote/252/96298197408",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/epic-adt-prelude-analyst-remote/252/96298197408",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: epic"
     },
     {
       "title": "Epic Credentialed Trainer - Inpatient (Orders/ClinDoc) - Hybrid",
@@ -55,6 +39,54 @@
       "match_reason": "Cedars-Sinai direct match: epic"
     },
     {
+      "title": "Hospital Engineer (Facilities/Maintenance Engineer) - 8HR Variable shifts - Marina del Rey Hospital Cedars-Sinai Marina Hospital Marina del Rey, CA Facilities Req ID: 16207",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/marina-del-rey/hospital-engineer-facilities-maintenance-engineer-8hr-variable-shifts-marina-del-rey-hospital/252/93229087552",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/marina-del-rey/hospital-engineer-facilities-maintenance-engineer-8hr-variable-shifts-marina-del-rey-hospital/252/93229087552",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: facilities, maintenance"
+    },
+    {
+      "title": "Imaging Scheduler - Part-Time Day Shift Cedars-Sinai Medical Center Beverly Hills, CA Administrative Req ID: 18299",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/beverly-hills/imaging-scheduler-part-time-day-shift/252/96884048464",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/imaging-scheduler-part-time-day-shift/252/96884048464",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: imaging"
+    },
+    {
+      "title": "Research Associate Data Scientist Cedars-Sinai Medical Center Los Angeles, CA Information Technology Req ID: 18558",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/research-associate-data-scientist/252/96884049088",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/research-associate-data-scientist/252/96884049088",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: information technology"
+    },
+    {
       "title": "Senior Clinical Systems Engineer (Medical Device Integration) - Hybrid",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
@@ -69,6 +101,22 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: clinical systems"
+    },
+    {
+      "title": "Technical Assistant - CT - 12-Hour Night Shift Cedars-Sinai Medical Center Beverly Hills, CA Imaging Req ID: 18315",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/beverly-hills/technical-assistant-ct-12-hour-night-shift/252/96884048544",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/technical-assistant-ct-12-hour-night-shift/252/96884048544",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: imaging"
     }
   ]
 }
