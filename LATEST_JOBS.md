@@ -1,7 +1,7 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-06-26T01%3A50%3A25Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-66-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-06-26T13%3A43%3A57Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-70-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
@@ -12,10 +12,15 @@
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
+| IT Project Manager | Office of the Assistant Secretary for Administration and Management | Location Negotiable After Selection | Not listed | 147945 | 2026-06-26 | [Apply](https://www.usajobs.gov:443/job/874323300) |
+| Supervisory IT Specialist (Network) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 106437 | 2026-06-26 | [Apply](https://www.usajobs.gov:443/job/874382200) |
+| Supervisory IT Specialist | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 125776 | 2026-06-26 | [Apply](https://www.usajobs.gov:443/job/874347000) |
+| Human Resources Officer | Deputy Assistant Secretary for Information and Technology | Multiple Locations | Not listed | 169279 | 2026-06-26 | [Apply](https://www.usajobs.gov:443/job/874367200) |
+| Program Manager | Federal Financial Institutions Examination Council | Anywhere in the U.S. (remote job) | Not listed | 106437 | 2026-06-26 | [Apply](https://www.usajobs.gov:443/job/874144100) |
+| Medical Records Technician (Coder-Inpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 59095 | 2026-06-26 | [Apply](https://www.usajobs.gov:443/job/874123500) |
 | IT Specialist (AI) | Office of the Assistant Secretary for Administration and Management | Location Negotiable After Selection | Not listed | 106437 | 2026-06-25 | [Apply](https://www.usajobs.gov:443/job/874252000) |
 | Information Technology Specialist | Office of the Chief Information Officer | Multiple Locations | Not listed | 90968 | 2026-06-25 | [Apply](https://www.usajobs.gov:443/job/874025900) |
 | Medical Records Technician (Coder-Outpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 37193 | 2026-06-25 | [Apply](https://www.usajobs.gov:443/job/874367700) |
-| Medical Support Assistant (Advanced) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 45409 | 2026-06-25 | [Apply](https://www.usajobs.gov:443/job/874330600) |
 | Physician - Psychiatry (BHIP Virtual) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 250000 | 2026-06-25 | [Apply](https://www.usajobs.gov:443/job/874445300) |
 | External Affairs Specialist | Cybersecurity and Infrastructure Security Agency | Location Negotiable After Selection | Not listed | 143913 | 2026-06-25 | [Apply](https://www.usajobs.gov:443/job/874342000) |
 | Supervisory Social Science Specialist  (Crisis Responder) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 89508 | 2026-06-25 | [Apply](https://www.usajobs.gov:443/job/874311000) |
@@ -27,11 +32,6 @@
 | Visual Information Specialist | Veterans Health Administration | Los Angeles, California | Not listed | 87061 | 2026-06-24 | [Apply](https://www.usajobs.gov:443/job/874260600) |
 | Public Notice for Aviation Safety Technician (Direct Hire) | Federal Aviation Administration | May be filled in various FAA duty locations | Not listed | 47738 | 2026-06-24 | [Apply](https://www.usajobs.gov:443/job/874245100) |
 | Supervisory Management and Program Analyst | Veterans Health Administration | Multiple Locations | Not listed | 125776 | 2026-06-24 | [Apply](https://www.usajobs.gov:443/job/874084400) |
-| IT Specialist | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 147945 | 2026-06-23 | [Apply](https://www.usajobs.gov:443/job/873949100) |
-| Supervisory Health System Specialist | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 106437 | 2026-06-23 | [Apply](https://www.usajobs.gov:443/job/874038300) |
-| Supervisory Management and Program Analyst | Wage and Hour Division | Location Negotiable After Selection | Not listed | 106437 | 2026-06-23 | [Apply](https://www.usajobs.gov:443/job/873952300) |
-| Health System Specialist (Executive Assistant to the VISN Chief Nursing Officer) | Veterans Health Administration | Multiple Locations | Not listed | 106437 | 2026-06-23 | [Apply](https://www.usajobs.gov:443/job/874042400) |
-| Supervisory Information Technology Specialist | Forest Service | Location Negotiable After Selection | Not listed | 125776 | 2026-06-22 | [Apply](https://www.usajobs.gov:443/job/873671100) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 66 |
+| Total jobs found | 70 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-06-26T01:50:25Z |
+| Last updated | 2026-06-26T13:43:57Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 66 jobs
+- USAJobs: 70 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-06-26T01:50:25Z_
+_Auto-generated legacy snapshot. Last run: 2026-06-26T13:43:57Z_
