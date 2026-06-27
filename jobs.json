@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-26T13:43:57Z",
+  "updated": "2026-06-27T01:45:36Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 70,
+  "count": 71,
   "jobs": [
     {
       "title": "IT Project Manager",
@@ -41,6 +41,18 @@
       "salary_hourly": 60.47
     },
     {
+      "title": "Supervisory Information Technology Program Manager",
+      "company": "Office of the Chief Information Officer",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/874521200",
+      "salary": "125776",
+      "posted": "2026-06-26",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 125776.0,
+      "salary_hourly": 60.47
+    },
+    {
       "title": "Human Resources Officer",
       "company": "Deputy Assistant Secretary for Information and Technology",
       "location": "Multiple Locations",
@@ -54,9 +66,45 @@
     },
     {
       "title": "Program Manager",
-      "company": "Federal Financial Institutions Examination Council",
+      "company": "Cybersecurity and Infrastructure Security Agency",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/874560900",
+      "salary": "143913",
+      "posted": "2026-06-26",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 143913.0,
+      "salary_hourly": 69.19
+    },
+    {
+      "title": "Program Specialist (Human Resources Liaison)",
+      "company": "Veterans Benefits Administration",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/874553200",
+      "salary": "71957",
+      "posted": "2026-06-26",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 71957.0,
+      "salary_hourly": 34.59
+    },
+    {
+      "title": "Program Analyst (Clinic Profile Manager) Clinical Resource Hub",
+      "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/874144100",
+      "url": "https://www.usajobs.gov:443/job/874592000",
+      "salary": "61722",
+      "posted": "2026-06-26",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 61722.0,
+      "salary_hourly": 29.67
+    },
+    {
+      "title": "Health Systems Specialist",
+      "company": "Veterans Affairs, Inspector General",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/874603100",
       "salary": "106437",
       "posted": "2026-06-26",
       "source": "USAJobs",
@@ -111,18 +159,6 @@
       "type": "",
       "salary_annual": 37193.0,
       "salary_hourly": 17.88
-    },
-    {
-      "title": "Physician - Psychiatry (BHIP Virtual)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/874445300",
-      "salary": "250000",
-      "posted": "2026-06-25",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 250000.0,
-      "salary_hourly": 120.19
     },
     {
       "title": "External Affairs Specialist",
@@ -557,18 +593,6 @@
       "salary_hourly": 20.72
     },
     {
-      "title": "Branch Chief, Pilot Operations (Aerial Supervision)",
-      "company": "Office of the Secretary of the Interior",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/873095800",
-      "salary": "129549",
-      "posted": "2026-06-15",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 129549.0,
-      "salary_hourly": 62.28
-    },
-    {
       "title": "Health Application Services Office Supervisory Lead (O-6 Billet) Supervisory",
       "company": "Immigration and Customs Enforcement",
       "location": "Location Negotiable After Selection",
@@ -831,18 +855,6 @@
       "type": "",
       "salary_annual": 56763.0,
       "salary_hourly": 27.29
-    },
-    {
-      "title": "ENGINEERING",
-      "company": "Air Force Civilian Career Training",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/846773600",
-      "salary": "55486",
-      "posted": "2025-09-29",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 55486.0,
-      "salary_hourly": 26.68
     }
   ]
 }

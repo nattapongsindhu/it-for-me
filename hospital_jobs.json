@@ -1,58 +1,26 @@
 {
-  "updated": "2026-06-26T13:43:58Z",
-  "count": 7,
+  "updated": "2026-06-27T01:45:39Z",
+  "count": 3,
   "sources": [
     "Cedars-Sinai"
   ],
   "track_slug": "hospital-careers",
   "jobs": [
     {
-      "title": "CT Manager - CT Imaging - 8-Hour Day Shift Cedars-Sinai Medical Center Beverly Hills, CA Imaging Req ID: 18606",
+      "title": "AGVS Dock Technician - Per Diem - 8-Hour Night Shift Cedars-Sinai Medical Center Los Angeles, CA Supply Chain / Procurement Req ID: 18510",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/beverly-hills/ct-manager-ct-imaging-8-hour-day-shift/252/96929627920",
+      "url": "https://careers.cshs.org/job/los-angeles/agvs-dock-technician-per-diem-8-hour-night-shift/252/96981010384",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/ct-manager-ct-imaging-8-hour-day-shift/252/96929627920",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/agvs-dock-technician-per-diem-8-hour-night-shift/252/96981010384",
       "track_slug": "hospital-careers",
       "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging"
-    },
-    {
-      "title": "Cardio Sonographer II - Pacific Heart Cedars-Sinai Medical Care Foundation Santa Monica, CA Imaging Req ID: 17956",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/santa-monica/cardio-sonographer-ii-pacific-heart/252/96936016160",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/santa-monica/cardio-sonographer-ii-pacific-heart/252/96936016160",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging"
-    },
-    {
-      "title": "Epic ADT/Prelude Analyst - Remote",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/beverly-hills/epic-adt-prelude-analyst-remote/252/96298197408",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/epic-adt-prelude-analyst-remote/252/96298197408",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: epic"
+      "match_reason": "Cedars-Sinai direct match: technician"
     },
     {
       "title": "Epic Credentialed Trainer - Inpatient (Orders/ClinDoc) - Hybrid",
@@ -71,22 +39,6 @@
       "match_reason": "Cedars-Sinai direct match: epic"
     },
     {
-      "title": "Pharmacist - Primary Care/Pain Management - Medical Network Cedars-Sinai Medical Care Foundation Los Angeles, CA Pharmacy Req ID: 18503",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/pharmacist-primary-care-pain-management-medical-network/252/96929627776",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/pharmacist-primary-care-pain-management-medical-network/252/96929627776",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: network"
-    },
-    {
       "title": "Senior Clinical Systems Engineer (Medical Device Integration) - Hybrid",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
@@ -101,22 +53,6 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: clinical systems"
-    },
-    {
-      "title": "Technical Assistant - CT - 12-Hour Night Shift Cedars-Sinai Medical Center Beverly Hills, CA Imaging Req ID: 18620",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/beverly-hills/technical-assistant-ct-12-hour-night-shift/252/96936020096",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/technical-assistant-ct-12-hour-night-shift/252/96936020096",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging"
     }
   ]
 }
