@@ -1,9 +1,69 @@
 {
-  "updated": "2026-06-29T01:51:49Z",
+  "updated": "2026-06-29T14:26:00Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 65,
+  "count": 69,
   "jobs": [
+    {
+      "title": "IT Specialist (Network Services)",
+      "company": "Internal Revenue Service",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/874506500",
+      "salary": "125776",
+      "posted": "2026-06-29",
+      "source": "USAJobs",
+      "type": "Monday-Friday 8:00am-4:30pm, 40 hours per week",
+      "salary_annual": 125776.0,
+      "salary_hourly": 60.47
+    },
+    {
+      "title": "Lead Medical Records Technician (Coder)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/874618000",
+      "salary": "61722",
+      "posted": "2026-06-29",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 61722.0,
+      "salary_hourly": 29.67
+    },
+    {
+      "title": "Supervisory Housing Program Officer",
+      "company": "Assistant Secretary for Housing-Federal Housing Commissioner",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/874597100",
+      "salary": "125776",
+      "posted": "2026-06-29",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 125776.0,
+      "salary_hourly": 60.47
+    },
+    {
+      "title": "Nursing Assistant (5 South Med/Surg-Telemetry)",
+      "company": "Veterans Health Administration",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/874610900",
+      "salary": "42947",
+      "posted": "2026-06-29",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 42947.0,
+      "salary_hourly": 20.65
+    },
+    {
+      "title": "Congressional Liaison Representative",
+      "company": "Veterans Benefits Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/874586200",
+      "salary": "61722",
+      "posted": "2026-06-29",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 61722.0,
+      "salary_hourly": 29.67
+    },
     {
       "title": "Management and Program Analyst",
       "company": "Federal Aviation Administration",
@@ -329,18 +389,6 @@
       "salary_hourly": 137.02
     },
     {
-      "title": "Physician (Dermatology)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/873765900",
-      "salary": "250000",
-      "posted": "2026-06-22",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 250000.0,
-      "salary_hourly": 120.19
-    },
-    {
       "title": "Supervisory Medical Records Technician (Coder)",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -353,18 +401,6 @@
       "salary_hourly": 32.68
     },
     {
-      "title": "Medical Records Technician (Coder- Inpatient)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/873851500",
-      "salary": "36409",
-      "posted": "2026-06-22",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 36409.0,
-      "salary_hourly": 17.5
-    },
-    {
       "title": "Administrative Support Assistant (OA)",
       "company": "Veterans Health Administration",
       "location": "Location Negotiable After Selection",
@@ -375,6 +411,30 @@
       "type": "",
       "salary_annual": 43106.0,
       "salary_hourly": 20.72
+    },
+    {
+      "title": "Physician (Dermatology)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/873765900",
+      "salary": "250000",
+      "posted": "2026-06-22",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 250000.0,
+      "salary_hourly": 120.19
+    },
+    {
+      "title": "Medical Records Technician (Coder- Inpatient)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/873851500",
+      "salary": "36409",
+      "posted": "2026-06-22",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 36409.0,
+      "salary_hourly": 17.5
     },
     {
       "title": "Medical Records Technician (Coder)",
@@ -447,18 +507,6 @@
       "type": "Tour of Duty: Day Shift, Monday - Friday",
       "salary_annual": 61722.0,
       "salary_hourly": 29.67
-    },
-    {
-      "title": "Supervisory Management and Program Analyst",
-      "company": "Internal Revenue Service",
-      "location": "IRS Nationwide Locations",
-      "url": "https://www.usajobs.gov:443/job/873533300",
-      "salary": "125776",
-      "posted": "2026-06-18",
-      "source": "USAJobs",
-      "type": "Tour of Duty: Day Shift, Monday-Friday 8:00 AM -4:30 PM, 40 hours per week",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
     },
     {
       "title": "IT Project Manager",

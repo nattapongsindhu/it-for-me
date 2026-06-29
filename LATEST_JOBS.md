@@ -1,7 +1,7 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-06-29T01%3A51%3A49Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-65-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-06-29T14%3A26%3A00Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-69-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
@@ -12,6 +12,11 @@
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
+| IT Specialist (Network Services) | Internal Revenue Service | Multiple Locations | Monday-Friday 8:00am-4:30pm, 40 hours per week | 125776 | 2026-06-29 | [Apply](https://www.usajobs.gov:443/job/874506500) |
+| Lead Medical Records Technician (Coder) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-06-29 | [Apply](https://www.usajobs.gov:443/job/874618000) |
+| Supervisory Housing Program Officer | Assistant Secretary for Housing-Federal Housing Commissioner | Multiple Locations | Not listed | 125776 | 2026-06-29 | [Apply](https://www.usajobs.gov:443/job/874597100) |
+| Nursing Assistant (5 South Med/Surg-Telemetry) | Veterans Health Administration | Los Angeles, California | Not listed | 42947 | 2026-06-29 | [Apply](https://www.usajobs.gov:443/job/874610900) |
+| Congressional Liaison Representative | Veterans Benefits Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-06-29 | [Apply](https://www.usajobs.gov:443/job/874586200) |
 | Management and Program Analyst | Federal Aviation Administration | FAA Nationwide-Selectee Remains in Current Duty Location | Not listed | 64308 | 2026-06-27 | [Apply](https://www.usajobs.gov:443/job/874617300) |
 | Human Resource Specialist (Workers' Compensation Program Specialist) | Federal Aviation Administration | FAA Nationwide-Selectee Remains in Current Duty Location | Not listed | 77351 | 2026-06-27 | [Apply](https://www.usajobs.gov:443/job/874581200) |
 | IT Project Manager | Office of the Assistant Secretary for Administration and Management | Location Negotiable After Selection | Not listed | 147945 | 2026-06-26 | [Apply](https://www.usajobs.gov:443/job/874323300) |
@@ -27,11 +32,6 @@
 | Information Technology Specialist | Office of the Chief Information Officer | Multiple Locations | Not listed | 90968 | 2026-06-25 | [Apply](https://www.usajobs.gov:443/job/874025900) |
 | Physician - Psychiatry (BHIP Virtual) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 250000 | 2026-06-25 | [Apply](https://www.usajobs.gov:443/job/874445300) |
 | External Affairs Specialist | Cybersecurity and Infrastructure Security Agency | Location Negotiable After Selection | Not listed | 143913 | 2026-06-25 | [Apply](https://www.usajobs.gov:443/job/874342000) |
-| Supervisory Social Science Specialist  (Crisis Responder) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 89508 | 2026-06-25 | [Apply](https://www.usajobs.gov:443/job/874311000) |
-| Supervisory Technical Security Investigator | U.S. Secret Service | Multiple Locations | This position may require shift work. | 107446 | 2026-06-25 | [Apply](https://www.usajobs.gov:443/job/874393900) |
-| Supervisory Physical Security Specialist | U.S. Secret Service | Multiple Locations | This position may require shift work. | 107446 | 2026-06-25 | [Apply](https://www.usajobs.gov:443/job/874396100) |
-| IT Specialist (Security) | Federal Aviation Administration | FAA Nationwide-Selectee Remains in Current Duty Location | Not listed | 77351 | 2026-06-24 | [Apply](https://www.usajobs.gov:443/job/874014400) |
-| Intelligence Research Specialist | Cybersecurity and Infrastructure Security Agency | Multiple Locations | Not listed | 143913 | 2026-06-24 | [Apply](https://www.usajobs.gov:443/job/874115600) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 65 |
+| Total jobs found | 69 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-06-29T01:51:49Z |
+| Last updated | 2026-06-29T14:26:00Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 65 jobs
+- USAJobs: 69 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-06-29T01:51:49Z_
+_Auto-generated legacy snapshot. Last run: 2026-06-29T14:26:00Z_
