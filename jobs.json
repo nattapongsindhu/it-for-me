@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T14:26:00Z",
+  "updated": "2026-06-30T01:48:25Z",
   "zip": "90029",
   "radius_mi": 5,
   "count": 69,
@@ -17,6 +17,18 @@
       "salary_hourly": 60.47
     },
     {
+      "title": "Information Technology Specialist (DATAMGT)",
+      "company": "Veterans Affairs, Inspector General",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/874728700",
+      "salary": "61722",
+      "posted": "2026-06-29",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 61722.0,
+      "salary_hourly": 29.67
+    },
+    {
       "title": "Lead Medical Records Technician (Coder)",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -27,6 +39,18 @@
       "type": "",
       "salary_annual": 61722.0,
       "salary_hourly": 29.67
+    },
+    {
+      "title": "Medical Records Technician (Coder) Auditor",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/874685900",
+      "salary": "62729",
+      "posted": "2026-06-29",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 62729.0,
+      "salary_hourly": 30.16
     },
     {
       "title": "Supervisory Housing Program Officer",
@@ -219,18 +243,6 @@
       "type": "",
       "salary_annual": 90968.0,
       "salary_hourly": 43.73
-    },
-    {
-      "title": "Physician - Psychiatry (BHIP Virtual)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/874445300",
-      "salary": "250000",
-      "posted": "2026-06-25",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 250000.0,
-      "salary_hourly": 120.19
     },
     {
       "title": "External Affairs Specialist",
@@ -699,18 +711,6 @@
       "type": "",
       "salary_annual": 147945.0,
       "salary_hourly": 71.13
-    },
-    {
-      "title": "Physician-Diagnostic Radiologist-Recruitment/Relocation Incentive-EDRP Authorized",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/868648600",
-      "salary": "124308",
-      "posted": "2026-05-08",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 124308.0,
-      "salary_hourly": 59.76
     },
     {
       "title": "Advanced Practice Provider, Medical Asset Support Team (O-5 Billet) Non-Supervisory - Internal",
