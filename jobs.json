@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-30T13:38:53Z",
+  "updated": "2026-07-01T01:52:37Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 66,
+  "count": 67,
   "jobs": [
     {
       "title": "Recent Graduate - IT Specialist",
@@ -15,6 +15,18 @@
       "type": "",
       "salary_annual": 61722.0,
       "salary_hourly": 29.67
+    },
+    {
+      "title": "Information Systems Security Manager, SYD 810",
+      "company": "Space Systems Command",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/874922500",
+      "salary": "104349",
+      "posted": "2026-06-30",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 104349.0,
+      "salary_hourly": 50.17
     },
     {
       "title": "Supervisory Program Analyst",
@@ -53,6 +65,30 @@
       "salary_hourly": 29.67
     },
     {
+      "title": "Nurse Manager (CCC)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/874906700",
+      "salary": "98925",
+      "posted": "2026-06-30",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 98925.0,
+      "salary_hourly": 47.56
+    },
+    {
+      "title": "Management & Program Analyst (Technology)",
+      "company": "Electronic Health Record Modernization",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/874941500",
+      "salary": "89508",
+      "posted": "2026-06-30",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 89508.0,
+      "salary_hourly": 43.03
+    },
+    {
       "title": "Reimbursable Billing Technician",
       "company": "Veterans Health Administration",
       "location": "Multiple Locations",
@@ -89,18 +125,6 @@
       "salary_hourly": 29.67
     },
     {
-      "title": "Medical Records Technician (Coder) Auditor",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/874685900",
-      "salary": "62729",
-      "posted": "2026-06-29",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 62729.0,
-      "salary_hourly": 30.16
-    },
-    {
       "title": "Lead Medical Records Technician (Coder)",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -111,6 +135,18 @@
       "type": "",
       "salary_annual": 61722.0,
       "salary_hourly": 29.67
+    },
+    {
+      "title": "Medical Records Technician (Coder) Auditor",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/874685900",
+      "salary": "62729",
+      "posted": "2026-06-29",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 62729.0,
+      "salary_hourly": 30.16
     },
     {
       "title": "Supervisory Housing Program Officer",
@@ -243,18 +279,6 @@
       "type": "",
       "salary_annual": 143913.0,
       "salary_hourly": 69.19
-    },
-    {
-      "title": "Program Specialist (Human Resources Liaison)",
-      "company": "Veterans Benefits Administration",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/874553200",
-      "salary": "71957",
-      "posted": "2026-06-26",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 71957.0,
-      "salary_hourly": 34.59
     },
     {
       "title": "Health Systems Specialist",
@@ -483,18 +507,6 @@
       "type": "",
       "salary_annual": 87061.0,
       "salary_hourly": 41.86
-    },
-    {
-      "title": "Medical Records Technician (Coder- Inpatient)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/873851500",
-      "salary": "36409",
-      "posted": "2026-06-22",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 36409.0,
-      "salary_hourly": 17.5
     },
     {
       "title": "Human Resources Specialist (Compensation)",
