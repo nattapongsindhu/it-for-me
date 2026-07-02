@@ -1,9 +1,69 @@
 {
-  "updated": "2026-07-02T01:48:21Z",
+  "updated": "2026-07-02T13:35:34Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 68,
+  "count": 66,
   "jobs": [
+    {
+      "title": "Supervisory IT Specialist",
+      "company": "Deputy Assistant Secretary for Information and Technology",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/875052700",
+      "salary": "107446",
+      "posted": "2026-07-02",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 107446.0,
+      "salary_hourly": 51.66
+    },
+    {
+      "title": "Supervisory Health System Specialist",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/875088100",
+      "salary": "107446",
+      "posted": "2026-07-02",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 107446.0,
+      "salary_hourly": 51.66
+    },
+    {
+      "title": "Medical Records Technician (Clinical Documentation Improvement Specialist (CDIS - Inpatient))",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/875184300",
+      "salary": "61722",
+      "posted": "2026-07-02",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 61722.0,
+      "salary_hourly": 29.67
+    },
+    {
+      "title": "Program Analyst",
+      "company": "Veterans Health Administration",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/875113100",
+      "salary": "106437",
+      "posted": "2026-07-02",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
+    },
+    {
+      "title": "Teleradiologist",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/875197300",
+      "salary": "350000",
+      "posted": "2026-07-02",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 350000.0,
+      "salary_hourly": 168.27
+    },
     {
       "title": "IT Specialist (Appsw)",
       "company": "Deputy Assistant Secretary for Information and Technology",
@@ -341,18 +401,6 @@
       "salary_hourly": 51.17
     },
     {
-      "title": "Supervisory IT Specialist",
-      "company": "Deputy Assistant Secretary for Information and Technology",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/874347000",
-      "salary": "125776",
-      "posted": "2026-06-26",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
-    },
-    {
       "title": "Program Manager",
       "company": "Cybersecurity and Infrastructure Security Agency",
       "location": "Location Negotiable After Selection",
@@ -425,18 +473,6 @@
       "salary_hourly": 69.19
     },
     {
-      "title": "Supervisory Social Science Specialist  (Crisis Responder)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/874311000",
-      "salary": "89508",
-      "posted": "2026-06-25",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 89508.0,
-      "salary_hourly": 43.03
-    },
-    {
       "title": "Supervisory Physical Security Specialist",
       "company": "U.S. Secret Service",
       "location": "Multiple Locations",
@@ -473,30 +509,6 @@
       "salary_hourly": 69.19
     },
     {
-      "title": "Program Analyst",
-      "company": "Veterans Health Administration",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/874108100",
-      "salary": "74678",
-      "posted": "2026-06-24",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 74678.0,
-      "salary_hourly": 35.9
-    },
-    {
-      "title": "Visual Information Specialist",
-      "company": "Veterans Health Administration",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/874260600",
-      "salary": "87061",
-      "posted": "2026-06-24",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 87061.0,
-      "salary_hourly": 41.86
-    },
-    {
       "title": "Public Notice for Aviation Safety Technician (Direct Hire)",
       "company": "Federal Aviation Administration",
       "location": "May be filled in various FAA duty locations",
@@ -507,18 +519,6 @@
       "type": "",
       "salary_annual": 47738.0,
       "salary_hourly": 22.95
-    },
-    {
-      "title": "Supervisory Management and Program Analyst",
-      "company": "Veterans Health Administration",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/874084400",
-      "salary": "125776",
-      "posted": "2026-06-24",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
     },
     {
       "title": "Supervisory Management and Program Analyst",
@@ -543,18 +543,6 @@
       "type": "",
       "salary_annual": 67970.0,
       "salary_hourly": 32.68
-    },
-    {
-      "title": "Physician (Dermatology)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/873765900",
-      "salary": "250000",
-      "posted": "2026-06-22",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 250000.0,
-      "salary_hourly": 120.19
     },
     {
       "title": "Administrative Officer",
@@ -627,18 +615,6 @@
       "type": "",
       "salary_annual": 90968.0,
       "salary_hourly": 43.73
-    },
-    {
-      "title": "Construction Analyst",
-      "company": "Small Business Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/873083000",
-      "salary": "43106",
-      "posted": "2026-06-16",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 43106.0,
-      "salary_hourly": 20.72
     },
     {
       "title": "Aviation Safety Inspector (Cabin Safety )",

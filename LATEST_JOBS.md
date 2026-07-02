@@ -1,7 +1,7 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-07-02T01%3A48%3A21Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-68-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-07-02T13%3A35%3A34Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-66-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
@@ -12,6 +12,11 @@
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
+| Supervisory IT Specialist | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 107446 | 2026-07-02 | [Apply](https://www.usajobs.gov:443/job/875052700) |
+| Supervisory Health System Specialist | Veterans Health Administration | Location Negotiable After Selection | Not listed | 107446 | 2026-07-02 | [Apply](https://www.usajobs.gov:443/job/875088100) |
+| Medical Records Technician (Clinical Documentation Improvement Specialist (CDIS - Inpatient)) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-07-02 | [Apply](https://www.usajobs.gov:443/job/875184300) |
+| Program Analyst | Veterans Health Administration | Multiple Locations | Not listed | 106437 | 2026-07-02 | [Apply](https://www.usajobs.gov:443/job/875113100) |
+| Teleradiologist | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 350000 | 2026-07-02 | [Apply](https://www.usajobs.gov:443/job/875197300) |
 | IT Specialist (Appsw) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 125776 | 2026-07-01 | [Apply](https://www.usajobs.gov:443/job/875050900) |
 | IT SPECIALIST (INFOSEC) | Office of Inspector General | Location Negotiable After Selection | Not listed | 125776 | 2026-07-01 | [Apply](https://www.usajobs.gov:443/job/874944600) |
 | Information Technology Specialist (Systems Analysis/Applications Software) | Internal Revenue Service | Multiple Locations | Tour of Duty: Monday-Friday 8:00AM-4:30PM EST, 40 hours per week | 125776 | 2026-07-01 | [Apply](https://www.usajobs.gov:443/job/874730700) |
@@ -27,11 +32,6 @@
 | Information Systems Security Manager, SYD 810 | Space Systems Command | Los Angeles, California | Not listed | 104349 | 2026-06-30 | [Apply](https://www.usajobs.gov:443/job/874922500) |
 | Supervisory Program Analyst | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 106437 | 2026-06-30 | [Apply](https://www.usajobs.gov:443/job/874767000) |
 | Peer Specialist | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-06-30 | [Apply](https://www.usajobs.gov:443/job/874726000) |
-| Supervisory Social Services Assistant | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-06-30 | [Apply](https://www.usajobs.gov:443/job/874803900) |
-| Management & Program Analyst (Technology) | Electronic Health Record Modernization | Multiple Locations | Not listed | 89508 | 2026-06-30 | [Apply](https://www.usajobs.gov:443/job/874941500) |
-| Reimbursable Billing Technician | Veterans Health Administration | Multiple Locations | Not listed | 45409 | 2026-06-30 | [Apply](https://www.usajobs.gov:443/job/874774100) |
-| IT Specialist (Network Services) | Internal Revenue Service | Multiple Locations | Monday-Friday 8:00am-4:30pm, 40 hours per week | 125776 | 2026-06-29 | [Apply](https://www.usajobs.gov:443/job/874506500) |
-| Information Technology Specialist (DATAMGT) | Veterans Affairs, Inspector General | Location Negotiable After Selection | Not listed | 89508 | 2026-06-29 | [Apply](https://www.usajobs.gov:443/job/874732600) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 68 |
+| Total jobs found | 66 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-07-02T01:48:21Z |
+| Last updated | 2026-07-02T13:35:34Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 68 jobs
+- USAJobs: 66 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-07-02T01:48:21Z_
+_Auto-generated legacy snapshot. Last run: 2026-07-02T13:35:34Z_
