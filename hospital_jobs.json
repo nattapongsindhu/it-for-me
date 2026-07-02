@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-01T13:48:55Z",
-  "count": 3,
+  "updated": "2026-07-02T01:48:24Z",
+  "count": 4,
   "sources": [
     "Cedars-Sinai"
   ],
@@ -39,20 +39,36 @@
       "match_reason": "Cedars-Sinai direct match: epic"
     },
     {
-      "title": "Linen Service Tech - Per Diem Cedars-Sinai Medical Center Los Angeles, CA Facilities Req ID: 18537",
+      "title": "Facilities Planning, Design & Construction (FPD&C) - Onsite Cedars-Sinai Medical Center Los Angeles, CA Facilities Req ID: 18796",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/linen-service-tech-per-diem/252/97158509632",
+      "url": "https://careers.cshs.org/job/los-angeles/facilities-planning-design-and-construction-fpd-and-c-onsite/252/97198868608",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/linen-service-tech-per-diem/252/97158509632",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/facilities-planning-design-and-construction-fpd-and-c-onsite/252/97198868608",
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: facilities"
+    },
+    {
+      "title": "HLA Technician I, HLA Lab - FT - Day Cedars-Sinai Medical Center California, US Pathology / Laboratory Req ID: 18418",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/california/hla-technician-i-hla-lab-ft-day/252/97205772928",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/california/hla-technician-i-hla-lab-ft-day/252/97205772928",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: technician"
     }
   ]
 }
