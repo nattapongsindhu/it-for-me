@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-02T13:35:34Z",
+  "updated": "2026-07-03T04:49:54Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 66,
+  "count": 60,
   "jobs": [
     {
       "title": "Supervisory IT Specialist",
@@ -17,6 +17,42 @@
       "salary_hourly": 51.66
     },
     {
+      "title": "Lead IT Specialist (Systems Analysis/Application Software)",
+      "company": "Internal Revenue Service",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/875277900",
+      "salary": "125776",
+      "posted": "2026-07-02",
+      "source": "USAJobs",
+      "type": "Tour of Duty: Day Shift, Monday-Friday 8:00am-4:30pm, 40 hours per week",
+      "salary_annual": 125776.0,
+      "salary_hourly": 60.47
+    },
+    {
+      "title": "Technical Writer/Editor",
+      "company": "Cybersecurity and Infrastructure Security Agency",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/875274500",
+      "salary": "102415",
+      "posted": "2026-07-02",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 102415.0,
+      "salary_hourly": 49.24
+    },
+    {
+      "title": "Supervisory Health System Specialist (Corporate Compliance Chief)",
+      "company": "Veterans Health Administration",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/875230600",
+      "salary": "146632",
+      "posted": "2026-07-02",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 146632.0,
+      "salary_hourly": 70.5
+    },
+    {
       "title": "Supervisory Health System Specialist",
       "company": "Veterans Health Administration",
       "location": "Location Negotiable After Selection",
@@ -27,6 +63,18 @@
       "type": "",
       "salary_annual": 107446.0,
       "salary_hourly": 51.66
+    },
+    {
+      "title": "Medical Records Technician (Coder) - Auditor",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/875273200",
+      "salary": "61722",
+      "posted": "2026-07-02",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 61722.0,
+      "salary_hourly": 29.67
     },
     {
       "title": "Medical Records Technician (Clinical Documentation Improvement Specialist (CDIS - Inpatient))",
@@ -45,6 +93,18 @@
       "company": "Veterans Health Administration",
       "location": "Multiple Locations",
       "url": "https://www.usajobs.gov:443/job/875113100",
+      "salary": "106437",
+      "posted": "2026-07-02",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
+    },
+    {
+      "title": "Supervisory Program Analyst",
+      "company": "Veterans Health Administration",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/875110000",
       "salary": "106437",
       "posted": "2026-07-02",
       "source": "USAJobs",
@@ -221,34 +281,10 @@
       "salary_hourly": 50.17
     },
     {
-      "title": "Supervisory Program Analyst",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/874767000",
-      "salary": "106437",
-      "posted": "2026-06-30",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 106437.0,
-      "salary_hourly": 51.17
-    },
-    {
       "title": "Peer Specialist",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
       "url": "https://www.usajobs.gov:443/job/874726000",
-      "salary": "61722",
-      "posted": "2026-06-30",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 61722.0,
-      "salary_hourly": 29.67
-    },
-    {
-      "title": "Supervisory Social Services Assistant",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/874803900",
       "salary": "61722",
       "posted": "2026-06-30",
       "source": "USAJobs",
@@ -296,19 +332,7 @@
       "title": "Information Technology Specialist (DATAMGT)",
       "company": "Veterans Affairs, Inspector General",
       "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/874732600",
-      "salary": "89508",
-      "posted": "2026-06-29",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 89508.0,
-      "salary_hourly": 43.03
-    },
-    {
-      "title": "Lead Medical Records Technician (Coder)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/874618000",
+      "url": "https://www.usajobs.gov:443/job/874728700",
       "salary": "61722",
       "posted": "2026-06-29",
       "source": "USAJobs",
@@ -377,42 +401,6 @@
       "salary_hourly": 37.19
     },
     {
-      "title": "IT Project Manager",
-      "company": "Office of the Assistant Secretary for Administration and Management",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/874323300",
-      "salary": "147945",
-      "posted": "2026-06-26",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 147945.0,
-      "salary_hourly": 71.13
-    },
-    {
-      "title": "Supervisory IT Specialist (Network)",
-      "company": "Deputy Assistant Secretary for Information and Technology",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/874382200",
-      "salary": "106437",
-      "posted": "2026-06-26",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 106437.0,
-      "salary_hourly": 51.17
-    },
-    {
-      "title": "Program Manager",
-      "company": "Cybersecurity and Infrastructure Security Agency",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/874560900",
-      "salary": "143913",
-      "posted": "2026-06-26",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 143913.0,
-      "salary_hourly": 69.19
-    },
-    {
       "title": "Supervisory Information Technology Program Manager",
       "company": "Office of the Chief Information Officer",
       "location": "Location Negotiable After Selection",
@@ -425,16 +413,16 @@
       "salary_hourly": 60.47
     },
     {
-      "title": "Health Systems Specialist",
-      "company": "Veterans Affairs, Inspector General",
+      "title": "Program Manager",
+      "company": "Cybersecurity and Infrastructure Security Agency",
       "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/874603100",
-      "salary": "106437",
+      "url": "https://www.usajobs.gov:443/job/874560900",
+      "salary": "143913",
       "posted": "2026-06-26",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 106437.0,
-      "salary_hourly": 51.17
+      "salary_annual": 143913.0,
+      "salary_hourly": 69.19
     },
     {
       "title": "IT Specialist (AI)",
@@ -473,18 +461,6 @@
       "salary_hourly": 69.19
     },
     {
-      "title": "Supervisory Physical Security Specialist",
-      "company": "U.S. Secret Service",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/874396100",
-      "salary": "107446",
-      "posted": "2026-06-25",
-      "source": "USAJobs",
-      "type": "This position may require shift work.",
-      "salary_annual": 107446.0,
-      "salary_hourly": 51.66
-    },
-    {
       "title": "IT Specialist (Security)",
       "company": "Federal Aviation Administration",
       "location": "FAA Nationwide-Selectee Remains in Current Duty Location",
@@ -495,18 +471,6 @@
       "type": "",
       "salary_annual": 77351.0,
       "salary_hourly": 37.19
-    },
-    {
-      "title": "Intelligence Research Specialist",
-      "company": "Cybersecurity and Infrastructure Security Agency",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/874115600",
-      "salary": "143913",
-      "posted": "2026-06-24",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 143913.0,
-      "salary_hourly": 69.19
     },
     {
       "title": "Public Notice for Aviation Safety Technician (Direct Hire)",
@@ -533,18 +497,6 @@
       "salary_hourly": 51.17
     },
     {
-      "title": "Supervisory Medical Records Technician (Coder)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/873805900",
-      "salary": "67970",
-      "posted": "2026-06-22",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 67970.0,
-      "salary_hourly": 32.68
-    },
-    {
       "title": "Administrative Officer",
       "company": "Veterans Health Administration",
       "location": "Los Angeles, California",
@@ -555,42 +507,6 @@
       "type": "",
       "salary_annual": 87061.0,
       "salary_hourly": 41.86
-    },
-    {
-      "title": "Human Resources Specialist (Compensation)",
-      "company": "Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/873717800",
-      "salary": "125776",
-      "posted": "2026-06-19",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
-    },
-    {
-      "title": "Supervisory IT Specialist (Security)",
-      "company": "Administrative Office of the U.S. Courts",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/873567900",
-      "salary": "106437",
-      "posted": "2026-06-18",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 106437.0,
-      "salary_hourly": 51.17
-    },
-    {
-      "title": "Lead National Resource Specialist (Program Services)",
-      "company": "Small Business Administration",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/873616300",
-      "salary": "63795",
-      "posted": "2026-06-18",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 63795.0,
-      "salary_hourly": 30.67
     },
     {
       "title": "IT Project Manager",
@@ -615,18 +531,6 @@
       "type": "",
       "salary_annual": 90968.0,
       "salary_hourly": 43.73
-    },
-    {
-      "title": "Aviation Safety Inspector (Cabin Safety )",
-      "company": "Federal Aviation Administration",
-      "location": "FAA Nationwide-Selectee Remains in Current Duty Location",
-      "url": "https://www.usajobs.gov:443/job/872791300",
-      "salary": "90925",
-      "posted": "2026-06-12",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 90925.0,
-      "salary_hourly": 43.71
     },
     {
       "title": "Police Officer - Recruitment/Relocation Incentive Authorized",
@@ -783,6 +687,30 @@
       "type": "",
       "salary_annual": 52727.0,
       "salary_hourly": 25.35
+    },
+    {
+      "title": "Electronic Engineer",
+      "company": "Department of the Air Force - Agency Wide",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/852987000",
+      "salary": "63795",
+      "posted": "2025-12-22",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 63795.0,
+      "salary_hourly": 30.67
+    },
+    {
+      "title": "Economist",
+      "company": "Department of the Air Force - Agency Wide",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/853032300",
+      "salary": "74678",
+      "posted": "2025-12-22",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 74678.0,
+      "salary_hourly": 35.9
     },
     {
       "title": "IT SPECIALIST",
