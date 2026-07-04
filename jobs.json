@@ -1,9 +1,21 @@
 {
-  "updated": "2026-07-03T15:11:42Z",
+  "updated": "2026-07-04T04:41:39Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 60,
+  "count": 59,
   "jobs": [
+    {
+      "title": "Administrative Officer (Budget)",
+      "company": "Federal Aviation Administration",
+      "location": "FAA Location Negotiable Upon Request - See Additional Info",
+      "url": "https://www.usajobs.gov:443/job/875126500",
+      "salary": "62660",
+      "posted": "2026-07-04",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 62660.0,
+      "salary_hourly": 30.12
+    },
     {
       "title": "Supervisory IT Specialist",
       "company": "Deputy Assistant Secretary for Information and Technology",
@@ -63,18 +75,6 @@
       "type": "",
       "salary_annual": 107446.0,
       "salary_hourly": 51.66
-    },
-    {
-      "title": "Medical Records Technician (Coder) - Auditor",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/875273200",
-      "salary": "61722",
-      "posted": "2026-07-02",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 61722.0,
-      "salary_hourly": 29.67
     },
     {
       "title": "Medical Records Technician (Clinical Documentation Improvement Specialist (CDIS - Inpatient))",
@@ -159,18 +159,6 @@
       "type": "Tour of Duty: Monday-Friday 8:00AM-4:30PM EST, 40 hours per week",
       "salary_annual": 125776.0,
       "salary_hourly": 60.47
-    },
-    {
-      "title": "Information Technology Specialist (Cloud Architect)",
-      "company": "Administrative Office of the U.S. Courts",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/874532200",
-      "salary": "74678",
-      "posted": "2026-07-01",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 74678.0,
-      "salary_hourly": 35.9
     },
     {
       "title": "IT Specialist (Systems Analysis)",
@@ -353,6 +341,18 @@
       "salary_hourly": 30.16
     },
     {
+      "title": "Tax Analyst",
+      "company": "Internal Revenue Service",
+      "location": "IRS Nationwide Locations",
+      "url": "https://www.usajobs.gov:443/job/874543500",
+      "salary": "106437",
+      "posted": "2026-06-29",
+      "source": "USAJobs",
+      "type": "Tour of Duty: Monday - Friday, Day Shift hours negotiable start time between 6:00am and end time by 6:00pm",
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
+    },
+    {
       "title": "Supervisory Housing Program Officer",
       "company": "Assistant Secretary for Housing-Federal Housing Commissioner",
       "location": "Multiple Locations",
@@ -447,18 +447,6 @@
       "type": "",
       "salary_annual": 90968.0,
       "salary_hourly": 43.73
-    },
-    {
-      "title": "External Affairs Specialist",
-      "company": "Cybersecurity and Infrastructure Security Agency",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/874342000",
-      "salary": "143913",
-      "posted": "2026-06-25",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 143913.0,
-      "salary_hourly": 69.19
     },
     {
       "title": "IT Specialist (Security)",
