@@ -1,7 +1,7 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-07-06T05%3A18%3A37Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-62-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-07-06T16%3A20%3A08Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-64-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
@@ -13,6 +13,8 @@
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
 | IT Specialist | Electronic Health Record Modernization | Multiple Locations | Not listed | 90925 | 2026-07-06 | [Apply](https://www.usajobs.gov:443/job/875311300) |
+| Supervisory IT PROGRAM MANAGER | Deputy Assistant Secretary for Information and Technology | Multiple Locations | Not listed | 126384 | 2026-07-06 | [Apply](https://www.usajobs.gov:443/job/875389700) |
+| Information Technology Specialist | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 106437 | 2026-07-06 | [Apply](https://www.usajobs.gov:443/job/875353700) |
 | Social Science Program Specialist | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 74678 | 2026-07-06 | [Apply](https://www.usajobs.gov:443/job/875177500) |
 | Management & Prog Analyst | Veterans Health Administration | Location Negotiable After Selection | Not listed | 125776 | 2026-07-06 | [Apply](https://www.usajobs.gov:443/job/875253000) |
 | Industrial Engineer - Strength Analysis Engineer | Veterans Health Administration | Location Negotiable After Selection | Not listed | 106437 | 2026-07-06 | [Apply](https://www.usajobs.gov:443/job/875214200) |
@@ -21,6 +23,7 @@
 | Lead IT Specialist (Systems Analysis/Application Software) | Internal Revenue Service | Multiple Locations | Tour of Duty: Day Shift, Monday-Friday 8:00am-4:30pm, 40 hours per week | 125776 | 2026-07-02 | [Apply](https://www.usajobs.gov:443/job/875277900) |
 | Technical Writer/Editor | Cybersecurity and Infrastructure Security Agency | Location Negotiable After Selection | Not listed | 102415 | 2026-07-02 | [Apply](https://www.usajobs.gov:443/job/875274500) |
 | Supervisory Health System Specialist (Corporate Compliance Chief) | Veterans Health Administration | Los Angeles, California | Not listed | 146632 | 2026-07-02 | [Apply](https://www.usajobs.gov:443/job/875230600) |
+| Management and Program Analyst | Wage and Hour Division | Location Negotiable After Selection | Not listed | 106437 | 2026-07-02 | [Apply](https://www.usajobs.gov:443/job/875378600) |
 | Supervisory Health System Specialist | Veterans Health Administration | Location Negotiable After Selection | Not listed | 107446 | 2026-07-02 | [Apply](https://www.usajobs.gov:443/job/875088100) |
 | Medical Records Technician (Clinical Documentation Improvement Specialist (CDIS - Inpatient)) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-07-02 | [Apply](https://www.usajobs.gov:443/job/875184300) |
 | Program Analyst | Veterans Health Administration | Multiple Locations | Not listed | 106437 | 2026-07-02 | [Apply](https://www.usajobs.gov:443/job/875113100) |
@@ -29,9 +32,6 @@
 | IT Specialist (Appsw) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 125776 | 2026-07-01 | [Apply](https://www.usajobs.gov:443/job/875050900) |
 | IT SPECIALIST (INFOSEC) | Office of Inspector General | Location Negotiable After Selection | Not listed | 125776 | 2026-07-01 | [Apply](https://www.usajobs.gov:443/job/874944600) |
 | Information Technology Specialist (Systems Analysis/Applications Software) | Internal Revenue Service | Multiple Locations | Tour of Duty: Monday-Friday 8:00AM-4:30PM EST, 40 hours per week | 125776 | 2026-07-01 | [Apply](https://www.usajobs.gov:443/job/874730700) |
-| IT Specialist (Systems Analysis) | Electronic Health Record Modernization | Multiple Locations | Not listed | 90925 | 2026-07-01 | [Apply](https://www.usajobs.gov:443/job/874956000) |
-| SUPERVISORY IT SPECIALIST (GROUP MANAGER) | Office of the Chief Information Officer | Location Negotiable After Selection | Not listed | 89508 | 2026-07-01 | [Apply](https://www.usajobs.gov:443/job/874810700) |
-| IT Specialist (APPSW) "Software Engineer", GS-2210-15 FPL GS-15 (Direct Hire) (Open Continuous) | Federal Student Aid | Multiple Locations | Not listed | 147945 | 2026-07-01 | [Apply](https://www.usajobs.gov:443/job/875046600) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 62 |
+| Total jobs found | 64 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-07-06T05:18:37Z |
+| Last updated | 2026-07-06T16:20:08Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 62 jobs
+- USAJobs: 64 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-07-06T05:18:37Z_
+_Auto-generated legacy snapshot. Last run: 2026-07-06T16:20:08Z_
