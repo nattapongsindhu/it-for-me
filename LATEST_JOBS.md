@@ -1,17 +1,21 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-07-05T14%3A43%3A12Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-59-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-07-06T05%3A18%3A37Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-62-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
 
 ---
 
-## Latest Jobs - July 05, 2026
+## Latest Jobs - July 06, 2026
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
+| IT Specialist | Electronic Health Record Modernization | Multiple Locations | Not listed | 90925 | 2026-07-06 | [Apply](https://www.usajobs.gov:443/job/875311300) |
+| Social Science Program Specialist | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 74678 | 2026-07-06 | [Apply](https://www.usajobs.gov:443/job/875177500) |
+| Management & Prog Analyst | Veterans Health Administration | Location Negotiable After Selection | Not listed | 125776 | 2026-07-06 | [Apply](https://www.usajobs.gov:443/job/875253000) |
+| Industrial Engineer - Strength Analysis Engineer | Veterans Health Administration | Location Negotiable After Selection | Not listed | 106437 | 2026-07-06 | [Apply](https://www.usajobs.gov:443/job/875214200) |
 | Administrative Officer (Budget) | Federal Aviation Administration | FAA Location Negotiable Upon Request - See Additional Info | Not listed | 62660 | 2026-07-04 | [Apply](https://www.usajobs.gov:443/job/875126500) |
 | Supervisory IT Specialist | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 107446 | 2026-07-02 | [Apply](https://www.usajobs.gov:443/job/875052700) |
 | Lead IT Specialist (Systems Analysis/Application Software) | Internal Revenue Service | Multiple Locations | Tour of Duty: Day Shift, Monday-Friday 8:00am-4:30pm, 40 hours per week | 125776 | 2026-07-02 | [Apply](https://www.usajobs.gov:443/job/875277900) |
@@ -28,10 +32,6 @@
 | IT Specialist (Systems Analysis) | Electronic Health Record Modernization | Multiple Locations | Not listed | 90925 | 2026-07-01 | [Apply](https://www.usajobs.gov:443/job/874956000) |
 | SUPERVISORY IT SPECIALIST (GROUP MANAGER) | Office of the Chief Information Officer | Location Negotiable After Selection | Not listed | 89508 | 2026-07-01 | [Apply](https://www.usajobs.gov:443/job/874810700) |
 | IT Specialist (APPSW) "Software Engineer", GS-2210-15 FPL GS-15 (Direct Hire) (Open Continuous) | Federal Student Aid | Multiple Locations | Not listed | 147945 | 2026-07-01 | [Apply](https://www.usajobs.gov:443/job/875046600) |
-| Lead Data Scientist (Artificial Intelligence/Machine Learning) | Internal Revenue Service | Multiple Locations | Tour of Duty: Day Shift, Monday-Friday 08:00am-04:30pm, 40 hours per week. | 125776 | 2026-07-01 | [Apply](https://www.usajobs.gov:443/job/874939400) |
-| Health System Specialist (Strategic Planner) (Detail not to exceed 120 Days) | Veterans Health Administration | Location Negotiable After Selection | Core hours Required: Monday-Friday, 8:00am-4:30pm pacific standard time | 125776 | 2026-07-01 | [Apply](https://www.usajobs.gov:443/job/875003200) |
-| Forestry Technician (Recreation) | Forest Service | Location Negotiable After Selection | Not listed | 19.52 | 2026-07-01 | [Apply](https://www.usajobs.gov:443/job/874807200) |
-| Supervisory Program Oversight Specialist | Veterans Benefits Administration | Multiple Locations | Not listed | 89508 | 2026-07-01 | [Apply](https://www.usajobs.gov:443/job/875065400) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 59 |
+| Total jobs found | 62 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-07-05T14:43:12Z |
+| Last updated | 2026-07-06T05:18:37Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 59 jobs
+- USAJobs: 62 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-07-05T14:43:12Z_
+_Auto-generated legacy snapshot. Last run: 2026-07-06T05:18:37Z_

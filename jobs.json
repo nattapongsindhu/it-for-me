@@ -1,9 +1,57 @@
 {
-  "updated": "2026-07-05T14:43:12Z",
+  "updated": "2026-07-06T05:18:37Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 59,
+  "count": 62,
   "jobs": [
+    {
+      "title": "IT Specialist",
+      "company": "Electronic Health Record Modernization",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/875311300",
+      "salary": "90925",
+      "posted": "2026-07-06",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 90925.0,
+      "salary_hourly": 43.71
+    },
+    {
+      "title": "Social Science Program Specialist",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/875177500",
+      "salary": "74678",
+      "posted": "2026-07-06",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 74678.0,
+      "salary_hourly": 35.9
+    },
+    {
+      "title": "Management & Prog Analyst",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/875253000",
+      "salary": "125776",
+      "posted": "2026-07-06",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 125776.0,
+      "salary_hourly": 60.47
+    },
+    {
+      "title": "Industrial Engineer - Strength Analysis Engineer",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/875214200",
+      "salary": "106437",
+      "posted": "2026-07-06",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
+    },
     {
       "title": "Administrative Officer (Budget)",
       "company": "Federal Aviation Administration",
@@ -339,18 +387,6 @@
       "type": "",
       "salary_annual": 62729.0,
       "salary_hourly": 30.16
-    },
-    {
-      "title": "Tax Analyst",
-      "company": "Internal Revenue Service",
-      "location": "IRS Nationwide Locations",
-      "url": "https://www.usajobs.gov:443/job/874543500",
-      "salary": "106437",
-      "posted": "2026-06-29",
-      "source": "USAJobs",
-      "type": "Tour of Duty: Monday - Friday, Day Shift hours negotiable start time between 6:00am and end time by 6:00pm",
-      "salary_annual": 106437.0,
-      "salary_hourly": 51.17
     },
     {
       "title": "Supervisory Housing Program Officer",
