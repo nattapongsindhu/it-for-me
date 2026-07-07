@@ -1,6 +1,6 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-07-07T04%3A59%3A43Z-blue?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-07-07T15%3A43%3A16Z-blue?style=flat-square)
 ![Jobs](https://img.shields.io/badge/Jobs_Found-63-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
@@ -14,12 +14,12 @@
 |-------|---------|----------|------|--------|--------|------|
 | IT Specialist (Applications Software) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 106437 | 2026-07-07 | [Apply](https://www.usajobs.gov:443/job/875406400) |
 | Health System Specialist | Veterans Health Administration | Multiple Locations | Not listed | 125776 | 2026-07-07 | [Apply](https://www.usajobs.gov:443/job/875425400) |
+| Physician (Radiologist) - EDRP & Recruitment Incentive | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 300000 | 2026-07-07 | [Apply](https://www.usajobs.gov:443/job/875506800) |
 | IT Specialist | Electronic Health Record Modernization | Multiple Locations | Not listed | 90925 | 2026-07-06 | [Apply](https://www.usajobs.gov:443/job/875311300) |
 | Supervisory IT PROGRAM MANAGER | Deputy Assistant Secretary for Information and Technology | Multiple Locations | Not listed | 126384 | 2026-07-06 | [Apply](https://www.usajobs.gov:443/job/875389700) |
 | Information Technology Specialist | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 106437 | 2026-07-06 | [Apply](https://www.usajobs.gov:443/job/875353700) |
 | IT Specialist (Policy and Planning) | Deputy Assistant Secretary for Information and Technology | Multiple Locations | Not listed | 125776 | 2026-07-06 | [Apply](https://www.usajobs.gov:443/job/875423600) |
 | Supervisory Auditor | Office of the Inspector General | Multiple Locations | Not listed | 125776 | 2026-07-06 | [Apply](https://www.usajobs.gov:443/job/875434600) |
-| Social Science Program Specialist | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 74678 | 2026-07-06 | [Apply](https://www.usajobs.gov:443/job/875177500) |
 | Program Applications Specialist- Clinic Profiler Manager | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 62640 | 2026-07-06 | [Apply](https://www.usajobs.gov:443/job/875403900) |
 | Management & Prog Analyst | Veterans Health Administration | Location Negotiable After Selection | Not listed | 125776 | 2026-07-06 | [Apply](https://www.usajobs.gov:443/job/875253000) |
 | Industrial Engineer - Strength Analysis Engineer | Veterans Health Administration | Location Negotiable After Selection | Not listed | 106437 | 2026-07-06 | [Apply](https://www.usajobs.gov:443/job/875214200) |
@@ -41,7 +41,7 @@
 |--------|-------|
 | Total jobs found | 63 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-07-07T04:59:43Z |
+| Last updated | 2026-07-07T15:43:16Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-07-07T04:59:43Z_
+_Auto-generated legacy snapshot. Last run: 2026-07-07T15:43:16Z_

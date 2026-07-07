@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T04:59:43Z",
+  "updated": "2026-07-07T15:43:16Z",
   "zip": "90029",
   "radius_mi": 5,
   "count": 63,
@@ -27,6 +27,18 @@
       "type": "",
       "salary_annual": 125776.0,
       "salary_hourly": 60.47
+    },
+    {
+      "title": "Physician (Radiologist) - EDRP & Recruitment Incentive",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/875506800",
+      "salary": "300000",
+      "posted": "2026-07-07",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 300000.0,
+      "salary_hourly": 144.23
     },
     {
       "title": "IT Specialist",
@@ -87,18 +99,6 @@
       "type": "",
       "salary_annual": 125776.0,
       "salary_hourly": 60.47
-    },
-    {
-      "title": "Social Science Program Specialist",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/875177500",
-      "salary": "74678",
-      "posted": "2026-07-06",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 74678.0,
-      "salary_hourly": 35.9
     },
     {
       "title": "Program Applications Specialist- Clinic Profiler Manager",
