@@ -1,9 +1,33 @@
 {
-  "updated": "2026-07-06T16:20:08Z",
+  "updated": "2026-07-07T04:59:43Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 64,
+  "count": 63,
   "jobs": [
+    {
+      "title": "IT Specialist (Applications Software)",
+      "company": "Deputy Assistant Secretary for Information and Technology",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/875406400",
+      "salary": "106437",
+      "posted": "2026-07-07",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
+    },
+    {
+      "title": "Health System Specialist",
+      "company": "Veterans Health Administration",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/875425400",
+      "salary": "125776",
+      "posted": "2026-07-07",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 125776.0,
+      "salary_hourly": 60.47
+    },
     {
       "title": "IT Specialist",
       "company": "Electronic Health Record Modernization",
@@ -41,6 +65,30 @@
       "salary_hourly": 51.17
     },
     {
+      "title": "IT Specialist (Policy and Planning)",
+      "company": "Deputy Assistant Secretary for Information and Technology",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/875423600",
+      "salary": "125776",
+      "posted": "2026-07-06",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 125776.0,
+      "salary_hourly": 60.47
+    },
+    {
+      "title": "Supervisory Auditor",
+      "company": "Office of the Inspector General",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/875434600",
+      "salary": "125776",
+      "posted": "2026-07-06",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 125776.0,
+      "salary_hourly": 60.47
+    },
+    {
       "title": "Social Science Program Specialist",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -51,6 +99,18 @@
       "type": "",
       "salary_annual": 74678.0,
       "salary_hourly": 35.9
+    },
+    {
+      "title": "Program Applications Specialist- Clinic Profiler Manager",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/875403900",
+      "salary": "62640",
+      "posted": "2026-07-06",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 62640.0,
+      "salary_hourly": 30.12
     },
     {
       "title": "Management & Prog Analyst",
@@ -147,18 +207,6 @@
       "type": "",
       "salary_annual": 106437.0,
       "salary_hourly": 51.17
-    },
-    {
-      "title": "Supervisory Health System Specialist",
-      "company": "Veterans Health Administration",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/875088100",
-      "salary": "107446",
-      "posted": "2026-07-02",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 107446.0,
-      "salary_hourly": 51.66
     },
     {
       "title": "Medical Records Technician (Clinical Documentation Improvement Specialist (CDIS - Inpatient))",
@@ -353,18 +401,6 @@
       "salary_hourly": 29.67
     },
     {
-      "title": "Management & Program Analyst (Technology)",
-      "company": "Electronic Health Record Modernization",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/874941500",
-      "salary": "89508",
-      "posted": "2026-06-30",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 89508.0,
-      "salary_hourly": 43.03
-    },
-    {
       "title": "Reimbursable Billing Technician",
       "company": "Veterans Health Administration",
       "location": "Multiple Locations",
@@ -392,13 +428,13 @@
       "title": "Information Technology Specialist (DATAMGT)",
       "company": "Veterans Affairs, Inspector General",
       "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/874728700",
-      "salary": "61722",
+      "url": "https://www.usajobs.gov:443/job/874732600",
+      "salary": "89508",
       "posted": "2026-06-29",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 61722.0,
-      "salary_hourly": 29.67
+      "salary_annual": 89508.0,
+      "salary_hourly": 43.03
     },
     {
       "title": "Medical Records Technician (Coder) Auditor",
@@ -423,18 +459,6 @@
       "type": "",
       "salary_annual": 125776.0,
       "salary_hourly": 60.47
-    },
-    {
-      "title": "Nursing Assistant (5 South Med/Surg-Telemetry)",
-      "company": "Veterans Health Administration",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/874610900",
-      "salary": "42947",
-      "posted": "2026-06-29",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 42947.0,
-      "salary_hourly": 20.65
     },
     {
       "title": "Management and Program Analyst",
@@ -471,18 +495,6 @@
       "type": "",
       "salary_annual": 143913.0,
       "salary_hourly": 69.19
-    },
-    {
-      "title": "Supervisory Information Technology Program Manager",
-      "company": "Office of the Chief Information Officer",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/874521200",
-      "salary": "125776",
-      "posted": "2026-06-26",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
     },
     {
       "title": "IT Specialist (AI)",
@@ -531,30 +543,6 @@
       "type": "",
       "salary_annual": 47738.0,
       "salary_hourly": 22.95
-    },
-    {
-      "title": "Supervisory Management and Program Analyst",
-      "company": "Wage and Hour Division",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/873952300",
-      "salary": "106437",
-      "posted": "2026-06-23",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 106437.0,
-      "salary_hourly": 51.17
-    },
-    {
-      "title": "Administrative Officer",
-      "company": "Veterans Health Administration",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/873868100",
-      "salary": "87061",
-      "posted": "2026-06-22",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 87061.0,
-      "salary_hourly": 41.86
     },
     {
       "title": "IT Project Manager",

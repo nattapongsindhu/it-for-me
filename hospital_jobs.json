@@ -1,27 +1,11 @@
 {
-  "updated": "2026-07-06T16:20:10Z",
-  "count": 3,
+  "updated": "2026-07-07T04:59:45Z",
+  "count": 5,
   "sources": [
     "Cedars-Sinai"
   ],
   "track_slug": "hospital-careers",
   "jobs": [
-    {
-      "title": "Epic ADT/Prelude Analyst - Remote",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/beverly-hills/epic-adt-prelude-analyst-remote/252/96298197408",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/epic-adt-prelude-analyst-remote/252/96298197408",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: epic"
-    },
     {
       "title": "Epic Principal Trainer - Inpatient (Orders/ClinDoc) - Hybrid",
       "company": "Cedars-Sinai",
@@ -39,20 +23,68 @@
       "match_reason": "Cedars-Sinai direct match: epic"
     },
     {
-      "title": "Marketing Analyst (Measurement, Insights, and Analytics) - Hybrid Cedars-Sinai Medical Center Los Angeles, CA Information Technology Req ID: 15709",
+      "title": "HLA Technician I, HLA Lab - FT - Day Cedars-Sinai Medical Center Los Angeles, CA Pathology / Laboratory Req ID: 18418",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/marketing-analyst-measurement-insights-and-analytics-hybrid/252/92428487312",
+      "url": "https://careers.cshs.org/job/los-angeles/hla-technician-i-hla-lab-ft-day/252/97205772928",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/marketing-analyst-measurement-insights-and-analytics-hybrid/252/92428487312",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/hla-technician-i-hla-lab-ft-day/252/97205772928",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: technician"
+    },
+    {
+      "title": "Per Diem Technical Assistant - Diagnostic Radiology (X-Ray) - 8-Hour Day Shift Cedars-Sinai Medical Center Los Angeles, CA Imaging Req ID: 18747",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/per-diem-technical-assistant-diagnostic-radiology-x-ray-8-hour-day-shift/252/97447690416",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/per-diem-technical-assistant-diagnostic-radiology-x-ray-8-hour-day-shift/252/97447690416",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: imaging"
+    },
+    {
+      "title": "Senior EIS Project Manager - Hybrid Cedars-Sinai Medical Center Los Angeles, CA Information Technology Req ID: 18436",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/senior-eis-project-manager-hybrid/252/97447688256",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/senior-eis-project-manager-hybrid/252/97447688256",
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: information technology"
+    },
+    {
+      "title": "Technical Assistant - Diagnostic Radiology (X-Ray) - 8-Hour Day Shift Cedars-Sinai Medical Center Los Angeles, CA Imaging Req ID: 18746",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/technical-assistant-diagnostic-radiology-x-ray-8-hour-day-shift/252/97447690336",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/technical-assistant-diagnostic-radiology-x-ray-8-hour-day-shift/252/97447690336",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: imaging"
     }
   ]
 }
