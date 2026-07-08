@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T04:21:06Z",
+  "updated": "2026-07-08T15:21:45Z",
   "zip": "90029",
   "radius_mi": 5,
   "count": 60,
@@ -39,6 +39,18 @@
       "type": "",
       "salary_annual": 74678.0,
       "salary_hourly": 35.9
+    },
+    {
+      "title": "Medical Records Technician (Coder-Inpatient)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/875648700",
+      "salary": "55882",
+      "posted": "2026-07-08",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 55882.0,
+      "salary_hourly": 26.87
     },
     {
       "title": "Aviation Technical Systems Manager",
@@ -711,18 +723,6 @@
       "type": "",
       "salary_annual": 56763.0,
       "salary_hourly": 27.29
-    },
-    {
-      "title": "ENGINEERING",
-      "company": "Air Force Civilian Career Training",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/846773600",
-      "salary": "55486",
-      "posted": "2025-09-29",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 55486.0,
-      "salary_hourly": 26.68
     }
   ]
 }
