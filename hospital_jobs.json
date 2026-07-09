@@ -1,26 +1,74 @@
 {
-  "updated": "2026-07-08T15:21:47Z",
-  "count": 4,
+  "updated": "2026-07-09T04:59:35Z",
+  "count": 7,
   "sources": [
     "Cedars-Sinai"
   ],
   "track_slug": "hospital-careers",
   "jobs": [
     {
-      "title": "EKG Tech - 8-Hour Day Shift Cedars-Sinai Medical Center Beverly Hills, CA Imaging Req ID: 18741",
+      "title": "Echo Tech, Full-Time, Days Cedars-Sinai Marina Hospital Marina del Rey, CA Imaging Req ID: 18084",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/beverly-hills/ekg-tech-8-hour-day-shift/252/97485055520",
+      "url": "https://careers.cshs.org/job/marina-del-rey/echo-tech-full-time-days/252/97528941776",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/ekg-tech-8-hour-day-shift/252/97485055520",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/marina-del-rey/echo-tech-full-time-days/252/97528941776",
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: imaging"
+    },
+    {
+      "title": "Echo Tech, Full-Time, Days Cedars-Sinai Marina Hospital Marina del Rey, CA Imaging Req ID: 18786",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/marina-del-rey/echo-tech-full-time-days/252/97528944720",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/marina-del-rey/echo-tech-full-time-days/252/97528944720",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: imaging"
+    },
+    {
+      "title": "Echo Tech, Per Diem, Days Cedars-Sinai Marina Hospital Marina del Rey, CA Imaging Req ID: 18790",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/marina-del-rey/echo-tech-per-diem-days/252/97528944800",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/marina-del-rey/echo-tech-per-diem-days/252/97528944800",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: imaging"
+    },
+    {
+      "title": "Epic Beaker Analyst (CP & AP) - Remote",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/epic-beaker-analyst-cp-and-ap-remote/252/97528945168",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/epic-beaker-analyst-cp-and-ap-remote/252/97528945168",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: epic"
     },
     {
       "title": "Epic Principal Trainer - Inpatient (Orders/ClinDoc) - Hybrid",
@@ -39,36 +87,36 @@
       "match_reason": "Cedars-Sinai direct match: epic"
     },
     {
-      "title": "Per Diem EKG Tech - 8-Hour Night Shift Cedars-Sinai Medical Center Beverly Hills, CA Imaging Req ID: 18743",
+      "title": "Interventional Radiologic Technologist II, Per Diem, Days Cedars-Sinai Marina Hospital Marina del Rey, CA Imaging Req ID: 18331",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/beverly-hills/per-diem-ekg-tech-8-hour-night-shift/252/97485055584",
+      "url": "https://careers.cshs.org/job/marina-del-rey/interventional-radiologic-technologist-ii-per-diem-days/252/97536923392",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/per-diem-ekg-tech-8-hour-night-shift/252/97485055584",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/marina-del-rey/interventional-radiologic-technologist-ii-per-diem-days/252/97536923392",
       "track_slug": "hospital-careers",
       "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging"
+      "match_reason": "Cedars-Sinai direct match: imaging, technologist"
     },
     {
-      "title": "Per Diem Echo Sonographer II - 8-Hour Day Shift (Inpatient) Cedars-Sinai Medical Center Los Angeles, CA Imaging Req ID: 18739",
+      "title": "Senior Epic Beaker Analyst - Remote",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/per-diem-echo-sonographer-ii-8-hour-day-shift-inpatient/252/97491371184",
+      "url": "https://careers.cshs.org/job/los-angeles/senior-epic-beaker-analyst-remote/252/97528943808",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/per-diem-echo-sonographer-ii-8-hour-day-shift-inpatient/252/97491371184",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/senior-epic-beaker-analyst-remote/252/97528943808",
       "track_slug": "hospital-careers",
       "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging"
+      "match_reason": "Cedars-Sinai direct match: epic"
     }
   ]
 }
