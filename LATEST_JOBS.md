@@ -1,7 +1,7 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-07-09T04%3A59%3A33Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-57-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-07-09T15%3A55%3A45Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-59-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
@@ -12,7 +12,11 @@
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
+| IT Project Manager, GS-2210-14, FPL 14 (DH) (Open-Continuous) | Federal Student Aid | Multiple Locations | Not listed | 127829 | 2026-07-09 | [Apply](https://www.usajobs.gov:443/job/875885700) |
 | Science Communications & Synthesis Support for Pollinator Research | Geological Survey | Anywhere in the U.S. (remote job) | Not listed | 0 | 2026-07-09 | [Apply](https://www.usajobs.gov:443/job/875692900) |
+| Medical Records Technician (Coder - Inpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 36409 | 2026-07-09 | [Apply](https://www.usajobs.gov:443/job/875876000) |
+| Supervisory Investigator Reviewer (Equal Employment Specialist) | Deputy Assistant Secretary for Office of Resolution Management | Location Negotiable After Selection | Not listed | 130042 | 2026-07-09 | [Apply](https://www.usajobs.gov:443/job/875867900) |
+| Lead Medical Records Technician (Coder-Inpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-07-09 | [Apply](https://www.usajobs.gov:443/job/875881400) |
 | Program Analyst | Veterans Health Administration | Multiple Locations | Not listed | 106437 | 2026-07-09 | [Apply](https://www.usajobs.gov:443/job/875802300) |
 | Senior Technical Manager | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 125776 | 2026-07-08 | [Apply](https://www.usajobs.gov:443/job/875425100) |
 | Management and Program Analyst | Cybersecurity and Infrastructure Security Agency | Location Negotiable After Selection | Not listed | 85447 | 2026-07-08 | [Apply](https://www.usajobs.gov:443/job/875768400) |
@@ -28,10 +32,6 @@
 | Information Technology Specialist | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 106437 | 2026-07-06 | [Apply](https://www.usajobs.gov:443/job/875353700) |
 | IT Specialist (Policy and Planning) | Deputy Assistant Secretary for Information and Technology | Multiple Locations | Not listed | 125776 | 2026-07-06 | [Apply](https://www.usajobs.gov:443/job/875423600) |
 | Supervisory Auditor | Office of the Inspector General | Multiple Locations | Not listed | 125776 | 2026-07-06 | [Apply](https://www.usajobs.gov:443/job/875434600) |
-| Management & Prog Analyst | Veterans Health Administration | Location Negotiable After Selection | Not listed | 125776 | 2026-07-06 | [Apply](https://www.usajobs.gov:443/job/875253000) |
-| Industrial Engineer - Strength Analysis Engineer | Veterans Health Administration | Location Negotiable After Selection | Not listed | 106437 | 2026-07-06 | [Apply](https://www.usajobs.gov:443/job/875214200) |
-| Administrative Officer (Budget) | Federal Aviation Administration | FAA Location Negotiable Upon Request - See Additional Info | Not listed | 62660 | 2026-07-04 | [Apply](https://www.usajobs.gov:443/job/875126500) |
-| Supervisory IT Specialist | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 107446 | 2026-07-02 | [Apply](https://www.usajobs.gov:443/job/875052700) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 57 |
+| Total jobs found | 59 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-07-09T04:59:33Z |
+| Last updated | 2026-07-09T15:55:45Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 57 jobs
+- USAJobs: 59 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-07-09T04:59:33Z_
+_Auto-generated legacy snapshot. Last run: 2026-07-09T15:55:45Z_

@@ -1,27 +1,11 @@
 {
-  "updated": "2026-07-09T04:59:35Z",
-  "count": 7,
+  "updated": "2026-07-09T15:55:48Z",
+  "count": 9,
   "sources": [
     "Cedars-Sinai"
   ],
   "track_slug": "hospital-careers",
   "jobs": [
-    {
-      "title": "Echo Tech, Full-Time, Days Cedars-Sinai Marina Hospital Marina del Rey, CA Imaging Req ID: 18084",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/marina-del-rey/echo-tech-full-time-days/252/97528941776",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/marina-del-rey/echo-tech-full-time-days/252/97528941776",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging"
-    },
     {
       "title": "Echo Tech, Full-Time, Days Cedars-Sinai Marina Hospital Marina del Rey, CA Imaging Req ID: 18786",
       "company": "Cedars-Sinai",
@@ -87,20 +71,52 @@
       "match_reason": "Cedars-Sinai direct match: epic"
     },
     {
-      "title": "Interventional Radiologic Technologist II, Per Diem, Days Cedars-Sinai Marina Hospital Marina del Rey, CA Imaging Req ID: 18331",
+      "title": "Pharmacy Technician, Full Time, Days Cedars-Sinai Marina Hospital Marina del Rey, CA Pharmacy Req ID: 18676",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/marina-del-rey/interventional-radiologic-technologist-ii-per-diem-days/252/97536923392",
+      "url": "https://careers.cshs.org/job/marina-del-rey/pharmacy-technician-full-time-days/252/97562426768",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/marina-del-rey/interventional-radiologic-technologist-ii-per-diem-days/252/97536923392",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/marina-del-rey/pharmacy-technician-full-time-days/252/97562426768",
       "track_slug": "hospital-careers",
       "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging, technologist"
+      "match_reason": "Cedars-Sinai direct match: technician"
+    },
+    {
+      "title": "Pharmacy Technician, Full Time, Days Cedars-Sinai Marina Hospital Marina del Rey, CA Pharmacy Req ID: 18680",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/marina-del-rey/pharmacy-technician-full-time-days/252/97562426832",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/marina-del-rey/pharmacy-technician-full-time-days/252/97562426832",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: technician"
+    },
+    {
+      "title": "Pharmacy Technician, Full Time, Evening Cedars-Sinai Marina Hospital Marina del Rey, CA Pharmacy Req ID: 18679",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/marina-del-rey/pharmacy-technician-full-time-evening/252/97562426816",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/marina-del-rey/pharmacy-technician-full-time-evening/252/97562426816",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: technician"
     },
     {
       "title": "Senior Epic Beaker Analyst - Remote",
@@ -117,6 +133,22 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: epic"
+    },
+    {
+      "title": "Stationary Engineer - Full time - Marina Hospital Cedars-Sinai Marina Hospital Marina del Rey, CA Facilities Req ID: 18522",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/marina-del-rey/stationary-engineer-full-time-marina-hospital/252/97562426032",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/marina-del-rey/stationary-engineer-full-time-marina-hospital/252/97562426032",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: facilities"
     }
   ]
 }

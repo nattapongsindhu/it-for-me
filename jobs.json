@@ -1,9 +1,21 @@
 {
-  "updated": "2026-07-09T04:59:33Z",
+  "updated": "2026-07-09T15:55:45Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 57,
+  "count": 59,
   "jobs": [
+    {
+      "title": "IT Project Manager, GS-2210-14, FPL 14 (DH) (Open-Continuous)",
+      "company": "Federal Student Aid",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/875885700",
+      "salary": "127829",
+      "posted": "2026-07-09",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 127829.0,
+      "salary_hourly": 61.46
+    },
     {
       "title": "Science Communications & Synthesis Support for Pollinator Research",
       "company": "Geological Survey",
@@ -15,6 +27,42 @@
       "type": "",
       "salary_annual": null,
       "salary_hourly": null
+    },
+    {
+      "title": "Medical Records Technician (Coder - Inpatient)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/875876000",
+      "salary": "36409",
+      "posted": "2026-07-09",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 36409.0,
+      "salary_hourly": 17.5
+    },
+    {
+      "title": "Supervisory Investigator Reviewer (Equal Employment Specialist)",
+      "company": "Deputy Assistant Secretary for Office of Resolution Management",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/875867900",
+      "salary": "130042",
+      "posted": "2026-07-09",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 130042.0,
+      "salary_hourly": 62.52
+    },
+    {
+      "title": "Lead Medical Records Technician (Coder-Inpatient)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/875881400",
+      "salary": "61722",
+      "posted": "2026-07-09",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 61722.0,
+      "salary_hourly": 29.67
     },
     {
       "title": "Program Analyst",
@@ -305,7 +353,7 @@
       "salary_hourly": 29.67
     },
     {
-      "title": "Teleradiologist",
+      "title": "Radiologist-Remote",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
       "url": "https://www.usajobs.gov:443/job/875197300",
@@ -411,18 +459,6 @@
       "type": "",
       "salary_annual": 62729.0,
       "salary_hourly": 30.16
-    },
-    {
-      "title": "Tax Analyst",
-      "company": "Internal Revenue Service",
-      "location": "IRS Nationwide Locations",
-      "url": "https://www.usajobs.gov:443/job/874543500",
-      "salary": "106437",
-      "posted": "2026-06-29",
-      "source": "USAJobs",
-      "type": "Tour of Duty: Monday - Friday, Day Shift hours negotiable start time between 6:00am and end time by 6:00pm",
-      "salary_annual": 106437.0,
-      "salary_hourly": 51.17
     },
     {
       "title": "Management and Program Analyst",
@@ -663,18 +699,6 @@
       "type": "",
       "salary_annual": 63795.0,
       "salary_hourly": 30.67
-    },
-    {
-      "title": "Economist",
-      "company": "Department of the Air Force - Agency Wide",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/853032300",
-      "salary": "74678",
-      "posted": "2025-12-22",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 74678.0,
-      "salary_hourly": 35.9
     },
     {
       "title": "IT SPECIALIST",
