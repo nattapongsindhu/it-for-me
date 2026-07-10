@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-10T04:59:50Z",
+  "updated": "2026-07-10T15:31:13Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 59,
+  "count": 64,
   "jobs": [
     {
       "title": "IT Program Manager",
@@ -29,10 +29,82 @@
       "salary_hourly": 51.17
     },
     {
+      "title": "IT Specialist Artificial Intelligence (AI)",
+      "company": "Deputy Assistant Secretary for Information and Technology",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/876050200",
+      "salary": "147945",
+      "posted": "2026-07-10",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 147945.0,
+      "salary_hourly": 71.13
+    },
+    {
       "title": "Supervisory IT Specialist",
       "company": "Deputy Assistant Secretary for Information and Technology",
       "location": "Location Negotiable After Selection",
       "url": "https://www.usajobs.gov:443/job/875873700",
+      "salary": "125776",
+      "posted": "2026-07-10",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 125776.0,
+      "salary_hourly": 60.47
+    },
+    {
+      "title": "Supervisory Information Technology Specialist",
+      "company": "Veterans Health Administration",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/876063800",
+      "salary": "126384",
+      "posted": "2026-07-10",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 126384.0,
+      "salary_hourly": 60.76
+    },
+    {
+      "title": "IT Specialist (System Analysis) \"Product Manager\", GS-2210-15, FPL GS-15 (DH) (Open Continuous)",
+      "company": "Federal Student Aid",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/876054200",
+      "salary": "147945",
+      "posted": "2026-07-10",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 147945.0,
+      "salary_hourly": 71.13
+    },
+    {
+      "title": "Supervisory Human Resources Specialist",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/876054600",
+      "salary": "106437",
+      "posted": "2026-07-10",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
+    },
+    {
+      "title": "Management & Program Analyst",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/876050100",
+      "salary": "90925",
+      "posted": "2026-07-10",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 90925.0,
+      "salary_hourly": 43.71
+    },
+    {
+      "title": "Supervisory Industrial Engineer",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/876049700",
       "salary": "125776",
       "posted": "2026-07-10",
       "source": "USAJobs",
@@ -99,18 +171,6 @@
       "type": "",
       "salary_annual": 130042.0,
       "salary_hourly": 62.52
-    },
-    {
-      "title": "Lead Medical Records Technician (Coder-Inpatient)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/875881400",
-      "salary": "61722",
-      "posted": "2026-07-09",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 61722.0,
-      "salary_hourly": 29.67
     },
     {
       "title": "Program Analyst",
@@ -233,18 +293,6 @@
       "salary_hourly": 43.71
     },
     {
-      "title": "Supervisory IT PROGRAM MANAGER",
-      "company": "Deputy Assistant Secretary for Information and Technology",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/875389700",
-      "salary": "126384",
-      "posted": "2026-07-06",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 126384.0,
-      "salary_hourly": 60.76
-    },
-    {
       "title": "Information Technology Specialist",
       "company": "Deputy Assistant Secretary for Information and Technology",
       "location": "Location Negotiable After Selection",
@@ -255,6 +303,18 @@
       "type": "",
       "salary_annual": 106437.0,
       "salary_hourly": 51.17
+    },
+    {
+      "title": "Supervisory IT PROGRAM MANAGER",
+      "company": "Deputy Assistant Secretary for Information and Technology",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/875389700",
+      "salary": "126384",
+      "posted": "2026-07-06",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 126384.0,
+      "salary_hourly": 60.76
     },
     {
       "title": "IT Specialist (Policy and Planning)",
