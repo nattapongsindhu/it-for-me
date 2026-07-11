@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T15:31:15Z",
+  "updated": "2026-07-11T04:18:16Z",
   "count": 4,
   "sources": [
     "Cedars-Sinai"
@@ -39,36 +39,36 @@
       "match_reason": "Cedars-Sinai direct match: epic"
     },
     {
-      "title": "Fusion Technologist - 8-Hour Day Shift - $10,000 Hiring Incentive! Cedars-Sinai Medical Center Beverly Hills, CA Imaging Req ID: 19000",
+      "title": "Linen Delivery Tech \"Driver\" - Full Time Cedars-Sinai Medical Center Los Angeles, CA Facilities Req ID: 17385",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/beverly-hills/fusion-technologist-8-hour-day-shift-10-000-hiring-incentive/252/97583767376",
+      "url": "https://careers.cshs.org/job/los-angeles/linen-delivery-tech-driver-full-time/252/95964627376",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/fusion-technologist-8-hour-day-shift-10-000-hiring-incentive/252/97583767376",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/linen-delivery-tech-driver-full-time/252/95964627376",
       "track_slug": "hospital-careers",
       "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging, technologist"
+      "match_reason": "Cedars-Sinai direct match: facilities"
     },
     {
-      "title": "Senior EIS Project Manager - Hybrid Cedars-Sinai Medical Center Los Angeles, CA Information Technology Req ID: 18436",
+      "title": "Pharmacy Technician - Outpatient Oncology Cedars-Sinai Medical Center Los Angeles, CA Pharmacy Req ID: 18867",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/senior-eis-project-manager-hybrid/252/97447688256",
+      "url": "https://careers.cshs.org/job/los-angeles/pharmacy-technician-outpatient-oncology/252/97616816624",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/senior-eis-project-manager-hybrid/252/97447688256",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/pharmacy-technician-outpatient-oncology/252/97616816624",
       "track_slug": "hospital-careers",
       "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: information technology"
+      "match_reason": "Cedars-Sinai direct match: technician"
     }
   ]
 }
