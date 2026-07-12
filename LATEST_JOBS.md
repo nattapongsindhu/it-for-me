@@ -1,6 +1,6 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-07-11T14%3A22%3A06Z-blue?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-07-12T04%3A30%3A06Z-blue?style=flat-square)
 ![Jobs](https://img.shields.io/badge/Jobs_Found-60-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
@@ -8,7 +8,7 @@
 
 ---
 
-## Latest Jobs - July 11, 2026
+## Latest Jobs - July 12, 2026
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
@@ -41,7 +41,7 @@
 |--------|-------|
 | Total jobs found | 60 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-07-11T14:22:06Z |
+| Last updated | 2026-07-12T04:30:06Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-07-11T14:22:06Z_
+_Auto-generated legacy snapshot. Last run: 2026-07-12T04:30:06Z_

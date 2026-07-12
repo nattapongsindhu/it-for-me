@@ -1,27 +1,11 @@
 {
-  "updated": "2026-07-11T14:22:09Z",
-  "count": 5,
+  "updated": "2026-07-12T04:30:08Z",
+  "count": 6,
   "sources": [
     "Cedars-Sinai"
   ],
   "track_slug": "hospital-careers",
   "jobs": [
-    {
-      "title": "Epic ADT/Prelude Analyst - Remote",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/beverly-hills/epic-adt-prelude-analyst-remote/252/96298197408",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/epic-adt-prelude-analyst-remote/252/96298197408",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: epic"
-    },
     {
       "title": "Epic Beaker Analyst (CP & AP) - Remote",
       "company": "Cedars-Sinai",
@@ -39,52 +23,84 @@
       "match_reason": "Cedars-Sinai direct match: epic"
     },
     {
-      "title": "Linen Delivery Tech \"Driver\" - Full Time Cedars-Sinai Medical Center Los Angeles, CA Facilities Req ID: 17385",
+      "title": "Epic Principal Trainer - Inpatient (Orders/ClinDoc) - Hybrid",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/linen-delivery-tech-driver-full-time/252/95964627376",
+      "url": "https://careers.cshs.org/job/los-angeles/epic-principal-trainer-inpatient-orders-clindoc-hybrid/252/97111806720",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/linen-delivery-tech-driver-full-time/252/95964627376",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/epic-principal-trainer-inpatient-orders-clindoc-hybrid/252/97111806720",
       "track_slug": "hospital-careers",
       "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: facilities"
+      "match_reason": "Cedars-Sinai direct match: epic"
     },
     {
-      "title": "Pharmacy Technician - Outpatient Oncology Cedars-Sinai Medical Center Los Angeles, CA Pharmacy Req ID: 18867",
+      "title": "Pharmacy Technician, Full Time, Variable Shifts Cedars-Sinai Marina Hospital Marina del Rey, CA Pharmacy Req ID: 18676",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/pharmacy-technician-outpatient-oncology/252/97616816624",
+      "url": "https://careers.cshs.org/job/marina-del-rey/pharmacy-technician-full-time-variable-shifts/252/97562426768",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/pharmacy-technician-outpatient-oncology/252/97616816624",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/marina-del-rey/pharmacy-technician-full-time-variable-shifts/252/97562426768",
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: technician"
     },
     {
-      "title": "Senior Clinical Systems Engineer (Medical Device Integration) - Hybrid",
+      "title": "Pharmacy Technician, Full Time, Variable Shifts Cedars-Sinai Marina Hospital Marina del Rey, CA Pharmacy Req ID: 18679",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/senior-clinical-systems-engineer-medical-device-integration-hybrid/252/96669505248",
+      "url": "https://careers.cshs.org/job/marina-del-rey/pharmacy-technician-full-time-variable-shifts/252/97562426816",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/senior-clinical-systems-engineer-medical-device-integration-hybrid/252/96669505248",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/marina-del-rey/pharmacy-technician-full-time-variable-shifts/252/97562426816",
       "track_slug": "hospital-careers",
       "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: clinical systems"
+      "match_reason": "Cedars-Sinai direct match: technician"
+    },
+    {
+      "title": "Pharmacy Technician, Full Time, Variable Shifts Cedars-Sinai Marina Hospital Marina del Rey, CA Pharmacy Req ID: 18680",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/marina-del-rey/pharmacy-technician-full-time-variable-shifts/252/97562426832",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/marina-del-rey/pharmacy-technician-full-time-variable-shifts/252/97562426832",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: technician"
+    },
+    {
+      "title": "Postdoctoral Scientist - Slomka Lab - Innovation in Imaging / Department of Medicine / Division of AIM Cedars-Sinai Medical Center Los Angeles, CA Academic / Research Req ID: HRC1428640",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/postdoctoral-scientist-slomka-lab-innovation-in-imaging-department-of-medicine-division-of-aim/252/91952115056",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/postdoctoral-scientist-slomka-lab-innovation-in-imaging-department-of-medicine-division-of-aim/252/91952115056",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: imaging"
     }
   ]
 }
