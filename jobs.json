@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-12T04:30:06Z",
+  "updated": "2026-07-12T14:25:47Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 60,
+  "count": 61,
   "jobs": [
     {
       "title": "IT Program Manager",
@@ -243,6 +243,18 @@
       "type": "",
       "salary_annual": 125776.0,
       "salary_hourly": 60.47
+    },
+    {
+      "title": "Management and Program Analyst",
+      "company": "Cybersecurity and Infrastructure Security Agency",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/875768400",
+      "salary": "85447",
+      "posted": "2026-07-08",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 85447.0,
+      "salary_hourly": 41.08
     },
     {
       "title": "Social Science Program Specialist",
