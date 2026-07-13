@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-13T04:36:04Z",
-  "count": 6,
+  "updated": "2026-07-13T15:44:14Z",
+  "count": 5,
   "sources": [
     "Cedars-Sinai"
   ],
@@ -85,22 +85,6 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: technician"
-    },
-    {
-      "title": "Postdoctoral Scientist - Slomka Lab - Innovation in Imaging / Department of Medicine / Division of AIM Cedars-Sinai Medical Center Los Angeles, CA Academic / Research Req ID: HRC1428640",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/postdoctoral-scientist-slomka-lab-innovation-in-imaging-department-of-medicine-division-of-aim/252/91952115056",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/postdoctoral-scientist-slomka-lab-innovation-in-imaging-department-of-medicine-division-of-aim/252/91952115056",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging"
     }
   ]
 }
