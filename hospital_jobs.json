@@ -1,11 +1,27 @@
 {
-  "updated": "2026-07-13T15:44:14Z",
-  "count": 5,
+  "updated": "2026-07-14T04:08:54Z",
+  "count": 3,
   "sources": [
     "Cedars-Sinai"
   ],
   "track_slug": "hospital-careers",
   "jobs": [
+    {
+      "title": "EKG Tech - 8-Hour Evening Shift Cedars-Sinai Medical Center Beverly Hills, CA Imaging Req ID: 19033",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/beverly-hills/ekg-tech-8-hour-evening-shift/252/97756095328",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/ekg-tech-8-hour-evening-shift/252/97756095328",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: imaging"
+    },
     {
       "title": "Epic Beaker Analyst (CP & AP) - Remote",
       "company": "Cedars-Sinai",
@@ -37,54 +53,6 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: epic"
-    },
-    {
-      "title": "Pharmacy Technician, Full Time, Variable Shifts Cedars-Sinai Marina Hospital Marina del Rey, CA Pharmacy Req ID: 18676",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/marina-del-rey/pharmacy-technician-full-time-variable-shifts/252/97562426768",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/marina-del-rey/pharmacy-technician-full-time-variable-shifts/252/97562426768",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: technician"
-    },
-    {
-      "title": "Pharmacy Technician, Full Time, Variable Shifts Cedars-Sinai Marina Hospital Marina del Rey, CA Pharmacy Req ID: 18679",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/marina-del-rey/pharmacy-technician-full-time-variable-shifts/252/97562426816",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/marina-del-rey/pharmacy-technician-full-time-variable-shifts/252/97562426816",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: technician"
-    },
-    {
-      "title": "Pharmacy Technician, Full Time, Variable Shifts Cedars-Sinai Marina Hospital Marina del Rey, CA Pharmacy Req ID: 18680",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/marina-del-rey/pharmacy-technician-full-time-variable-shifts/252/97562426832",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/marina-del-rey/pharmacy-technician-full-time-variable-shifts/252/97562426832",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: technician"
     }
   ]
 }

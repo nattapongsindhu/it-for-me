@@ -1,9 +1,21 @@
 {
-  "updated": "2026-07-13T15:44:07Z",
+  "updated": "2026-07-14T04:08:52Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 66,
+  "count": 65,
   "jobs": [
+    {
+      "title": "Program Analyst",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/876226000",
+      "salary": "74678",
+      "posted": "2026-07-14",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 74678.0,
+      "salary_hourly": 35.9
+    },
     {
       "title": "It Specialist (Infosec)",
       "company": "Deputy Assistant Secretary for Information and Technology",
@@ -21,6 +33,18 @@
       "company": "Electronic Health Record Modernization",
       "location": "Multiple Locations",
       "url": "https://www.usajobs.gov:443/job/876186200",
+      "salary": "107446",
+      "posted": "2026-07-13",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 107446.0,
+      "salary_hourly": 51.66
+    },
+    {
+      "title": "IT Specialist (Policy and Planning)",
+      "company": "Deputy Assistant Secretary for Information and Technology",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/876302700",
       "salary": "107446",
       "posted": "2026-07-13",
       "source": "USAJobs",
@@ -63,6 +87,30 @@
       "type": "",
       "salary_annual": 55822.0,
       "salary_hourly": 26.84
+    },
+    {
+      "title": "Chief of Staff",
+      "company": "Bureau of Alcohol, Tobacco, Firearms and Explosives",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/876342500",
+      "salary": "126384",
+      "posted": "2026-07-13",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 126384.0,
+      "salary_hourly": 60.76
+    },
+    {
+      "title": "Physician - Deputy Director (National Teleradiology)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/876308800",
+      "salary": "370808",
+      "posted": "2026-07-13",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 370808.0,
+      "salary_hourly": 178.27
     },
     {
       "title": "Supervisory Program Analyst",
@@ -173,6 +221,18 @@
       "salary_hourly": 71.13
     },
     {
+      "title": "Lead Medical Record Technician (Coder-Outpatient and Inpatient)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/876107900",
+      "salary": "61722",
+      "posted": "2026-07-10",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 61722.0,
+      "salary_hourly": 29.67
+    },
+    {
       "title": "Fiscal Operations Specialist",
       "company": "Office of the Assistant Secretary for Administration and Management",
       "location": "Location Negotiable After Selection",
@@ -195,18 +255,6 @@
       "type": "",
       "salary_annual": 125776.0,
       "salary_hourly": 60.47
-    },
-    {
-      "title": "Lead Medical Record Technician (Coder-Outpatient and Inpatient)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/876107900",
-      "salary": "61722",
-      "posted": "2026-07-10",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 61722.0,
-      "salary_hourly": 29.67
     },
     {
       "title": "Supervisory Human Resources Specialist",
@@ -257,18 +305,6 @@
       "salary_hourly": 61.46
     },
     {
-      "title": "Government Information Specialist",
-      "company": "Cybersecurity and Infrastructure Security Agency",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/875918800",
-      "salary": "121785",
-      "posted": "2026-07-09",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 121785.0,
-      "salary_hourly": 58.55
-    },
-    {
       "title": "Program Analyst",
       "company": "AmeriCorps",
       "location": "Anywhere in the U.S. (remote job)",
@@ -279,6 +315,18 @@
       "type": "",
       "salary_annual": 107449.0,
       "salary_hourly": 51.66
+    },
+    {
+      "title": "Government Information Specialist",
+      "company": "Cybersecurity and Infrastructure Security Agency",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/875918800",
+      "salary": "121785",
+      "posted": "2026-07-09",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 121785.0,
+      "salary_hourly": 58.55
     },
     {
       "title": "Science Communications & Synthesis Support for Pollinator Research",
@@ -315,18 +363,6 @@
       "type": "Tour of Duty: Monday-Friday 8:00am-4:30pm, 40 hours per week",
       "salary_annual": 74678.0,
       "salary_hourly": 35.9
-    },
-    {
-      "title": "Program Analyst",
-      "company": "Veterans Health Administration",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/875802300",
-      "salary": "106437",
-      "posted": "2026-07-09",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 106437.0,
-      "salary_hourly": 51.17
     },
     {
       "title": "Senior Technical Manager",
@@ -377,18 +413,6 @@
       "salary_hourly": 35.02
     },
     {
-      "title": "IT Specialist (Applications Software)",
-      "company": "Deputy Assistant Secretary for Information and Technology",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/875406400",
-      "salary": "106437",
-      "posted": "2026-07-07",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 106437.0,
-      "salary_hourly": 51.17
-    },
-    {
       "title": "Physician (Radiologist) - EDRP & Recruitment Incentive",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -401,16 +425,16 @@
       "salary_hourly": 144.23
     },
     {
-      "title": "Supervisory Auditor",
-      "company": "Office of the Inspector General",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/875434600",
-      "salary": "125776",
-      "posted": "2026-07-06",
+      "title": "Social Worker",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/875570100",
+      "salary": "61722",
+      "posted": "2026-07-07",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
+      "salary_annual": 61722.0,
+      "salary_hourly": 29.67
     },
     {
       "title": "Administrative Officer (Budget)",
@@ -435,6 +459,18 @@
       "type": "Tour of Duty: Day Shift, Monday-Friday 8:00am-4:30pm, 40 hours per week",
       "salary_annual": 125776.0,
       "salary_hourly": 60.47
+    },
+    {
+      "title": "Radiologist-Remote",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/875197300",
+      "salary": "350000",
+      "posted": "2026-07-02",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 350000.0,
+      "salary_hourly": 168.27
     },
     {
       "title": "Technical Writer/Editor",
@@ -471,18 +507,6 @@
       "type": "",
       "salary_annual": 106437.0,
       "salary_hourly": 51.17
-    },
-    {
-      "title": "Radiologist-Remote",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/875197300",
-      "salary": "350000",
-      "posted": "2026-07-02",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 350000.0,
-      "salary_hourly": 168.27
     },
     {
       "title": "Information Technology Specialist (Systems Analysis/Applications Software)",
@@ -533,42 +557,6 @@
       "salary_hourly": 19.52
     },
     {
-      "title": "IT Specialist (Network Services)",
-      "company": "Internal Revenue Service",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/874506500",
-      "salary": "125776",
-      "posted": "2026-06-29",
-      "source": "USAJobs",
-      "type": "Monday-Friday 8:00am-4:30pm, 40 hours per week",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
-    },
-    {
-      "title": "Information Technology Specialist (DATAMGT)",
-      "company": "Veterans Affairs, Inspector General",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/874728700",
-      "salary": "61722",
-      "posted": "2026-06-29",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 61722.0,
-      "salary_hourly": 29.67
-    },
-    {
-      "title": "Tax Analyst",
-      "company": "Internal Revenue Service",
-      "location": "IRS Nationwide Locations",
-      "url": "https://www.usajobs.gov:443/job/874543500",
-      "salary": "106437",
-      "posted": "2026-06-29",
-      "source": "USAJobs",
-      "type": "Tour of Duty: Monday - Friday, Day Shift hours negotiable start time between 6:00am and end time by 6:00pm",
-      "salary_annual": 106437.0,
-      "salary_hourly": 51.17
-    },
-    {
       "title": "IT Specialist (AI)",
       "company": "Office of the Assistant Secretary for Administration and Management",
       "location": "Location Negotiable After Selection",
@@ -617,18 +605,6 @@
       "salary_hourly": 58.55
     },
     {
-      "title": "IT Specialist (DATAMGT)",
-      "company": "Office of Inspector General",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/873097100",
-      "salary": "90968",
-      "posted": "2026-06-16",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 90968.0,
-      "salary_hourly": 43.73
-    },
-    {
       "title": "Police Officer - Recruitment/Relocation Incentive Authorized",
       "company": "Veterans Health Administration",
       "location": "Los Angeles, California",
@@ -663,18 +639,6 @@
       "type": "Full-time, Part-Time, and/or Intermittent schedules may be available.",
       "salary_annual": 40736.0,
       "salary_hourly": 19.58
-    },
-    {
-      "title": "Nursing Assistant (Float Pool-Intermittent)",
-      "company": "Veterans Health Administration",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/870170900",
-      "salary": "42947",
-      "posted": "2026-05-21",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 42947.0,
-      "salary_hourly": 20.65
     },
     {
       "title": "CISA - Veterans and Individuals with Disabilities (Schedule A) Repository",
@@ -737,6 +701,18 @@
       "salary_hourly": 43.03
     },
     {
+      "title": "Immigration Judge",
+      "company": "Executive Office for Immigration Review",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/853385500",
+      "salary": "159951",
+      "posted": "2025-12-30",
+      "source": "USAJobs",
+      "type": "Full-Time, Intermittent",
+      "salary_annual": 159951.0,
+      "salary_hourly": 76.9
+    },
+    {
       "title": "Information Technology Specialist (INFOSEC)",
       "company": "Department of the Air Force - Agency Wide",
       "location": "Multiple Locations",
@@ -771,6 +747,18 @@
       "type": "",
       "salary_annual": 74678.0,
       "salary_hourly": 35.9
+    },
+    {
+      "title": "Mathematical Statistics Series",
+      "company": "Department of the Air Force - Agency Wide",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/852879600",
+      "salary": "63795",
+      "posted": "2025-12-22",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 63795.0,
+      "salary_hourly": 30.67
     },
     {
       "title": "IT SPECIALIST",
