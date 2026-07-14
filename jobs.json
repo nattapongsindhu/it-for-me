@@ -1,9 +1,21 @@
 {
-  "updated": "2026-07-14T04:08:52Z",
+  "updated": "2026-07-14T14:51:26Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 65,
+  "count": 66,
   "jobs": [
+    {
+      "title": "Supervisory Health System Specialist",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/876390900",
+      "salary": "107446",
+      "posted": "2026-07-14",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 107446.0,
+      "salary_hourly": 51.66
+    },
     {
       "title": "Program Analyst",
       "company": "Veterans Health Administration",
