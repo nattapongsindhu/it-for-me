@@ -1,9 +1,21 @@
 {
-  "updated": "2026-07-15T04:10:29Z",
+  "updated": "2026-07-15T14:50:25Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 66,
+  "count": 67,
   "jobs": [
+    {
+      "title": "Information Technology Specialist",
+      "company": "Internal Revenue Service",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/876577400",
+      "salary": "125776",
+      "posted": "2026-07-15",
+      "source": "USAJobs",
+      "type": "Monday-Friday 8:00am-4:30pm, 40 hours per week",
+      "salary_annual": 125776.0,
+      "salary_hourly": 60.47
+    },
     {
       "title": "IT Specialist (DATAMGT)",
       "company": "Office of Inspector General",
@@ -25,6 +37,30 @@
       "posted": "2026-07-15",
       "source": "USAJobs",
       "type": "Tour of Duty:\u00a0Day Shift, Monday-Friday 8:00am - 4:30pm, 40 hours per week",
+      "salary_annual": 125776.0,
+      "salary_hourly": 60.47
+    },
+    {
+      "title": "Supervisory Legal Administrative Specialist (Coach)",
+      "company": "Veterans Benefits Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/876589700",
+      "salary": "76463",
+      "posted": "2026-07-15",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 76463.0,
+      "salary_hourly": 36.76
+    },
+    {
+      "title": "Program Manager",
+      "company": "Veterans Health Administration",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/876552400",
+      "salary": "125776",
+      "posted": "2026-07-15",
+      "source": "USAJobs",
+      "type": "",
       "salary_annual": 125776.0,
       "salary_hourly": 60.47
     },
@@ -257,18 +293,6 @@
       "salary_hourly": 71.13
     },
     {
-      "title": "Lead Medical Record Technician (Coder-Outpatient and Inpatient)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/876107900",
-      "salary": "61722",
-      "posted": "2026-07-10",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 61722.0,
-      "salary_hourly": 29.67
-    },
-    {
       "title": "Fiscal Operations Specialist",
       "company": "Office of the Assistant Secretary for Administration and Management",
       "location": "Location Negotiable After Selection",
@@ -291,6 +315,18 @@
       "type": "",
       "salary_annual": 125776.0,
       "salary_hourly": 60.47
+    },
+    {
+      "title": "Lead Medical Record Technician (Coder-Outpatient and Inpatient)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/876107900",
+      "salary": "61722",
+      "posted": "2026-07-10",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 61722.0,
+      "salary_hourly": 29.67
     },
     {
       "title": "Supervisory Human Resources Specialist",
@@ -449,18 +485,6 @@
       "salary_hourly": 144.23
     },
     {
-      "title": "Social Worker",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/875570100",
-      "salary": "61722",
-      "posted": "2026-07-07",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 61722.0,
-      "salary_hourly": 29.67
-    },
-    {
       "title": "Administrative Officer (Budget)",
       "company": "Federal Aviation Administration",
       "location": "FAA Location Negotiable Upon Request - See Additional Info",
@@ -483,18 +507,6 @@
       "type": "Tour of Duty: Day Shift, Monday-Friday 8:00am-4:30pm, 40 hours per week",
       "salary_annual": 125776.0,
       "salary_hourly": 60.47
-    },
-    {
-      "title": "Radiologist-Remote",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/875197300",
-      "salary": "350000",
-      "posted": "2026-07-02",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 350000.0,
-      "salary_hourly": 168.27
     },
     {
       "title": "Technical Writer/Editor",
@@ -533,6 +545,18 @@
       "salary_hourly": 51.17
     },
     {
+      "title": "Radiologist-Remote",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/875197300",
+      "salary": "350000",
+      "posted": "2026-07-02",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 350000.0,
+      "salary_hourly": 168.27
+    },
+    {
       "title": "Information Technology Specialist (Systems Analysis/Applications Software)",
       "company": "Internal Revenue Service",
       "location": "Multiple Locations",
@@ -565,18 +589,6 @@
       "posted": "2026-07-01",
       "source": "USAJobs",
       "type": "Tour of Duty: Day Shift, Monday-Friday 08:00am-04:30pm,\u00a040 hours per week.",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
-    },
-    {
-      "title": "Supervisory Program Manager",
-      "company": "Internal Revenue Service",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/874986900",
-      "salary": "125776",
-      "posted": "2026-07-01",
-      "source": "USAJobs",
-      "type": "Monday-Friday 8:00am-4:30pm, 40 hours per week",
       "salary_annual": 125776.0,
       "salary_hourly": 60.47
     },

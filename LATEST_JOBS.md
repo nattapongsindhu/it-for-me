@@ -1,7 +1,7 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-07-15T04%3A10%3A29Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-66-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-07-15T14%3A50%3A25Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-67-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
@@ -12,8 +12,11 @@
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
+| Information Technology Specialist | Internal Revenue Service | Multiple Locations | Monday-Friday 8:00am-4:30pm, 40 hours per week | 125776 | 2026-07-15 | [Apply](https://www.usajobs.gov:443/job/876577400) |
 | IT Specialist (DATAMGT) | Office of Inspector General | Multiple Locations | Not listed | 90968 | 2026-07-15 | [Apply](https://www.usajobs.gov:443/job/876261000) |
 | Information Technology Specialist (Performance Test Engineer) | Internal Revenue Service | Multiple Locations | Tour of Duty: Day Shift, Monday-Friday 8:00am - 4:30pm, 40 hours per week | 125776 | 2026-07-15 | [Apply](https://www.usajobs.gov:443/job/876287100) |
+| Supervisory Legal Administrative Specialist (Coach) | Veterans Benefits Administration | Anywhere in the U.S. (remote job) | Not listed | 76463 | 2026-07-15 | [Apply](https://www.usajobs.gov:443/job/876589700) |
+| Program Manager | Veterans Health Administration | Multiple Locations | Not listed | 125776 | 2026-07-15 | [Apply](https://www.usajobs.gov:443/job/876552400) |
 | IT Spec (INFOSEC), GS-2210-14, FPL 14 (DH) | Federal Student Aid | Multiple Locations | Not listed | 127829 | 2026-07-14 | [Apply](https://www.usajobs.gov:443/job/876440300) |
 | Supervisory Health System Specialist | Veterans Health Administration | Location Negotiable After Selection | Not listed | 107446 | 2026-07-14 | [Apply](https://www.usajobs.gov:443/job/876390900) |
 | Program Analyst | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 74678 | 2026-07-14 | [Apply](https://www.usajobs.gov:443/job/876226000) |
@@ -29,9 +32,6 @@
 | Health System Specialist | Veterans Health Administration | Location Negotiable After Selection | Not listed | 106437 | 2026-07-13 | [Apply](https://www.usajobs.gov:443/job/876239200) |
 | Supervisory Health Science Specialist | Veterans Health Administration | Multiple Locations | Not listed | 147945 | 2026-07-13 | [Apply](https://www.usajobs.gov:443/job/876237700) |
 | IT Program Manager | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 125776 | 2026-07-10 | [Apply](https://www.usajobs.gov:443/job/875872400) |
-| IT Analyst | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 106437 | 2026-07-10 | [Apply](https://www.usajobs.gov:443/job/875932200) |
-| Supervisory IT Specialist | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 125776 | 2026-07-10 | [Apply](https://www.usajobs.gov:443/job/875873700) |
-| Supervisory Information Technology Specialist | Veterans Health Administration | Multiple Locations | Not listed | 126384 | 2026-07-10 | [Apply](https://www.usajobs.gov:443/job/876063800) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 66 |
+| Total jobs found | 67 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-07-15T04:10:29Z |
+| Last updated | 2026-07-15T14:50:25Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 66 jobs
+- USAJobs: 67 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-07-15T04:10:29Z_
+_Auto-generated legacy snapshot. Last run: 2026-07-15T14:50:25Z_
