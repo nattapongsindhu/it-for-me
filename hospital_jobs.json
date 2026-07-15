@@ -1,27 +1,11 @@
 {
-  "updated": "2026-07-14T14:51:27Z",
-  "count": 3,
+  "updated": "2026-07-15T04:10:30Z",
+  "count": 4,
   "sources": [
     "Cedars-Sinai"
   ],
   "track_slug": "hospital-careers",
   "jobs": [
-    {
-      "title": "EKG Tech - 8-Hour Evening Shift Cedars-Sinai Medical Center Beverly Hills, CA Imaging Req ID: 19033",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/beverly-hills/ekg-tech-8-hour-evening-shift/252/97756095328",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/ekg-tech-8-hour-evening-shift/252/97756095328",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging"
-    },
     {
       "title": "Epic Beaker Analyst (CP & AP) - Remote",
       "company": "Cedars-Sinai",
@@ -53,6 +37,38 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: epic"
+    },
+    {
+      "title": "Imaging Administrative Specialist - Part-Time - 8-Hour Night Shift Cedars-Sinai Medical Center Los Angeles, CA Administrative Req ID: 18882",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/imaging-administrative-specialist-part-time-8-hour-night-shift/252/97800336240",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/imaging-administrative-specialist-part-time-8-hour-night-shift/252/97800336240",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: imaging"
+    },
+    {
+      "title": "Sterile Processing Tech (SPD Tech) - Per Diem - Marina del Rey Hospital Cedars-Sinai Marina Hospital Marina del Rey, CA Clinical Operations Req ID: 16554",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/marina-del-rey/sterile-processing-tech-spd-tech-per-diem-marina-del-rey-hospital/252/94653973104",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/marina-del-rey/sterile-processing-tech-spd-tech-per-diem-marina-del-rey-hospital/252/94653973104",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: sterile processing"
     }
   ]
 }
