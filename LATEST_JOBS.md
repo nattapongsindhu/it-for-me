@@ -1,6 +1,6 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-07-16T04%3A14%3A03Z-blue?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-07-16T15%3A01%3A53Z-blue?style=flat-square)
 ![Jobs](https://img.shields.io/badge/Jobs_Found-67-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
@@ -13,7 +13,7 @@
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
 | Aviation Technical Systems Manager | Federal Aviation Administration | FAA Nationwide-Selectee Remains in Current Duty Location | Not listed | 134118 | 2026-07-16 | [Apply](https://www.usajobs.gov:443/job/876701600) |
-| Lead Peer Specialist | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 67970 | 2026-07-16 | [Apply](https://www.usajobs.gov:443/job/876702000) |
+| Supervisory Medical Support Assistant | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 55882 | 2026-07-16 | [Apply](https://www.usajobs.gov:443/job/876754800) |
 | Information Technology Specialist | Internal Revenue Service | Multiple Locations | Monday-Friday 8:00am-4:30pm, 40 hours per week | 125776 | 2026-07-15 | [Apply](https://www.usajobs.gov:443/job/876577400) |
 | IT Specialist (DATAMGT) | Office of Inspector General | Multiple Locations | Not listed | 90968 | 2026-07-15 | [Apply](https://www.usajobs.gov:443/job/876261000) |
 | Information Technology Specialist (Performance Test Engineer) | Internal Revenue Service | Multiple Locations | Tour of Duty: Day Shift, Monday-Friday 8:00am - 4:30pm, 40 hours per week | 125776 | 2026-07-15 | [Apply](https://www.usajobs.gov:443/job/876287100) |
@@ -41,7 +41,7 @@
 |--------|-------|
 | Total jobs found | 67 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-07-16T04:14:03Z |
+| Last updated | 2026-07-16T15:01:53Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-07-16T04:14:03Z_
+_Auto-generated legacy snapshot. Last run: 2026-07-16T15:01:53Z_
