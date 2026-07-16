@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T14:50:26Z",
+  "updated": "2026-07-16T04:14:04Z",
   "count": 4,
   "sources": [
     "Cedars-Sinai"
@@ -39,36 +39,36 @@
       "match_reason": "Cedars-Sinai direct match: epic"
     },
     {
-      "title": "Imaging Administrative Specialist - Part-Time - 8-Hour Night Shift Cedars-Sinai Medical Center Los Angeles, CA Administrative Req ID: 18882",
+      "title": "Postdoctoral Scientist - Slomka Lab - Innovation in Imaging / Department of Medicine / Division of AIM Cedars-Sinai Medical Center Los Angeles, CA Academic / Research Req ID: HRC1428640",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/imaging-administrative-specialist-part-time-8-hour-night-shift/252/97800336240",
+      "url": "https://careers.cshs.org/job/los-angeles/postdoctoral-scientist-slomka-lab-innovation-in-imaging-department-of-medicine-division-of-aim/252/91952115056",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/imaging-administrative-specialist-part-time-8-hour-night-shift/252/97800336240",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/postdoctoral-scientist-slomka-lab-innovation-in-imaging-department-of-medicine-division-of-aim/252/91952115056",
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: imaging"
     },
     {
-      "title": "Sterile Processing Tech (SPD Tech) - Per Diem - Marina del Rey Hospital Cedars-Sinai Marina Hospital Marina del Rey, CA Clinical Operations Req ID: 16554",
+      "title": "Project Scientist - Slomka Lab - Innovation in Imaging / Department of Medicine / Division of AIM Cedars-Sinai Medical Center Los Angeles, CA Academic / Research Req ID: HRC1122839A",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/marina-del-rey/sterile-processing-tech-spd-tech-per-diem-marina-del-rey-hospital/252/94653973104",
+      "url": "https://careers.cshs.org/job/los-angeles/project-scientist-slomka-lab-innovation-in-imaging-department-of-medicine-division-of-aim/252/91952114992",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/marina-del-rey/sterile-processing-tech-spd-tech-per-diem-marina-del-rey-hospital/252/94653973104",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/project-scientist-slomka-lab-innovation-in-imaging-department-of-medicine-division-of-aim/252/91952114992",
       "track_slug": "hospital-careers",
       "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: sterile processing"
+      "match_reason": "Cedars-Sinai direct match: imaging"
     }
   ]
 }
