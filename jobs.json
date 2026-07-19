@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T14:19:33Z",
+  "updated": "2026-07-19T04:26:41Z",
   "zip": "90029",
   "radius_mi": 5,
   "count": 61,
@@ -309,12 +309,12 @@
       "company": "Veterans Health Administration",
       "location": "Los Angeles, California",
       "url": "https://www.usajobs.gov:443/job/876651100",
-      "salary": "145000",
+      "salary": "285000",
       "posted": "2026-07-15",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 145000.0,
-      "salary_hourly": 69.71
+      "salary_annual": 285000.0,
+      "salary_hourly": 137.02
     },
     {
       "title": "IT Spec (INFOSEC), GS-2210-14, FPL 14 (DH)",

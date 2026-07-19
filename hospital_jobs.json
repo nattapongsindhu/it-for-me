@@ -1,27 +1,11 @@
 {
-  "updated": "2026-07-18T14:19:35Z",
-  "count": 10,
+  "updated": "2026-07-19T04:26:44Z",
+  "count": 4,
   "sources": [
     "Cedars-Sinai"
   ],
   "track_slug": "hospital-careers",
   "jobs": [
-    {
-      "title": "CT Manager - CT Imaging - 8-Hour Day Shift Cedars-Sinai Medical Center Beverly Hills, CA Imaging Req ID: 18606",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/beverly-hills/ct-manager-ct-imaging-8-hour-day-shift/252/96929627920",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/ct-manager-ct-imaging-8-hour-day-shift/252/96929627920",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging"
-    },
     {
       "title": "Epic Beaker Analyst (CP & AP) - Remote",
       "company": "Cedars-Sinai",
@@ -55,38 +39,6 @@
       "match_reason": "Cedars-Sinai direct match: epic"
     },
     {
-      "title": "Fusion Technologist - 8-Hour Day Shift - $10,000 Hiring Incentive! Cedars-Sinai Medical Center Beverly Hills, CA Imaging Req ID: 19000",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/beverly-hills/fusion-technologist-8-hour-day-shift-10-000-hiring-incentive/252/97583767376",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/fusion-technologist-8-hour-day-shift-10-000-hiring-incentive/252/97583767376",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging, technologist"
-    },
-    {
-      "title": "Per Diem Echo Sonographer II - 8-Hour Day Shift (Inpatient) Cedars-Sinai Medical Center Los Angeles, CA Imaging Req ID: 18739",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/per-diem-echo-sonographer-ii-8-hour-day-shift-inpatient/252/97491371184",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/per-diem-echo-sonographer-ii-8-hour-day-shift-inpatient/252/97491371184",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging"
-    },
-    {
       "title": "Postdoctoral Scientist - Slomka Lab - Innovation in Imaging / Department of Medicine / Division of AIM Cedars-Sinai Medical Center Los Angeles, CA Academic / Research Req ID: HRC1428640",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
@@ -117,54 +69,6 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: imaging"
-    },
-    {
-      "title": "Radiology Tech II - 10-Hour Day Shift - $5,000 Hiring Incentive! Cedars-Sinai Medical Center Los Angeles, CA Imaging Req ID: 16603",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/radiology-tech-ii-10-hour-day-shift-5-000-hiring-incentive/252/95964618560",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/radiology-tech-ii-10-hour-day-shift-5-000-hiring-incentive/252/95964618560",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging"
-    },
-    {
-      "title": "Radiology Tech II - 10-Hour Evening Shift - $5,000 Hiring Incentive Cedars-Sinai Medical Center Los Angeles, CA Imaging Req ID: 16604",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/radiology-tech-ii-10-hour-evening-shift-5-000-hiring-incentive/252/95964618592",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/radiology-tech-ii-10-hour-evening-shift-5-000-hiring-incentive/252/95964618592",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging"
-    },
-    {
-      "title": "Surgical Technologist III - Operating Room - 10/12-Hour - Full Time - Various Shifts Cedars-Sinai Medical Center Los Angeles, CA Clinical Operations Req ID: 17776",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/surgical-technologist-iii-operating-room-10-12-hour-full-time-various-shifts/252/95557709600",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/surgical-technologist-iii-operating-room-10-12-hour-full-time-various-shifts/252/95557709600",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: technologist"
     }
   ]
 }
