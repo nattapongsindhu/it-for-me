@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-20T04:42:03Z",
+  "updated": "2026-07-20T15:11:00Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 61,
+  "count": 64,
   "jobs": [
     {
-      "title": "Supervisory IT Specialist (Director IT Asset Management (ITAM))",
+      "title": "Supervisory IT Specialist Director IT Asset Management (ITAM)",
       "company": "Deputy Assistant Secretary for Information and Technology",
       "location": "Location Negotiable After Selection",
       "url": "https://www.usajobs.gov:443/job/877107100",
@@ -53,6 +53,42 @@
       "salary_hourly": 60.47
     },
     {
+      "title": "IT Spec (ENTARCH) \"Platform/site Reliability Engineer\", GS-2210-14 FPL GS-14 (DH)",
+      "company": "Federal Student Aid",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/877168200",
+      "salary": "127829",
+      "posted": "2026-07-20",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 127829.0,
+      "salary_hourly": 61.46
+    },
+    {
+      "title": "Information Logistics Manager",
+      "company": "Cybersecurity and Infrastructure Security Agency",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/877156800",
+      "salary": "58193",
+      "posted": "2026-07-20",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 58193.0,
+      "salary_hourly": 27.98
+    },
+    {
+      "title": "Health System Specialist",
+      "company": "Electronic Health Record Modernization",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/877186200",
+      "salary": "90925",
+      "posted": "2026-07-20",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 90925.0,
+      "salary_hourly": 43.71
+    },
+    {
       "title": "Health System Specialist (Change Management)",
       "company": "Electronic Health Record Modernization",
       "location": "Location Negotiable After Selection",
@@ -75,6 +111,18 @@
       "type": "",
       "salary_annual": 125776.0,
       "salary_hourly": 60.47
+    },
+    {
+      "title": "Social Worker",
+      "company": "Veterans Health Administration",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/877175600",
+      "salary": "79091",
+      "posted": "2026-07-20",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 79091.0,
+      "salary_hourly": 38.02
     },
     {
       "title": "Information Technology Project Manager",
@@ -111,18 +159,6 @@
       "type": "",
       "salary_annual": 112890.0,
       "salary_hourly": 54.27
-    },
-    {
-      "title": "Program Analyst",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/876889200",
-      "salary": "89508",
-      "posted": "2026-07-17",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 89508.0,
-      "salary_hourly": 43.03
     },
     {
       "title": "Health System Specialist",
@@ -231,18 +267,6 @@
       "type": "",
       "salary_annual": 134118.0,
       "salary_hourly": 64.48
-    },
-    {
-      "title": "Human Resources Assistant (Office Automation)",
-      "company": "Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/876836100",
-      "salary": "47490",
-      "posted": "2026-07-16",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 47490.0,
-      "salary_hourly": 22.83
     },
     {
       "title": "Management and Program Analyst",
@@ -363,6 +387,18 @@
       "type": "",
       "salary_annual": 107446.0,
       "salary_hourly": 51.66
+    },
+    {
+      "title": "Program Analyst",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/876226000",
+      "salary": "74678",
+      "posted": "2026-07-14",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 74678.0,
+      "salary_hourly": 35.9
     },
     {
       "title": "It Specialist (Infosec)",
