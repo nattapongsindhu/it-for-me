@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-21T04:20:47Z",
+  "updated": "2026-07-21T15:03:26Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 63,
+  "count": 64,
   "jobs": [
     {
       "title": "Information Technology Specialist (APPSW)",
@@ -41,6 +41,18 @@
       "salary_hourly": 51.17
     },
     {
+      "title": "Information Technology Specialist (Systems Analysis/Applications Software)",
+      "company": "Internal Revenue Service",
+      "location": "IRS Nationwide Locations",
+      "url": "https://www.usajobs.gov:443/job/877305100",
+      "salary": "89508",
+      "posted": "2026-07-21",
+      "source": "USAJobs",
+      "type": "Tour of Duty:  Day Shift, Monday-Friday  8a.m.-4:30pm, 40 hours per week",
+      "salary_annual": 89508.0,
+      "salary_hourly": 43.03
+    },
+    {
       "title": "Lead Medical Records Technician (Coder-Outpatient and Inpatient)",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -51,6 +63,30 @@
       "type": "",
       "salary_annual": 61722.0,
       "salary_hourly": 29.67
+    },
+    {
+      "title": "Medical Records Technician (Coder-Outpatient)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/877330000",
+      "salary": "36409",
+      "posted": "2026-07-21",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 36409.0,
+      "salary_hourly": 17.5
+    },
+    {
+      "title": "Management Analyst",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/877353100",
+      "salary": "90925",
+      "posted": "2026-07-21",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 90925.0,
+      "salary_hourly": 43.71
     },
     {
       "title": "Supervisory IT Specialist Director IT Asset Management (ITAM)",
@@ -269,18 +305,6 @@
       "salary_hourly": 51.66
     },
     {
-      "title": "Economist - Direct Hire",
-      "company": "Internal Revenue Service",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/876982900",
-      "salary": "106437",
-      "posted": "2026-07-17",
-      "source": "USAJobs",
-      "type": "Monday-Friday 8:00am-4:30pm, 40 hours per week.",
-      "salary_annual": 106437.0,
-      "salary_hourly": 51.17
-    },
-    {
       "title": "Licensed Vocational Nurse (Care Coordinator)",
       "company": "Veterans Health Administration",
       "location": "Los Angeles, California",
@@ -315,18 +339,6 @@
       "type": "",
       "salary_annual": 125776.0,
       "salary_hourly": 60.47
-    },
-    {
-      "title": "Aviation Technical Systems Manager",
-      "company": "Federal Aviation Administration",
-      "location": "FAA Nationwide-Selectee Remains in Current Duty Location",
-      "url": "https://www.usajobs.gov:443/job/876701600",
-      "salary": "134118",
-      "posted": "2026-07-16",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 134118.0,
-      "salary_hourly": 64.48
     },
     {
       "title": "Management and Program Analyst",
