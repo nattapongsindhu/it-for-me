@@ -1,9 +1,57 @@
 {
-  "updated": "2026-07-20T15:11:00Z",
+  "updated": "2026-07-21T04:20:47Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 64,
+  "count": 63,
   "jobs": [
+    {
+      "title": "Information Technology Specialist (APPSW)",
+      "company": "Internal Revenue Service",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/877217900",
+      "salary": "89508",
+      "posted": "2026-07-21",
+      "source": "USAJobs",
+      "type": "Tour of Duty: Monday-Friday 8:00am-4:30pm, 40 hours per week",
+      "salary_annual": 89508.0,
+      "salary_hourly": 43.03
+    },
+    {
+      "title": "Information Technology Specialist (SYSANALYSIS/APPSW)",
+      "company": "Internal Revenue Service",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/877278000",
+      "salary": "89508",
+      "posted": "2026-07-21",
+      "source": "USAJobs",
+      "type": "Tour of Duty:\u00a0Day Shift, Monday-Friday 8:00am - 4:30pm 40 hours per week",
+      "salary_annual": 89508.0,
+      "salary_hourly": 43.03
+    },
+    {
+      "title": "Information Technology Specialist (Applications Software)",
+      "company": "Internal Revenue Service",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/877233300",
+      "salary": "106437",
+      "posted": "2026-07-21",
+      "source": "USAJobs",
+      "type": "Tour of Duty: Day Shift, Monday-Friday 8: 00a.m. - 4:30p.m., 40 hours per week",
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
+    },
+    {
+      "title": "Lead Medical Records Technician (Coder-Outpatient and Inpatient)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/877245800",
+      "salary": "61722",
+      "posted": "2026-07-21",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 61722.0,
+      "salary_hourly": 29.67
+    },
     {
       "title": "Supervisory IT Specialist Director IT Asset Management (ITAM)",
       "company": "Deputy Assistant Secretary for Information and Technology",
@@ -29,18 +77,6 @@
       "salary_hourly": 43.71
     },
     {
-      "title": "Information Technology Specialist",
-      "company": "Internal Revenue Service",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/876750200",
-      "salary": "125776",
-      "posted": "2026-07-20",
-      "source": "USAJobs",
-      "type": "Tour of Duty: Dayshift, Monday-Friday, 8:00am - 4:30pm, 40 hours per week.",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
-    },
-    {
       "title": "Information Technology Specialist (ServiceNow Developer)",
       "company": "Internal Revenue Service",
       "location": "Multiple Locations",
@@ -53,6 +89,18 @@
       "salary_hourly": 60.47
     },
     {
+      "title": "Information Technology Specialist (Security Operations Center), GS-2210-15 (Direct Hire) (Information Technology Specialist (Team Lead))",
+      "company": "Federal Student Aid",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/877227500",
+      "salary": "150359",
+      "posted": "2026-07-20",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 150359.0,
+      "salary_hourly": 72.29
+    },
+    {
       "title": "IT Spec (ENTARCH) \"Platform/site Reliability Engineer\", GS-2210-14 FPL GS-14 (DH)",
       "company": "Federal Student Aid",
       "location": "Multiple Locations",
@@ -63,6 +111,18 @@
       "type": "",
       "salary_annual": 127829.0,
       "salary_hourly": 61.46
+    },
+    {
+      "title": "Information Technology Specialist, GS-2210-15 (Direct Hire) (IAM Security Architect)",
+      "company": "Federal Student Aid",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/877260500",
+      "salary": "150359",
+      "posted": "2026-07-20",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 150359.0,
+      "salary_hourly": 72.29
     },
     {
       "title": "Information Logistics Manager",
@@ -101,6 +161,30 @@
       "salary_hourly": 43.03
     },
     {
+      "title": "Licensed Vocational Nurse - Emergency Department - Intermittent",
+      "company": "Veterans Health Administration",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/877288900",
+      "salary": "58741",
+      "posted": "2026-07-20",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 58741.0,
+      "salary_hourly": 28.24
+    },
+    {
+      "title": "Supervisory Program Analyst",
+      "company": "Veterans Health Administration",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/877233200",
+      "salary": "147945",
+      "posted": "2026-07-20",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 147945.0,
+      "salary_hourly": 71.13
+    },
+    {
       "title": "Management & Program Analyst",
       "company": "Veterans Health Administration",
       "location": "Location Negotiable After Selection",
@@ -135,18 +219,6 @@
       "type": "",
       "salary_annual": 107446.0,
       "salary_hourly": 51.66
-    },
-    {
-      "title": "Information Technology Specialist (Applications Software)",
-      "company": "Internal Revenue Service",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/877064700",
-      "salary": "125776",
-      "posted": "2026-07-17",
-      "source": "USAJobs",
-      "type": "Tour of Duty: Monday-Friday 8:00am-4:30pm, 40 hours per week",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
     },
     {
       "title": "Supervisory IT Specialist (Policy and Planning)",
@@ -207,18 +279,6 @@
       "type": "Monday-Friday 8:00am-4:30pm, 40 hours per week.",
       "salary_annual": 106437.0,
       "salary_hourly": 51.17
-    },
-    {
-      "title": "Supervisory Program Analyst",
-      "company": "Veterans Benefits Administration",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/876957400",
-      "salary": "107446",
-      "posted": "2026-07-17",
-      "source": "USAJobs",
-      "type": "8:30 am - 5:00 pm",
-      "salary_annual": 107446.0,
-      "salary_hourly": 51.66
     },
     {
       "title": "Licensed Vocational Nurse (Care Coordinator)",
@@ -317,18 +377,6 @@
       "salary_hourly": 46.78
     },
     {
-      "title": "Supervisory Legal Administrative Specialist (Coach)",
-      "company": "Veterans Benefits Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/876589700",
-      "salary": "76463",
-      "posted": "2026-07-15",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 76463.0,
-      "salary_hourly": 36.76
-    },
-    {
       "title": "Program Support Specialist (District NxPert)",
       "company": "National Labor Relations Board",
       "location": "Location Negotiable After Selection",
@@ -339,18 +387,6 @@
       "type": "",
       "salary_annual": 52727.0,
       "salary_hourly": 25.35
-    },
-    {
-      "title": "Program Manager",
-      "company": "Veterans Health Administration",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/876552400",
-      "salary": "125776",
-      "posted": "2026-07-15",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
     },
     {
       "title": "Physician (Psychiatrist) Deputy Chief",
@@ -375,18 +411,6 @@
       "type": "",
       "salary_annual": 127829.0,
       "salary_hourly": 61.46
-    },
-    {
-      "title": "Supervisory Health System Specialist",
-      "company": "Veterans Health Administration",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/876390900",
-      "salary": "107446",
-      "posted": "2026-07-14",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 107446.0,
-      "salary_hourly": 51.66
     },
     {
       "title": "Program Analyst",
@@ -447,18 +471,6 @@
       "type": "",
       "salary_annual": 125776.0,
       "salary_hourly": 60.47
-    },
-    {
-      "title": "Chief of Staff",
-      "company": "Bureau of Alcohol, Tobacco, Firearms and Explosives",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/876342500",
-      "salary": "126384",
-      "posted": "2026-07-13",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 126384.0,
-      "salary_hourly": 60.76
     },
     {
       "title": "Physician - Deputy Director (National Teleradiology)",
@@ -531,18 +543,6 @@
       "type": "",
       "salary_annual": 127829.0,
       "salary_hourly": 61.46
-    },
-    {
-      "title": "Government Information Specialist",
-      "company": "Cybersecurity and Infrastructure Security Agency",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/875918800",
-      "salary": "121785",
-      "posted": "2026-07-09",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 121785.0,
-      "salary_hourly": 58.55
     },
     {
       "title": "Pharmacy Technician (Outpatient)",
@@ -747,18 +747,6 @@
       "type": "",
       "salary_annual": 63795.0,
       "salary_hourly": 30.67
-    },
-    {
-      "title": "Economist",
-      "company": "Department of the Air Force - Agency Wide",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/853032300",
-      "salary": "74678",
-      "posted": "2025-12-22",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 74678.0,
-      "salary_hourly": 35.9
     },
     {
       "title": "IT SPECIALIST",
