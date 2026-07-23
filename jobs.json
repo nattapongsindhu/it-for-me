@@ -1,9 +1,81 @@
 {
-  "updated": "2026-07-22T15:03:31Z",
+  "updated": "2026-07-23T04:21:29Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 69,
+  "count": 73,
   "jobs": [
+    {
+      "title": "IT Specialist (INFOSEC)",
+      "company": "Deputy Assistant Secretary for Information and Technology",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/877597600",
+      "salary": "90925",
+      "posted": "2026-07-23",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 90925.0,
+      "salary_hourly": 43.71
+    },
+    {
+      "title": "Supervisory IT Specialist",
+      "company": "Office of the Assistant Secretary for Administration and Management",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/877608400",
+      "salary": "125776",
+      "posted": "2026-07-23",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 125776.0,
+      "salary_hourly": 60.47
+    },
+    {
+      "title": "IT Specialist (Telephony/UC Support)",
+      "company": "Office of the Assistant Secretary for Administration and Management",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/877635200",
+      "salary": "74678",
+      "posted": "2026-07-23",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 74678.0,
+      "salary_hourly": 35.9
+    },
+    {
+      "title": "Spring 2027 SEC Scholars Business Program- RO (Volunteer)",
+      "company": "Securities and Exchange Commission",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/877514800",
+      "salary": "0",
+      "posted": "2026-07-23",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": null,
+      "salary_hourly": null
+    },
+    {
+      "title": "Claims Management Program Analyst (O-4 Billet) Non-Supervisory",
+      "company": "Immigration and Customs Enforcement",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/877600900",
+      "salary": "1",
+      "posted": "2026-07-23",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 2080.0,
+      "salary_hourly": 1.0
+    },
+    {
+      "title": "Supervisory Medical Records Technician (Coder - Outpatient and Inpatient)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/877634200",
+      "salary": "67970",
+      "posted": "2026-07-23",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 67970.0,
+      "salary_hourly": 32.68
+    },
     {
       "title": "IT Specialist (Appsw)",
       "company": "Deputy Assistant Secretary for Information and Technology",
@@ -29,6 +101,18 @@
       "salary_hourly": 43.71
     },
     {
+      "title": "Supervisory IT Specialist (Director of Operations)",
+      "company": "Deputy Assistant Secretary for Information and Technology",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/877553800",
+      "salary": "147945",
+      "posted": "2026-07-22",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 147945.0,
+      "salary_hourly": 71.13
+    },
+    {
       "title": "Lead Information Technology Specialist (Software Engineer)",
       "company": "Internal Revenue Service",
       "location": "Multiple Locations",
@@ -41,18 +125,6 @@
       "salary_hourly": 60.47
     },
     {
-      "title": "Decision Review Officer",
-      "company": "Veterans Benefits Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/877467300",
-      "salary": "106437",
-      "posted": "2026-07-22",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 106437.0,
-      "salary_hourly": 51.17
-    },
-    {
       "title": "Supervisory Pharmacy Technician",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -63,6 +135,18 @@
       "type": "",
       "salary_annual": 61722.0,
       "salary_hourly": 29.67
+    },
+    {
+      "title": "Medical Support Assistant (Advanced)",
+      "company": "Veterans Health Administration",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/877562300",
+      "salary": "56247",
+      "posted": "2026-07-22",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 56247.0,
+      "salary_hourly": 27.04
     },
     {
       "title": "Management and Program Analyst",
@@ -123,18 +207,6 @@
       "type": "Tour of Duty: Day Shift, Monday-Friday 8: 00a.m. - 4:30p.m., 40 hours per week",
       "salary_annual": 106437.0,
       "salary_hourly": 51.17
-    },
-    {
-      "title": "Information Technology Specialist (Systems Analysis/Applications Software)",
-      "company": "Internal Revenue Service",
-      "location": "IRS Nationwide Locations",
-      "url": "https://www.usajobs.gov:443/job/877305100",
-      "salary": "89508",
-      "posted": "2026-07-21",
-      "source": "USAJobs",
-      "type": "Tour of Duty:  Day Shift, Monday-Friday  8a.m.-4:30pm, 40 hours per week",
-      "salary_annual": 89508.0,
-      "salary_hourly": 43.03
     },
     {
       "title": "Health System Specialist",
@@ -437,6 +509,18 @@
       "salary_hourly": 64.48
     },
     {
+      "title": "Human Resources Assistant (Office Automation)",
+      "company": "Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/876836100",
+      "salary": "47490",
+      "posted": "2026-07-16",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 47490.0,
+      "salary_hourly": 22.83
+    },
+    {
       "title": "IT Specialist (DATAMGT)",
       "company": "Office of Inspector General",
       "location": "Multiple Locations",
@@ -495,18 +579,6 @@
       "type": "",
       "salary_annual": 127829.0,
       "salary_hourly": 61.46
-    },
-    {
-      "title": "It Specialist (Infosec)",
-      "company": "Deputy Assistant Secretary for Information and Technology",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/876185400",
-      "salary": "90925",
-      "posted": "2026-07-13",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 90925.0,
-      "salary_hourly": 43.71
     },
     {
       "title": "IT Specialist (Policy and Planning)",
@@ -605,28 +677,16 @@
       "salary_hourly": 61.46
     },
     {
-      "title": "Pharmacy Technician (Outpatient)",
-      "company": "Veterans Health Administration",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/875628700",
-      "salary": "72849",
-      "posted": "2026-07-08",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 72849.0,
-      "salary_hourly": 35.02
-    },
-    {
       "title": "Physician (Radiologist) - EDRP & Recruitment Incentive",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
       "url": "https://www.usajobs.gov:443/job/875506800",
-      "salary": "300000",
+      "salary": "375000",
       "posted": "2026-07-07",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 300000.0,
-      "salary_hourly": 144.23
+      "salary_annual": 375000.0,
+      "salary_hourly": 180.29
     },
     {
       "title": "Administrative Officer (Budget)",
@@ -699,18 +759,6 @@
       "type": "",
       "salary_annual": 83038.0,
       "salary_hourly": 39.92
-    },
-    {
-      "title": "Contract Specialist (Early Career - Procurement)",
-      "company": "Office of Personnel Management",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/871949300",
-      "salary": "50460",
-      "posted": "2026-06-05",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 50460.0,
-      "salary_hourly": 24.26
     },
     {
       "title": "Medical Support Assistant",
