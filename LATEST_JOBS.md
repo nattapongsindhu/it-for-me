@@ -1,7 +1,7 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-07-24T04%3A20%3A46Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-67-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-07-24T14%3A54%3A20Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-68-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
@@ -13,6 +13,7 @@
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
 | IT Specialist (SYSADMIN) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 63795 | 2026-07-24 | [Apply](https://www.usajobs.gov:443/job/877803600) |
+| Medical Records Technician (Coder) Auditor | Veterans Health Administration | Location Negotiable After Selection | Not listed | 52727 | 2026-07-24 | [Apply](https://www.usajobs.gov:443/job/877880400) |
 | IT Specialist (INFOSEC) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 90925 | 2026-07-23 | [Apply](https://www.usajobs.gov:443/job/877597600) |
 | Supervisory IT Specialist | Office of the Assistant Secretary for Administration and Management | Location Negotiable After Selection | Not listed | 125776 | 2026-07-23 | [Apply](https://www.usajobs.gov:443/job/877608400) |
 | IT Specialist (Telephony/UC Support) | Office of the Assistant Secretary for Administration and Management | Location Negotiable After Selection | Not listed | 74678 | 2026-07-23 | [Apply](https://www.usajobs.gov:443/job/877635200) |
@@ -31,7 +32,6 @@
 | Information Technology Specialist (SYSANALYSIS/APPSW) | Internal Revenue Service | Multiple Locations | Tour of Duty: Day Shift, Monday-Friday 8:00am - 4:30pm 40 hours per week | 89508 | 2026-07-21 | [Apply](https://www.usajobs.gov:443/job/877278000) |
 | Health System Specialist | Veterans Health Administration | Location Negotiable After Selection | Not listed | 106437 | 2026-07-21 | [Apply](https://www.usajobs.gov:443/job/877406400) |
 | Management Analyst | Veterans Health Administration | Location Negotiable After Selection | Not listed | 90925 | 2026-07-21 | [Apply](https://www.usajobs.gov:443/job/877353100) |
-| Program Specialist | Veterans Health Administration | Location Negotiable After Selection | Not listed | 107446 | 2026-07-21 | [Apply](https://www.usajobs.gov:443/job/877400100) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 67 |
+| Total jobs found | 68 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-07-24T04:20:46Z |
+| Last updated | 2026-07-24T14:54:20Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 67 jobs
+- USAJobs: 68 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-07-24T04:20:46Z_
+_Auto-generated legacy snapshot. Last run: 2026-07-24T14:54:20Z_

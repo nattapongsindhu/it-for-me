@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-24T04:20:46Z",
+  "updated": "2026-07-24T14:54:20Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 67,
+  "count": 68,
   "jobs": [
     {
       "title": "IT Specialist (SYSADMIN)",
@@ -15,6 +15,18 @@
       "type": "",
       "salary_annual": 63795.0,
       "salary_hourly": 30.67
+    },
+    {
+      "title": "Medical Records Technician (Coder) Auditor",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/877880400",
+      "salary": "52727",
+      "posted": "2026-07-24",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 52727.0,
+      "salary_hourly": 25.35
     },
     {
       "title": "IT Specialist (INFOSEC)",
