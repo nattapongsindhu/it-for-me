@@ -1,9 +1,21 @@
 {
-  "updated": "2026-07-23T15:08:25Z",
+  "updated": "2026-07-24T04:20:46Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 73,
+  "count": 67,
   "jobs": [
+    {
+      "title": "IT Specialist (SYSADMIN)",
+      "company": "Deputy Assistant Secretary for Information and Technology",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/877803600",
+      "salary": "63795",
+      "posted": "2026-07-24",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 63795.0,
+      "salary_hourly": 30.67
+    },
     {
       "title": "IT Specialist (INFOSEC)",
       "company": "Deputy Assistant Secretary for Information and Technology",
@@ -53,6 +65,18 @@
       "salary_hourly": null
     },
     {
+      "title": "Supv NBE/BE (LB Technical Team Lead) w/emphasis in ERM, Ops Risk & BIT, NB-0570-VI.2",
+      "company": "Office of the Comptroller of the Currency",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/877761200",
+      "salary": "150566",
+      "posted": "2026-07-23",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 150566.0,
+      "salary_hourly": 72.39
+    },
+    {
       "title": "Claims Management Program Analyst (O-4 Billet) Non-Supervisory",
       "company": "Immigration and Customs Enforcement",
       "location": "Location Negotiable After Selection",
@@ -81,6 +105,18 @@
       "company": "Deputy Assistant Secretary for Information and Technology",
       "location": "Location Negotiable After Selection",
       "url": "https://www.usajobs.gov:443/job/877542300",
+      "salary": "125776",
+      "posted": "2026-07-22",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 125776.0,
+      "salary_hourly": 60.47
+    },
+    {
+      "title": "IT Specialist (Policy and Planning)",
+      "company": "Deputy Assistant Secretary for Information and Technology",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/877405300",
       "salary": "125776",
       "posted": "2026-07-22",
       "source": "USAJobs",
@@ -137,18 +173,6 @@
       "salary_hourly": 29.67
     },
     {
-      "title": "Medical Support Assistant (Advanced)",
-      "company": "Veterans Health Administration",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/877562300",
-      "salary": "56247",
-      "posted": "2026-07-22",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 56247.0,
-      "salary_hourly": 27.04
-    },
-    {
       "title": "Management and Program Analyst",
       "company": "Electronic Health Record Modernization",
       "location": "Multiple Locations",
@@ -173,18 +197,6 @@
       "salary_hourly": 25.45
     },
     {
-      "title": "Information Technology Specialist (APPSW)",
-      "company": "Internal Revenue Service",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/877217900",
-      "salary": "89508",
-      "posted": "2026-07-21",
-      "source": "USAJobs",
-      "type": "Tour of Duty: Monday-Friday 8:00am-4:30pm, 40 hours per week",
-      "salary_annual": 89508.0,
-      "salary_hourly": 43.03
-    },
-    {
       "title": "Information Technology Specialist (SYSANALYSIS/APPSW)",
       "company": "Internal Revenue Service",
       "location": "Multiple Locations",
@@ -195,18 +207,6 @@
       "type": "Tour of Duty:\u00a0Day Shift, Monday-Friday 8:00am - 4:30pm 40 hours per week",
       "salary_annual": 89508.0,
       "salary_hourly": 43.03
-    },
-    {
-      "title": "Information Technology Specialist (Applications Software)",
-      "company": "Internal Revenue Service",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/877233300",
-      "salary": "106437",
-      "posted": "2026-07-21",
-      "source": "USAJobs",
-      "type": "Tour of Duty: Day Shift, Monday-Friday 8: 00a.m. - 4:30p.m., 40 hours per week",
-      "salary_annual": 106437.0,
-      "salary_hourly": 51.17
     },
     {
       "title": "Health System Specialist",
@@ -329,18 +329,6 @@
       "salary_hourly": 27.98
     },
     {
-      "title": "Health System Specialist",
-      "company": "Electronic Health Record Modernization",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/877186200",
-      "salary": "90925",
-      "posted": "2026-07-20",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 90925.0,
-      "salary_hourly": 43.71
-    },
-    {
       "title": "Health System Specialist (Change Management)",
       "company": "Electronic Health Record Modernization",
       "location": "Location Negotiable After Selection",
@@ -425,30 +413,6 @@
       "salary_hourly": 51.66
     },
     {
-      "title": "Supervisory IT Specialist (Policy and Planning)",
-      "company": "Deputy Assistant Secretary for Information and Technology",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/877000200",
-      "salary": "112890",
-      "posted": "2026-07-17",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 112890.0,
-      "salary_hourly": 54.27
-    },
-    {
-      "title": "Actuary",
-      "company": "U.S. Coast Guard",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/877081700",
-      "salary": "143913",
-      "posted": "2026-07-17",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 143913.0,
-      "salary_hourly": 69.19
-    },
-    {
       "title": "Supervisory Legal Admin Specialist",
       "company": "Veterans Benefits Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -461,14 +425,14 @@
       "salary_hourly": 51.66
     },
     {
-      "title": "Economist - Direct Hire",
-      "company": "Internal Revenue Service",
+      "title": "Transportation Specialist - ADL-DIRECT HIRE",
+      "company": "Federal Highway Administration",
       "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/876982900",
+      "url": "https://www.usajobs.gov:443/job/877089100",
       "salary": "106437",
       "posted": "2026-07-17",
       "source": "USAJobs",
-      "type": "Monday-Friday 8:00am-4:30pm, 40 hours per week.",
+      "type": "Full Time",
       "salary_annual": 106437.0,
       "salary_hourly": 51.17
     },
@@ -483,18 +447,6 @@
       "type": "",
       "salary_annual": 79746.0,
       "salary_hourly": 38.34
-    },
-    {
-      "title": "Telecommunications Manager (Wildland Fire)",
-      "company": "Office of the Secretary of the Interior",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/876939900",
-      "salary": "125776",
-      "posted": "2026-07-16",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
     },
     {
       "title": "Aviation Technical Systems Manager",
@@ -533,18 +485,6 @@
       "salary_hourly": 43.73
     },
     {
-      "title": "Dietitian (Advanced Level Practice)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/876752200",
-      "salary": "97307",
-      "posted": "2026-07-15",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 97307.0,
-      "salary_hourly": 46.78
-    },
-    {
       "title": "Program Support Specialist (District NxPert)",
       "company": "National Labor Relations Board",
       "location": "Location Negotiable After Selection",
@@ -581,18 +521,6 @@
       "salary_hourly": 61.46
     },
     {
-      "title": "IT Specialist (Policy and Planning)",
-      "company": "Deputy Assistant Secretary for Information and Technology",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/876302700",
-      "salary": "107446",
-      "posted": "2026-07-13",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 107446.0,
-      "salary_hourly": 51.66
-    },
-    {
       "title": "IT Specialist (Systems Analysis)\"Product Manager,\" GS-2210-14, FPL GS-14, DH, Open Continuous       ",
       "company": "Federal Student Aid",
       "location": "Multiple Locations",
@@ -615,30 +543,6 @@
       "type": "",
       "salary_annual": 125776.0,
       "salary_hourly": 60.47
-    },
-    {
-      "title": "Physician - Deputy Director (National Teleradiology)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/876308800",
-      "salary": "370808",
-      "posted": "2026-07-13",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 370808.0,
-      "salary_hourly": 178.27
-    },
-    {
-      "title": "Supervisory Health Science Specialist",
-      "company": "Veterans Health Administration",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/876237700",
-      "salary": "147945",
-      "posted": "2026-07-13",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 147945.0,
-      "salary_hourly": 71.13
     },
     {
       "title": "Supervisory Information Technology Specialist",
@@ -869,6 +773,18 @@
       "salary_hourly": 35.9
     },
     {
+      "title": "Mathematical Statistics Series",
+      "company": "Department of the Air Force - Agency Wide",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/852879600",
+      "salary": "63795",
+      "posted": "2025-12-22",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 63795.0,
+      "salary_hourly": 30.67
+    },
+    {
       "title": "IT SPECIALIST",
       "company": "Air Force Civilian Career Training",
       "location": "Location Negotiable After Selection",
@@ -879,6 +795,18 @@
       "type": "",
       "salary_annual": 56763.0,
       "salary_hourly": 27.29
+    },
+    {
+      "title": "ENGINEERING",
+      "company": "Air Force Civilian Career Training",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/846773600",
+      "salary": "55486",
+      "posted": "2025-09-29",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 55486.0,
+      "salary_hourly": 26.68
     }
   ]
 }
