@@ -1,11 +1,27 @@
 {
-  "updated": "2026-07-24T14:54:22Z",
-  "count": 4,
+  "updated": "2026-07-25T04:16:49Z",
+  "count": 5,
   "sources": [
     "Cedars-Sinai"
   ],
   "track_slug": "hospital-careers",
   "jobs": [
+    {
+      "title": "Epic ADT/Prelude Analyst - Remote",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/beverly-hills/epic-adt-prelude-analyst-remote/252/96298197408",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/epic-adt-prelude-analyst-remote/252/96298197408",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: epic"
+    },
     {
       "title": "Epic Beaker Analyst (CP & AP) - Remote",
       "company": "Cedars-Sinai",
