@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-25T14:37:18Z",
+  "updated": "2026-07-26T04:32:42Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 63,
+  "count": 62,
   "jobs": [
     {
       "title": "IT Specialist (SYSADMIN)",
@@ -207,18 +207,6 @@
       "type": "",
       "salary_annual": 2080.0,
       "salary_hourly": 1.0
-    },
-    {
-      "title": "Medical Records Technician (Coder In/Out)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/877803700",
-      "salary": "55882",
-      "posted": "2026-07-23",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 55882.0,
-      "salary_hourly": 26.87
     },
     {
       "title": "IT Specialist (Appsw)",

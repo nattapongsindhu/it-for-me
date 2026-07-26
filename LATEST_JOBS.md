@@ -1,14 +1,14 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-07-25T14%3A37%3A18Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-63-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-07-26T04%3A32%3A42Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-62-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
 
 ---
 
-## Latest Jobs - July 25, 2026
+## Latest Jobs - July 26, 2026
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
@@ -29,9 +29,9 @@
 | Spring 2027 SEC Scholars Business Program- RO (Volunteer) | Securities and Exchange Commission | Multiple Locations | Not listed | 0 | 2026-07-23 | [Apply](https://www.usajobs.gov:443/job/877514800) |
 | Supv NBE/BE (LB Technical Team Lead) w/emphasis in ERM, Ops Risk & BIT, NB-0570-VI.2 | Office of the Comptroller of the Currency | Los Angeles, California | Not listed | 150566 | 2026-07-23 | [Apply](https://www.usajobs.gov:443/job/877761200) |
 | Claims Management Program Analyst (O-4 Billet) Non-Supervisory | Immigration and Customs Enforcement | Location Negotiable After Selection | Not listed | 1 | 2026-07-23 | [Apply](https://www.usajobs.gov:443/job/877600900) |
-| Medical Records Technician (Coder In/Out) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 55882 | 2026-07-23 | [Apply](https://www.usajobs.gov:443/job/877803700) |
 | IT Specialist (Appsw) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 125776 | 2026-07-22 | [Apply](https://www.usajobs.gov:443/job/877542300) |
 | IT Specialist (Policy and Planning) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 125776 | 2026-07-22 | [Apply](https://www.usajobs.gov:443/job/877405300) |
+| IT Cybersecurity Specialist (INFOSEC) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 90925 | 2026-07-22 | [Apply](https://www.usajobs.gov:443/job/877376100) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 63 |
+| Total jobs found | 62 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-07-25T14:37:18Z |
+| Last updated | 2026-07-26T04:32:42Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 63 jobs
+- USAJobs: 62 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-07-25T14:37:18Z_
+_Auto-generated legacy snapshot. Last run: 2026-07-26T04:32:42Z_
