@@ -1,7 +1,7 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-07-27T04%3A42%3A51Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-65-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-07-27T15%3A41%3A47Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-66-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
@@ -13,6 +13,7 @@
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
 | Information Technology Specialist (ServiceNow Developer) | Internal Revenue Service | Multiple Locations | Tour of Duty: Day Shift, Monday-Friday 8:00am-4:30pm, 40 hours per week | 61722 | 2026-07-27 | [Apply](https://www.usajobs.gov:443/job/877963200) |
+| Supervisory Legal Administrative Specialist (Assistant Coach) | Veterans Benefits Administration | Anywhere in the U.S. (remote job) | Not listed | 74678 | 2026-07-27 | [Apply](https://www.usajobs.gov:443/job/878081000) |
 | Program Specialist - Institutional Review Board Coordinator | Veterans Health Administration | Los Angeles, California | Not listed | 71957 | 2026-07-27 | [Apply](https://www.usajobs.gov:443/job/877913900) |
 | Program Analyst (Performance Management) | Transportation Security Administration | Location Negotiable After Selection | Not listed | 63795 | 2026-07-27 | [Apply](https://www.usajobs.gov:443/job/877898100) |
 | Medical Support Assistant (Adv | Veterans Health Administration | Los Angeles, California | Not listed | 56247 | 2026-07-27 | [Apply](https://www.usajobs.gov:443/job/878014200) |
@@ -31,7 +32,6 @@
 | Administrative & Program Support | Office of the Secretary of Health and Human Services | Multiple Locations | Not listed | 0 | 2026-07-23 | [Apply](https://www.usajobs.gov:443/job/877711300) |
 | Supervisory Medical Records Technician (Coder - Outpatient and Inpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 67970 | 2026-07-23 | [Apply](https://www.usajobs.gov:443/job/877634200) |
 | Spring 2027 SEC Scholars Business Program- RO (Volunteer) | Securities and Exchange Commission | Multiple Locations | Not listed | 0 | 2026-07-23 | [Apply](https://www.usajobs.gov:443/job/877514800) |
-| Supv NBE/BE (LB Technical Team Lead) w/emphasis in ERM, Ops Risk & BIT, NB-0570-VI.2 | Office of the Comptroller of the Currency | Los Angeles, California | Not listed | 150566 | 2026-07-23 | [Apply](https://www.usajobs.gov:443/job/877761200) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 65 |
+| Total jobs found | 66 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-07-27T04:42:51Z |
+| Last updated | 2026-07-27T15:41:47Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 65 jobs
+- USAJobs: 66 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-07-27T04:42:51Z_
+_Auto-generated legacy snapshot. Last run: 2026-07-27T15:41:47Z_

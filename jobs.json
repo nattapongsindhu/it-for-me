@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-27T04:42:51Z",
+  "updated": "2026-07-27T15:41:47Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 65,
+  "count": 66,
   "jobs": [
     {
       "title": "Information Technology Specialist (ServiceNow Developer)",
@@ -15,6 +15,18 @@
       "type": "Tour of Duty: Day Shift, Monday-Friday 8:00am-4:30pm, 40 hours per week",
       "salary_annual": 61722.0,
       "salary_hourly": 29.67
+    },
+    {
+      "title": "Supervisory Legal Administrative Specialist (Assistant Coach)",
+      "company": "Veterans Benefits Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/878081000",
+      "salary": "74678",
+      "posted": "2026-07-27",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 74678.0,
+      "salary_hourly": 35.9
     },
     {
       "title": "Program Specialist - Institutional Review Board Coordinator",
