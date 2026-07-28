@@ -1,9 +1,21 @@
 {
-  "updated": "2026-07-28T04:16:06Z",
+  "updated": "2026-07-28T15:21:09Z",
   "zip": "90029",
   "radius_mi": 5,
   "count": 67,
   "jobs": [
+    {
+      "title": "Physician Neurologist (Regular Ft)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/878223200",
+      "salary": "165000",
+      "posted": "2026-07-28",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 165000.0,
+      "salary_hourly": 79.33
+    },
     {
       "title": "Accountant",
       "company": "Risk Management Agency",
@@ -39,6 +51,18 @@
       "type": "",
       "salary_annual": 89508.0,
       "salary_hourly": 43.03
+    },
+    {
+      "title": "Program Support Assistant",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/878220600",
+      "salary": "45409",
+      "posted": "2026-07-28",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 45409.0,
+      "salary_hourly": 21.83
     },
     {
       "title": "Supervisory IT Program Manager",
@@ -653,18 +677,6 @@
       "salary_hourly": 16.73
     },
     {
-      "title": "Physician-Diagnostic Radiologist-Recruitment/Relocation Incentive-EDRP Authorized",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/868648600",
-      "salary": "124308",
-      "posted": "2026-05-08",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 124308.0,
-      "salary_hourly": 59.76
-    },
-    {
       "title": "Advanced Practice Provider, Medical Asset Support Team (O-5 Billet) Non-Supervisory - Internal",
       "company": "Immigration and Customs Enforcement",
       "location": "Location Negotiable After Selection",
@@ -795,18 +807,6 @@
       "type": "",
       "salary_annual": 55486.0,
       "salary_hourly": 26.68
-    },
-    {
-      "title": "PHYSICIST",
-      "company": "Air Force Civilian Career Training",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/846774500",
-      "salary": "49960",
-      "posted": "2025-09-29",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 49960.0,
-      "salary_hourly": 24.02
     }
   ]
 }
