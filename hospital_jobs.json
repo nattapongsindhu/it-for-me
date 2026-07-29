@@ -1,27 +1,11 @@
 {
-  "updated": "2026-07-28T15:21:11Z",
-  "count": 5,
+  "updated": "2026-07-29T04:18:30Z",
+  "count": 6,
   "sources": [
     "Cedars-Sinai"
   ],
   "track_slug": "hospital-careers",
   "jobs": [
-    {
-      "title": "Epic ADT/Prelude Analyst - Remote",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/beverly-hills/epic-adt-prelude-analyst-remote/252/96298197408",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/epic-adt-prelude-analyst-remote/252/96298197408",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: epic"
-    },
     {
       "title": "Epic Beaker Analyst (CP & AP) - Remote",
       "company": "Cedars-Sinai",
@@ -85,6 +69,38 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: imaging"
+    },
+    {
+      "title": "Senior BMET (Biomedical Equipment Technician) - Onsite (10-Hour Evening Shift)",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/senior-bmet-biomedical-equipment-technician-onsite-10-hour-evening-shift/252/98439646096",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/senior-bmet-biomedical-equipment-technician-onsite-10-hour-evening-shift/252/98439646096",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: bmet, biomedical, biomedical equipment"
+    },
+    {
+      "title": "Senior Epic Optime Analyst - Remote",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/senior-epic-optime-analyst-remote/252/98439633904",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/senior-epic-optime-analyst-remote/252/98439633904",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: epic"
     }
   ]
 }
