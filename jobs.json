@@ -1,9 +1,225 @@
 {
-  "updated": "2026-07-29T15:07:33Z",
+  "updated": "2026-07-30T04:11:21Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 68,
+  "count": 71,
   "jobs": [
+    {
+      "title": "Information Technology Specialist (Enterprise Architecture)",
+      "company": "Administrative Office of the U.S. Courts",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/878288000",
+      "salary": "102415",
+      "posted": "2026-07-30",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 102415.0,
+      "salary_hourly": 49.24
+    },
+    {
+      "title": "Semester of Service Volunteer- Cybersecurity Threat Analysis Volunteer",
+      "company": "Department of State - Agency Wide",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/878324000",
+      "salary": "0",
+      "posted": "2026-07-30",
+      "source": "USAJobs",
+      "type": "8-20 hours per week",
+      "salary_annual": null,
+      "salary_hourly": null
+    },
+    {
+      "title": "Semester of Service Volunteer - Congressional Data Management Volunteer",
+      "company": "Department of State - Agency Wide",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/878439100",
+      "salary": "0",
+      "posted": "2026-07-30",
+      "source": "USAJobs",
+      "type": "8-20 hours per week",
+      "salary_annual": null,
+      "salary_hourly": null
+    },
+    {
+      "title": "Program Analyst",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/878462700",
+      "salary": "89508",
+      "posted": "2026-07-30",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 89508.0,
+      "salary_hourly": 43.03
+    },
+    {
+      "title": "Semester of Service Volunteer- Digital Communications and Multimedia Student Volunteer",
+      "company": "Department of State - Agency Wide",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/878416900",
+      "salary": "0",
+      "posted": "2026-07-30",
+      "source": "USAJobs",
+      "type": "8-20 hours per week",
+      "salary_annual": null,
+      "salary_hourly": null
+    },
+    {
+      "title": "Semester of Service Volunteer- Foreign Affairs Volunteer",
+      "company": "Department of State - Agency Wide",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/878247400",
+      "salary": "0",
+      "posted": "2026-07-30",
+      "source": "USAJobs",
+      "type": "8-20 hours per week",
+      "salary_annual": null,
+      "salary_hourly": null
+    },
+    {
+      "title": "Semester of Service Volunteer- Strategic Communications & Data Modernization Volunteer",
+      "company": "Department of State - Agency Wide",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/878306900",
+      "salary": "0",
+      "posted": "2026-07-30",
+      "source": "USAJobs",
+      "type": "8-20 hours per week",
+      "salary_annual": null,
+      "salary_hourly": null
+    },
+    {
+      "title": "Semester of Service Volunteer - Research Support Staff Member",
+      "company": "Department of State - Agency Wide",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/878307200",
+      "salary": "0",
+      "posted": "2026-07-30",
+      "source": "USAJobs",
+      "type": "8-20 hours per week",
+      "salary_annual": null,
+      "salary_hourly": null
+    },
+    {
+      "title": "Semester of Service Volunteer- Business Operations Analyst",
+      "company": "Department of State - Agency Wide",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/878382200",
+      "salary": "0",
+      "posted": "2026-07-30",
+      "source": "USAJobs",
+      "type": "8-20 hours per week",
+      "salary_annual": null,
+      "salary_hourly": null
+    },
+    {
+      "title": "Semester of Service - Foreign Media Impact and Strategic Storytelling Volunteer",
+      "company": "Department of State - Agency Wide",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/878390100",
+      "salary": "0",
+      "posted": "2026-07-30",
+      "source": "USAJobs",
+      "type": "8-20 hours per week",
+      "salary_annual": null,
+      "salary_hourly": null
+    },
+    {
+      "title": "Semester of Service Volunteer- Digital Innovation and Process Improvement Officer",
+      "company": "Department of State - Agency Wide",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/878391300",
+      "salary": "0",
+      "posted": "2026-07-30",
+      "source": "USAJobs",
+      "type": "8-20 hours per week ",
+      "salary_annual": null,
+      "salary_hourly": null
+    },
+    {
+      "title": "Semester of Service Volunteer - Congressional Hearing Research Volunteer",
+      "company": "Department of State - Agency Wide",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/878417500",
+      "salary": "0",
+      "posted": "2026-07-30",
+      "source": "USAJobs",
+      "type": "8-20 hours per week",
+      "salary_annual": null,
+      "salary_hourly": null
+    },
+    {
+      "title": "Semester of Service Volunteer - Congressional Onboarding Research Volunteer",
+      "company": "Department of State - Agency Wide",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/878418400",
+      "salary": "0",
+      "posted": "2026-07-30",
+      "source": "USAJobs",
+      "type": "8-20 hours per week ",
+      "salary_annual": null,
+      "salary_hourly": null
+    },
+    {
+      "title": "Semester of Service Volunteer - Congressional Research Volunteer",
+      "company": "Department of State - Agency Wide",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/878420500",
+      "salary": "0",
+      "posted": "2026-07-30",
+      "source": "USAJobs",
+      "type": "8-20 hours per week",
+      "salary_annual": null,
+      "salary_hourly": null
+    },
+    {
+      "title": "Semester of Service Volunteer - Commercial Diplomacy Analyst",
+      "company": "Department of State - Agency Wide",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/878429900",
+      "salary": "0",
+      "posted": "2026-07-30",
+      "source": "USAJobs",
+      "type": "8-20 hours per week ",
+      "salary_annual": null,
+      "salary_hourly": null
+    },
+    {
+      "title": "Semester of Service Volunteer - Congressional Engagement Volunteer",
+      "company": "Department of State - Agency Wide",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/878431400",
+      "salary": "0",
+      "posted": "2026-07-30",
+      "source": "USAJobs",
+      "type": "8-20 hours per week",
+      "salary_annual": null,
+      "salary_hourly": null
+    },
+    {
+      "title": "Semester of Service - EducationUSA Strategic Communications and Data Analysis Volunteer ",
+      "company": "Department of State - Agency Wide",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/878488100",
+      "salary": "0",
+      "posted": "2026-07-30",
+      "source": "USAJobs",
+      "type": "8-20 hours per week",
+      "salary_annual": null,
+      "salary_hourly": null
+    },
+    {
+      "title": "Information Technology Specialist (APPSW)",
+      "company": "Internal Revenue Service",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/878437600",
+      "salary": "125776",
+      "posted": "2026-07-29",
+      "source": "USAJobs",
+      "type": "Tour of Duty: Day Shift, Monday-Friday 8:00 AM - 4:30 PM, 40 hours per week.",
+      "salary_annual": 125776.0,
+      "salary_hourly": 60.47
+    },
     {
       "title": "Information Technology Specialist",
       "company": "Internal Revenue Service",
@@ -29,28 +245,40 @@
       "salary_hourly": 29.67
     },
     {
-      "title": "Medical Records Technician (Coder Inpatient)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/878423700",
-      "salary": "55882",
+      "title": "Lead Cybersecurity Engineer / ISSM, SYD 84",
+      "company": "Space Systems Command",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/878462900",
+      "salary": "145180",
       "posted": "2026-07-29",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 55882.0,
-      "salary_hourly": 26.87
+      "salary_annual": 145180.0,
+      "salary_hourly": 69.8
     },
     {
-      "title": "Fire Ecologist (Wildland Fire)",
-      "company": "Office of the Secretary of the Interior",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/878418100",
-      "salary": "97564",
+      "title": "Supervisory Veterans Service Representative (VSCM)",
+      "company": "Veterans Benefits Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/878465000",
+      "salary": "126384",
       "posted": "2026-07-29",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 97564.0,
-      "salary_hourly": 46.91
+      "salary_annual": 126384.0,
+      "salary_hourly": 60.76
+    },
+    {
+      "title": "Supervisory Management & Program Analyst",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/878512600",
+      "salary": "126384",
+      "posted": "2026-07-29",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 126384.0,
+      "salary_hourly": 60.76
     },
     {
       "title": "Physician Neurologist (Regular Ft)",
@@ -65,6 +293,18 @@
       "salary_hourly": 79.33
     },
     {
+      "title": "Program Support Assistant",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/878220600",
+      "salary": "45409",
+      "posted": "2026-07-28",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 45409.0,
+      "salary_hourly": 21.83
+    },
+    {
       "title": "Information Systems Security Manager, SYD 810",
       "company": "Space Systems Command",
       "location": "Los Angeles, California",
@@ -75,18 +315,6 @@
       "type": "",
       "salary_annual": 103316.0,
       "salary_hourly": 49.67
-    },
-    {
-      "title": "Program Support Assistant",
-      "company": "Veterans Health Administration",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/878272400",
-      "salary": "52938",
-      "posted": "2026-07-28",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 52938.0,
-      "salary_hourly": 25.45
     },
     {
       "title": "Accountant",
@@ -111,18 +339,6 @@
       "type": "",
       "salary_annual": 95489.0,
       "salary_hourly": 45.91
-    },
-    {
-      "title": "Aviation Manager",
-      "company": "Office of the Secretary of the Interior",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/878355300",
-      "salary": "97564",
-      "posted": "2026-07-28",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 97564.0,
-      "salary_hourly": 46.91
     },
     {
       "title": "Attorney Advisor",
@@ -185,30 +401,6 @@
       "salary_hourly": 34.59
     },
     {
-      "title": "Medical Support Assistant (Adv",
-      "company": "Veterans Health Administration",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/878014200",
-      "salary": "56247",
-      "posted": "2026-07-27",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 56247.0,
-      "salary_hourly": 27.04
-    },
-    {
-      "title": "Medical Support Assistant (Advanced)",
-      "company": "Veterans Health Administration",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/878115700",
-      "salary": "56247",
-      "posted": "2026-07-27",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 56247.0,
-      "salary_hourly": 27.04
-    },
-    {
       "title": "Health Technician (Ophthalmology)",
       "company": "Veterans Health Administration",
       "location": "Los Angeles, California",
@@ -221,18 +413,6 @@
       "salary_hourly": 26.77
     },
     {
-      "title": "HR Specialist (Information Systems)",
-      "company": "Veterans Health Administration",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/877978500",
-      "salary": "106437",
-      "posted": "2026-07-27",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 106437.0,
-      "salary_hourly": 51.17
-    },
-    {
       "title": "IT Specialist (SYSADMIN)",
       "company": "Deputy Assistant Secretary for Information and Technology",
       "location": "Location Negotiable After Selection",
@@ -243,18 +423,6 @@
       "type": "",
       "salary_annual": 63795.0,
       "salary_hourly": 30.67
-    },
-    {
-      "title": "Supervisory Medical Records Technician (CDIS-Outpatient and Inpatient)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/878015100",
-      "salary": "67970",
-      "posted": "2026-07-24",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 67970.0,
-      "salary_hourly": 32.68
     },
     {
       "title": "Physician (Radiolgist-Remote) w/EDRP",
@@ -291,66 +459,6 @@
       "type": "",
       "salary_annual": 52727.0,
       "salary_hourly": 25.35
-    },
-    {
-      "title": "Quality Assurance Specialist",
-      "company": "Defense Contract Management Agency",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/877897500",
-      "salary": "125776",
-      "posted": "2026-07-24",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
-    },
-    {
-      "title": "Supervisory Aviation Management Specialist",
-      "company": "Office of the Secretary of the Interior",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/877896000",
-      "salary": "112824",
-      "posted": "2026-07-24",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 112824.0,
-      "salary_hourly": 54.24
-    },
-    {
-      "title": "IT Specialist (INFOSEC)",
-      "company": "Deputy Assistant Secretary for Information and Technology",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/877597600",
-      "salary": "90925",
-      "posted": "2026-07-23",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 90925.0,
-      "salary_hourly": 43.71
-    },
-    {
-      "title": "Supervisory IT Specialist",
-      "company": "Office of the Assistant Secretary for Administration and Management",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/877608400",
-      "salary": "125776",
-      "posted": "2026-07-23",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
-    },
-    {
-      "title": "IT Specialist (Telephony/UC Support)",
-      "company": "Office of the Assistant Secretary for Administration and Management",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/877635200",
-      "salary": "74678",
-      "posted": "2026-07-23",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 74678.0,
-      "salary_hourly": 35.9
     },
     {
       "title": "Administrative & Program Support",
@@ -401,30 +509,6 @@
       "salary_hourly": 1.0
     },
     {
-      "title": "IT Cybersecurity Specialist (INFOSEC)",
-      "company": "Deputy Assistant Secretary for Information and Technology",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/877376100",
-      "salary": "90925",
-      "posted": "2026-07-22",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 90925.0,
-      "salary_hourly": 43.71
-    },
-    {
-      "title": "Management and Program Analyst",
-      "company": "Electronic Health Record Modernization",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/877515900",
-      "salary": "74678",
-      "posted": "2026-07-22",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 74678.0,
-      "salary_hourly": 35.9
-    },
-    {
       "title": "Program Support Assstant",
       "company": "Veterans Health Administration",
       "location": "Los Angeles, California",
@@ -435,18 +519,6 @@
       "type": "",
       "salary_annual": 52938.0,
       "salary_hourly": 25.45
-    },
-    {
-      "title": "Program Analyst",
-      "company": "Veterans Health Administration",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/877496600",
-      "salary": "61722",
-      "posted": "2026-07-22",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 61722.0,
-      "salary_hourly": 29.67
     },
     {
       "title": "Supervisory Legal Admin Specialist",
@@ -509,28 +581,16 @@
       "salary_hourly": 38.02
     },
     {
-      "title": "Aviation Technical Systems Manager",
-      "company": "Federal Aviation Administration",
-      "location": "FAA Nationwide-Selectee Remains in Current Duty Location",
-      "url": "https://www.usajobs.gov:443/job/876701600",
-      "salary": "134118",
-      "posted": "2026-07-16",
+      "title": "Operations Center Technician",
+      "company": "Federal Bureau of Investigation",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/877155300",
+      "salary": "43106",
+      "posted": "2026-07-20",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 134118.0,
-      "salary_hourly": 64.48
-    },
-    {
-      "title": "Human Resources Assistant (Office Automation)",
-      "company": "Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/876836100",
-      "salary": "47490",
-      "posted": "2026-07-16",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 47490.0,
-      "salary_hourly": 22.83
+      "salary_annual": 43106.0,
+      "salary_hourly": 20.72
     },
     {
       "title": "IT Specialist (DATAMGT)",
@@ -725,18 +785,6 @@
       "salary_hourly": 43.03
     },
     {
-      "title": "Public Notice for Engineering Technician (Direct Hire)",
-      "company": "Federal Aviation Administration",
-      "location": "May be filled in various FAA duty locations",
-      "url": "https://www.usajobs.gov:443/job/858693800",
-      "salary": "46830",
-      "posted": "2026-02-24",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 46830.0,
-      "salary_hourly": 22.51
-    },
-    {
       "title": "Immigration Judge",
       "company": "Executive Office for Immigration Review",
       "location": "Anywhere in the U.S. (remote job)",
@@ -761,42 +809,6 @@
       "salary_hourly": 25.35
     },
     {
-      "title": "Electronic Engineer",
-      "company": "Department of the Air Force - Agency Wide",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/852987000",
-      "salary": "63795",
-      "posted": "2025-12-22",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 63795.0,
-      "salary_hourly": 30.67
-    },
-    {
-      "title": "Economist",
-      "company": "Department of the Air Force - Agency Wide",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/853032300",
-      "salary": "74678",
-      "posted": "2025-12-22",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 74678.0,
-      "salary_hourly": 35.9
-    },
-    {
-      "title": "Mathematical Statistics Series",
-      "company": "Department of the Air Force - Agency Wide",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/852879600",
-      "salary": "63795",
-      "posted": "2025-12-22",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 63795.0,
-      "salary_hourly": 30.67
-    },
-    {
       "title": "IT SPECIALIST",
       "company": "Air Force Civilian Career Training",
       "location": "Location Negotiable After Selection",
@@ -809,16 +821,40 @@
       "salary_hourly": 27.29
     },
     {
-      "title": "ENGINEERING",
+      "title": "COMPUTER ENGINEER",
+      "company": "Air Force Civilian Career Training",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/847080100",
+      "salary": "56763",
+      "posted": "2025-10-01",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 56763.0,
+      "salary_hourly": 27.29
+    },
+    {
+      "title": "PHYSICIST",
       "company": "Air Force Civilian Career Training",
       "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/846773600",
-      "salary": "55486",
+      "url": "https://www.usajobs.gov:443/job/846774500",
+      "salary": "49960",
       "posted": "2025-09-29",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 55486.0,
-      "salary_hourly": 26.68
+      "salary_annual": 49960.0,
+      "salary_hourly": 24.02
+    },
+    {
+      "title": "BIOLOGICAL SCIENTIST (ENVIRONMENTAL)",
+      "company": "Air Force Civilian Career Training",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/846774300",
+      "salary": "49960",
+      "posted": "2025-09-29",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 49960.0,
+      "salary_hourly": 24.02
     }
   ]
 }

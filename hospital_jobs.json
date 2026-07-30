@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-29T15:07:36Z",
-  "count": 6,
+  "updated": "2026-07-30T04:11:22Z",
+  "count": 5,
   "sources": [
     "Cedars-Sinai"
   ],
@@ -69,22 +69,6 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: imaging"
-    },
-    {
-      "title": "Senior BMET (Biomedical Equipment Technician) - Onsite (10-Hour Evening Shift)",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/senior-bmet-biomedical-equipment-technician-onsite-10-hour-evening-shift/252/98439646096",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/senior-bmet-biomedical-equipment-technician-onsite-10-hour-evening-shift/252/98439646096",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: bmet, biomedical, biomedical equipment"
     },
     {
       "title": "Senior Epic Optime Analyst - Remote",
