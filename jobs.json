@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-01T04:26:13Z",
+  "updated": "2026-08-01T14:25:33Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 69,
+  "count": 66,
   "jobs": [
     {
       "title": "Information Technology Specialist (ServiceNow Developer)",
@@ -149,6 +149,18 @@
       "salary_hourly": 51.17
     },
     {
+      "title": "Senior Economist - Direct Hire",
+      "company": "Internal Revenue Service",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/878791500",
+      "salary": "125776",
+      "posted": "2026-07-31",
+      "source": "USAJobs",
+      "type": "Day Shift; Monday - Friday 6:00 am to 6:00 pm Core Hours",
+      "salary_annual": 125776.0,
+      "salary_hourly": 60.47
+    },
+    {
       "title": "Staff Physician (Neurologist) Remote-Education Debt Reduction Program",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -159,18 +171,6 @@
       "type": "",
       "salary_annual": 250000.0,
       "salary_hourly": 120.19
-    },
-    {
-      "title": "Semester of Service Volunteer - Congressional Data Management Volunteer",
-      "company": "Department of State - Agency Wide",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/878439100",
-      "salary": "0",
-      "posted": "2026-07-30",
-      "source": "USAJobs",
-      "type": "8-20 hours per week",
-      "salary_annual": null,
-      "salary_hourly": null
     },
     {
       "title": "Program Analyst",
@@ -233,30 +233,6 @@
       "salary_hourly": 60.47
     },
     {
-      "title": "Semester of Service Volunteer- Strategic Communications & Data Modernization Volunteer",
-      "company": "Department of State - Agency Wide",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/878306900",
-      "salary": "0",
-      "posted": "2026-07-30",
-      "source": "USAJobs",
-      "type": "8-20 hours per week",
-      "salary_annual": null,
-      "salary_hourly": null
-    },
-    {
-      "title": "Semester of Service - Foreign Media Impact and Strategic Storytelling Volunteer",
-      "company": "Department of State - Agency Wide",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/878390100",
-      "salary": "0",
-      "posted": "2026-07-30",
-      "source": "USAJobs",
-      "type": "8-20 hours per week",
-      "salary_annual": null,
-      "salary_hourly": null
-    },
-    {
       "title": "Semester of Service Volunteer- Digital Innovation and Process Improvement Officer",
       "company": "Department of State - Agency Wide",
       "location": "Anywhere in the U.S. (remote job)",
@@ -265,54 +241,6 @@
       "posted": "2026-07-30",
       "source": "USAJobs",
       "type": "8-20 hours per week ",
-      "salary_annual": null,
-      "salary_hourly": null
-    },
-    {
-      "title": "Semester of Service Volunteer - Congressional Onboarding Research Volunteer",
-      "company": "Department of State - Agency Wide",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/878418400",
-      "salary": "0",
-      "posted": "2026-07-30",
-      "source": "USAJobs",
-      "type": "8-20 hours per week ",
-      "salary_annual": null,
-      "salary_hourly": null
-    },
-    {
-      "title": "Semester of Service Volunteer - Congressional Research Volunteer",
-      "company": "Department of State - Agency Wide",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/878420500",
-      "salary": "0",
-      "posted": "2026-07-30",
-      "source": "USAJobs",
-      "type": "8-20 hours per week",
-      "salary_annual": null,
-      "salary_hourly": null
-    },
-    {
-      "title": "Semester of Service Volunteer - Congressional Engagement Volunteer",
-      "company": "Department of State - Agency Wide",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/878431400",
-      "salary": "0",
-      "posted": "2026-07-30",
-      "source": "USAJobs",
-      "type": "8-20 hours per week",
-      "salary_annual": null,
-      "salary_hourly": null
-    },
-    {
-      "title": "Semester of Service - EducationUSA Strategic Communications and Data Analysis Volunteer ",
-      "company": "Department of State - Agency Wide",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/878488100",
-      "salary": "0",
-      "posted": "2026-07-30",
-      "source": "USAJobs",
-      "type": "8-20 hours per week",
       "salary_annual": null,
       "salary_hourly": null
     },
@@ -437,6 +365,18 @@
       "salary_hourly": 45.91
     },
     {
+      "title": "Aviation Manager",
+      "company": "Office of the Secretary of the Interior",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/878355300",
+      "salary": "97564",
+      "posted": "2026-07-28",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 97564.0,
+      "salary_hourly": 46.91
+    },
+    {
       "title": "Attorney Advisor",
       "company": "Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys",
       "location": "Location Negotiable After Selection",
@@ -473,18 +413,6 @@
       "salary_hourly": 30.67
     },
     {
-      "title": "Health Technician (Ophthalmology)",
-      "company": "Veterans Health Administration",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/878031100",
-      "salary": "55678",
-      "posted": "2026-07-27",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 55678.0,
-      "salary_hourly": 26.77
-    },
-    {
       "title": "Medical Support Assistant (Adv",
       "company": "Veterans Health Administration",
       "location": "Los Angeles, California",
@@ -495,6 +423,18 @@
       "type": "",
       "salary_annual": 56247.0,
       "salary_hourly": 27.04
+    },
+    {
+      "title": "Health Technician (Ophthalmology)",
+      "company": "Veterans Health Administration",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/878031100",
+      "salary": "55678",
+      "posted": "2026-07-27",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 55678.0,
+      "salary_hourly": 26.77
     },
     {
       "title": "IT Specialist (SYSADMIN)",
@@ -783,6 +723,30 @@
       "type": "",
       "salary_annual": 52727.0,
       "salary_hourly": 25.35
+    },
+    {
+      "title": "Electronic Engineer",
+      "company": "Department of the Air Force - Agency Wide",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/852987000",
+      "salary": "63795",
+      "posted": "2025-12-22",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 63795.0,
+      "salary_hourly": 30.67
+    },
+    {
+      "title": "Economist",
+      "company": "Department of the Air Force - Agency Wide",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/853032300",
+      "salary": "74678",
+      "posted": "2025-12-22",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 74678.0,
+      "salary_hourly": 35.9
     },
     {
       "title": "IT SPECIALIST",
