@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T15:19:17Z",
+  "updated": "2026-08-01T04:26:16Z",
   "count": 6,
   "sources": [
     "Cedars-Sinai"
@@ -21,38 +21,6 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: bmet, biomedical, biomedical equipment"
-    },
-    {
-      "title": "Epic Beaker Analyst (CP & AP) - Remote",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/epic-beaker-analyst-cp-and-ap-remote/252/97528945168",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/epic-beaker-analyst-cp-and-ap-remote/252/97528945168",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: epic"
-    },
-    {
-      "title": "Epic Principal Trainer - Inpatient (Orders/ClinDoc) - Hybrid",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/epic-principal-trainer-inpatient-orders-clindoc-hybrid/252/97111806720",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/epic-principal-trainer-inpatient-orders-clindoc-hybrid/252/97111806720",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: epic"
     },
     {
       "title": "Postdoctoral Scientist - Slomka Lab - Innovation in Imaging / Department of Medicine / Division of AIM Cedars-Sinai Medical Center Los Angeles, CA Academic / Research Req ID: HRC1428640",
@@ -85,6 +53,38 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: imaging"
+    },
+    {
+      "title": "Senior Apple Desktop Engineer - Hybrid",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/senior-apple-desktop-engineer-hybrid/252/98586878160",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/senior-apple-desktop-engineer-hybrid/252/98586878160",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: desktop"
+    },
+    {
+      "title": "Senior Epic Cadence Analyst - Remote",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/senior-epic-cadence-analyst-remote/252/98586880640",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/senior-epic-cadence-analyst-remote/252/98586880640",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: epic"
     },
     {
       "title": "Senior Epic Optime Analyst - Remote",
