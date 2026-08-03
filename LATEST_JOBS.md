@@ -1,7 +1,7 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-08-03T04%3A36%3A21Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-69-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-08-03T15%3A42%3A51Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-70-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
@@ -13,7 +13,9 @@
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
 | Information Technology Specialist - Contact Center Developer | Internal Revenue Service | Multiple Locations | Tour of Duty: Day Shift, Monday-Friday 8:00AM - 4:30PM EST, 40 hours per week | 89508 | 2026-08-03 | [Apply](https://www.usajobs.gov:443/job/878803800) |
+| Psychiatrist (Remote) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 250000 | 2026-08-03 | [Apply](https://www.usajobs.gov:443/job/878946600) |
 | Medical Records Technician (Coder-Inpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 59095 | 2026-08-03 | [Apply](https://www.usajobs.gov:443/job/878794400) |
+| Supervisory Human Resources Specialist (Information Systems) | Internal Revenue Service | IRS Nationwide Locations | Monday-Friday, Day Shift hours negotiable, start time between, 6:00 am-6:00 pm, 40 hours per week. | 125776 | 2026-08-03 | [Apply](https://www.usajobs.gov:443/job/878938600) |
 | Staff Assistant | Veterans Health Administration | Multiple Locations | Not listed | 124531 | 2026-08-03 | [Apply](https://www.usajobs.gov:443/job/878422400) |
 | Nursing Assistant (PCU) | Veterans Health Administration | Los Angeles, California | Not listed | 42947 | 2026-08-03 | [Apply](https://www.usajobs.gov:443/job/878887000) |
 | Information Technology Specialist (ServiceNow Developer) | Internal Revenue Service | Multiple Locations | Tour of Duty: Day Shift, Monday-Friday 8:00am - 4:30pm, 40 hours per week | 125776 | 2026-07-31 | [Apply](https://www.usajobs.gov:443/job/878913500) |
@@ -30,8 +32,6 @@
 | Senior Economist - Direct Hire | Internal Revenue Service | Multiple Locations | Day Shift; Monday - Friday 6:00 am to 6:00 pm Core Hours | 125776 | 2026-07-31 | [Apply](https://www.usajobs.gov:443/job/878791500) |
 | Staff Physician (Neurologist) Remote-Education Debt Reduction Program | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 250000 | 2026-07-30 | [Apply](https://www.usajobs.gov:443/job/878720500) |
 | Program Analyst | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 89508 | 2026-07-30 | [Apply](https://www.usajobs.gov:443/job/878462700) |
-| Supervisory Veterans Service Representative (AVSCM) | Veterans Benefits Administration | Anywhere in the U.S. (remote job) | Not listed | 107446 | 2026-07-30 | [Apply](https://www.usajobs.gov:443/job/878657300) |
-| Contract Administrator | Defense Contract Management Agency | Location Negotiable After Selection | Not listed | 107446 | 2026-07-30 | [Apply](https://www.usajobs.gov:443/job/878674700) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 69 |
+| Total jobs found | 70 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-08-03T04:36:21Z |
+| Last updated | 2026-08-03T15:42:51Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 69 jobs
+- USAJobs: 70 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-08-03T04:36:21Z_
+_Auto-generated legacy snapshot. Last run: 2026-08-03T15:42:51Z_
