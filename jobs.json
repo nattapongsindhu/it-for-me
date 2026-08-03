@@ -1,9 +1,57 @@
 {
-  "updated": "2026-08-02T14:28:15Z",
+  "updated": "2026-08-03T04:36:21Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 66,
+  "count": 69,
   "jobs": [
+    {
+      "title": "Information Technology Specialist - Contact Center Developer",
+      "company": "Internal Revenue Service",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/878803800",
+      "salary": "89508",
+      "posted": "2026-08-03",
+      "source": "USAJobs",
+      "type": "Tour of Duty: Day Shift, Monday-Friday 8:00AM - 4:30PM EST, 40 hours per week",
+      "salary_annual": 89508.0,
+      "salary_hourly": 43.03
+    },
+    {
+      "title": "Medical Records Technician (Coder-Inpatient)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/878794400",
+      "salary": "59095",
+      "posted": "2026-08-03",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 59095.0,
+      "salary_hourly": 28.41
+    },
+    {
+      "title": "Staff Assistant",
+      "company": "Veterans Health Administration",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/878422400",
+      "salary": "124531",
+      "posted": "2026-08-03",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 124531.0,
+      "salary_hourly": 59.87
+    },
+    {
+      "title": "Nursing Assistant (PCU)",
+      "company": "Veterans Health Administration",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/878887000",
+      "salary": "42947",
+      "posted": "2026-08-03",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 42947.0,
+      "salary_hourly": 20.65
+    },
     {
       "title": "Information Technology Specialist (ServiceNow Developer)",
       "company": "Internal Revenue Service",
@@ -32,13 +80,13 @@
       "title": "Information Technology Specialist (Systems Analysis/Applications Software)",
       "company": "Internal Revenue Service",
       "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/878913900",
-      "salary": "61722",
+      "url": "https://www.usajobs.gov:443/job/878790400",
+      "salary": "89508",
       "posted": "2026-07-31",
       "source": "USAJobs",
-      "type": "Day Shift, Monday-Friday 8:00AM -4:30PM, 40 hours per week",
-      "salary_annual": 61722.0,
-      "salary_hourly": 29.67
+      "type": "Tour of Duty:  Day Shift, Monday-Friday  8a.m.-4:30pm, 40 hours per week",
+      "salary_annual": 89508.0,
+      "salary_hourly": 43.03
     },
     {
       "title": "Medical Records Technician-Clinical Documentation Improvement Specialist (CDIS) - Inpatient",
@@ -51,18 +99,6 @@
       "type": "",
       "salary_annual": 64448.0,
       "salary_hourly": 30.98
-    },
-    {
-      "title": "Pharmacy Technician",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/878860200",
-      "salary": "51727",
-      "posted": "2026-07-31",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 51727.0,
-      "salary_hourly": 24.87
     },
     {
       "title": "Senior Technical Advisor",
@@ -183,18 +219,6 @@
       "type": "",
       "salary_annual": 89508.0,
       "salary_hourly": 43.03
-    },
-    {
-      "title": "Semester of Service Volunteer- Digital Communications and Multimedia Student Volunteer",
-      "company": "Department of State - Agency Wide",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/878416900",
-      "salary": "0",
-      "posted": "2026-07-30",
-      "source": "USAJobs",
-      "type": "8-20 hours per week",
-      "salary_annual": null,
-      "salary_hourly": null
     },
     {
       "title": "Supervisory Veterans Service Representative (AVSCM)",
@@ -389,18 +413,6 @@
       "salary_hourly": 71.13
     },
     {
-      "title": "Medical Records Technician (Coder-Inpatient)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/878147800",
-      "salary": "37193",
-      "posted": "2026-07-27",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 37193.0,
-      "salary_hourly": 17.88
-    },
-    {
       "title": "Human Resources Specialist",
       "company": "Transportation Security Administration",
       "location": "Location Negotiable After Selection",
@@ -417,6 +429,18 @@
       "company": "Veterans Health Administration",
       "location": "Los Angeles, California",
       "url": "https://www.usajobs.gov:443/job/878014200",
+      "salary": "56247",
+      "posted": "2026-07-27",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 56247.0,
+      "salary_hourly": 27.04
+    },
+    {
+      "title": "Medical Support Assistant (Advanced)",
+      "company": "Veterans Health Administration",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/878115700",
       "salary": "56247",
       "posted": "2026-07-27",
       "source": "USAJobs",
@@ -771,6 +795,18 @@
       "type": "",
       "salary_annual": 56763.0,
       "salary_hourly": 27.29
+    },
+    {
+      "title": "ENGINEERING",
+      "company": "Air Force Civilian Career Training",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/846773600",
+      "salary": "55486",
+      "posted": "2025-09-29",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 55486.0,
+      "salary_hourly": 26.68
     },
     {
       "title": "PHYSICIST",
