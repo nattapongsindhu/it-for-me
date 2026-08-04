@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-04T04:18:39Z",
+  "updated": "2026-08-04T15:23:41Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 67,
+  "count": 69,
   "jobs": [
     {
       "title": "Supervisory Information Technology Specialist",
@@ -29,6 +29,42 @@
       "salary_hourly": 192.31
     },
     {
+      "title": "Supervisory Cybersecurity Advisor",
+      "company": "Cybersecurity and Infrastructure Security Agency",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/879164200",
+      "salary": "107446",
+      "posted": "2026-08-04",
+      "source": "USAJobs",
+      "type": "This position will infrequently require work hours beyond a normal business operations schedule.",
+      "salary_annual": 107446.0,
+      "salary_hourly": 51.66
+    },
+    {
+      "title": "Medical Records Technician  (Clinical Documentation Improvement Specialist- CDIS-Outpatient))",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/879153900",
+      "salary": "61722",
+      "posted": "2026-08-04",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 61722.0,
+      "salary_hourly": 29.67
+    },
+    {
+      "title": "Supervisory Administrative Officer",
+      "company": "Cybersecurity and Infrastructure Security Agency",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/879155400",
+      "salary": "169279",
+      "posted": "2026-08-04",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 169279.0,
+      "salary_hourly": 81.38
+    },
+    {
       "title": "Supervisory Air Traffic Control Specialist",
       "company": "Federal Aviation Administration",
       "location": "FAA Nationwide-Selectee Remains in Current Duty Location",
@@ -39,6 +75,30 @@
       "type": "",
       "salary_annual": 134118.0,
       "salary_hourly": 64.48
+    },
+    {
+      "title": "Equal Opportunity Assistant (OA)",
+      "company": "Veterans Health Administration",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/879124300",
+      "salary": "52938",
+      "posted": "2026-08-04",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 52938.0,
+      "salary_hourly": 25.45
+    },
+    {
+      "title": "Medical Support Assistant (Advanced)",
+      "company": "Veterans Health Administration",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/879156300",
+      "salary": "56247",
+      "posted": "2026-08-04",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 56247.0,
+      "salary_hourly": 27.04
     },
     {
       "title": "Information Technology Specialist - Contact Center Developer",
@@ -293,18 +353,6 @@
       "salary_hourly": 60.47
     },
     {
-      "title": "Biological Science Technician (Field Support Technician)",
-      "company": "Animal and Plant Health Inspection Service",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/878746800",
-      "salary": "50460",
-      "posted": "2026-07-31",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 50460.0,
-      "salary_hourly": 24.26
-    },
-    {
       "title": "Staff Physician (Neurologist) Remote-Education Debt Reduction Program",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -447,18 +495,6 @@
       "type": "",
       "salary_annual": 97564.0,
       "salary_hourly": 46.91
-    },
-    {
-      "title": "Attorney Advisor",
-      "company": "Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/878211000",
-      "salary": "147945",
-      "posted": "2026-07-28",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 147945.0,
-      "salary_hourly": 71.13
     },
     {
       "title": "Human Resources Specialist",
@@ -795,18 +831,6 @@
       "type": "",
       "salary_annual": 56763.0,
       "salary_hourly": 27.29
-    },
-    {
-      "title": "ENGINEERING",
-      "company": "Air Force Civilian Career Training",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/846773600",
-      "salary": "55486",
-      "posted": "2025-09-29",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 55486.0,
-      "salary_hourly": 26.68
     }
   ]
 }
