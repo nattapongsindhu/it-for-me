@@ -1,9 +1,45 @@
 {
-  "updated": "2026-08-03T15:42:51Z",
+  "updated": "2026-08-04T04:18:39Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 70,
+  "count": 67,
   "jobs": [
+    {
+      "title": "Supervisory Information Technology Specialist",
+      "company": "Forest Service",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/878863500",
+      "salary": "125776",
+      "posted": "2026-08-04",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 125776.0,
+      "salary_hourly": 60.47
+    },
+    {
+      "title": "Physician (Regular Ft) Up to 50,000 recruitment incentive available plus EDRP",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/879032700",
+      "salary": "400000",
+      "posted": "2026-08-04",
+      "source": "USAJobs",
+      "type": "To Be Determined",
+      "salary_annual": 400000.0,
+      "salary_hourly": 192.31
+    },
+    {
+      "title": "Supervisory Air Traffic Control Specialist",
+      "company": "Federal Aviation Administration",
+      "location": "FAA Nationwide-Selectee Remains in Current Duty Location",
+      "url": "https://www.usajobs.gov:443/job/879022200",
+      "salary": "134118",
+      "posted": "2026-08-04",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 134118.0,
+      "salary_hourly": 64.48
+    },
     {
       "title": "Information Technology Specialist - Contact Center Developer",
       "company": "Internal Revenue Service",
@@ -15,6 +51,30 @@
       "type": "Tour of Duty: Day Shift, Monday-Friday 8:00AM - 4:30PM EST, 40 hours per week",
       "salary_annual": 89508.0,
       "salary_hourly": 43.03
+    },
+    {
+      "title": "IT Specialist (Disaster Operations Support)",
+      "company": "Small Business Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/879042600",
+      "salary": "89508",
+      "posted": "2026-08-03",
+      "source": "USAJobs",
+      "type": "This position is on an as needed basis.",
+      "salary_annual": 89508.0,
+      "salary_hourly": 43.03
+    },
+    {
+      "title": "Information Technology Specialist (Systems Analysis/Applications Software)",
+      "company": "Internal Revenue Service",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/879003600",
+      "salary": "125776",
+      "posted": "2026-08-03",
+      "source": "USAJobs",
+      "type": "Tour of Duty: Monday-Friday 8:00AM-4:30PM EST, 40 hours per week",
+      "salary_annual": 125776.0,
+      "salary_hourly": 60.47
     },
     {
       "title": "Psychiatrist (Remote)",
@@ -29,16 +89,40 @@
       "salary_hourly": 120.19
     },
     {
-      "title": "Medical Records Technician (Coder-Inpatient)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/878794400",
-      "salary": "59095",
+      "title": "Branch Chief",
+      "company": "Securities and Exchange Commission",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/879047400",
+      "salary": "151075",
       "posted": "2026-08-03",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 59095.0,
-      "salary_hourly": 28.41
+      "salary_annual": 151075.0,
+      "salary_hourly": 72.63
+    },
+    {
+      "title": "Medical Records Technician (Coder-Inpatient)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/879047500",
+      "salary": "36409",
+      "posted": "2026-08-03",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 36409.0,
+      "salary_hourly": 17.5
+    },
+    {
+      "title": "Pharmacy Technician",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/879013200",
+      "salary": "50460",
+      "posted": "2026-08-03",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 50460.0,
+      "salary_hourly": 24.26
     },
     {
       "title": "Supervisory Human Resources Specialist (Information Systems)",
@@ -99,18 +183,6 @@
       "type": "Tour of Duty: Day Shift, Monday-Friday 8:00a.m. - 4:30p.m. EST, 40 hours per week",
       "salary_annual": 106437.0,
       "salary_hourly": 51.17
-    },
-    {
-      "title": "Information Technology Specialist (Systems Analysis/Applications Software)",
-      "company": "Internal Revenue Service",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/878790400",
-      "salary": "89508",
-      "posted": "2026-07-31",
-      "source": "USAJobs",
-      "type": "Tour of Duty:  Day Shift, Monday-Friday  8a.m.-4:30pm, 40 hours per week",
-      "salary_annual": 89508.0,
-      "salary_hourly": 43.03
     },
     {
       "title": "Medical Records Technician-Clinical Documentation Improvement Specialist (CDIS) - Inpatient",
@@ -221,6 +293,18 @@
       "salary_hourly": 60.47
     },
     {
+      "title": "Biological Science Technician (Field Support Technician)",
+      "company": "Animal and Plant Health Inspection Service",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/878746800",
+      "salary": "50460",
+      "posted": "2026-07-31",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 50460.0,
+      "salary_hourly": 24.26
+    },
+    {
       "title": "Staff Physician (Neurologist) Remote-Education Debt Reduction Program",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -231,30 +315,6 @@
       "type": "",
       "salary_annual": 250000.0,
       "salary_hourly": 120.19
-    },
-    {
-      "title": "Program Analyst",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/878462700",
-      "salary": "89508",
-      "posted": "2026-07-30",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 89508.0,
-      "salary_hourly": 43.03
-    },
-    {
-      "title": "Supervisory Veterans Service Representative (AVSCM)",
-      "company": "Veterans Benefits Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/878657300",
-      "salary": "107446",
-      "posted": "2026-07-30",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 107446.0,
-      "salary_hourly": 51.66
     },
     {
       "title": "Contract Administrator",
@@ -281,28 +341,16 @@
       "salary_hourly": 60.47
     },
     {
-      "title": "Semester of Service Volunteer- Digital Innovation and Process Improvement Officer",
-      "company": "Department of State - Agency Wide",
+      "title": "Program Analyst",
+      "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/878391300",
-      "salary": "0",
+      "url": "https://www.usajobs.gov:443/job/878462700",
+      "salary": "89508",
       "posted": "2026-07-30",
       "source": "USAJobs",
-      "type": "8-20 hours per week ",
-      "salary_annual": null,
-      "salary_hourly": null
-    },
-    {
-      "title": "Information Technology Specialist (APPSW)",
-      "company": "Internal Revenue Service",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/878437600",
-      "salary": "125776",
-      "posted": "2026-07-29",
-      "source": "USAJobs",
-      "type": "Tour of Duty: Day Shift, Monday-Friday 8:00 AM - 4:30 PM, 40 hours per week.",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
+      "type": "",
+      "salary_annual": 89508.0,
+      "salary_hourly": 43.03
     },
     {
       "title": "Medical Records Technician (CDIS-Inpatient)",
@@ -327,30 +375,6 @@
       "type": "",
       "salary_annual": 145180.0,
       "salary_hourly": 69.8
-    },
-    {
-      "title": "Supervisory Veterans Service Representative (VSCM)",
-      "company": "Veterans Benefits Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/878465000",
-      "salary": "126384",
-      "posted": "2026-07-29",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 126384.0,
-      "salary_hourly": 60.76
-    },
-    {
-      "title": "Supervisory Management & Program Analyst",
-      "company": "Veterans Health Administration",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/878512600",
-      "salary": "126384",
-      "posted": "2026-07-29",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 126384.0,
-      "salary_hourly": 60.76
     },
     {
       "title": "Physician Neurologist (Regular Ft)",
@@ -449,30 +473,6 @@
       "salary_hourly": 30.67
     },
     {
-      "title": "Medical Support Assistant (Adv",
-      "company": "Veterans Health Administration",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/878014200",
-      "salary": "56247",
-      "posted": "2026-07-27",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 56247.0,
-      "salary_hourly": 27.04
-    },
-    {
-      "title": "Medical Support Assistant (Advanced)",
-      "company": "Veterans Health Administration",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/878115700",
-      "salary": "56247",
-      "posted": "2026-07-27",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 56247.0,
-      "salary_hourly": 27.04
-    },
-    {
       "title": "Health Technician (Ophthalmology)",
       "company": "Veterans Health Administration",
       "location": "Los Angeles, California",
@@ -555,18 +555,6 @@
       "type": "",
       "salary_annual": 118659.0,
       "salary_hourly": 57.05
-    },
-    {
-      "title": "Operations Center Technician",
-      "company": "Federal Bureau of Investigation",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/877155300",
-      "salary": "43106",
-      "posted": "2026-07-20",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 43106.0,
-      "salary_hourly": 20.72
     },
     {
       "title": "IT Specialist (DATAMGT)",
@@ -819,30 +807,6 @@
       "type": "",
       "salary_annual": 55486.0,
       "salary_hourly": 26.68
-    },
-    {
-      "title": "PHYSICIST",
-      "company": "Air Force Civilian Career Training",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/846774500",
-      "salary": "49960",
-      "posted": "2025-09-29",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 49960.0,
-      "salary_hourly": 24.02
-    },
-    {
-      "title": "BIOLOGICAL SCIENTIST (ENVIRONMENTAL)",
-      "company": "Air Force Civilian Career Training",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/846774300",
-      "salary": "49960",
-      "posted": "2025-09-29",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 49960.0,
-      "salary_hourly": 24.02
     }
   ]
 }
