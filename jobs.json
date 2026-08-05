@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-05T04:17:00Z",
+  "updated": "2026-08-05T15:12:51Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 69,
+  "count": 71,
   "jobs": [
     {
       "title": "Supervisory IT Specialist",
@@ -27,6 +27,30 @@
       "type": "Tour of Duty: Day Shift, Monday-Friday 8: 00a.m. - 4:30p.m., 40 hours per week",
       "salary_annual": 106437.0,
       "salary_hourly": 51.17
+    },
+    {
+      "title": "Veterans Service Representative",
+      "company": "Veterans Benefits Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/879349000",
+      "salary": "63795",
+      "posted": "2026-08-05",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 63795.0,
+      "salary_hourly": 30.67
+    },
+    {
+      "title": "Health System Specialist",
+      "company": "Electronic Health Record Modernization",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/879325900",
+      "salary": "107446",
+      "posted": "2026-08-05",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 107446.0,
+      "salary_hourly": 51.66
     },
     {
       "title": "Supervisory Mission Support Specialist",
@@ -377,18 +401,6 @@
       "salary_hourly": 120.19
     },
     {
-      "title": "Program Analyst",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/878462700",
-      "salary": "89508",
-      "posted": "2026-07-30",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 89508.0,
-      "salary_hourly": 43.03
-    },
-    {
       "title": "Contract Administrator",
       "company": "Defense Contract Management Agency",
       "location": "Location Negotiable After Selection",
@@ -411,6 +423,18 @@
       "type": "",
       "salary_annual": 125776.0,
       "salary_hourly": 60.47
+    },
+    {
+      "title": "Program Analyst",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/878462700",
+      "salary": "89508",
+      "posted": "2026-07-30",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 89508.0,
+      "salary_hourly": 43.03
     },
     {
       "title": "Medical Records Technician (CDIS-Inpatient)",

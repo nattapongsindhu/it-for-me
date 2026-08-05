@@ -1,7 +1,7 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-08-05T04%3A17%3A00Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-69-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-08-05T15%3A12%3A51Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-71-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
@@ -14,6 +14,8 @@
 |-------|---------|----------|------|--------|--------|------|
 | Supervisory IT Specialist | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 106437 | 2026-08-05 | [Apply](https://www.usajobs.gov:443/job/879280500) |
 | Information Technology Specialist (Applications Software) | Internal Revenue Service | Multiple Locations | Tour of Duty: Day Shift, Monday-Friday 8: 00a.m. - 4:30p.m., 40 hours per week | 106437 | 2026-08-05 | [Apply](https://www.usajobs.gov:443/job/879190100) |
+| Veterans Service Representative | Veterans Benefits Administration | Anywhere in the U.S. (remote job) | Not listed | 63795 | 2026-08-05 | [Apply](https://www.usajobs.gov:443/job/879349000) |
+| Health System Specialist | Electronic Health Record Modernization | Multiple Locations | Not listed | 107446 | 2026-08-05 | [Apply](https://www.usajobs.gov:443/job/879325900) |
 | Supervisory Mission Support Specialist | Citizenship and Immigration Services | Los Angeles, California | Not listed | 124085 | 2026-08-05 | [Apply](https://www.usajobs.gov:443/job/879100600) |
 | Supervisory Information Technology Specialist | Forest Service | Location Negotiable After Selection | Not listed | 125776 | 2026-08-04 | [Apply](https://www.usajobs.gov:443/job/878863500) |
 | Physician (Regular Ft) Up to 50,000 recruitment incentive available plus EDRP | Veterans Health Administration | Anywhere in the U.S. (remote job) | To Be Determined | 400000 | 2026-08-04 | [Apply](https://www.usajobs.gov:443/job/879032700) |
@@ -30,8 +32,6 @@
 | Pharmacy Technician | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 50460 | 2026-08-03 | [Apply](https://www.usajobs.gov:443/job/879013200) |
 | Branch Chief | Securities and Exchange Commission | Multiple Locations | Not listed | 151075 | 2026-08-03 | [Apply](https://www.usajobs.gov:443/job/879047400) |
 | Supervisory Human Resources Specialist (Information Systems) | Internal Revenue Service | IRS Nationwide Locations | Monday-Friday, Day Shift hours negotiable, start time between, 6:00 am-6:00 pm, 40 hours per week. | 125776 | 2026-08-03 | [Apply](https://www.usajobs.gov:443/job/878938600) |
-| Nursing Assistant (PCU) | Veterans Health Administration | Los Angeles, California | Not listed | 42947 | 2026-08-03 | [Apply](https://www.usajobs.gov:443/job/878887000) |
-| Information Technology Specialist (ServiceNow Developer) | Internal Revenue Service | Multiple Locations | Tour of Duty: Day Shift, Monday-Friday 8:00am - 4:30pm, 40 hours per week | 125776 | 2026-07-31 | [Apply](https://www.usajobs.gov:443/job/878913500) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 69 |
+| Total jobs found | 71 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-08-05T04:17:00Z |
+| Last updated | 2026-08-05T15:12:51Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 69 jobs
+- USAJobs: 71 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-08-05T04:17:00Z_
+_Auto-generated legacy snapshot. Last run: 2026-08-05T15:12:51Z_
