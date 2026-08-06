@@ -1,37 +1,37 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-08-05T15%3A12%3A51Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-71-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-08-06T04%3A19%3A50Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-67-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
 
 ---
 
-## Latest Jobs - August 05, 2026
+## Latest Jobs - August 06, 2026
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
+| Information Technology Specialist (SYSANALYSIS/APPSW) | Internal Revenue Service | Multiple Locations | Tour of Duty: Day Shift, Monday to Friday 8:00am to 4:30pm, 40 hours per week. | 40736 | 2026-08-06 | [Apply](https://www.usajobs.gov:443/job/879407100) |
 | Supervisory IT Specialist | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 106437 | 2026-08-05 | [Apply](https://www.usajobs.gov:443/job/879280500) |
 | Information Technology Specialist (Applications Software) | Internal Revenue Service | Multiple Locations | Tour of Duty: Day Shift, Monday-Friday 8: 00a.m. - 4:30p.m., 40 hours per week | 106437 | 2026-08-05 | [Apply](https://www.usajobs.gov:443/job/879190100) |
-| Veterans Service Representative | Veterans Benefits Administration | Anywhere in the U.S. (remote job) | Not listed | 63795 | 2026-08-05 | [Apply](https://www.usajobs.gov:443/job/879349000) |
+| Physician - Diagnostic Radiologist | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 300000 | 2026-08-05 | [Apply](https://www.usajobs.gov:443/job/879375000) |
+| Pharmacist (Facility Program Manager) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 146498 | 2026-08-05 | [Apply](https://www.usajobs.gov:443/job/879398100) |
+| Advanced Practice Nurse (Clinical Resource Hub-Urgent Care Nurse Practitioner) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 190766 | 2026-08-05 | [Apply](https://www.usajobs.gov:443/job/879483400) |
+| Cybersecurity Advisor | Cybersecurity and Infrastructure Security Agency | Multiple Locations | This position will infrequently require work hours beyond a normal business operations schedule. | 90925 | 2026-08-05 | [Apply](https://www.usajobs.gov:443/job/879367600) |
+| Health System Specialist | Veterans Health Administration | Location Negotiable After Selection | Not listed | 106437 | 2026-08-05 | [Apply](https://www.usajobs.gov:443/job/879468600) |
 | Health System Specialist | Electronic Health Record Modernization | Multiple Locations | Not listed | 107446 | 2026-08-05 | [Apply](https://www.usajobs.gov:443/job/879325900) |
 | Supervisory Mission Support Specialist | Citizenship and Immigration Services | Los Angeles, California | Not listed | 124085 | 2026-08-05 | [Apply](https://www.usajobs.gov:443/job/879100600) |
+| Systemic Investigations Program Manager | Equal Employment Opportunity Commission | Location Negotiable After Selection | Not listed | 126384 | 2026-08-05 | [Apply](https://www.usajobs.gov:443/job/879457000) |
+| Lead Medical Support Assistant | Veterans Health Administration | Los Angeles, California | Not listed | 62504 | 2026-08-05 | [Apply](https://www.usajobs.gov:443/job/879383900) |
 | Supervisory Information Technology Specialist | Forest Service | Location Negotiable After Selection | Not listed | 125776 | 2026-08-04 | [Apply](https://www.usajobs.gov:443/job/878863500) |
 | Physician (Regular Ft) Up to 50,000 recruitment incentive available plus EDRP | Veterans Health Administration | Anywhere in the U.S. (remote job) | To Be Determined | 400000 | 2026-08-04 | [Apply](https://www.usajobs.gov:443/job/879032700) |
 | Supervisory Cybersecurity Advisor | Cybersecurity and Infrastructure Security Agency | Multiple Locations | This position will infrequently require work hours beyond a normal business operations schedule. | 107446 | 2026-08-04 | [Apply](https://www.usajobs.gov:443/job/879223200) |
-| Medical Records Technician  (Clinical Documentation Improvement Specialist- CDIS-Outpatient)) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-08-04 | [Apply](https://www.usajobs.gov:443/job/879153900) |
 | Management and Program Analyst | Cybersecurity and Infrastructure Security Agency | Location Negotiable After Selection | Not listed | 143913 | 2026-08-04 | [Apply](https://www.usajobs.gov:443/job/879253900) |
-| Supervisory Administrative Officer | Cybersecurity and Infrastructure Security Agency | Location Negotiable After Selection | Not listed | 169279 | 2026-08-04 | [Apply](https://www.usajobs.gov:443/job/879155400) |
 | Supervisory Air Traffic Control Specialist | Federal Aviation Administration | FAA Nationwide-Selectee Remains in Current Duty Location | Not listed | 134118 | 2026-08-04 | [Apply](https://www.usajobs.gov:443/job/879022200) |
 | Equal Opportunity Assistant (OA) | Veterans Health Administration | Los Angeles, California | Not listed | 52938 | 2026-08-04 | [Apply](https://www.usajobs.gov:443/job/879124300) |
 | Medical Support Assistant (Advanced) | Veterans Health Administration | Los Angeles, California | Not listed | 56247 | 2026-08-04 | [Apply](https://www.usajobs.gov:443/job/879156300) |
-| Information Technology Specialist - Contact Center Developer | Internal Revenue Service | Multiple Locations | Tour of Duty: Day Shift, Monday-Friday 8:00AM - 4:30PM EST, 40 hours per week | 89508 | 2026-08-03 | [Apply](https://www.usajobs.gov:443/job/878803800) |
-| IT Specialist (Disaster Operations Support) | Small Business Administration | Location Negotiable After Selection | This position is on an as needed basis. | 89508 | 2026-08-03 | [Apply](https://www.usajobs.gov:443/job/879042600) |
-| Information Technology Specialist (Systems Analysis/Applications Software) | Internal Revenue Service | Multiple Locations | Tour of Duty: Monday-Friday 8:00AM-4:30PM EST, 40 hours per week | 125776 | 2026-08-03 | [Apply](https://www.usajobs.gov:443/job/879003600) |
-| Pharmacy Technician | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 50460 | 2026-08-03 | [Apply](https://www.usajobs.gov:443/job/879013200) |
-| Branch Chief | Securities and Exchange Commission | Multiple Locations | Not listed | 151075 | 2026-08-03 | [Apply](https://www.usajobs.gov:443/job/879047400) |
-| Supervisory Human Resources Specialist (Information Systems) | Internal Revenue Service | IRS Nationwide Locations | Monday-Friday, Day Shift hours negotiable, start time between, 6:00 am-6:00 pm, 40 hours per week. | 125776 | 2026-08-03 | [Apply](https://www.usajobs.gov:443/job/878938600) |
+| Administrative Officer | Veterans Health Administration | Location Negotiable After Selection | Not listed | 52727 | 2026-08-04 | [Apply](https://www.usajobs.gov:443/job/878979600) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 71 |
+| Total jobs found | 67 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-08-05T15:12:51Z |
+| Last updated | 2026-08-06T04:19:50Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 71 jobs
+- USAJobs: 67 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-08-05T15:12:51Z_
+_Auto-generated legacy snapshot. Last run: 2026-08-06T04:19:50Z_

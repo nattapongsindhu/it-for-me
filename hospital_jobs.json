@@ -1,27 +1,11 @@
 {
-  "updated": "2026-08-05T15:12:55Z",
+  "updated": "2026-08-06T04:19:53Z",
   "count": 6,
   "sources": [
     "Cedars-Sinai"
   ],
   "track_slug": "hospital-careers",
   "jobs": [
-    {
-      "title": "BMET I (Biomedical Equipment Technician) - Onsite (10-Hour Evening Shift, 1pm-1130pm)",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/bmet-i-biomedical-equipment-technician-onsite-10-hour-evening-shift-1pm-1130pm/252/98541136896",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/bmet-i-biomedical-equipment-technician-onsite-10-hour-evening-shift-1pm-1130pm/252/98541136896",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: bmet, biomedical, biomedical equipment"
-    },
     {
       "title": "Epic Principal Trainer - Inpatient (Orders/ClinDoc) - Hybrid",
       "company": "Cedars-Sinai",
@@ -37,6 +21,22 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: epic"
+    },
+    {
+      "title": "Lead EIS Facilities Planning Project Manager",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/lead-eis-facilities-planning-project-manager/252/98816847872",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/lead-eis-facilities-planning-project-manager/252/98816847872",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: facilities"
     },
     {
       "title": "Postdoctoral Scientist - Slomka Lab - Innovation in Imaging / Department of Medicine / Division of AIM Cedars-Sinai Medical Center Los Angeles, CA Academic / Research Req ID: HRC1428640",
