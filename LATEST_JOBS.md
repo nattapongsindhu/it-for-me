@@ -1,7 +1,7 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-08-06T04%3A19%3A50Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-67-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-08-06T15%3A13%3A48Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-66-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
@@ -26,12 +26,12 @@
 | Lead Medical Support Assistant | Veterans Health Administration | Los Angeles, California | Not listed | 62504 | 2026-08-05 | [Apply](https://www.usajobs.gov:443/job/879383900) |
 | Supervisory Information Technology Specialist | Forest Service | Location Negotiable After Selection | Not listed | 125776 | 2026-08-04 | [Apply](https://www.usajobs.gov:443/job/878863500) |
 | Physician (Regular Ft) Up to 50,000 recruitment incentive available plus EDRP | Veterans Health Administration | Anywhere in the U.S. (remote job) | To Be Determined | 400000 | 2026-08-04 | [Apply](https://www.usajobs.gov:443/job/879032700) |
+| Medical Records Technician  (Clinical Documentation Improvement Specialist- CDIS-Outpatient)) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-08-04 | [Apply](https://www.usajobs.gov:443/job/879153900) |
 | Supervisory Cybersecurity Advisor | Cybersecurity and Infrastructure Security Agency | Multiple Locations | This position will infrequently require work hours beyond a normal business operations schedule. | 107446 | 2026-08-04 | [Apply](https://www.usajobs.gov:443/job/879223200) |
 | Management and Program Analyst | Cybersecurity and Infrastructure Security Agency | Location Negotiable After Selection | Not listed | 143913 | 2026-08-04 | [Apply](https://www.usajobs.gov:443/job/879253900) |
 | Supervisory Air Traffic Control Specialist | Federal Aviation Administration | FAA Nationwide-Selectee Remains in Current Duty Location | Not listed | 134118 | 2026-08-04 | [Apply](https://www.usajobs.gov:443/job/879022200) |
 | Equal Opportunity Assistant (OA) | Veterans Health Administration | Los Angeles, California | Not listed | 52938 | 2026-08-04 | [Apply](https://www.usajobs.gov:443/job/879124300) |
 | Medical Support Assistant (Advanced) | Veterans Health Administration | Los Angeles, California | Not listed | 56247 | 2026-08-04 | [Apply](https://www.usajobs.gov:443/job/879156300) |
-| Administrative Officer | Veterans Health Administration | Location Negotiable After Selection | Not listed | 52727 | 2026-08-04 | [Apply](https://www.usajobs.gov:443/job/878979600) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 67 |
+| Total jobs found | 66 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-08-06T04:19:50Z |
+| Last updated | 2026-08-06T15:13:48Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 67 jobs
+- USAJobs: 66 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-08-06T04:19:50Z_
+_Auto-generated legacy snapshot. Last run: 2026-08-06T15:13:48Z_

@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-06T04:19:50Z",
+  "updated": "2026-08-06T15:13:48Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 67,
+  "count": 66,
   "jobs": [
     {
       "title": "Information Technology Specialist (SYSANALYSIS/APPSW)",
@@ -171,6 +171,18 @@
       "type": "To Be Determined",
       "salary_annual": 400000.0,
       "salary_hourly": 192.31
+    },
+    {
+      "title": "Medical Records Technician  (Clinical Documentation Improvement Specialist- CDIS-Outpatient))",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/879153900",
+      "salary": "61722",
+      "posted": "2026-08-04",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 61722.0,
+      "salary_hourly": 29.67
     },
     {
       "title": "Supervisory Cybersecurity Advisor",
@@ -605,18 +617,6 @@
       "salary_hourly": 19.58
     },
     {
-      "title": "Physician",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/869715100",
-      "salary": "124308",
-      "posted": "2026-05-18",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 124308.0,
-      "salary_hourly": 59.76
-    },
-    {
       "title": "Radiologist- Hampton (Remote)",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -753,18 +753,6 @@
       "company": "Air Force Civilian Career Training",
       "location": "Location Negotiable After Selection",
       "url": "https://www.usajobs.gov:443/job/847096900",
-      "salary": "56763",
-      "posted": "2025-10-01",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 56763.0,
-      "salary_hourly": 27.29
-    },
-    {
-      "title": "COMPUTER ENGINEER",
-      "company": "Air Force Civilian Career Training",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/847080100",
       "salary": "56763",
       "posted": "2025-10-01",
       "source": "USAJobs",
