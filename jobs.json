@@ -1,26 +1,62 @@
 {
-  "updated": "2026-08-07T03:54:57Z",
+  "updated": "2026-08-07T14:12:27Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 66,
+  "count": 68,
   "jobs": [
     {
-      "title": "Information Technology Specialist (SYSANALYSIS/APPSW)",
-      "company": "Internal Revenue Service",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/879407100",
-      "salary": "40736",
-      "posted": "2026-08-06",
+      "title": "IT Cybersecurity Specialist (INFOSEC)",
+      "company": "Office of the Assistant Secretary for Administration and Management",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/879554200",
+      "salary": "106437",
+      "posted": "2026-08-07",
       "source": "USAJobs",
-      "type": "Tour of Duty: Day Shift, Monday to Friday 8:00am to 4:30pm, 40 hours per week.",
-      "salary_annual": 40736.0,
-      "salary_hourly": 19.58
+      "type": "",
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
+    },
+    {
+      "title": "Veterans Service Representative (Rating)",
+      "company": "Veterans Benefits Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/879728900",
+      "salary": "76463",
+      "posted": "2026-08-07",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 76463.0,
+      "salary_hourly": 36.76
+    },
+    {
+      "title": "Travel Management Specialist",
+      "company": "Animal and Plant Health Inspection Service",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/879606500",
+      "salary": "61722",
+      "posted": "2026-08-07",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 61722.0,
+      "salary_hourly": 29.67
+    },
+    {
+      "title": "Engineering Technician",
+      "company": "Federal Aviation Administration",
+      "location": "FAA Nationwide-Selectee Remains in Current Duty Location",
+      "url": "https://www.usajobs.gov:443/job/879620300",
+      "salary": "64308",
+      "posted": "2026-08-07",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 64308.0,
+      "salary_hourly": 30.92
     },
     {
       "title": "Medical Records Technician (Coder-Inpatient)",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/879567500",
+      "url": "https://www.usajobs.gov:443/job/879567900",
       "salary": "55822",
       "posted": "2026-08-06",
       "source": "USAJobs",
@@ -53,18 +89,6 @@
       "salary_hourly": 19.08
     },
     {
-      "title": "Legal Administrative Specialist",
-      "company": "Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/879578200",
-      "salary": "104349",
-      "posted": "2026-08-06",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 104349.0,
-      "salary_hourly": 50.17
-    },
-    {
       "title": "Staff Psychologist",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -77,6 +101,18 @@
       "salary_hourly": 42.17
     },
     {
+      "title": "Legal Administrative Specialist",
+      "company": "Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/879578200",
+      "salary": "104349",
+      "posted": "2026-08-06",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 104349.0,
+      "salary_hourly": 50.17
+    },
+    {
       "title": "Supervisory IT Specialist",
       "company": "Deputy Assistant Secretary for Information and Technology",
       "location": "Location Negotiable After Selection",
@@ -85,18 +121,6 @@
       "posted": "2026-08-05",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 106437.0,
-      "salary_hourly": 51.17
-    },
-    {
-      "title": "Information Technology Specialist (Applications Software)",
-      "company": "Internal Revenue Service",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/879190100",
-      "salary": "106437",
-      "posted": "2026-08-05",
-      "source": "USAJobs",
-      "type": "Tour of Duty: Day Shift, Monday-Friday 8: 00a.m. - 4:30p.m., 40 hours per week",
       "salary_annual": 106437.0,
       "salary_hourly": 51.17
     },
@@ -185,18 +209,6 @@
       "salary_hourly": 60.76
     },
     {
-      "title": "Advanced Practice Nurse (Clinical Resource Hub-Urgent Care Nurse Practitioner)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/879483400",
-      "salary": "190766",
-      "posted": "2026-08-05",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 190766.0,
-      "salary_hourly": 91.71
-    },
-    {
       "title": "Supervisory Information Technology Specialist",
       "company": "Forest Service",
       "location": "Location Negotiable After Selection",
@@ -209,7 +221,7 @@
       "salary_hourly": 60.47
     },
     {
-      "title": "Physician, FT, Up to 50,000 recruitment incentive avail plus EDRP, Remote Diagnostic Radiologist",
+      "title": "Diagnostic Radiologist Physician, Up to 50,000 recruitment incentive avail plus EDRP (Remote)",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
       "url": "https://www.usajobs.gov:443/job/879032700",
@@ -219,18 +231,6 @@
       "type": "To Be Determined",
       "salary_annual": 400000.0,
       "salary_hourly": 192.31
-    },
-    {
-      "title": "Supervisory Cybersecurity Advisor",
-      "company": "Cybersecurity and Infrastructure Security Agency",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/879223200",
-      "salary": "107446",
-      "posted": "2026-08-04",
-      "source": "USAJobs",
-      "type": "This position will infrequently require work hours beyond a normal business operations schedule.",
-      "salary_annual": 107446.0,
-      "salary_hourly": 51.66
     },
     {
       "title": "Medical Records Technician  (Clinical Documentation Improvement Specialist- CDIS-Outpatient))",
@@ -243,6 +243,18 @@
       "type": "",
       "salary_annual": 61722.0,
       "salary_hourly": 29.67
+    },
+    {
+      "title": "Supervisory Cybersecurity Advisor",
+      "company": "Cybersecurity and Infrastructure Security Agency",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/879223200",
+      "salary": "107446",
+      "posted": "2026-08-04",
+      "source": "USAJobs",
+      "type": "This position will infrequently require work hours beyond a normal business operations schedule.",
+      "salary_annual": 107446.0,
+      "salary_hourly": 51.66
     },
     {
       "title": "Management and Program Analyst",
@@ -293,6 +305,18 @@
       "salary_hourly": 27.04
     },
     {
+      "title": "Administrative Officer",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/878979600",
+      "salary": "52727",
+      "posted": "2026-08-04",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 52727.0,
+      "salary_hourly": 25.35
+    },
+    {
       "title": "IT Specialist (Disaster Operations Support)",
       "company": "Small Business Administration",
       "location": "Location Negotiable After Selection",
@@ -339,18 +363,6 @@
       "type": "",
       "salary_annual": 42947.0,
       "salary_hourly": 20.65
-    },
-    {
-      "title": "Information Technology Specialist (ServiceNow Developer)",
-      "company": "Internal Revenue Service",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/878913500",
-      "salary": "125776",
-      "posted": "2026-07-31",
-      "source": "USAJobs",
-      "type": "Tour of Duty: Day Shift, Monday-Friday 8:00am - 4:30pm, 40 hours per week",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
     },
     {
       "title": "Medical Records Technician-Clinical Documentation Improvement Specialist (CDIS) - Inpatient",
@@ -449,18 +461,6 @@
       "salary_hourly": 51.66
     },
     {
-      "title": "Program Analyst",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/878462700",
-      "salary": "89508",
-      "posted": "2026-07-30",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 89508.0,
-      "salary_hourly": 43.03
-    },
-    {
       "title": "Accountant",
       "company": "Risk Management Agency",
       "location": "Location Negotiable After Selection",
@@ -471,18 +471,6 @@
       "type": "",
       "salary_annual": 43106.0,
       "salary_hourly": 20.72
-    },
-    {
-      "title": "Aviation Safety Inspector",
-      "company": "Federal Aviation Administration",
-      "location": "May be filled in various FAA duty locations",
-      "url": "https://www.usajobs.gov:443/job/878167300",
-      "salary": "95489",
-      "posted": "2026-07-28",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 95489.0,
-      "salary_hourly": 45.91
     },
     {
       "title": "Aviation Manager",
@@ -795,6 +783,42 @@
       "type": "",
       "salary_annual": 56763.0,
       "salary_hourly": 27.29
+    },
+    {
+      "title": "ENGINEERING",
+      "company": "Air Force Civilian Career Training",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/846773600",
+      "salary": "55486",
+      "posted": "2025-09-29",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 55486.0,
+      "salary_hourly": 26.68
+    },
+    {
+      "title": "PHYSICIST",
+      "company": "Air Force Civilian Career Training",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/846774500",
+      "salary": "49960",
+      "posted": "2025-09-29",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 49960.0,
+      "salary_hourly": 24.02
+    },
+    {
+      "title": "BIOLOGICAL SCIENTIST (ENVIRONMENTAL)",
+      "company": "Air Force Civilian Career Training",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/846774300",
+      "salary": "49960",
+      "posted": "2025-09-29",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 49960.0,
+      "salary_hourly": 24.02
     }
   ]
 }
