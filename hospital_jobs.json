@@ -1,11 +1,27 @@
 {
-  "updated": "2026-08-08T13:45:08Z",
-  "count": 6,
+  "updated": "2026-08-09T03:04:38Z",
+  "count": 7,
   "sources": [
     "Cedars-Sinai"
   ],
   "track_slug": "hospital-careers",
   "jobs": [
+    {
+      "title": "Biomedical Technician - Genomics Core Cedars-Sinai Medical Center Beverly Hills, CA Academic / Research Req ID: 19678",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/beverly-hills/biomedical-technician-genomics-core/252/98855819024",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/biomedical-technician-genomics-core/252/98855819024",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: biomedical, technician"
+    },
     {
       "title": "Epic Principal Trainer - Inpatient (Orders/ClinDoc) - Hybrid",
       "company": "Cedars-Sinai",
