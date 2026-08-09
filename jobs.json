@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T03:04:36Z",
+  "updated": "2026-08-09T13:49:12Z",
   "zip": "90029",
   "radius_mi": 5,
   "count": 65,
@@ -27,18 +27,6 @@
       "type": "",
       "salary_annual": 106437.0,
       "salary_hourly": 51.17
-    },
-    {
-      "title": "Licensed Professional Mental Health Counselor (Program Coordinator) - EDRP Authorized",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/879804200",
-      "salary": "91389",
-      "posted": "2026-08-07",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 91389.0,
-      "salary_hourly": 43.94
     },
     {
       "title": "Senior Social Worker",
@@ -303,6 +291,18 @@
       "type": "",
       "salary_annual": 56247.0,
       "salary_hourly": 27.04
+    },
+    {
+      "title": "Administrative Officer",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/878979600",
+      "salary": "52727",
+      "posted": "2026-08-04",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 52727.0,
+      "salary_hourly": 25.35
     },
     {
       "title": "IT Specialist (Disaster Operations Support)",
