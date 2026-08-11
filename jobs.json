@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-10T14:19:08Z",
+  "updated": "2026-08-11T03:06:47Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 67,
+  "count": 68,
   "jobs": [
     {
       "title": "Information Technology Specialist",
@@ -19,14 +19,26 @@
     {
       "title": "Information Technology Specialist (APPSW)",
       "company": "Internal Revenue Service",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/879497300",
+      "location": "IRS Nationwide Locations",
+      "url": "https://www.usajobs.gov:443/job/879929400",
       "salary": "125776",
       "posted": "2026-08-10",
       "source": "USAJobs",
-      "type": "Tour of Duty: Day Shift, Monday-Friday 8:00am-4:30pm, 40 hours per week",
+      "type": "Monday through Friday 8:00 AM-4:30 PM EST",
       "salary_annual": 125776.0,
       "salary_hourly": 60.47
+    },
+    {
+      "title": "Medical Support Assistant (Advanced)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/880014800",
+      "salary": "45409",
+      "posted": "2026-08-10",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 45409.0,
+      "salary_hourly": 21.83
     },
     {
       "title": "Staff Physician (Nuclear Medicine) - Recruitment/Relocation Incentive Authorized",
@@ -89,6 +101,18 @@
       "salary_hourly": 52.59
     },
     {
+      "title": "Program Analyst",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/879938000",
+      "salary": "74678",
+      "posted": "2026-08-10",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 74678.0,
+      "salary_hourly": 35.9
+    },
+    {
       "title": "Health Care Education Specialist",
       "company": "Veterans Health Administration",
       "location": "Location Negotiable After Selection",
@@ -99,6 +123,18 @@
       "type": "",
       "salary_annual": 89508.0,
       "salary_hourly": 43.03
+    },
+    {
+      "title": "Chaplain (National Program Coordinator)",
+      "company": "Veterans Health Administration",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/879928000",
+      "salary": "106437",
+      "posted": "2026-08-10",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
     },
     {
       "title": "IT Specialist (APPSW)",
@@ -125,18 +161,6 @@
       "salary_hourly": 51.17
     },
     {
-      "title": "Senior Social Worker",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/879807400",
-      "salary": "89508",
-      "posted": "2026-08-07",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 89508.0,
-      "salary_hourly": 43.03
-    },
-    {
       "title": "Travel Management Specialist",
       "company": "Animal and Plant Health Inspection Service",
       "location": "Location Negotiable After Selection",
@@ -159,6 +183,18 @@
       "type": "",
       "salary_annual": 64308.0,
       "salary_hourly": 30.92
+    },
+    {
+      "title": "Senior Social Worker",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/879807400",
+      "salary": "89508",
+      "posted": "2026-08-07",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 89508.0,
+      "salary_hourly": 43.03
     },
     {
       "title": "Physician - Psychiatry (Addiction)",
@@ -773,18 +809,6 @@
       "salary_hourly": 30.67
     },
     {
-      "title": "Economist",
-      "company": "Department of the Air Force Headquarters",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/853032300",
-      "salary": "74678",
-      "posted": "2025-12-22",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 74678.0,
-      "salary_hourly": 35.9
-    },
-    {
       "title": "IT SPECIALIST",
       "company": "Air Force Civilian Career Training",
       "location": "Location Negotiable After Selection",
@@ -795,18 +819,6 @@
       "type": "",
       "salary_annual": 56763.0,
       "salary_hourly": 27.29
-    },
-    {
-      "title": "PHYSICIST",
-      "company": "Air Force Civilian Career Training",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/846774500",
-      "salary": "49960",
-      "posted": "2025-09-29",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 49960.0,
-      "salary_hourly": 24.02
     }
   ]
 }
