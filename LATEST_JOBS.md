@@ -1,18 +1,22 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-08-11T14%3A18%3A54Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-60-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-08-12T03%3A25%3A42Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-61-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
 
 ---
 
-## Latest Jobs - August 11, 2026
+## Latest Jobs - August 12, 2026
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
+| IT Specialist | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 106437 | 2026-08-11 | [Apply](https://www.usajobs.gov:443/job/880181300) |
 | Medical Records Technician (CDIS Outpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-08-11 | [Apply](https://www.usajobs.gov:443/job/880073400) |
+| Health System Specialist | Electronic Health Record Modernization | Multiple Locations | Not listed | 107446 | 2026-08-11 | [Apply](https://www.usajobs.gov:443/job/880081200) |
+| Contract Specialist | Executive Director, Office of Acquisition, Logistics and Construction | Location Negotiable After Selection | Not listed | 106437 | 2026-08-11 | [Apply](https://www.usajobs.gov:443/job/880129200) |
+| Supervisory Training Specialist | Veterans Benefits Administration | Anywhere in the U.S. (remote job) | Not listed | 74678 | 2026-08-11 | [Apply](https://www.usajobs.gov:443/job/880115100) |
 | Program Analyst | Veterans Health Administration | Multiple Locations | Not listed | 63795 | 2026-08-11 | [Apply](https://www.usajobs.gov:443/job/880076100) |
 | Information Technology Specialist | Internal Revenue Service | Multiple Locations | Monday - Friday 8:00 AM - 4:30 PM EST | 125776 | 2026-08-10 | [Apply](https://www.usajobs.gov:443/job/879878800) |
 | Information Technology Specialist (APPSW) | Internal Revenue Service | IRS Nationwide Locations | Monday through Friday 8:00 AM-4:30 PM EST | 125776 | 2026-08-10 | [Apply](https://www.usajobs.gov:443/job/879929400) |
@@ -28,10 +32,6 @@
 | Senior Social Worker | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 89508 | 2026-08-07 | [Apply](https://www.usajobs.gov:443/job/879807400) |
 | Travel Management Specialist | Animal and Plant Health Inspection Service | Location Negotiable After Selection | Not listed | 61722 | 2026-08-07 | [Apply](https://www.usajobs.gov:443/job/879606500) |
 | Engineering Technician | Federal Aviation Administration | FAA Nationwide-Selectee Remains in Current Duty Location | Not listed | 64308 | 2026-08-07 | [Apply](https://www.usajobs.gov:443/job/879620300) |
-| Physician - Psychiatry (Addiction) | Veterans Health Administration | Anywhere in the U.S. (remote job) | 15 hours weekly | 257000 | 2026-08-06 | [Apply](https://www.usajobs.gov:443/job/879624800) |
-| Staff Psychologist | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 87718 | 2026-08-06 | [Apply](https://www.usajobs.gov:443/job/879575900) |
-| Legal Administrative Specialist | Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys | Los Angeles, California | Not listed | 104349 | 2026-08-06 | [Apply](https://www.usajobs.gov:443/job/879578200) |
-| Supervisory IT Specialist | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 106437 | 2026-08-05 | [Apply](https://www.usajobs.gov:443/job/879280500) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 60 |
+| Total jobs found | 61 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-08-11T14:18:54Z |
+| Last updated | 2026-08-12T03:25:42Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 60 jobs
+- USAJobs: 61 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-08-11T14:18:54Z_
+_Auto-generated legacy snapshot. Last run: 2026-08-12T03:25:42Z_

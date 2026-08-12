@@ -1,9 +1,21 @@
 {
-  "updated": "2026-08-11T14:18:54Z",
+  "updated": "2026-08-12T03:25:42Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 60,
+  "count": 61,
   "jobs": [
+    {
+      "title": "IT Specialist",
+      "company": "Deputy Assistant Secretary for Information and Technology",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/880181300",
+      "salary": "106437",
+      "posted": "2026-08-11",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
+    },
     {
       "title": "Medical Records Technician (CDIS Outpatient)",
       "company": "Veterans Health Administration",
@@ -15,6 +27,42 @@
       "type": "",
       "salary_annual": 61722.0,
       "salary_hourly": 29.67
+    },
+    {
+      "title": "Health System Specialist",
+      "company": "Electronic Health Record Modernization",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/880081200",
+      "salary": "107446",
+      "posted": "2026-08-11",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 107446.0,
+      "salary_hourly": 51.66
+    },
+    {
+      "title": "Contract Specialist",
+      "company": "Executive Director, Office of Acquisition, Logistics and Construction",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/880129200",
+      "salary": "106437",
+      "posted": "2026-08-11",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
+    },
+    {
+      "title": "Supervisory Training Specialist",
+      "company": "Veterans Benefits Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/880115100",
+      "salary": "74678",
+      "posted": "2026-08-11",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 74678.0,
+      "salary_hourly": 35.9
     },
     {
       "title": "Program Analyst",
@@ -257,18 +305,6 @@
       "salary_hourly": 43.71
     },
     {
-      "title": "Health System Specialist",
-      "company": "Electronic Health Record Modernization",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/879325900",
-      "salary": "107446",
-      "posted": "2026-08-05",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 107446.0,
-      "salary_hourly": 51.66
-    },
-    {
       "title": "Supervisory Mission Support Specialist",
       "company": "Citizenship and Immigration Services",
       "location": "Los Angeles, California",
@@ -401,18 +437,6 @@
       "salary_hourly": 21.76
     },
     {
-      "title": "Senior Economist - Direct Hire",
-      "company": "Internal Revenue Service",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/878791500",
-      "salary": "125776",
-      "posted": "2026-07-31",
-      "source": "USAJobs",
-      "type": "Day Shift; Monday - Friday 6:00 am to 6:00 pm Core Hours",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
-    },
-    {
       "title": "Staff Physician (Neurologist) Remote-Education Debt Reduction Program",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -423,18 +447,6 @@
       "type": "",
       "salary_annual": 250000.0,
       "salary_hourly": 120.19
-    },
-    {
-      "title": "Aviation Manager",
-      "company": "Office of the Secretary of the Interior",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/878355300",
-      "salary": "97564",
-      "posted": "2026-07-28",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 97564.0,
-      "salary_hourly": 46.91
     },
     {
       "title": "Attorney Advisor",

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-11T14:18:55Z",
-  "count": 7,
+  "updated": "2026-08-12T03:25:44Z",
+  "count": 8,
   "sources": [
     "Cedars-Sinai"
   ],
@@ -101,6 +101,22 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: imaging"
+    },
+    {
+      "title": "Senior Apple Desktop Engineer - Hybrid",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/senior-apple-desktop-engineer-hybrid/252/98586878160",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/senior-apple-desktop-engineer-hybrid/252/98586878160",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: desktop"
     },
     {
       "title": "Senior Epic Cadence Analyst - Remote",
