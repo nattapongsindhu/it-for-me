@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-12T14:20:07Z",
+  "updated": "2026-08-13T03:29:07Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 59,
+  "count": 62,
   "jobs": [
     {
       "title": "Supervisory IT Specialist",
@@ -41,6 +41,18 @@
       "salary_hourly": 43.03
     },
     {
+      "title": "Physician - Clinical Geneticist",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/880353000",
+      "salary": "285000",
+      "posted": "2026-08-12",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 285000.0,
+      "salary_hourly": 137.02
+    },
+    {
       "title": "Medical Records Technician (Cancer Registrar) Coordinator",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -77,6 +89,18 @@
       "salary_hourly": 58.55
     },
     {
+      "title": "Wildland Firefighter (Senior Advisor)",
+      "company": "Office of the Secretary of the Interior",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/880264300",
+      "salary": "112824",
+      "posted": "2026-08-12",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 112824.0,
+      "salary_hourly": 54.24
+    },
+    {
       "title": "Risk Management Specialist",
       "company": "Risk Management Agency",
       "location": "Location Negotiable After Selection",
@@ -89,6 +113,18 @@
       "salary_hourly": 43.71
     },
     {
+      "title": "Accountant",
+      "company": "Centers for Medicare & Medicaid Services",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/880370900",
+      "salary": "108173",
+      "posted": "2026-08-12",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 108173.0,
+      "salary_hourly": 52.01
+    },
+    {
       "title": "Advance Practice Nurse (NP) - Clinical Contact Center",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -99,6 +135,18 @@
       "type": "",
       "salary_annual": 125634.0,
       "salary_hourly": 60.4
+    },
+    {
+      "title": "Registered Nurse",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/880351300",
+      "salary": "98841",
+      "posted": "2026-08-12",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 98841.0,
+      "salary_hourly": 47.52
     },
     {
       "title": "IT Specialist",
@@ -699,18 +747,6 @@
       "type": "",
       "salary_annual": 56763.0,
       "salary_hourly": 27.29
-    },
-    {
-      "title": "PHYSICIST",
-      "company": "Air Force Civilian Career Training",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/846774500",
-      "salary": "49960",
-      "posted": "2025-09-29",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 49960.0,
-      "salary_hourly": 24.02
     }
   ]
 }
