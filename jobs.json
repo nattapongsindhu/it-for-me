@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-13T14:21:29Z",
+  "updated": "2026-08-14T03:26:25Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 64,
+  "count": 65,
   "jobs": [
     {
       "title": "IT Cybersecurity Specialist",
@@ -41,6 +41,18 @@
       "salary_hourly": 71.13
     },
     {
+      "title": "Physician- Radiologist- Diagnostic Imaging with EDRP & Recruitment Incentive",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/880384900",
+      "salary": "380000",
+      "posted": "2026-08-13",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 380000.0,
+      "salary_hourly": 182.69
+    },
+    {
       "title": "Physician - Neuroradiologist",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -75,6 +87,18 @@
       "type": "",
       "salary_annual": 106437.0,
       "salary_hourly": 51.17
+    },
+    {
+      "title": "Lead National Resource Specialist (Program Services)",
+      "company": "Small Business Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/880586400",
+      "salary": "63795",
+      "posted": "2026-08-13",
+      "source": "USAJobs",
+      "type": "For More Information See Important Notes Under Duties Section.",
+      "salary_annual": 63795.0,
+      "salary_hourly": 30.67
     },
     {
       "title": "Lead Equipment Specialist",
@@ -171,18 +195,6 @@
       "type": "",
       "salary_annual": 112824.0,
       "salary_hourly": 54.24
-    },
-    {
-      "title": "Risk Management Specialist",
-      "company": "Risk Management Agency",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/880159100",
-      "salary": "90925",
-      "posted": "2026-08-12",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 90925.0,
-      "salary_hourly": 43.71
     },
     {
       "title": "Accountant",

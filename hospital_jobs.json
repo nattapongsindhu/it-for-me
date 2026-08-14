@@ -1,27 +1,11 @@
 {
-  "updated": "2026-08-13T14:21:32Z",
-  "count": 8,
+  "updated": "2026-08-14T03:26:26Z",
+  "count": 7,
   "sources": [
     "Cedars-Sinai"
   ],
   "track_slug": "hospital-careers",
   "jobs": [
-    {
-      "title": "BMET I (Biomedical Equipment Technician) - Onsite (10-Hour Evening Shift, 1pm-1130pm)",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/bmet-i-biomedical-equipment-technician-onsite-10-hour-evening-shift-1pm-1130pm/252/98541136896",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/bmet-i-biomedical-equipment-technician-onsite-10-hour-evening-shift-1pm-1130pm/252/98541136896",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: bmet, biomedical, biomedical equipment"
-    },
     {
       "title": "Echo Sonographer II - 8-Hour Day Shift (Inpatient) Cedars-Sinai Medical Center Los Angeles, CA Imaging Req ID: 19742",
       "company": "Cedars-Sinai",
@@ -103,20 +87,20 @@
       "match_reason": "Cedars-Sinai direct match: imaging"
     },
     {
-      "title": "Senior Apple Desktop Engineer - Hybrid",
+      "title": "Senior Epic Bridges Interface Analyst - Remote",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/senior-apple-desktop-engineer-hybrid/252/98586878160",
+      "url": "https://careers.cshs.org/job/los-angeles/senior-epic-bridges-interface-analyst-remote/252/99182277600",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/senior-apple-desktop-engineer-hybrid/252/98586878160",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/senior-epic-bridges-interface-analyst-remote/252/99182277600",
       "track_slug": "hospital-careers",
       "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: desktop"
+      "match_reason": "Cedars-Sinai direct match: epic"
     },
     {
       "title": "Senior Epic Cadence Analyst - Remote",
