@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-15T02:15:42Z",
+  "updated": "2026-08-15T13:29:49Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 65,
+  "count": 67,
   "jobs": [
     {
       "title": "IT Product Manager",
@@ -77,18 +77,6 @@
       "salary_hourly": 51.17
     },
     {
-      "title": "Advanced Medical Support Assistant",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/880702000",
-      "salary": "45409",
-      "posted": "2026-08-14",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 45409.0,
-      "salary_hourly": 21.83
-    },
-    {
       "title": "Supervisory Program Analyst",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -147,6 +135,18 @@
       "type": "Full Time",
       "salary_annual": 121785.0,
       "salary_hourly": 58.55
+    },
+    {
+      "title": "Human Resources Specialist",
+      "company": "Offices, Boards and Divisions",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/880759600",
+      "salary": "34799",
+      "posted": "2026-08-14",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 34799.0,
+      "salary_hourly": 16.73
     },
     {
       "title": "IT Cybersecurity Specialist",
@@ -221,18 +221,6 @@
       "salary_hourly": 168.27
     },
     {
-      "title": "Medical Records Technician (Coder - Outpatient)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/880663200",
-      "salary": "55882",
-      "posted": "2026-08-13",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 55882.0,
-      "salary_hourly": 26.87
-    },
-    {
       "title": "Contract Specialist",
       "company": "Veterans Health Administration",
       "location": "Multiple Locations",
@@ -255,6 +243,18 @@
       "type": "For More Information See Important Notes Under Duties Section.",
       "salary_annual": 63795.0,
       "salary_hourly": 30.67
+    },
+    {
+      "title": "Lead Equipment Specialist",
+      "company": "Federal Acquisition Service",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/880423100",
+      "salary": "89508",
+      "posted": "2026-08-13",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 89508.0,
+      "salary_hourly": 43.03
     },
     {
       "title": "Management & Program Analyst",
@@ -339,6 +339,18 @@
       "type": "",
       "salary_annual": 112824.0,
       "salary_hourly": 54.24
+    },
+    {
+      "title": "Risk Management Specialist",
+      "company": "Risk Management Agency",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/880159100",
+      "salary": "90925",
+      "posted": "2026-08-12",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 90925.0,
+      "salary_hourly": 43.71
     },
     {
       "title": "Accountant",
@@ -497,16 +509,28 @@
       "salary_hourly": 30.92
     },
     {
-      "title": "Supervisory Mission Support Specialist",
-      "company": "Citizenship and Immigration Services",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/879100600",
-      "salary": "124085",
-      "posted": "2026-08-05",
+      "title": "Senior Social Worker",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/879807400",
+      "salary": "89508",
+      "posted": "2026-08-07",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 124085.0,
-      "salary_hourly": 59.66
+      "salary_annual": 89508.0,
+      "salary_hourly": 43.03
+    },
+    {
+      "title": "Legal Administrative Specialist",
+      "company": "Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/879578200",
+      "salary": "104349",
+      "posted": "2026-08-06",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 104349.0,
+      "salary_hourly": 50.17
     },
     {
       "title": "Diagnostic Radiologist Physician, Up to 50,000 recruitment incentive avail plus EDRP (Remote)",
@@ -533,28 +557,28 @@
       "salary_hourly": 72.63
     },
     {
-      "title": "Senior Technical Advisor",
-      "company": "U.S. Secret Service",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/878779700",
-      "salary": "151661",
-      "posted": "2026-07-31",
+      "title": "Staff Physician (Neurologist) Remote-Education Debt Reduction Program",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/878720500",
+      "salary": "250000",
+      "posted": "2026-07-30",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 151661.0,
-      "salary_hourly": 72.91
+      "salary_annual": 250000.0,
+      "salary_hourly": 120.19
     },
     {
-      "title": "Forestry Technician (Recreation)",
-      "company": "Forest Service",
+      "title": "IT Specialist (DATAMGT)",
+      "company": "Office of Inspector General",
       "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/878576000",
-      "salary": "21.76",
-      "posted": "2026-07-31",
+      "url": "https://www.usajobs.gov:443/job/877763600",
+      "salary": "147945",
+      "posted": "2026-07-27",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 45260.8,
-      "salary_hourly": 21.76
+      "salary_annual": 147945.0,
+      "salary_hourly": 71.13
     },
     {
       "title": "Health Technician (Ophthalmology)",
@@ -615,18 +639,6 @@
       "type": "",
       "salary_annual": 118659.0,
       "salary_hourly": 57.05
-    },
-    {
-      "title": "IT Specialist (DATAMGT)",
-      "company": "Office of Inspector General",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/876261000",
-      "salary": "90968",
-      "posted": "2026-07-15",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 90968.0,
-      "salary_hourly": 43.73
     },
     {
       "title": "Physician (Pain Management)",
@@ -771,6 +783,18 @@
       "type": "",
       "salary_annual": 52727.0,
       "salary_hourly": 25.35
+    },
+    {
+      "title": "Electronic Engineer",
+      "company": "Department of the Air Force Headquarters",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/852987000",
+      "salary": "63795",
+      "posted": "2025-12-22",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 63795.0,
+      "salary_hourly": 30.67
     },
     {
       "title": "IT SPECIALIST",
