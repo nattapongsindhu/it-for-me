@@ -1,9 +1,69 @@
 {
-  "updated": "2026-08-17T02:21:57Z",
+  "updated": "2026-08-17T13:38:18Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 67,
+  "count": 69,
   "jobs": [
+    {
+      "title": "IT Specialist (Security)",
+      "company": "Administrative Office of the U.S. Courts",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/880719800",
+      "salary": "89508",
+      "posted": "2026-08-17",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 89508.0,
+      "salary_hourly": 43.03
+    },
+    {
+      "title": "IT Specialist (Data Ingestion & Transformation Engineer)",
+      "company": "Internal Revenue Service",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/880814100",
+      "salary": "106437",
+      "posted": "2026-08-17",
+      "source": "USAJobs",
+      "type": "Day Shift: Monday - Friday 8:00AM -4:30PM EST",
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
+    },
+    {
+      "title": "Nurse",
+      "company": "Occupational Safety and Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/880630400",
+      "salary": "106437",
+      "posted": "2026-08-17",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
+    },
+    {
+      "title": "Legal Administrative Specialist-Contact Representation (Senior Legal Administrative Specialist)",
+      "company": "Veterans Benefits Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/880747100",
+      "salary": "67970",
+      "posted": "2026-08-17",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 67970.0,
+      "salary_hourly": 32.68
+    },
+    {
+      "title": "Medical Records Technician (Clinical Documentation Improvement Specialist) CDIS-Outpatient",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/880473700",
+      "salary": "61722",
+      "posted": "2026-08-17",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 61722.0,
+      "salary_hourly": 29.67
+    },
     {
       "title": "IT Product Manager",
       "company": "Federal Acquisition Service",
@@ -135,18 +195,6 @@
       "type": "Full Time",
       "salary_annual": 121785.0,
       "salary_hourly": 58.55
-    },
-    {
-      "title": "Human Resources Specialist",
-      "company": "Offices, Boards and Divisions",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/880759600",
-      "salary": "34799",
-      "posted": "2026-08-14",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 34799.0,
-      "salary_hourly": 16.73
     },
     {
       "title": "IT Cybersecurity Specialist",
@@ -509,18 +557,6 @@
       "salary_hourly": 30.92
     },
     {
-      "title": "Senior Social Worker",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/879807400",
-      "salary": "89508",
-      "posted": "2026-08-07",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 89508.0,
-      "salary_hourly": 43.03
-    },
-    {
       "title": "Legal Administrative Specialist",
       "company": "Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys",
       "location": "Los Angeles, California",
@@ -555,18 +591,6 @@
       "type": "",
       "salary_annual": 151075.0,
       "salary_hourly": 72.63
-    },
-    {
-      "title": "Staff Physician (Neurologist) Remote-Education Debt Reduction Program",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/878720500",
-      "salary": "250000",
-      "posted": "2026-07-30",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 250000.0,
-      "salary_hourly": 120.19
     },
     {
       "title": "IT Specialist (DATAMGT)",
