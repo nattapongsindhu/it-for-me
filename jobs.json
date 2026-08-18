@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-17T13:38:18Z",
+  "updated": "2026-08-18T02:17:42Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 69,
+  "count": 68,
   "jobs": [
     {
       "title": "IT Specialist (Security)",
@@ -29,16 +29,16 @@
       "salary_hourly": 51.17
     },
     {
-      "title": "Nurse",
-      "company": "Occupational Safety and Health Administration",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/880630400",
-      "salary": "106437",
+      "title": "Branch Chief",
+      "company": "Securities and Exchange Commission",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/880952300",
+      "salary": "151075",
       "posted": "2026-08-17",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 106437.0,
-      "salary_hourly": 51.17
+      "salary_annual": 151075.0,
+      "salary_hourly": 72.63
     },
     {
       "title": "Legal Administrative Specialist-Contact Representation (Senior Legal Administrative Specialist)",
@@ -63,6 +63,18 @@
       "type": "",
       "salary_annual": 61722.0,
       "salary_hourly": 29.67
+    },
+    {
+      "title": "Health Science Specialist",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/880850600",
+      "salary": "84579",
+      "posted": "2026-08-17",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 84579.0,
+      "salary_hourly": 40.66
     },
     {
       "title": "IT Product Manager",
@@ -137,18 +149,6 @@
       "salary_hourly": 51.17
     },
     {
-      "title": "Supervisory Program Analyst",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/880425800",
-      "salary": "106437",
-      "posted": "2026-08-14",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 106437.0,
-      "salary_hourly": 51.17
-    },
-    {
       "title": "Equal Employment Specialist",
       "company": "Cybersecurity and Infrastructure Security Agency",
       "location": "Location Negotiable After Selection",
@@ -183,6 +183,18 @@
       "type": "This is an Excepted Service position and does not require or confer Civil Service Competitive Status",
       "salary_annual": 143913.0,
       "salary_hourly": 69.19
+    },
+    {
+      "title": "Supervisory Program Analyst",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/880425800",
+      "salary": "106437",
+      "posted": "2026-08-14",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
     },
     {
       "title": "Transportation Specialist (Program Delivery) - INTERNAL TO FHWA",
@@ -461,18 +473,6 @@
       "salary_hourly": 35.9
     },
     {
-      "title": "Staff Physician (Nuclear Medicine) - Recruitment/Relocation Incentive Authorized",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/879892800",
-      "salary": "390000",
-      "posted": "2026-08-10",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 390000.0,
-      "salary_hourly": 187.5
-    },
-    {
       "title": "Medical Records Technician (CDIS Outpatient)",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -579,18 +579,6 @@
       "type": "To Be Determined",
       "salary_annual": 400000.0,
       "salary_hourly": 192.31
-    },
-    {
-      "title": "Branch Chief",
-      "company": "Securities and Exchange Commission",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/879047400",
-      "salary": "151075",
-      "posted": "2026-08-03",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 151075.0,
-      "salary_hourly": 72.63
     },
     {
       "title": "IT Specialist (DATAMGT)",

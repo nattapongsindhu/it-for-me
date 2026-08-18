@@ -1,27 +1,11 @@
 {
-  "updated": "2026-08-17T13:38:21Z",
-  "count": 7,
+  "updated": "2026-08-18T02:17:46Z",
+  "count": 6,
   "sources": [
     "Cedars-Sinai"
   ],
   "track_slug": "hospital-careers",
   "jobs": [
-    {
-      "title": "Echo Sonographer II - 8-Hour Day Shift (Inpatient) Cedars-Sinai Medical Center Los Angeles, CA Imaging Req ID: 19742",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/echo-sonographer-ii-8-hour-day-shift-inpatient/252/99037343152",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/echo-sonographer-ii-8-hour-day-shift-inpatient/252/99037343152",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging"
-    },
     {
       "title": "Epic Cadence Analyst - Remote",
       "company": "Cedars-Sinai",
