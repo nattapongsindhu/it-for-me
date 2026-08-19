@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18T13:41:20Z",
-  "count": 6,
+  "updated": "2026-08-19T02:20:16Z",
+  "count": 5,
   "sources": [
     "Cedars-Sinai"
   ],
@@ -82,22 +82,6 @@
       "posted": "",
       "source": "Hospital_Direct",
       "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/senior-epic-bridges-interface-analyst-remote/252/99182277600",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: epic"
-    },
-    {
-      "title": "Senior Epic Cadence Analyst - Remote",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/senior-epic-cadence-analyst-remote/252/98586880640",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/senior-epic-cadence-analyst-remote/252/98586880640",
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: epic"

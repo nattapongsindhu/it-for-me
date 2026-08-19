@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T13:41:16Z",
+  "updated": "2026-08-19T02:20:12Z",
   "zip": "90029",
   "radius_mi": 5,
   "count": 67,
@@ -15,6 +15,18 @@
       "type": "",
       "salary_annual": 106437.0,
       "salary_hourly": 51.17
+    },
+    {
+      "title": "Lead Medical Records Technician (Coder-Inpatient)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/881122000",
+      "salary": "61722",
+      "posted": "2026-08-18",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 61722.0,
+      "salary_hourly": 29.67
     },
     {
       "title": "Medical Records Technician (Coder) Auditor - Outpatient and Inpatient",
@@ -111,18 +123,6 @@
       "type": "",
       "salary_annual": 67970.0,
       "salary_hourly": 32.68
-    },
-    {
-      "title": "Medical Records Technician (Clinical Documentation Improvement Specialist) CDIS-Outpatient",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/880473700",
-      "salary": "61722",
-      "posted": "2026-08-17",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 61722.0,
-      "salary_hourly": 29.67
     },
     {
       "title": "Health Science Specialist",
