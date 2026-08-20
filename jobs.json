@@ -1,9 +1,21 @@
 {
-  "updated": "2026-08-19T13:42:58Z",
+  "updated": "2026-08-20T02:19:31Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 63,
+  "count": 64,
   "jobs": [
+    {
+      "title": "It Project Manager",
+      "company": "Electronic Health Record Modernization",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/881251900",
+      "salary": "63795",
+      "posted": "2026-08-19",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 63795.0,
+      "salary_hourly": 30.67
+    },
     {
       "title": "Information Technology Specialist (Applications Software)",
       "company": "Internal Revenue Service",
@@ -17,16 +29,64 @@
       "salary_hourly": 60.47
     },
     {
-      "title": "Medical Records Technician (Cancer Registrar Coordinator)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/881192600",
-      "salary": "61722",
+      "title": "Supervisory IT Specialist (Director of Operations)",
+      "company": "Deputy Assistant Secretary for Information and Technology",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/881221600",
+      "salary": "147945",
       "posted": "2026-08-19",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 61722.0,
-      "salary_hourly": 29.67
+      "salary_annual": 147945.0,
+      "salary_hourly": 71.13
+    },
+    {
+      "title": "IT Specialist (Data Management/Applications Software)",
+      "company": "Defense Contract Management Agency",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/881241000",
+      "salary": "106437",
+      "posted": "2026-08-19",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
+    },
+    {
+      "title": "Supervisory IT Specialist  (COTS Interface, Division Chief)",
+      "company": "Deputy Assistant Secretary for Information and Technology",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/881210300",
+      "salary": "125776",
+      "posted": "2026-08-19",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 125776.0,
+      "salary_hourly": 60.47
+    },
+    {
+      "title": "Human Resources Specialist (Information Systems)",
+      "company": "Office of the Secretary of the Interior",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/881238800",
+      "salary": "63795",
+      "posted": "2026-08-19",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 63795.0,
+      "salary_hourly": 30.67
+    },
+    {
+      "title": "Management and Program Analyst",
+      "company": "Internal Revenue Service",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/881361700",
+      "salary": "125776",
+      "posted": "2026-08-19",
+      "source": "USAJobs",
+      "type": "Tour of Duty:   Day Shift, Monday-Friday from 8:00 AM to 4:30 PM EST, 40 hours per week",
+      "salary_annual": 125776.0,
+      "salary_hourly": 60.47
     },
     {
       "title": "IT Specialist (SYSADMIN/OS)",
@@ -39,18 +99,6 @@
       "type": "",
       "salary_annual": 106437.0,
       "salary_hourly": 51.17
-    },
-    {
-      "title": "Lead Medical Records Technician (Coder-Inpatient)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/881122000",
-      "salary": "61722",
-      "posted": "2026-08-18",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 61722.0,
-      "salary_hourly": 29.67
     },
     {
       "title": "Medical Records Technician (Coder) Auditor - Outpatient and Inpatient",
@@ -293,18 +341,6 @@
       "salary_hourly": 182.69
     },
     {
-      "title": "Physician - Neuroradiologist",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/880449800",
-      "salary": "350000",
-      "posted": "2026-08-13",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 350000.0,
-      "salary_hourly": 168.27
-    },
-    {
       "title": "Contract Specialist",
       "company": "Veterans Health Administration",
       "location": "Multiple Locations",
@@ -339,6 +375,18 @@
       "type": "",
       "salary_annual": 89508.0,
       "salary_hourly": 43.03
+    },
+    {
+      "title": "Physician - Neuroradiologist",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/880449800",
+      "salary": "350000",
+      "posted": "2026-08-13",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 350000.0,
+      "salary_hourly": 168.27
     },
     {
       "title": "Pharmacist - National Program Manager",
@@ -413,18 +461,6 @@
       "salary_hourly": 51.17
     },
     {
-      "title": "Staff Physician (Nuclear Medicine) - Recruitment/Relocation Incentive Authorized",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/879892800",
-      "salary": "390000",
-      "posted": "2026-08-10",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 390000.0,
-      "salary_hourly": 187.5
-    },
-    {
       "title": "Medical Records Technician (CDIS Outpatient)",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -495,18 +531,6 @@
       "type": "To Be Determined",
       "salary_annual": 400000.0,
       "salary_hourly": 192.31
-    },
-    {
-      "title": "Staff Physician (Neurologist) Remote-Education Debt Reduction Program",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/878720500",
-      "salary": "250000",
-      "posted": "2026-07-30",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 250000.0,
-      "salary_hourly": 120.19
     },
     {
       "title": "IT Specialist (DATAMGT)",
@@ -735,18 +759,6 @@
       "type": "",
       "salary_annual": 63795.0,
       "salary_hourly": 30.67
-    },
-    {
-      "title": "Economist",
-      "company": "Department of the Air Force Headquarters",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/853032300",
-      "salary": "74678",
-      "posted": "2025-12-22",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 74678.0,
-      "salary_hourly": 35.9
     },
     {
       "title": "IT SPECIALIST",

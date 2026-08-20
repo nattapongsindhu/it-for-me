@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T13:43:02Z",
+  "updated": "2026-08-20T02:19:34Z",
   "count": 5,
   "sources": [
     "Cedars-Sinai"
@@ -18,22 +18,6 @@
       "posted": "",
       "source": "Hospital_Direct",
       "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/epic-cadence-analyst-remote/252/99043557440",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: epic"
-    },
-    {
-      "title": "Epic Principal Trainer - Inpatient (Orders/ClinDoc) - Hybrid",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/epic-principal-trainer-inpatient-orders-clindoc-hybrid/252/97111806720",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/epic-principal-trainer-inpatient-orders-clindoc-hybrid/252/97111806720",
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: epic"
@@ -85,6 +69,22 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: epic"
+    },
+    {
+      "title": "Senior HR Data/Report Systems Analyst (Oracle HCM) - Remote Cedars-Sinai Medical Center Los Angeles, CA Information Technology Req ID: 20000",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/senior-hr-data-report-systems-analyst-oracle-hcm-remote/252/99466139184",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/senior-hr-data-report-systems-analyst-oracle-hcm-remote/252/99466139184",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: information technology"
     }
   ]
 }

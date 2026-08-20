@@ -1,21 +1,25 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-08-19T13%3A42%3A58Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-63-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-08-20T02%3A19%3A31Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-64-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
 
 ---
 
-## Latest Jobs - August 19, 2026
+## Latest Jobs - August 20, 2026
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
+| It Project Manager | Electronic Health Record Modernization | Multiple Locations | Not listed | 63795 | 2026-08-19 | [Apply](https://www.usajobs.gov:443/job/881251900) |
 | Information Technology Specialist (Applications Software) | Internal Revenue Service | Multiple Locations | Tour of Duty: Day Shift, Monday-Friday 8:00AM - 4:30PM EST, 40 hours per week | 125776 | 2026-08-19 | [Apply](https://www.usajobs.gov:443/job/880997700) |
-| Medical Records Technician (Cancer Registrar Coordinator) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-08-19 | [Apply](https://www.usajobs.gov:443/job/881192600) |
+| Supervisory IT Specialist (Director of Operations) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 147945 | 2026-08-19 | [Apply](https://www.usajobs.gov:443/job/881221600) |
+| IT Specialist (Data Management/Applications Software) | Defense Contract Management Agency | Location Negotiable After Selection | Not listed | 106437 | 2026-08-19 | [Apply](https://www.usajobs.gov:443/job/881241000) |
+| Supervisory IT Specialist  (COTS Interface, Division Chief) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 125776 | 2026-08-19 | [Apply](https://www.usajobs.gov:443/job/881210300) |
+| Human Resources Specialist (Information Systems) | Office of the Secretary of the Interior | Multiple Locations | Not listed | 63795 | 2026-08-19 | [Apply](https://www.usajobs.gov:443/job/881238800) |
+| Management and Program Analyst | Internal Revenue Service | Multiple Locations | Tour of Duty:   Day Shift, Monday-Friday from 8:00 AM to 4:30 PM EST, 40 hours per week | 125776 | 2026-08-19 | [Apply](https://www.usajobs.gov:443/job/881361700) |
 | IT Specialist (SYSADMIN/OS) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 106437 | 2026-08-18 | [Apply](https://www.usajobs.gov:443/job/880889800) |
-| Lead Medical Records Technician (Coder-Inpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-08-18 | [Apply](https://www.usajobs.gov:443/job/881122000) |
 | Medical Records Technician (Coder) Auditor - Outpatient and Inpatient | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-08-18 | [Apply](https://www.usajobs.gov:443/job/880936500) |
 | Nurse | Occupational Safety and Health Administration | Location Negotiable After Selection | Not listed | 106437 | 2026-08-18 | [Apply](https://www.usajobs.gov:443/job/880907300) |
 | Physician - Radiology Diagnostic | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 375000 | 2026-08-18 | [Apply](https://www.usajobs.gov:443/job/880978000) |
@@ -28,10 +32,6 @@
 | IT Specialist (SYSANALYSIS) | Centers for Medicare & Medicaid Services | Location Negotiable After Selection | Not listed | 90925 | 2026-08-14 | [Apply](https://www.usajobs.gov:443/job/880542800) |
 | Supervisory IT Program Manager | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 126384 | 2026-08-14 | [Apply](https://www.usajobs.gov:443/job/880628500) |
 | Information Technology Specialist (APPSW) | Internal Revenue Service | Multiple Locations | Not listed | 106437 | 2026-08-14 | [Apply](https://www.usajobs.gov:443/job/880481700) |
-| Equal Employment Specialist | Cybersecurity and Infrastructure Security Agency | Location Negotiable After Selection | Not listed | 143913 | 2026-08-14 | [Apply](https://www.usajobs.gov:443/job/880714700) |
-| Senior Contract Specialist (Construction) | Architect of the Capitol | Anywhere in the U.S. (remote job) | This is an Excepted Service position and does not require or confer Civil Service Competitive Status | 143913 | 2026-08-14 | [Apply](https://www.usajobs.gov:443/job/880658200) |
-| Transportation Specialist (Program Delivery) - INTERNAL TO FHWA | Department of Transportation Headquarters | Multiple Locations | Full Time | 121785 | 2026-08-14 | [Apply](https://www.usajobs.gov:443/job/880488500) |
-| IT Cybersecurity Specialist | Office of the Assistant Secretary for Administration and Management | Location Negotiable After Selection | Not listed | 74678 | 2026-08-13 | [Apply](https://www.usajobs.gov:443/job/880331600) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 63 |
+| Total jobs found | 64 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-08-19T13:42:58Z |
+| Last updated | 2026-08-20T02:19:31Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 63 jobs
+- USAJobs: 64 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-08-19T13:42:58Z_
+_Auto-generated legacy snapshot. Last run: 2026-08-20T02:19:31Z_
