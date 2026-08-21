@@ -1,9 +1,45 @@
 {
-  "updated": "2026-08-20T13:46:02Z",
+  "updated": "2026-08-21T02:25:16Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 69,
+  "count": 70,
   "jobs": [
+    {
+      "title": "Psychiatrist (Remote)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/881477800",
+      "salary": "250000",
+      "posted": "2026-08-20",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 250000.0,
+      "salary_hourly": 120.19
+    },
+    {
+      "title": "Medical Records Technician  (Coder-Outpatient and Inpatient)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/881568700",
+      "salary": "37003",
+      "posted": "2026-08-20",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 37003.0,
+      "salary_hourly": 17.79
+    },
+    {
+      "title": "Accountant (Internal Control)",
+      "company": "Cybersecurity and Infrastructure Security Agency",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/881472700",
+      "salary": "102415",
+      "posted": "2026-08-20",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 102415.0,
+      "salary_hourly": 49.24
+    },
     {
       "title": "Agricultural Program Specialist",
       "company": "Farm Service Agency",
@@ -15,6 +51,30 @@
       "type": "",
       "salary_annual": 106437.0,
       "salary_hourly": 51.17
+    },
+    {
+      "title": "Program Specialist",
+      "company": "Veterans Health Administration",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/881412300",
+      "salary": "58827",
+      "posted": "2026-08-20",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 58827.0,
+      "salary_hourly": 28.28
+    },
+    {
+      "title": "Psychiatrist Remote",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/881478300",
+      "salary": "250000",
+      "posted": "2026-08-20",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 250000.0,
+      "salary_hourly": 120.19
     },
     {
       "title": "Regional Advanced Practice Provider (O-6 Billet) Supervisory",
@@ -329,18 +389,6 @@
       "salary_hourly": 168.27
     },
     {
-      "title": "Physician (Regular Ft)  Radiologist",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/880187400",
-      "salary": "380000",
-      "posted": "2026-08-13",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 380000.0,
-      "salary_hourly": 182.69
-    },
-    {
       "title": "Contract Specialist",
       "company": "Veterans Health Administration",
       "location": "Multiple Locations",
@@ -375,18 +423,6 @@
       "type": "For More Information See Important Notes Under Duties Section.",
       "salary_annual": 63795.0,
       "salary_hourly": 30.67
-    },
-    {
-      "title": "Lead Equipment Specialist",
-      "company": "Federal Acquisition Service",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/880423100",
-      "salary": "89508",
-      "posted": "2026-08-13",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 89508.0,
-      "salary_hourly": 43.03
     },
     {
       "title": "Wildland Firefighter (Senior Advisor)",
@@ -785,18 +821,6 @@
       "salary_hourly": 27.29
     },
     {
-      "title": "COMPUTER ENGINEER",
-      "company": "Air Force Civilian Career Training",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/847080100",
-      "salary": "56763",
-      "posted": "2025-10-01",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 56763.0,
-      "salary_hourly": 27.29
-    },
-    {
       "title": "ENGINEERING",
       "company": "Air Force Civilian Career Training",
       "location": "Multiple Locations",
@@ -813,18 +837,6 @@
       "company": "Air Force Civilian Career Training",
       "location": "Multiple Locations",
       "url": "https://www.usajobs.gov:443/job/846774500",
-      "salary": "49960",
-      "posted": "2025-09-29",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 49960.0,
-      "salary_hourly": 24.02
-    },
-    {
-      "title": "BIOLOGICAL SCIENTIST (ENVIRONMENTAL)",
-      "company": "Air Force Civilian Career Training",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/846774300",
       "salary": "49960",
       "posted": "2025-09-29",
       "source": "USAJobs",
