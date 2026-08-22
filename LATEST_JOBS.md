@@ -1,22 +1,29 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-08-21T13%3A44%3A12Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-71-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-08-22T02%3A17%3A57Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-72-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
 
 ---
 
-## Latest Jobs - August 21, 2026
+## Latest Jobs - August 22, 2026
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
+| IT Specialist (Disaster Operations Support) | Small Business Administration | Location Negotiable After Selection | This position is on an as needed basis. | 52727 | 2026-08-21 | [Apply](https://www.usajobs.gov:443/job/881740900) |
+| Medical Records Technician (Clinical Documentation Improvement Specialist-Outpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-08-21 | [Apply](https://www.usajobs.gov:443/job/881712300) |
+| Legal Administrative Specialist (Contact Representation)(CTAP Only) | Veterans Benefits Administration | Anywhere in the U.S. (remote job) | Not listed | 52727 | 2026-08-21 | [Apply](https://www.usajobs.gov:443/job/881748700) |
+| Supervisory Medical Support Assistant | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 72247 | 2026-08-21 | [Apply](https://www.usajobs.gov:443/job/881762600) |
 | Pharmacist (Clinical Specialist) PACT | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 154527 | 2026-08-21 | [Apply](https://www.usajobs.gov:443/job/881515000) |
 | Medical Records Technician (Coder) Auditor | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-08-21 | [Apply](https://www.usajobs.gov:443/job/881175900) |
+| Computer Scientist Cybersecurity | Internal Revenue Service | Multiple Locations | ?Tour of Duty: M-F 8am to 4:30pm, 40 hours per week | 125776 | 2026-08-21 | [Apply](https://www.usajobs.gov:443/job/881700300) |
+| Registered Nurse - Chief Nurse of Acute Care | Veterans Health Administration | Los Angeles, California | Not listed | 191482 | 2026-08-21 | [Apply](https://www.usajobs.gov:443/job/881766900) |
+| Contract Administrator | Defense Contract Management Agency | Location Negotiable After Selection | Not listed | 90925 | 2026-08-21 | [Apply](https://www.usajobs.gov:443/job/881628700) |
 | Supervisory Management and Program Analyst | Internal Revenue Service | IRS Nationwide Locations | Tour of Duty: Day Shift, Monday-Friday 8:00AM - 4:30PM EST, 40 hours per week | 125776 | 2026-08-21 | [Apply](https://www.usajobs.gov:443/job/881461300) |
 | Senior Economist | Internal Revenue Service | Multiple Locations | Tour of Duty: Day Shift, Monday-Friday with start and stop times between 6:00 AM to 6:00 PM; 40 hours per week | 125776 | 2026-08-21 | [Apply](https://www.usajobs.gov:443/job/881550700) |
-| National Safety and Occupational Health Manager (Wildland Fire) | Office of the Secretary of the Interior | Location Negotiable After Selection | Not listed | 112824 | 2026-08-21 | [Apply](https://www.usajobs.gov:443/job/881423700) |
+| Nursing Assistant (3 West-Med/Surg Telemetry and Epilepsy Monitoring Unit) | Veterans Health Administration | Los Angeles, California | Not listed | 42947 | 2026-08-21 | [Apply](https://www.usajobs.gov:443/job/881734400) |
 | Psychiatrist (Remote) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 250000 | 2026-08-20 | [Apply](https://www.usajobs.gov:443/job/881477800) |
 | Accountant (Internal Control) | Cybersecurity and Infrastructure Security Agency | Location Negotiable After Selection | Not listed | 102415 | 2026-08-20 | [Apply](https://www.usajobs.gov:443/job/881472700) |
 | Agricultural Program Specialist | Farm Service Agency | Location Negotiable After Selection | Not listed | 106437 | 2026-08-20 | [Apply](https://www.usajobs.gov:443/job/881345500) |
@@ -25,13 +32,6 @@
 | Regional Advanced Practice Provider (O-6 Billet) Supervisory | Immigration and Customs Enforcement | Location Negotiable After Selection | Not listed | 1 | 2026-08-20 | [Apply](https://www.usajobs.gov:443/job/881184700) |
 | It Project Manager | Electronic Health Record Modernization | Multiple Locations | Not listed | 63795 | 2026-08-19 | [Apply](https://www.usajobs.gov:443/job/881251900) |
 | Information Technology Specialist (Applications Software) | Internal Revenue Service | Multiple Locations | Tour of Duty: Day Shift, Monday-Friday 8:00AM - 4:30PM EST, 40 hours per week | 125776 | 2026-08-19 | [Apply](https://www.usajobs.gov:443/job/880997700) |
-| Supervisory IT Specialist (Director of Operations) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 147945 | 2026-08-19 | [Apply](https://www.usajobs.gov:443/job/881221600) |
-| IT Specialist (Data Management/Applications Software) | Defense Contract Management Agency | Location Negotiable After Selection | Not listed | 106437 | 2026-08-19 | [Apply](https://www.usajobs.gov:443/job/881241000) |
-| Supervisory IT Specialist  (COTS Interface, Division Chief) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 125776 | 2026-08-19 | [Apply](https://www.usajobs.gov:443/job/881210300) |
-| Human Resources Specialist (Information Systems) | Office of the Secretary of the Interior | Multiple Locations | Not listed | 63795 | 2026-08-19 | [Apply](https://www.usajobs.gov:443/job/881238800) |
-| IT Specialist (SYSADMIN/OS) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 106437 | 2026-08-18 | [Apply](https://www.usajobs.gov:443/job/880889800) |
-| IT Specialist (APPSW) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 106437 | 2026-08-18 | [Apply](https://www.usajobs.gov:443/job/880915700) |
-| Medical Records Technician (Coder) Auditor - Outpatient and Inpatient | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-08-18 | [Apply](https://www.usajobs.gov:443/job/880936500) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 71 |
+| Total jobs found | 72 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-08-21T13:44:12Z |
+| Last updated | 2026-08-22T02:17:57Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 71 jobs
+- USAJobs: 72 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-08-21T13:44:12Z_
+_Auto-generated legacy snapshot. Last run: 2026-08-22T02:17:57Z_
