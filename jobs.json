@@ -1,9 +1,93 @@
 {
-  "updated": "2026-08-24T02:25:10Z",
+  "updated": "2026-08-24T13:51:19Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 74,
+  "count": 75,
   "jobs": [
+    {
+      "title": "Information Technology Specialist (DATAMGT)",
+      "company": "Internal Revenue Service",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/881785000",
+      "salary": "125776",
+      "posted": "2026-08-24",
+      "source": "USAJobs",
+      "type": "?Tour of Duty: Day Shift, Monday-Friday 8:00am-4:30pm, 40 hours per week",
+      "salary_annual": 125776.0,
+      "salary_hourly": 60.47
+    },
+    {
+      "title": "Chief Information Officer",
+      "company": "Chemical Safety and Hazard Investigation Board",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/881698800",
+      "salary": "125776",
+      "posted": "2026-08-24",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 125776.0,
+      "salary_hourly": 60.47
+    },
+    {
+      "title": "Supervisory Medical Records Technician - Coder",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/881798400",
+      "salary": "77771",
+      "posted": "2026-08-24",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 77771.0,
+      "salary_hourly": 37.39
+    },
+    {
+      "title": "Supvy Highway Accident Investigator",
+      "company": "National Transportation Safety Board",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/881786500",
+      "salary": "126384",
+      "posted": "2026-08-24",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 126384.0,
+      "salary_hourly": 60.76
+    },
+    {
+      "title": "Program Analyst",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/881728900",
+      "salary": "89508",
+      "posted": "2026-08-24",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 89508.0,
+      "salary_hourly": 43.03
+    },
+    {
+      "title": "Management and Program Analyst",
+      "company": "Internal Revenue Service",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/881790100",
+      "salary": "125776",
+      "posted": "2026-08-24",
+      "source": "USAJobs",
+      "type": "Tour of Duty: Monday-Friday 8:00am-4:00pm, 40 hours per week",
+      "salary_annual": 125776.0,
+      "salary_hourly": 60.47
+    },
+    {
+      "title": "Program Analyst (Informatics)",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/881798600",
+      "salary": "61722",
+      "posted": "2026-08-24",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 61722.0,
+      "salary_hourly": 29.67
+    },
     {
       "title": "Information Technology Specialist (Computer Specialist)",
       "company": "Bureau of Prisons/Federal Prison System",
@@ -137,18 +221,6 @@
       "salary_hourly": 60.47
     },
     {
-      "title": "National Safety and Occupational Health Manager (Wildland Fire)",
-      "company": "Office of the Secretary of the Interior",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/881423700",
-      "salary": "112824",
-      "posted": "2026-08-21",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 112824.0,
-      "salary_hourly": 54.24
-    },
-    {
       "title": "Nursing Assistant (3 West-Med/Surg Telemetry and Epilepsy Monitoring Unit)",
       "company": "Veterans Health Administration",
       "location": "Los Angeles, California",
@@ -269,18 +341,6 @@
       "salary_hourly": 60.47
     },
     {
-      "title": "Physician - Clinical Geneticist",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/881179200",
-      "salary": "285000",
-      "posted": "2026-08-19",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 285000.0,
-      "salary_hourly": 137.02
-    },
-    {
       "title": "Human Resources Specialist (Information Systems)",
       "company": "Office of the Secretary of the Interior",
       "location": "Multiple Locations",
@@ -351,18 +411,6 @@
       "type": "",
       "salary_annual": 375000.0,
       "salary_hourly": 180.29
-    },
-    {
-      "title": "Program Analyst",
-      "company": "Veterans Health Administration",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/880993900",
-      "salary": "74678",
-      "posted": "2026-08-18",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 74678.0,
-      "salary_hourly": 35.9
     },
     {
       "title": "Branch Chief",
@@ -519,18 +567,6 @@
       "type": "The hours of dispatch operation are 7:00 am to 10:00 pm Monday through Friday and 8:00 am to 4:30 pm on some weekends and holidays. Dispatch hours are subject to change. This position will primarily cover evening and weekend shifts.",
       "salary_annual": 40346.0,
       "salary_hourly": 19.4
-    },
-    {
-      "title": "Wildlife Inspector",
-      "company": "U.S. Fish and Wildlife Service",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/879753200",
-      "salary": "74678",
-      "posted": "2026-08-07",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 74678.0,
-      "salary_hourly": 35.9
     },
     {
       "title": "Diagnostic Radiologist Physician, Up to 50,000 recruitment incentive avail plus EDRP (Remote)",
@@ -843,30 +879,6 @@
       "type": "",
       "salary_annual": 56763.0,
       "salary_hourly": 27.29
-    },
-    {
-      "title": "COMPUTER ENGINEER",
-      "company": "Air Force Civilian Career Training",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/847080100",
-      "salary": "56763",
-      "posted": "2025-10-01",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 56763.0,
-      "salary_hourly": 27.29
-    },
-    {
-      "title": "ENGINEERING",
-      "company": "Air Force Civilian Career Training",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/846773600",
-      "salary": "55486",
-      "posted": "2025-09-29",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 55486.0,
-      "salary_hourly": 26.68
     },
     {
       "title": "PHYSICIST",
