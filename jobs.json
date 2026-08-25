@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T13:51:19Z",
+  "updated": "2026-08-25T02:20:11Z",
   "zip": "90029",
   "radius_mi": 5,
   "count": 75,
@@ -41,6 +41,18 @@
       "salary_hourly": 37.39
     },
     {
+      "title": "Lead Health System Specialist",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/881846200",
+      "salary": "121785",
+      "posted": "2026-08-24",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 121785.0,
+      "salary_hourly": 58.55
+    },
+    {
       "title": "Supvy Highway Accident Investigator",
       "company": "National Transportation Safety Board",
       "location": "Anywhere in the U.S. (remote job)",
@@ -63,6 +75,18 @@
       "type": "",
       "salary_annual": 89508.0,
       "salary_hourly": 43.03
+    },
+    {
+      "title": "Medical Support Assistant (Advanced)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/881949600",
+      "salary": "58706",
+      "posted": "2026-08-24",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 58706.0,
+      "salary_hourly": 28.22
     },
     {
       "title": "Management and Program Analyst",
@@ -168,7 +192,7 @@
       "salary": "125776",
       "posted": "2026-08-21",
       "source": "USAJobs",
-      "type": "?Tour of Duty: M-F 8am to 4:30pm, 40 hours per week",
+      "type": "Tour of Duty: M-F 8am to 4:30pm, 40 hours per week",
       "salary_annual": 125776.0,
       "salary_hourly": 60.47
     },
@@ -581,18 +605,6 @@
       "salary_hourly": 192.31
     },
     {
-      "title": "Medical Support Assistant (Advanced)",
-      "company": "Veterans Health Administration",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/879156300",
-      "salary": "56247",
-      "posted": "2026-08-04",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 56247.0,
-      "salary_hourly": 27.04
-    },
-    {
       "title": "Staff Physician (Neurologist) Remote-Education Debt Reduction Program",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -885,18 +897,6 @@
       "company": "Air Force Civilian Career Training",
       "location": "Multiple Locations",
       "url": "https://www.usajobs.gov:443/job/846774500",
-      "salary": "49960",
-      "posted": "2025-09-29",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 49960.0,
-      "salary_hourly": 24.02
-    },
-    {
-      "title": "BIOLOGICAL SCIENTIST (ENVIRONMENTAL)",
-      "company": "Air Force Civilian Career Training",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/846774300",
       "salary": "49960",
       "posted": "2025-09-29",
       "source": "USAJobs",
