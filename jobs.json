@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-25T13:49:59Z",
+  "updated": "2026-08-26T02:35:27Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 78,
+  "count": 76,
   "jobs": [
     {
       "title": "IT Specialist",
@@ -29,6 +29,18 @@
       "salary_hourly": 60.47
     },
     {
+      "title": "Medical Support Assistant (Advanced)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/882005000",
+      "salary": "51437",
+      "posted": "2026-08-25",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 51437.0,
+      "salary_hourly": 24.73
+    },
+    {
       "title": "Senior Examination Specialist (Exam Systems & Reporting), CG-0570-15",
       "company": "Federal Deposit Insurance Corporation",
       "location": "Multiple Locations",
@@ -53,18 +65,6 @@
       "salary_hourly": 60.47
     },
     {
-      "title": "Acquisition Business Specialist",
-      "company": "U.S. Army Corps of Engineers",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/881936300",
-      "salary": "50460",
-      "posted": "2026-08-25",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 50460.0,
-      "salary_hourly": 24.26
-    },
-    {
       "title": "Behavioral Health Case Manager (O-5 Billet) Non-Supervisory",
       "company": "Immigration and Customs Enforcement",
       "location": "Location Negotiable After Selection",
@@ -75,6 +75,18 @@
       "type": "",
       "salary_annual": 2080.0,
       "salary_hourly": 1.0
+    },
+    {
+      "title": "Staff Psychologist - Virtual Psychotherapy Program for Caregivers (VPPC)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/882141400",
+      "salary": "74678",
+      "posted": "2026-08-25",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 74678.0,
+      "salary_hourly": 35.9
     },
     {
       "title": "Information Technology Specialist (DATAMGT)",
@@ -617,18 +629,6 @@
       "salary_hourly": 192.31
     },
     {
-      "title": "Medical Support Assistant (Advanced)",
-      "company": "Veterans Health Administration",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/879156300",
-      "salary": "56247",
-      "posted": "2026-08-04",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 56247.0,
-      "salary_hourly": 27.04
-    },
-    {
       "title": "Staff Physician (Neurologist) Remote-Education Debt Reduction Program",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -905,34 +905,10 @@
       "salary_hourly": 27.29
     },
     {
-      "title": "COMPUTER ENGINEER",
-      "company": "Air Force Civilian Career Training",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/847080100",
-      "salary": "56763",
-      "posted": "2025-10-01",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 56763.0,
-      "salary_hourly": 27.29
-    },
-    {
       "title": "PHYSICIST",
       "company": "Air Force Civilian Career Training",
       "location": "Multiple Locations",
       "url": "https://www.usajobs.gov:443/job/846774500",
-      "salary": "49960",
-      "posted": "2025-09-29",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 49960.0,
-      "salary_hourly": 24.02
-    },
-    {
-      "title": "BIOLOGICAL SCIENTIST (ENVIRONMENTAL)",
-      "company": "Air Force Civilian Career Training",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/846774300",
       "salary": "49960",
       "posted": "2025-09-29",
       "source": "USAJobs",

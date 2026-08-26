@@ -1,23 +1,24 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-08-25T13%3A49%3A59Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-78-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-08-26T02%3A35%3A27Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-76-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
 
 ---
 
-## Latest Jobs - August 25, 2026
+## Latest Jobs - August 26, 2026
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
 | IT Specialist | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 106437 | 2026-08-25 | [Apply](https://www.usajobs.gov:443/job/881975800) |
 | IT Specialist (ENTARCH), GS-14 FPL GS-14 (DH) | Department of Education Headquarters | Multiple Locations | Not listed | 125776 | 2026-08-25 | [Apply](https://www.usajobs.gov:443/job/881934300) |
+| Medical Support Assistant (Advanced) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 51437 | 2026-08-25 | [Apply](https://www.usajobs.gov:443/job/882005000) |
 | Senior Examination Specialist (Exam Systems & Reporting), CG-0570-15 | Federal Deposit Insurance Corporation | Multiple Locations | Not listed | 162739 | 2026-08-25 | [Apply](https://www.usajobs.gov:443/job/881923400) |
 | Management and Program Analyst (Contracting Officers Representative (COR) - Level III)) | Customs and Border Protection | Location Negotiable After Selection | Not listed | 125776 | 2026-08-25 | [Apply](https://www.usajobs.gov:443/job/881710400) |
-| Acquisition Business Specialist | U.S. Army Corps of Engineers | Multiple Locations | Not listed | 50460 | 2026-08-25 | [Apply](https://www.usajobs.gov:443/job/881936300) |
 | Behavioral Health Case Manager (O-5 Billet) Non-Supervisory | Immigration and Customs Enforcement | Location Negotiable After Selection | Not listed | 1 | 2026-08-25 | [Apply](https://www.usajobs.gov:443/job/881895700) |
+| Staff Psychologist - Virtual Psychotherapy Program for Caregivers (VPPC) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 74678 | 2026-08-25 | [Apply](https://www.usajobs.gov:443/job/882141400) |
 | Information Technology Specialist (DATAMGT) | Internal Revenue Service | Multiple Locations | ?Tour of Duty: Day Shift, Monday-Friday 8:00am-4:30pm, 40 hours per week | 125776 | 2026-08-24 | [Apply](https://www.usajobs.gov:443/job/881785000) |
 | Chief Information Officer | Chemical Safety and Hazard Investigation Board | Anywhere in the U.S. (remote job) | Not listed | 125776 | 2026-08-24 | [Apply](https://www.usajobs.gov:443/job/881698800) |
 | Supervisory Medical Records Technician - Coder | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 77771 | 2026-08-24 | [Apply](https://www.usajobs.gov:443/job/881798400) |
@@ -31,7 +32,6 @@
 | Medical Records Technician (Clinical Documentation Improvement Specialist-Outpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-08-21 | [Apply](https://www.usajobs.gov:443/job/881712300) |
 | Legal Administrative Specialist (Contact Representation)(CTAP Only) | Veterans Benefits Administration | Anywhere in the U.S. (remote job) | Not listed | 52727 | 2026-08-21 | [Apply](https://www.usajobs.gov:443/job/881748700) |
 | Computer Scientist Cybersecurity | Internal Revenue Service | Multiple Locations | Tour of Duty: M-F 8am to 4:30pm, 40 hours per week | 125776 | 2026-08-21 | [Apply](https://www.usajobs.gov:443/job/881700300) |
-| Registered Nurse - Chief Nurse of Acute Care | Veterans Health Administration | Los Angeles, California | Not listed | 191482 | 2026-08-21 | [Apply](https://www.usajobs.gov:443/job/881766900) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 78 |
+| Total jobs found | 76 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-08-25T13:49:59Z |
+| Last updated | 2026-08-26T02:35:27Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 78 jobs
+- USAJobs: 76 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-08-25T13:49:59Z_
+_Auto-generated legacy snapshot. Last run: 2026-08-26T02:35:27Z_
