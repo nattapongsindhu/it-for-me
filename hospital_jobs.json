@@ -1,11 +1,27 @@
 {
-  "updated": "2026-08-28T12:39:17Z",
-  "count": 5,
+  "updated": "2026-08-28T22:54:10Z",
+  "count": 4,
   "sources": [
     "Cedars-Sinai"
   ],
   "track_slug": "hospital-careers",
   "jobs": [
+    {
+      "title": "ERP Solutions Analyst (UKG Timekeeping and Scheduling) - Remote Cedars-Sinai Medical Center Los Angeles, CA Information Technology Req ID: 20221",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/erp-solutions-analyst-ukg-timekeeping-and-scheduling-remote/252/99864489680",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/erp-solutions-analyst-ukg-timekeeping-and-scheduling-remote/252/99864489680",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: information technology"
+    },
     {
       "title": "Postdoctoral Scientist - Slomka Lab - Innovation in Imaging / Department of Medicine / Division of AIM Cedars-Sinai Medical Center Los Angeles, CA Academic / Research Req ID: HRC1428640",
       "company": "Cedars-Sinai",
@@ -39,22 +55,6 @@
       "match_reason": "Cedars-Sinai direct match: imaging"
     },
     {
-      "title": "Senior Epic Bridges Interface Analyst - Remote",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/senior-epic-bridges-interface-analyst-remote/252/99182277600",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/senior-epic-bridges-interface-analyst-remote/252/99182277600",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: epic"
-    },
-    {
       "title": "Senior Epic MyChart Analyst - Remote",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
@@ -69,22 +69,6 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: epic"
-    },
-    {
-      "title": "Technical Assistant - MRI - 8-Hour Evening Shift Cedars-Sinai Medical Center Los Angeles, CA Imaging Req ID: 20171",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/technical-assistant-mri-8-hour-evening-shift/252/99755987840",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/technical-assistant-mri-8-hour-evening-shift/252/99755987840",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging"
     }
   ]
 }
