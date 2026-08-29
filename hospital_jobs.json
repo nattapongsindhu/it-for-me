@@ -1,27 +1,11 @@
 {
-  "updated": "2026-08-28T22:54:10Z",
+  "updated": "2026-08-29T07:47:49Z",
   "count": 4,
   "sources": [
     "Cedars-Sinai"
   ],
   "track_slug": "hospital-careers",
   "jobs": [
-    {
-      "title": "ERP Solutions Analyst (UKG Timekeeping and Scheduling) - Remote Cedars-Sinai Medical Center Los Angeles, CA Information Technology Req ID: 20221",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/erp-solutions-analyst-ukg-timekeeping-and-scheduling-remote/252/99864489680",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/erp-solutions-analyst-ukg-timekeeping-and-scheduling-remote/252/99864489680",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: information technology"
-    },
     {
       "title": "Postdoctoral Scientist - Slomka Lab - Innovation in Imaging / Department of Medicine / Division of AIM Cedars-Sinai Medical Center Los Angeles, CA Academic / Research Req ID: HRC1428640",
       "company": "Cedars-Sinai",
@@ -69,6 +53,22 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: epic"
+    },
+    {
+      "title": "Team Leader - CT Imaging - 12-Hour Day Shift Cedars-Sinai Medical Center Los Angeles, CA Imaging Req ID: 20218",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/team-leader-ct-imaging-12-hour-day-shift/252/99864489552",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/team-leader-ct-imaging-12-hour-day-shift/252/99864489552",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: imaging"
     }
   ]
 }
