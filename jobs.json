@@ -1,20 +1,20 @@
 {
-  "updated": "2026-08-29T16:59:19Z",
+  "updated": "2026-08-30T06:27:52Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 79,
+  "count": 77,
   "jobs": [
     {
-      "title": "IT Specialist (Data Management), AD-2210-00 FPL AD-00, Excepted Service",
-      "company": "Department of Education Headquarters",
+      "title": "Medical Records Technician (Coder - Outpatient and Inpatient)",
+      "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/882637500",
-      "salary": "147945",
-      "posted": "2026-08-28",
+      "url": "https://www.usajobs.gov:443/job/882711500",
+      "salary": "55882",
+      "posted": "2026-08-30",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 147945.0,
-      "salary_hourly": 71.13
+      "salary_annual": 55882.0,
+      "salary_hourly": 26.87
     },
     {
       "title": "Physician - Associate Chief of Staff-Imaging",
@@ -27,18 +27,6 @@
       "type": "",
       "salary_annual": 350000.0,
       "salary_hourly": 168.27
-    },
-    {
-      "title": "Medical Records Technician Coder-Outpatient/Inpatient",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/882746200",
-      "salary": "36409",
-      "posted": "2026-08-28",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 36409.0,
-      "salary_hourly": 17.5
     },
     {
       "title": "Medical Records Technician (Coder - Outpatient)",
@@ -183,18 +171,6 @@
       "type": "11:30 am - 8:00pm CST",
       "salary_annual": 55882.0,
       "salary_hourly": 26.87
-    },
-    {
-      "title": "Pharmacy Supervisor",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/882740300",
-      "salary": "150535",
-      "posted": "2026-08-28",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 150535.0,
-      "salary_hourly": 72.37
     },
     {
       "title": "It Specialist (Infosec)",
