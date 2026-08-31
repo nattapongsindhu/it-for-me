@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-31T06:53:53Z",
-  "count": 4,
+  "updated": "2026-08-31T19:24:21Z",
+  "count": 3,
   "sources": [
     "Cedars-Sinai"
   ],
@@ -53,22 +53,6 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: epic"
-    },
-    {
-      "title": "Team Leader - CT Imaging - 12-Hour Day Shift Cedars-Sinai Medical Center Los Angeles, CA Imaging Req ID: 20218",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/team-leader-ct-imaging-12-hour-day-shift/252/99864489552",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/team-leader-ct-imaging-12-hour-day-shift/252/99864489552",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging"
     }
   ]
 }

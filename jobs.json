@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-31T06:53:42Z",
+  "updated": "2026-08-31T19:24:19Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 80,
+  "count": 77,
   "jobs": [
     {
       "title": "IT Specialist (ENTARCH/AI)",
@@ -17,6 +17,30 @@
       "salary_hourly": 71.13
     },
     {
+      "title": "Supervisory Medical Records Technician (Coder)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/882870900",
+      "salary": "67970",
+      "posted": "2026-08-31",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 67970.0,
+      "salary_hourly": 32.68
+    },
+    {
+      "title": "Contract Specialist",
+      "company": "Department of Veterans Affairs Headquarters",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/882891000",
+      "salary": "89508",
+      "posted": "2026-08-31",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 89508.0,
+      "salary_hourly": 43.03
+    },
+    {
       "title": "Instructional Systems Specialist",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -27,6 +51,18 @@
       "type": "",
       "salary_annual": 93358.0,
       "salary_hourly": 44.88
+    },
+    {
+      "title": "Construction Manager/COR",
+      "company": "Public Buildings Service",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/882782200",
+      "salary": "89508",
+      "posted": "2026-08-31",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 89508.0,
+      "salary_hourly": 43.03
     },
     {
       "title": "Program Analyst, Health Operations Unit (O-5 Billet) Non-Supervisory",
@@ -111,18 +147,6 @@
       "type": "",
       "salary_annual": 124085.0,
       "salary_hourly": 59.66
-    },
-    {
-      "title": "Supervisory Medical Records Technician (Coder)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/882696100",
-      "salary": "67970",
-      "posted": "2026-08-28",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 67970.0,
-      "salary_hourly": 32.68
     },
     {
       "title": "Supervisory Air Traffic Control Specialist",
@@ -279,54 +303,6 @@
       "type": "",
       "salary_annual": 104349.0,
       "salary_hourly": 50.17
-    },
-    {
-      "title": "Social Worker (Deputy District Director)",
-      "company": "Veterans Health Administration",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/882526100",
-      "salary": "125776",
-      "posted": "2026-08-27",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
-    },
-    {
-      "title": "Licensed Professional Mental Health Counselor  (Deputy District Director)",
-      "company": "Veterans Health Administration",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/882524600",
-      "salary": "125776",
-      "posted": "2026-08-27",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
-    },
-    {
-      "title": "Marriage and Family Therapist (Deputy District Director)",
-      "company": "Veterans Health Administration",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/882522700",
-      "salary": "125776",
-      "posted": "2026-08-27",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
-    },
-    {
-      "title": "Psychologist (Deputy District Director)",
-      "company": "Veterans Health Administration",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/882520400",
-      "salary": "125776",
-      "posted": "2026-08-27",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
     },
     {
       "title": "Psychologist (CRH - Suicide Prevention National Telehealth Program)",
@@ -951,18 +927,6 @@
       "type": "",
       "salary_annual": 55486.0,
       "salary_hourly": 26.68
-    },
-    {
-      "title": "PHYSICIST",
-      "company": "Air Force Civilian Career Training",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/846774500",
-      "salary": "49960",
-      "posted": "2025-09-29",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 49960.0,
-      "salary_hourly": 24.02
     }
   ]
 }
