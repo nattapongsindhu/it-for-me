@@ -1,20 +1,56 @@
 {
-  "updated": "2026-08-30T17:13:11Z",
+  "updated": "2026-08-31T06:53:42Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 77,
+  "count": 80,
   "jobs": [
+    {
+      "title": "IT Specialist (ENTARCH/AI)",
+      "company": "Office of the Assistant Secretary for Administration and Management",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/882697100",
+      "salary": "147945",
+      "posted": "2026-08-31",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 147945.0,
+      "salary_hourly": 71.13
+    },
+    {
+      "title": "Instructional Systems Specialist",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/882612700",
+      "salary": "93358",
+      "posted": "2026-08-31",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 93358.0,
+      "salary_hourly": 44.88
+    },
+    {
+      "title": "Program Analyst, Health Operations Unit (O-5 Billet) Non-Supervisory",
+      "company": "Immigration and Customs Enforcement",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/882701800",
+      "salary": "1",
+      "posted": "2026-08-31",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 2080.0,
+      "salary_hourly": 1.0
+    },
     {
       "title": "Medical Records Technician (Coder - Outpatient and Inpatient)",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/882711500",
-      "salary": "55882",
+      "url": "https://www.usajobs.gov:443/job/882712200",
+      "salary": "36409",
       "posted": "2026-08-30",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 55882.0,
-      "salary_hourly": 26.87
+      "salary_annual": 36409.0,
+      "salary_hourly": 17.5
     },
     {
       "title": "Physician - Associate Chief of Staff-Imaging",
@@ -39,18 +75,6 @@
       "type": "",
       "salary_annual": 36409.0,
       "salary_hourly": 17.5
-    },
-    {
-      "title": "Supervisory Medical Records Technician - (Coder-Inpatient)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/882696800",
-      "salary": "67970",
-      "posted": "2026-08-28",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 67970.0,
-      "salary_hourly": 32.68
     },
     {
       "title": "Lead Medical Records Technician (Coder)",
@@ -927,6 +951,18 @@
       "type": "",
       "salary_annual": 55486.0,
       "salary_hourly": 26.68
+    },
+    {
+      "title": "PHYSICIST",
+      "company": "Air Force Civilian Career Training",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/846774500",
+      "salary": "49960",
+      "posted": "2025-09-29",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 49960.0,
+      "salary_hourly": 24.02
     }
   ]
 }
