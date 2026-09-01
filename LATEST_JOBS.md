@@ -1,26 +1,28 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-08-31T19%3A24%3A19Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-77-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-09-01T06%3A11%3A03Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-74-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
 
 ---
 
-## Latest Jobs - August 31, 2026
+## Latest Jobs - September 01, 2026
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
-| IT Specialist (ENTARCH/AI) | Office of the Assistant Secretary for Administration and Management | Location Negotiable After Selection | Not listed | 147945 | 2026-08-31 | [Apply](https://www.usajobs.gov:443/job/882697100) |
-| Supervisory Medical Records Technician (Coder) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 67970 | 2026-08-31 | [Apply](https://www.usajobs.gov:443/job/882870900) |
+| Engineering Technician | Federal Aviation Administration | FAA Nationwide-Selectee Remains in Current Duty Location | Not listed | 64308 | 2026-09-01 | [Apply](https://www.usajobs.gov:443/job/882789000) |
+| Equal Employment Specialist | Internal Revenue Service | IRS Nationwide Locations | Tour of Duty: Day Shift, Monday-Friday 8:00am-4:30pm, 40 hours per week | 106437 | 2026-09-01 | [Apply](https://www.usajobs.gov:443/job/882878600) |
+| IT Specialist 6 month Register-Direct Hire | Internal Revenue Service | Multiple Locations | Monday-Friday 8:00am- 4:30pm, 40 hours per week | 106437 | 2026-08-31 | [Apply](https://www.usajobs.gov:443/job/882910800) |
 | Contract Specialist | Department of Veterans Affairs Headquarters | Multiple Locations | Not listed | 89508 | 2026-08-31 | [Apply](https://www.usajobs.gov:443/job/882891000) |
-| Instructional Systems Specialist | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 93358 | 2026-08-31 | [Apply](https://www.usajobs.gov:443/job/882612700) |
 | Construction Manager/COR | Public Buildings Service | Multiple Locations | Not listed | 89508 | 2026-08-31 | [Apply](https://www.usajobs.gov:443/job/882782200) |
 | Program Analyst, Health Operations Unit (O-5 Billet) Non-Supervisory | Immigration and Customs Enforcement | Location Negotiable After Selection | Not listed | 1 | 2026-08-31 | [Apply](https://www.usajobs.gov:443/job/882701800) |
+| Registered Nurse - Health Connect Clinical Contact Center | Veterans Health Administration | Anywhere in the U.S. (remote job) | 16 Hours per week | 96237 | 2026-08-31 | [Apply](https://www.usajobs.gov:443/job/882872800) |
 | Medical Records Technician (Coder - Outpatient and Inpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 36409 | 2026-08-30 | [Apply](https://www.usajobs.gov:443/job/882712200) |
 | Physician - Associate Chief of Staff-Imaging | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 350000 | 2026-08-28 | [Apply](https://www.usajobs.gov:443/job/882618000) |
-| Medical Records Technician (Coder - Outpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 36409 | 2026-08-28 | [Apply](https://www.usajobs.gov:443/job/882743800) |
+| Supervisory Medical Records Technician (Coder) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 67970 | 2026-08-28 | [Apply](https://www.usajobs.gov:443/job/882696100) |
+| Supervisory Medical Support Assistant | Veterans Health Administration | Anywhere in the U.S. (remote job) | 11:30 am - 8:00pm CST | 55882 | 2026-08-28 | [Apply](https://www.usajobs.gov:443/job/882713600) |
 | Lead Medical Records Technician (Coder) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-08-28 | [Apply](https://www.usajobs.gov:443/job/882516500) |
 | Supervisory Aviation Safety Inspector (Division Manager) | Federal Aviation Administration | FAA Nationwide-Selectee Remains in Current Duty Location | Not listed | 134118 | 2026-08-28 | [Apply](https://www.usajobs.gov:443/job/882566800) |
 | Health System Specialist | Veterans Health Administration | Los Angeles, California | Not listed | 124085 | 2026-08-28 | [Apply](https://www.usajobs.gov:443/job/882706100) |
@@ -29,9 +31,7 @@
 | Program Analyst | Veterans Health Administration | Los Angeles, California | Not listed | 71957 | 2026-08-28 | [Apply](https://www.usajobs.gov:443/job/882556000) |
 | Chaplain | Veterans Health Administration | Los Angeles, California | Not listed | 104349 | 2026-08-28 | [Apply](https://www.usajobs.gov:443/job/882508600) |
 | Registered Nurse (Transfer Coordinator) | Veterans Health Administration | Los Angeles, California | Not listed | 111502 | 2026-08-28 | [Apply](https://www.usajobs.gov:443/job/882715700) |
-| Supervisory Medical Support Assistant | Veterans Health Administration | Anywhere in the U.S. (remote job) | 11:30 am - 8:00pm CST | 55882 | 2026-08-28 | [Apply](https://www.usajobs.gov:443/job/882713600) |
 | It Specialist (Infosec) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 106437 | 2026-08-27 | [Apply](https://www.usajobs.gov:443/job/882544800) |
-| IT Specialist (Policy and Planning) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 107446 | 2026-08-27 | [Apply](https://www.usajobs.gov:443/job/882415900) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 77 |
+| Total jobs found | 74 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-08-31T19:24:19Z |
+| Last updated | 2026-09-01T06:11:03Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 77 jobs
+- USAJobs: 74 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-08-31T19:24:19Z_
+_Auto-generated legacy snapshot. Last run: 2026-09-01T06:11:03Z_
