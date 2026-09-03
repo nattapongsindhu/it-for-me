@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-03T05:37:42Z",
+  "updated": "2026-09-03T16:56:43Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 76,
+  "count": 74,
   "jobs": [
     {
       "title": "IT Specialist",
@@ -27,6 +27,30 @@
       "type": "",
       "salary_annual": 85447.0,
       "salary_hourly": 41.08
+    },
+    {
+      "title": "Management & Program Analyst (Managerial Cost Accounting/Decision Support System)",
+      "company": "Veterans Health Administration",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/883445000",
+      "salary": "89508",
+      "posted": "2026-09-03",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 89508.0,
+      "salary_hourly": 43.03
+    },
+    {
+      "title": "Pharmacy Supervisor Clinical Contact Center (CCC)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/883451700",
+      "salary": "150535",
+      "posted": "2026-09-03",
+      "source": "USAJobs",
+      "type": "Monday - Friday 7:00am - 3:30pm CST",
+      "salary_annual": 150535.0,
+      "salary_hourly": 72.37
     },
     {
       "title": "Supervisory IT Specialist (Policy & Planning)",
@@ -291,18 +315,6 @@
       "type": "",
       "salary_annual": 2080.0,
       "salary_hourly": 1.0
-    },
-    {
-      "title": "Registered Nurse - Health Connect Clinical Contact Center",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/882872800",
-      "salary": "96237",
-      "posted": "2026-08-31",
-      "source": "USAJobs",
-      "type": "16 Hours per week",
-      "salary_annual": 96237.0,
-      "salary_hourly": 46.27
     },
     {
       "title": "Medical Records Technician (Coder - Outpatient and Inpatient)",
@@ -581,18 +593,6 @@
       "salary_hourly": 180.29
     },
     {
-      "title": "Physician (Diagnostic-Radiologist) - Neuroradiology",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/881409800",
-      "salary": "385000",
-      "posted": "2026-08-20",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 385000.0,
-      "salary_hourly": 185.1
-    },
-    {
       "title": "Regional Advanced Practice Provider (O-6 Billet) Supervisory",
       "company": "Immigration and Customs Enforcement",
       "location": "Location Negotiable After Selection",
@@ -663,18 +663,6 @@
       "type": "To Be Determined",
       "salary_annual": 400000.0,
       "salary_hourly": 192.31
-    },
-    {
-      "title": "Medical Support Assistant (Advanced)",
-      "company": "Veterans Health Administration",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/879156300",
-      "salary": "56247",
-      "posted": "2026-08-04",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 56247.0,
-      "salary_hourly": 27.04
     },
     {
       "title": "Health Technician (Ophthalmology)",
@@ -903,18 +891,6 @@
       "type": "",
       "salary_annual": 56763.0,
       "salary_hourly": 27.29
-    },
-    {
-      "title": "PHYSICIST",
-      "company": "Air Force Civilian Career Training",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/846774500",
-      "salary": "49960",
-      "posted": "2025-09-29",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 49960.0,
-      "salary_hourly": 24.02
     }
   ]
 }
