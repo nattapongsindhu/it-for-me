@@ -1,6 +1,6 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-09-04T05%3A43%3A24Z-blue?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-09-04T16%3A44%3A58Z-blue?style=flat-square)
 ![Jobs](https://img.shields.io/badge/Jobs_Found-78-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
@@ -13,7 +13,12 @@
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
 | Information Technology Specialist (Senior Contact Center Developer) | Internal Revenue Service | Multiple Locations | Tour of Duty: Day Shift, Monday-Friday 8:00a.m. - 4:30p.m. EST, 40 hours per week | 106437 | 2026-09-04 | [Apply](https://www.usajobs.gov:443/job/883513000) |
+| Government Information Specialist (FOIA and Technology) | Offices, Boards and Divisions | Multiple Locations | Not listed | 90925 | 2026-09-04 | [Apply](https://www.usajobs.gov:443/job/883600500) |
+| Supervisory Medical Records Technician (Coder) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 58064 | 2026-09-04 | [Apply](https://www.usajobs.gov:443/job/883612400) |
+| Medical Records Technician (Coder-Outpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 55882 | 2026-09-04 | [Apply](https://www.usajobs.gov:443/job/883628400) |
 | Executive Officer | Cybersecurity and Infrastructure Security Agency | Location Negotiable After Selection | Not listed | 169279 | 2026-09-04 | [Apply](https://www.usajobs.gov:443/job/883427200) |
+| Protective Security Advisor | Cybersecurity and Infrastructure Security Agency | Multiple Locations | Not listed | 90925 | 2026-09-04 | [Apply](https://www.usajobs.gov:443/job/883592700) |
+| Supervisory NBE/BE (Director for Payments), NB-0570-VII | Office of the Comptroller of the Currency | Multiple Locations | Not listed | 138791 | 2026-09-04 | [Apply](https://www.usajobs.gov:443/job/883569800) |
 | Aviation Regulatory Project Manager | Federal Aviation Administration | FAA Location Negotiable Upon Request - See Additional Info | Not listed | 95489 | 2026-09-04 | [Apply](https://www.usajobs.gov:443/job/883249900) |
 | Administrative Officer | Veterans Health Administration | Los Angeles, California | Not listed | 87061 | 2026-09-04 | [Apply](https://www.usajobs.gov:443/job/883428900) |
 | Prosthetic Representative | Veterans Health Administration | Multiple Locations | Not listed | 74678 | 2026-09-04 | [Apply](https://www.usajobs.gov:443/job/883548900) |
@@ -27,11 +32,6 @@
 | Financial Analyst | Deputy Assistant Secretary for Finance | Anywhere in the U.S. (remote job) | Not listed | 52727 | 2026-09-02 | [Apply](https://www.usajobs.gov:443/job/883070400) |
 | Supervisory Contracts Program Support Specialist | Office of the Assistant Secretary for Administration and Management | Location Negotiable After Selection | Not listed | 125776 | 2026-09-02 | [Apply](https://www.usajobs.gov:443/job/883109500) |
 | Director Disclosure | Internal Revenue Service | IRS Nationwide Locations | Not listed | 151661 | 2026-09-02 | [Apply](https://www.usajobs.gov:443/job/883116000) |
-| VISN Chief Nursing Officer (CNO) RN | Veterans Health Administration | Location Negotiable After Selection | Not listed | 213597 | 2026-09-02 | [Apply](https://www.usajobs.gov:443/job/883291000) |
-| VISN Chief Quality Management Officer (QMO) RN | Veterans Health Administration | Location Negotiable After Selection | Not listed | 213597 | 2026-09-02 | [Apply](https://www.usajobs.gov:443/job/883292700) |
-| Supervisory Health System Specialist - Executive Assistant to the Network Director | Veterans Health Administration | Location Negotiable After Selection | Not listed | 125776 | 2026-09-02 | [Apply](https://www.usajobs.gov:443/job/883273100) |
-| Administrative Support Specialist | DHS Headquarters | Location Negotiable After Selection | Not listed | 34799 | 2026-09-02 | [Apply](https://www.usajobs.gov:443/job/883182300) |
-| SUPERVISORY IT SPECIALIST | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 125776 | 2026-09-01 | [Apply](https://www.usajobs.gov:443/job/883120200) |
 
 ---
 
@@ -41,7 +41,7 @@
 |--------|-------|
 | Total jobs found | 78 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-09-04T05:43:24Z |
+| Last updated | 2026-09-04T16:44:58Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-09-04T05:43:24Z_
+_Auto-generated legacy snapshot. Last run: 2026-09-04T16:44:58Z_
