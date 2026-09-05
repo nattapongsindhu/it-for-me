@@ -1,9 +1,8 @@
 {
-  "updated": "2026-09-05T05:32:44Z",
-  "count": 5,
+  "updated": "2026-09-05T15:49:04Z",
+  "count": 4,
   "sources": [
-    "Cedars-Sinai",
-    "Glendale Memorial Hospital and Health"
+    "Cedars-Sinai"
   ],
   "track_slug": "hospital-careers",
   "jobs": [
@@ -70,22 +69,6 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: epic"
-    },
-    {
-      "title": "Talent Network",
-      "company": "Dignity Health",
-      "hospital_name": "Glendale Memorial Hospital and Health",
-      "location": "Glendale, CA",
-      "url": "https://www.commonspirit.careers/en/job/glendale/maintenance-mechanic-i/35300/88427204080",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::glendale memorial hospital and health::https://www.commonspirit.careers/en/job/glendale/maintenance-mechanic-i/35300/88427204080",
-      "track_slug": "hospital-careers",
-      "type": "Facilities",
-      "match_reason": "Dignity Health direct match: facilities, network"
     }
   ]
 }
