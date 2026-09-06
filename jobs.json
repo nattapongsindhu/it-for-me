@@ -1,21 +1,9 @@
 {
-  "updated": "2026-09-05T15:49:02Z",
+  "updated": "2026-09-06T05:45:28Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 74,
+  "count": 73,
   "jobs": [
-    {
-      "title": "Medical Records Technician (Coder-Outpatient and Inpatient) -Remote",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/883572500",
-      "salary": "55882",
-      "posted": "2026-09-05",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 55882.0,
-      "salary_hourly": 26.87
-    },
     {
       "title": "Information Technology Specialist (Senior Contact Center Developer)",
       "company": "Internal Revenue Service",
@@ -569,18 +557,6 @@
       "salary_hourly": 36.19
     },
     {
-      "title": "Claims Management Program Analyst (O-5 Billet) Non-Supervisory",
-      "company": "Immigration and Customs Enforcement",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/881592200",
-      "salary": "1",
-      "posted": "2026-08-22",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 2080.0,
-      "salary_hourly": 1.0
-    },
-    {
       "title": "Claims Management Program Analyst (O-4 Billet) Non-Supervisory",
       "company": "Immigration and Customs Enforcement",
       "location": "Location Negotiable After Selection",
@@ -885,6 +861,18 @@
       "company": "Air Force Civilian Career Training",
       "location": "Multiple Locations",
       "url": "https://www.usajobs.gov:443/job/846774500",
+      "salary": "49960",
+      "posted": "2025-09-29",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 49960.0,
+      "salary_hourly": 24.02
+    },
+    {
+      "title": "BIOLOGICAL SCIENTIST (ENVIRONMENTAL)",
+      "company": "Air Force Civilian Career Training",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/846774300",
       "salary": "49960",
       "posted": "2025-09-29",
       "source": "USAJobs",
