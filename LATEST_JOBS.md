@@ -1,17 +1,19 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-09-07T18%3A07%3A09Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-73-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-09-08T05%3A48%3A42Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-75-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
 
 ---
 
-## Latest Jobs - September 07, 2026
+## Latest Jobs - September 08, 2026
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
+| Financial Program Admin | Immediate Office of the Assistant Secretary for Management | Location Negotiable After Selection | Not listed | 90925 | 2026-09-08 | [Apply](https://www.usajobs.gov:443/job/883669900) |
+| Risk Management Specialist | Risk Management Agency | Location Negotiable After Selection | Not listed | 90925 | 2026-09-08 | [Apply](https://www.usajobs.gov:443/job/883714900) |
 | Information Technology Specialist (Senior Contact Center Developer) | Internal Revenue Service | Multiple Locations | Tour of Duty: Day Shift, Monday-Friday 8:00a.m. - 4:30p.m. EST, 40 hours per week | 106437 | 2026-09-04 | [Apply](https://www.usajobs.gov:443/job/883513000) |
 | Government Information Specialist (FOIA and Technology) | Offices, Boards and Divisions | Multiple Locations | Not listed | 90925 | 2026-09-04 | [Apply](https://www.usajobs.gov:443/job/883600500) |
 | Supervisory Medical Records Technician (Coder) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 58064 | 2026-09-04 | [Apply](https://www.usajobs.gov:443/job/883612400) |
@@ -30,8 +32,6 @@
 | Supervisory IT Specialist (Policy & Planning) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 125776 | 2026-09-02 | [Apply](https://www.usajobs.gov:443/job/883336800) |
 | Supervisory IT Specialist-(System Administration/Customer Support) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 106437 | 2026-09-02 | [Apply](https://www.usajobs.gov:443/job/883203500) |
 | Financial Analyst | Deputy Assistant Secretary for Finance | Anywhere in the U.S. (remote job) | Not listed | 52727 | 2026-09-02 | [Apply](https://www.usajobs.gov:443/job/883070400) |
-| Supervisory Contracts Program Support Specialist | Office of the Assistant Secretary for Administration and Management | Location Negotiable After Selection | Not listed | 125776 | 2026-09-02 | [Apply](https://www.usajobs.gov:443/job/883109500) |
-| Director Disclosure | Internal Revenue Service | IRS Nationwide Locations | Not listed | 151661 | 2026-09-02 | [Apply](https://www.usajobs.gov:443/job/883116000) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 73 |
+| Total jobs found | 75 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-09-07T18:07:09Z |
+| Last updated | 2026-09-08T05:48:42Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 73 jobs
+- USAJobs: 75 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-09-07T18:07:09Z_
+_Auto-generated legacy snapshot. Last run: 2026-09-08T05:48:42Z_
