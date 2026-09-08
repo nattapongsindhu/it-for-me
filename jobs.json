@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T05:48:42Z",
+  "updated": "2026-09-08T17:05:32Z",
   "zip": "90029",
   "radius_mi": 5,
   "count": 75,
@@ -15,6 +15,18 @@
       "type": "",
       "salary_annual": 90925.0,
       "salary_hourly": 43.71
+    },
+    {
+      "title": "Lead Social Services Assistant",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/883723600",
+      "salary": "55882",
+      "posted": "2026-09-08",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 55882.0,
+      "salary_hourly": 26.87
     },
     {
       "title": "Risk Management Specialist",
@@ -87,18 +99,6 @@
       "type": "",
       "salary_annual": 74678.0,
       "salary_hourly": 35.9
-    },
-    {
-      "title": "Supervisory NBE/BE (Director for Payments), NB-0570-VII",
-      "company": "Office of the Comptroller of the Currency",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/883569800",
-      "salary": "138791",
-      "posted": "2026-09-04",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 138791.0,
-      "salary_hourly": 66.73
     },
     {
       "title": "Aviation Regulatory Project Manager",
