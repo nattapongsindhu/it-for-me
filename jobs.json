@@ -1,9 +1,57 @@
 {
-  "updated": "2026-09-08T17:05:32Z",
+  "updated": "2026-09-09T05:51:58Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 75,
+  "count": 74,
   "jobs": [
+    {
+      "title": "Decision Review Officer",
+      "company": "Veterans Benefits Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/883867300",
+      "salary": "90925",
+      "posted": "2026-09-09",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 90925.0,
+      "salary_hourly": 43.71
+    },
+    {
+      "title": "Legal Administrative Specialist (In-Court Services)",
+      "company": "Executive Office for Immigration Review",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/883843800",
+      "salary": "52757",
+      "posted": "2026-09-09",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 52757.0,
+      "salary_hourly": 25.36
+    },
+    {
+      "title": "Supervisory Medical Support As",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/883878000",
+      "salary": "55882",
+      "posted": "2026-09-08",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 55882.0,
+      "salary_hourly": 26.87
+    },
+    {
+      "title": "Chief of Protective Security",
+      "company": "Cybersecurity and Infrastructure Security Agency",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/883820700",
+      "salary": "126384",
+      "posted": "2026-09-08",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 126384.0,
+      "salary_hourly": 60.76
+    },
     {
       "title": "Financial Program Admin",
       "company": "Immediate Office of the Assistant Secretary for Management",
@@ -29,6 +77,18 @@
       "salary_hourly": 26.87
     },
     {
+      "title": "Supervisory Firearms Specialist",
+      "company": "Bureau of Alcohol, Tobacco, Firearms and Explosives",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/883862300",
+      "salary": "143913",
+      "posted": "2026-09-08",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 143913.0,
+      "salary_hourly": 69.19
+    },
+    {
       "title": "Risk Management Specialist",
       "company": "Risk Management Agency",
       "location": "Location Negotiable After Selection",
@@ -39,18 +99,6 @@
       "type": "",
       "salary_annual": 90925.0,
       "salary_hourly": 43.71
-    },
-    {
-      "title": "Information Technology Specialist (Senior Contact Center Developer)",
-      "company": "Internal Revenue Service",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/883513000",
-      "salary": "106437",
-      "posted": "2026-09-04",
-      "source": "USAJobs",
-      "type": "Tour of Duty: Day Shift, Monday-Friday 8:00a.m. - 4:30p.m. EST, 40 hours per week",
-      "salary_annual": 106437.0,
-      "salary_hourly": 51.17
     },
     {
       "title": "Government Information Specialist (FOIA and Technology)",
@@ -87,6 +135,18 @@
       "type": "",
       "salary_annual": 90925.0,
       "salary_hourly": 43.71
+    },
+    {
+      "title": "Supervisory Aviation Safety Inspector (Division Manager)",
+      "company": "Federal Aviation Administration",
+      "location": "FAA Nationwide-Selectee Remains in Current Duty Location",
+      "url": "https://www.usajobs.gov:443/job/883311300",
+      "salary": "134118",
+      "posted": "2026-09-04",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 134118.0,
+      "salary_hourly": 64.48
     },
     {
       "title": "Farm Loan Program Support Specialist",
@@ -173,6 +233,30 @@
       "salary_hourly": 58.55
     },
     {
+      "title": "Lead Medical Support Assistant",
+      "company": "Veterans Health Administration",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/883669000",
+      "salary": "62504",
+      "posted": "2026-09-04",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 62504.0,
+      "salary_hourly": 30.05
+    },
+    {
+      "title": "Assistant Financial Manager (Assistant Chief)",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/883691100",
+      "salary": "106437",
+      "posted": "2026-09-04",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
+    },
+    {
       "title": "IT Specialist",
       "company": "Deputy Assistant Secretary for Information and Technology",
       "location": "Location Negotiable After Selection",
@@ -245,18 +329,6 @@
       "salary_hourly": 25.35
     },
     {
-      "title": "Supervisory Contracts Program Support Specialist",
-      "company": "Office of the Assistant Secretary for Administration and Management",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/883109500",
-      "salary": "125776",
-      "posted": "2026-09-02",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
-    },
-    {
       "title": "Director Disclosure",
       "company": "Internal Revenue Service",
       "location": "IRS Nationwide Locations",
@@ -267,54 +339,6 @@
       "type": "",
       "salary_annual": 151661.0,
       "salary_hourly": 72.91
-    },
-    {
-      "title": "VISN Chief Nursing Officer (CNO) RN",
-      "company": "Veterans Health Administration",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/883291000",
-      "salary": "213597",
-      "posted": "2026-09-02",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 213597.0,
-      "salary_hourly": 102.69
-    },
-    {
-      "title": "VISN Chief Quality Management Officer (QMO) RN",
-      "company": "Veterans Health Administration",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/883292700",
-      "salary": "213597",
-      "posted": "2026-09-02",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 213597.0,
-      "salary_hourly": 102.69
-    },
-    {
-      "title": "Supervisory Health System Specialist - Executive Assistant to the Network Director",
-      "company": "Veterans Health Administration",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/883273100",
-      "salary": "125776",
-      "posted": "2026-09-02",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
-    },
-    {
-      "title": "Supervisory It Specialist (Infosec)",
-      "company": "Deputy Assistant Secretary for Information and Technology",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/883040700",
-      "salary": "125776",
-      "posted": "2026-09-01",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
     },
     {
       "title": "Case Management Specialist",
@@ -351,18 +375,6 @@
       "type": "Monday-Friday 8:00am- 4:30pm, 40 hours per week",
       "salary_annual": 106437.0,
       "salary_hourly": 51.17
-    },
-    {
-      "title": "Supervisory Medical Support Assistant",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/883222500",
-      "salary": "55882",
-      "posted": "2026-08-31",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 55882.0,
-      "salary_hourly": 26.87
     },
     {
       "title": "Clinical Psychologist",
@@ -411,42 +423,6 @@
       "type": "",
       "salary_annual": 2080.0,
       "salary_hourly": 1.0
-    },
-    {
-      "title": "Medical Records Technician (Coder - Outpatient and Inpatient)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/882712200",
-      "salary": "36409",
-      "posted": "2026-08-30",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 36409.0,
-      "salary_hourly": 17.5
-    },
-    {
-      "title": "Physician - Associate Chief of Staff-Imaging",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/882618000",
-      "salary": "350000",
-      "posted": "2026-08-28",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 350000.0,
-      "salary_hourly": 168.27
-    },
-    {
-      "title": "Supervisory Aviation Safety Inspector (Division Manager)",
-      "company": "Federal Aviation Administration",
-      "location": "FAA Nationwide-Selectee Remains in Current Duty Location",
-      "url": "https://www.usajobs.gov:443/job/882566800",
-      "salary": "134118",
-      "posted": "2026-08-28",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 134118.0,
-      "salary_hourly": 64.48
     },
     {
       "title": "Supervisory Air Traffic Control Specialist",
@@ -509,18 +485,6 @@
       "salary_hourly": 50.17
     },
     {
-      "title": "Psychologist (CRH - Suicide Prevention National Telehealth Program)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/882561700",
-      "salary": "74678",
-      "posted": "2026-08-27",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 74678.0,
-      "salary_hourly": 35.9
-    },
-    {
       "title": "Information Technology Specialist (Product Owner)",
       "company": "U.S. Trustee Program",
       "location": "Location Negotiable After Selection",
@@ -543,18 +507,6 @@
       "type": "",
       "salary_annual": 260000.0,
       "salary_hourly": 125.0
-    },
-    {
-      "title": "Senior Examination Specialist (Exam Systems & Reporting), CG-0570-15",
-      "company": "Federal Deposit Insurance Corporation",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/881923400",
-      "salary": "162739",
-      "posted": "2026-08-25",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 162739.0,
-      "salary_hourly": 78.24
     },
     {
       "title": "Behavioral Health Case Manager (O-5 Billet) Non-Supervisory",
@@ -675,6 +627,30 @@
       "type": "To Be Determined",
       "salary_annual": 400000.0,
       "salary_hourly": 192.31
+    },
+    {
+      "title": "Medical Support Assistant (Advanced)",
+      "company": "Veterans Health Administration",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/879156300",
+      "salary": "56247",
+      "posted": "2026-08-04",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 56247.0,
+      "salary_hourly": 27.04
+    },
+    {
+      "title": "Supervisory Medical Support Assistant",
+      "company": "Veterans Health Administration",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/879128900",
+      "salary": "69220",
+      "posted": "2026-08-04",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 69220.0,
+      "salary_hourly": 33.28
     },
     {
       "title": "Health Technician (Ophthalmology)",
@@ -873,6 +849,18 @@
       "company": "Air Force Civilian Career Training",
       "location": "Location Negotiable After Selection",
       "url": "https://www.usajobs.gov:443/job/847096900",
+      "salary": "56763",
+      "posted": "2025-10-01",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 56763.0,
+      "salary_hourly": 27.29
+    },
+    {
+      "title": "COMPUTER ENGINEER",
+      "company": "Air Force Civilian Career Training",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/847080100",
       "salary": "56763",
       "posted": "2025-10-01",
       "source": "USAJobs",
