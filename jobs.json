@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-10T05:47:13Z",
+  "updated": "2026-09-10T16:54:06Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 76,
+  "count": 75,
   "jobs": [
     {
       "title": "Information Technology Specialist",
@@ -63,6 +63,18 @@
       "type": "",
       "salary_annual": 147945.0,
       "salary_hourly": 71.13
+    },
+    {
+      "title": "Physician (Radiologist) - Education Debt Reduction Program & Recruitment Incentive Authorized",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/884133700",
+      "salary": "375000",
+      "posted": "2026-09-10",
+      "source": "USAJobs",
+      "type": "Flexible Tour available.",
+      "salary_annual": 375000.0,
+      "salary_hourly": 180.29
     },
     {
       "title": "Telecommunications Manager",
@@ -449,6 +461,18 @@
       "salary_hourly": 51.17
     },
     {
+      "title": "Clinical Psychologist",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/882954800",
+      "salary": "101204",
+      "posted": "2026-08-31",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 101204.0,
+      "salary_hourly": 48.66
+    },
+    {
       "title": "Contract Specialist",
       "company": "Department of Veterans Affairs Headquarters",
       "location": "Multiple Locations",
@@ -483,18 +507,6 @@
       "type": "",
       "salary_annual": 2080.0,
       "salary_hourly": 1.0
-    },
-    {
-      "title": "Clinical Psychologist",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/882954800",
-      "salary": "101204",
-      "posted": "2026-08-31",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 101204.0,
-      "salary_hourly": 48.66
     },
     {
       "title": "Supervisory Air Traffic Control Specialist",
@@ -605,18 +617,6 @@
       "salary_hourly": 180.29
     },
     {
-      "title": "Physician (Diagnostic-Radiologist) - Neuroradiology",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/881409800",
-      "salary": "385000",
-      "posted": "2026-08-20",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 385000.0,
-      "salary_hourly": 185.1
-    },
-    {
       "title": "Contracting Officer Representative (COR)",
       "company": "Department of Homeland Security Headquarters",
       "location": "Anywhere in the U.S. (remote job)",
@@ -675,18 +675,6 @@
       "type": "The hours of dispatch operation are 7:00 am to 10:00 pm Monday through Friday and 8:00 am to 4:30 pm on some weekends and holidays. Dispatch hours are subject to change. This position will primarily cover evening and weekend shifts.",
       "salary_annual": 40346.0,
       "salary_hourly": 19.4
-    },
-    {
-      "title": "Diagnostic Radiologist Physician, Up to 50,000 recruitment incentive avail plus EDRP (Remote)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/879032700",
-      "salary": "400000",
-      "posted": "2026-08-04",
-      "source": "USAJobs",
-      "type": "To Be Determined",
-      "salary_annual": 400000.0,
-      "salary_hourly": 192.31
     },
     {
       "title": "Health Technician (Ophthalmology)",

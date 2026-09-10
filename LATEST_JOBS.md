@@ -1,7 +1,7 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-09-10T05%3A47%3A13Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-76-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-09-10T16%3A54%3A06Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-75-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
@@ -17,6 +17,7 @@
 | Supvy IT Spec (SEC) 'Cyber Ops Branch Chief', GS-2210-15 FPL GS-15 (DH) | Department of Education Headquarters | Multiple Locations | Not listed | 147945 | 2026-09-10 | [Apply](https://www.usajobs.gov:443/job/883933400) |
 | Supervisory Information Technology Specialist | Forest Service | Location Negotiable After Selection | Not listed | 125776 | 2026-09-10 | [Apply](https://www.usajobs.gov:443/job/884035400) |
 | Supervisory Information Technology Specialist (SYSANALYSIS) | Forest Service | Location Negotiable After Selection | Not listed | 147945 | 2026-09-10 | [Apply](https://www.usajobs.gov:443/job/884026600) |
+| Physician (Radiologist) - Education Debt Reduction Program & Recruitment Incentive Authorized | Veterans Health Administration | Anywhere in the U.S. (remote job) | Flexible Tour available. | 375000 | 2026-09-10 | [Apply](https://www.usajobs.gov:443/job/884133700) |
 | Telecommunications Manager | Forest Service | Location Negotiable After Selection | Not listed | 147945 | 2026-09-10 | [Apply](https://www.usajobs.gov:443/job/884018900) |
 | Director Data Sharing and Protection | Internal Revenue Service | IRS Nationwide Locations | Not listed | 151661 | 2026-09-10 | [Apply](https://www.usajobs.gov:443/job/884010900) |
 | Director Data Oversight & Records | Internal Revenue Service | IRS Nationwide Locations | Not listed | 151661 | 2026-09-10 | [Apply](https://www.usajobs.gov:443/job/884020100) |
@@ -31,7 +32,6 @@
 | Financial Program Admin | Immediate Office of the Assistant Secretary for Management | Location Negotiable After Selection | Not listed | 90925 | 2026-09-08 | [Apply](https://www.usajobs.gov:443/job/883669900) |
 | Lead Social Services Assistant | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 55882 | 2026-09-08 | [Apply](https://www.usajobs.gov:443/job/883723600) |
 | Supervisory Firearms Specialist | Bureau of Alcohol, Tobacco, Firearms and Explosives | Location Negotiable After Selection | Not listed | 143913 | 2026-09-08 | [Apply](https://www.usajobs.gov:443/job/883862300) |
-| Supervisory Medical Records Technician (Coder) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 58064 | 2026-09-04 | [Apply](https://www.usajobs.gov:443/job/883612400) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 76 |
+| Total jobs found | 75 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-09-10T05:47:13Z |
+| Last updated | 2026-09-10T16:54:06Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 76 jobs
+- USAJobs: 75 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-09-10T05:47:13Z_
+_Auto-generated legacy snapshot. Last run: 2026-09-10T16:54:06Z_
