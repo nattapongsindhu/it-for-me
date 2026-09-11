@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-10T16:54:07Z",
-  "count": 5,
+  "updated": "2026-09-11T05:47:19Z",
+  "count": 4,
   "sources": [
     "Cedars-Sinai"
   ],
@@ -37,22 +37,6 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: imaging"
-    },
-    {
-      "title": "Senior Epic MyChart Analyst - Remote",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/senior-epic-mychart-analyst-remote/252/99551905168",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/senior-epic-mychart-analyst-remote/252/99551905168",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: epic"
     },
     {
       "title": "Senior Epic Willow Inpatient & Research Analyst - Remote",
