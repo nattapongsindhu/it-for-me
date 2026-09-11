@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-11T05:47:16Z",
+  "updated": "2026-09-11T16:55:19Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 77,
+  "count": 79,
   "jobs": [
     {
       "title": "IT Specialist (Operating Systems)",
@@ -29,6 +29,18 @@
       "salary_hourly": 51.66
     },
     {
+      "title": "Medical Records Technician (Coder-Outpatient and Inpatient)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/884345100",
+      "salary": "55882",
+      "posted": "2026-09-11",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 55882.0,
+      "salary_hourly": 26.87
+    },
+    {
       "title": "Infrastructure Support Services (ISS) Program Manager",
       "company": "Securities and Exchange Commission",
       "location": "Multiple Locations",
@@ -53,6 +65,30 @@
       "salary_hourly": 24.26
     },
     {
+      "title": "Health System Specialist",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/884276400",
+      "salary": "90925",
+      "posted": "2026-09-11",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 90925.0,
+      "salary_hourly": 43.71
+    },
+    {
+      "title": "Supervisory HR Specialist (ER/LR) Detail/Temporary Promotion",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/884282900",
+      "salary": "125776",
+      "posted": "2026-09-11",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 125776.0,
+      "salary_hourly": 60.47
+    },
+    {
       "title": "Social Worker",
       "company": "Veterans Health Administration",
       "location": "Multiple Locations",
@@ -63,6 +99,18 @@
       "type": "",
       "salary_annual": 79091.0,
       "salary_hourly": 38.02
+    },
+    {
+      "title": "Registered Nurse - Clinical Resource Hub-Tele GEM Specialist",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/884356700",
+      "salary": "71798",
+      "posted": "2026-09-11",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 71798.0,
+      "salary_hourly": 34.52
     },
     {
       "title": "IT Specialist (Infosec)",
@@ -629,18 +677,6 @@
       "salary_hourly": 36.19
     },
     {
-      "title": "Claims Management Program Analyst (O-4 Billet) Non-Supervisory",
-      "company": "Immigration and Customs Enforcement",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/881513900",
-      "salary": "1",
-      "posted": "2026-08-21",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 2080.0,
-      "salary_hourly": 1.0
-    },
-    {
       "title": "Contracting Officer Representative (COR)",
       "company": "Department of Homeland Security Headquarters",
       "location": "Anywhere in the U.S. (remote job)",
@@ -677,7 +713,7 @@
       "salary_hourly": 168.27
     },
     {
-      "title": "Staff Physician (Nuclear Medicine) - Recruitment/Relocation Incentive Authorized",
+      "title": "Staff Physician (Nuclear Medicine) - EDRP/Recruitment/Relocation Incentive Authorized",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
       "url": "https://www.usajobs.gov:443/job/879892800",
@@ -909,18 +945,6 @@
       "company": "Air Force Civilian Career Training",
       "location": "Multiple Locations",
       "url": "https://www.usajobs.gov:443/job/846774500",
-      "salary": "49960",
-      "posted": "2025-09-29",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 49960.0,
-      "salary_hourly": 24.02
-    },
-    {
-      "title": "BIOLOGICAL SCIENTIST (ENVIRONMENTAL)",
-      "company": "Air Force Civilian Career Training",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/846774300",
       "salary": "49960",
       "posted": "2025-09-29",
       "source": "USAJobs",
