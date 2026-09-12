@@ -1,11 +1,27 @@
 {
-  "updated": "2026-09-11T16:55:23Z",
-  "count": 4,
+  "updated": "2026-09-12T05:35:27Z",
+  "count": 5,
   "sources": [
     "Cedars-Sinai"
   ],
   "track_slug": "hospital-careers",
   "jobs": [
+    {
+      "title": "Applications Specialist in Enterprise Imaging - Hybrid",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/applications-specialist-in-enterprise-imaging-hybrid/252/93774825760",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/applications-specialist-in-enterprise-imaging-hybrid/252/93774825760",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: applications specialist, imaging"
+    },
     {
       "title": "Postdoctoral Scientist - Slomka Lab - Innovation in Imaging / Department of Medicine / Division of AIM Cedars-Sinai Medical Center Los Angeles, CA Academic / Research Req ID: HRC1428640",
       "company": "Cedars-Sinai",
