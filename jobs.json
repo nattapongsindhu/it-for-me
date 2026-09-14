@@ -1,9 +1,21 @@
 {
-  "updated": "2026-09-14T06:02:11Z",
+  "updated": "2026-09-14T18:21:28Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 77,
+  "count": 78,
   "jobs": [
+    {
+      "title": "Training Technician",
+      "company": "Veterans Health Administration",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/884521700",
+      "salary": "34799",
+      "posted": "2026-09-14",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 34799.0,
+      "salary_hourly": 16.73
+    },
     {
       "title": "Social Worker (Deputy District Director)",
       "company": "Veterans Health Administration",
@@ -63,6 +75,18 @@
       "type": "",
       "salary_annual": 43106.0,
       "salary_hourly": 20.72
+    },
+    {
+      "title": "Staff Psychologist",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/884529800",
+      "salary": "74678",
+      "posted": "2026-09-14",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 74678.0,
+      "salary_hourly": 35.9
     },
     {
       "title": "IT Specialist",
@@ -183,6 +207,18 @@
       "type": "",
       "salary_annual": 42947.0,
       "salary_hourly": 20.65
+    },
+    {
+      "title": "Management and Program Analyst (Data Science)",
+      "company": "Veterans Health Administration",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/884523500",
+      "salary": "104349",
+      "posted": "2026-09-11",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 104349.0,
+      "salary_hourly": 50.17
     },
     {
       "title": "IT Specialist (Infosec)",
@@ -893,18 +929,6 @@
       "salary_hourly": 30.67
     },
     {
-      "title": "Economist",
-      "company": "Department of the Air Force Headquarters",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/853032300",
-      "salary": "74678",
-      "posted": "2025-12-22",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 74678.0,
-      "salary_hourly": 35.9
-    },
-    {
       "title": "IT SPECIALIST",
       "company": "Air Force Civilian Career Training",
       "location": "Location Negotiable After Selection",
@@ -915,18 +939,6 @@
       "type": "",
       "salary_annual": 56763.0,
       "salary_hourly": 27.29
-    },
-    {
-      "title": "PHYSICIST",
-      "company": "Air Force Civilian Career Training",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/846774500",
-      "salary": "49960",
-      "posted": "2025-09-29",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 49960.0,
-      "salary_hourly": 24.02
     }
   ]
 }
