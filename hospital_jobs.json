@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-14T18:21:31Z",
-  "count": 5,
+  "updated": "2026-09-15T06:01:12Z",
+  "count": 4,
   "sources": [
     "Cedars-Sinai"
   ],
@@ -53,22 +53,6 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: imaging"
-    },
-    {
-      "title": "Senior Epic Willow Inpatient & Research Analyst - Remote",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/senior-epic-willow-inpatient-and-research-analyst-remote/252/100177767568",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/senior-epic-willow-inpatient-and-research-analyst-remote/252/100177767568",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: epic"
     },
     {
       "title": "Surgical Technologist II - Operating Room Cedars-Sinai Medical Center Los Angeles, CA Clinical Operations Req ID: 20496",
