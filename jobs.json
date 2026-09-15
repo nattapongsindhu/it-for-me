@@ -1,9 +1,69 @@
 {
-  "updated": "2026-09-15T06:01:04Z",
+  "updated": "2026-09-15T17:29:13Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 78,
+  "count": 80,
   "jobs": [
+    {
+      "title": "Supervy IT Spec 'Engineering Manager' GS-2210-15, FPL GS-15",
+      "company": "Department of Education Headquarters",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/884733900",
+      "salary": "147945",
+      "posted": "2026-09-15",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 147945.0,
+      "salary_hourly": 71.13
+    },
+    {
+      "title": "Medical Records Technician (Coder)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/884710300",
+      "salary": "40701",
+      "posted": "2026-09-15",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 40701.0,
+      "salary_hourly": 19.57
+    },
+    {
+      "title": "Med Rec Tech (Med Coder)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/884746100",
+      "salary": "41519",
+      "posted": "2026-09-15",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 41519.0,
+      "salary_hourly": 19.96
+    },
+    {
+      "title": "Supervisory Medical Records Technician - Coder Outpatient/Inpatient",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/884767000",
+      "salary": "67970",
+      "posted": "2026-09-15",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 67970.0,
+      "salary_hourly": 32.68
+    },
+    {
+      "title": "Supervisory Financial Resource Analyst",
+      "company": "Cybersecurity and Infrastructure Security Agency",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/884766000",
+      "salary": "169279",
+      "posted": "2026-09-15",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 169279.0,
+      "salary_hourly": 81.38
+    },
     {
       "title": "Technical Security Investigator (Reemployed Annuitant and ICTAP eligibles)",
       "company": "U.S. Secret Service",
@@ -15,6 +75,18 @@
       "type": "",
       "salary_annual": 90925.0,
       "salary_hourly": 43.71
+    },
+    {
+      "title": "Supervisory Management and Program Analyst",
+      "company": "Veterans Health Administration",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/884681700",
+      "salary": "106437",
+      "posted": "2026-09-15",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
     },
     {
       "title": "Program Analyst",
@@ -51,18 +123,6 @@
       "type": "",
       "salary_annual": 50460.0,
       "salary_hourly": 24.26
-    },
-    {
-      "title": "Psychology Program Manager",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/884593000",
-      "salary": "125776",
-      "posted": "2026-09-14",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
     },
     {
       "title": "Training Technician",
@@ -137,16 +197,16 @@
       "salary_hourly": 35.9
     },
     {
-      "title": "Supervisory Contract Specialist (Branch Chief)",
-      "company": "Departmental Administration",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/884431700",
-      "salary": "107446",
+      "title": "Psychology Program Manager",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/884593000",
+      "salary": "125776",
       "posted": "2026-09-14",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 107446.0,
-      "salary_hourly": 51.66
+      "salary_annual": 125776.0,
+      "salary_hourly": 60.47
     },
     {
       "title": "IT Specialist",
@@ -429,18 +489,6 @@
       "company": "Federal Aviation Administration",
       "location": "FAA Location Negotiable Upon Request - See Additional Info",
       "url": "https://www.usajobs.gov:443/job/883249900",
-      "salary": "95489",
-      "posted": "2026-09-04",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 95489.0,
-      "salary_hourly": 45.91
-    },
-    {
-      "title": "Civil Engineer",
-      "company": "Federal Aviation Administration",
-      "location": "FAA Nationwide-Selectee Remains in Current Duty Location",
-      "url": "https://www.usajobs.gov:443/job/883504400",
       "salary": "95489",
       "posted": "2026-09-04",
       "source": "USAJobs",
@@ -891,30 +939,6 @@
       "type": "",
       "salary_annual": 56763.0,
       "salary_hourly": 27.29
-    },
-    {
-      "title": "COMPUTER ENGINEER",
-      "company": "Air Force Civilian Career Training",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/847080100",
-      "salary": "56763",
-      "posted": "2025-10-01",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 56763.0,
-      "salary_hourly": 27.29
-    },
-    {
-      "title": "ENGINEERING",
-      "company": "Air Force Civilian Career Training",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/846773600",
-      "salary": "55486",
-      "posted": "2025-09-29",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 55486.0,
-      "salary_hourly": 26.68
     },
     {
       "title": "PHYSICIST",

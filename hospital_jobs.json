@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T06:01:12Z",
+  "updated": "2026-09-15T17:29:14Z",
   "count": 4,
   "sources": [
     "Cedars-Sinai"
@@ -55,20 +55,20 @@
       "match_reason": "Cedars-Sinai direct match: imaging"
     },
     {
-      "title": "Surgical Technologist II - Operating Room Cedars-Sinai Medical Center Los Angeles, CA Clinical Operations Req ID: 20496",
+      "title": "Ultrasound Tech II - General Body - 10-Hour Night Shift Cedars-Sinai Medical Center Los Angeles, CA Imaging Req ID: 20510",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/surgical-technologist-ii-operating-room/252/100435836144",
+      "url": "https://careers.cshs.org/job/los-angeles/ultrasound-tech-ii-general-body-10-hour-night-shift/252/100667168272",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/surgical-technologist-ii-operating-room/252/100435836144",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/ultrasound-tech-ii-general-body-10-hour-night-shift/252/100667168272",
       "track_slug": "hospital-careers",
       "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: technologist"
+      "match_reason": "Cedars-Sinai direct match: imaging"
     }
   ]
 }
