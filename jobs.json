@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-16T05:52:18Z",
+  "updated": "2026-09-16T17:29:27Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 79,
+  "count": 80,
   "jobs": [
     {
       "title": "Medical Records Technician (Coder)",
@@ -27,6 +27,30 @@
       "type": "",
       "salary_annual": 2080.0,
       "salary_hourly": 1.0
+    },
+    {
+      "title": "Supervisory Medical Records Technician - Coder Outpatient/Inpatient",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/884980300",
+      "salary": "67970",
+      "posted": "2026-09-16",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 67970.0,
+      "salary_hourly": 32.68
+    },
+    {
+      "title": "Supervisory Health System Specialist - Credentialing and Privileging (C&P) Manager",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/884912700",
+      "salary": "90341",
+      "posted": "2026-09-16",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 90341.0,
+      "salary_hourly": 43.43
     },
     {
       "title": "Health Science Specialist",
@@ -111,18 +135,6 @@
       "type": "",
       "salary_annual": 41519.0,
       "salary_hourly": 19.96
-    },
-    {
-      "title": "Supervisory Medical Records Technician - Coder Outpatient/Inpatient",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/884767000",
-      "salary": "67970",
-      "posted": "2026-09-15",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 67970.0,
-      "salary_hourly": 32.68
     },
     {
       "title": "Supervisory Financial Resource Analyst",
