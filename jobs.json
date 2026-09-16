@@ -1,9 +1,57 @@
 {
-  "updated": "2026-09-15T17:29:13Z",
+  "updated": "2026-09-16T05:52:18Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 80,
+  "count": 79,
   "jobs": [
+    {
+      "title": "Medical Records Technician (Coder)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/884834500",
+      "salary": "36409",
+      "posted": "2026-09-16",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 36409.0,
+      "salary_hourly": 17.5
+    },
+    {
+      "title": "Clinical Informaticist O-5 Non-Supervisory",
+      "company": "Immigration and Customs Enforcement",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/884761100",
+      "salary": "1",
+      "posted": "2026-09-16",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 2080.0,
+      "salary_hourly": 1.0
+    },
+    {
+      "title": "Health Science Specialist",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/884805100",
+      "salary": "107446",
+      "posted": "2026-09-16",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 107446.0,
+      "salary_hourly": 51.66
+    },
+    {
+      "title": "Information Technology Specialist",
+      "company": "Forest Service",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/884866000",
+      "salary": "106437",
+      "posted": "2026-09-15",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
+    },
     {
       "title": "Supervy IT Spec 'Engineering Manager' GS-2210-15, FPL GS-15",
       "company": "Department of Education Headquarters",
@@ -17,16 +65,40 @@
       "salary_hourly": 71.13
     },
     {
-      "title": "Medical Records Technician (Coder)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/884710300",
-      "salary": "40701",
+      "title": "Information Technology Specialist (SYSADMIN)",
+      "company": "Forest Service",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/884865200",
+      "salary": "89508",
       "posted": "2026-09-15",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 40701.0,
-      "salary_hourly": 19.57
+      "salary_annual": 89508.0,
+      "salary_hourly": 43.03
+    },
+    {
+      "title": "Supervisory Information Technology Specialist",
+      "company": "Forest Service",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/884819400",
+      "salary": "106437",
+      "posted": "2026-09-15",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
+    },
+    {
+      "title": "National TeleOncology Pharmacist (Clinical Specialist)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/884864000",
+      "salary": "106437",
+      "posted": "2026-09-15",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
     },
     {
       "title": "Med Rec Tech (Med Coder)",
@@ -77,6 +149,30 @@
       "salary_hourly": 43.71
     },
     {
+      "title": "Life Scientist/Environmental Engineer/Physical Scientist",
+      "company": "Environmental Protection Agency",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/884839500",
+      "salary": "104349",
+      "posted": "2026-09-15",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 104349.0,
+      "salary_hourly": 50.17
+    },
+    {
+      "title": "Pharmacy Technician",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/884662600",
+      "salary": "50460",
+      "posted": "2026-09-15",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 50460.0,
+      "salary_hourly": 24.26
+    },
+    {
       "title": "Supervisory Management and Program Analyst",
       "company": "Veterans Health Administration",
       "location": "Multiple Locations",
@@ -99,30 +195,6 @@
       "type": "",
       "salary_annual": 89508.0,
       "salary_hourly": 43.03
-    },
-    {
-      "title": "Physician (Regular Ft)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/884632200",
-      "salary": "240000",
-      "posted": "2026-09-14",
-      "source": "USAJobs",
-      "type": "CCC is open 365 days 24/7, 80 hours per pay period. Work schedules will be determined based on staffing needs and may require rotating shifts. Holidays and weekend work are required.",
-      "salary_annual": 240000.0,
-      "salary_hourly": 115.38
-    },
-    {
-      "title": "Pharmacy Technician",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/884597200",
-      "salary": "50460",
-      "posted": "2026-09-14",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 50460.0,
-      "salary_hourly": 24.26
     },
     {
       "title": "Training Technician",
@@ -329,18 +401,6 @@
       "salary_hourly": 50.17
     },
     {
-      "title": "Lead Medical Support Assistant",
-      "company": "Veterans Health Administration",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/884416700",
-      "salary": "62504",
-      "posted": "2026-09-11",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 62504.0,
-      "salary_hourly": 30.05
-    },
-    {
       "title": "IT Specialist (Infosec)",
       "company": "Deputy Assistant Secretary for Information and Technology",
       "location": "Location Negotiable After Selection",
@@ -461,18 +521,6 @@
       "salary_hourly": 26.87
     },
     {
-      "title": "Supervisory Firearms Specialist",
-      "company": "Bureau of Alcohol, Tobacco, Firearms and Explosives",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/883862300",
-      "salary": "143913",
-      "posted": "2026-09-08",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 143913.0,
-      "salary_hourly": 69.19
-    },
-    {
       "title": "Risk Management Specialist",
       "company": "Risk Management Agency",
       "location": "Location Negotiable After Selection",
@@ -545,18 +593,6 @@
       "salary_hourly": 51.17
     },
     {
-      "title": "Clinical Psychologist",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/882954800",
-      "salary": "101204",
-      "posted": "2026-08-31",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 101204.0,
-      "salary_hourly": 48.66
-    },
-    {
       "title": "Contract Specialist",
       "company": "Department of Veterans Affairs Headquarters",
       "location": "Multiple Locations",
@@ -579,6 +615,18 @@
       "type": "",
       "salary_annual": 2080.0,
       "salary_hourly": 1.0
+    },
+    {
+      "title": "Clinical Psychologist",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/882954800",
+      "salary": "101204",
+      "posted": "2026-08-31",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 101204.0,
+      "salary_hourly": 48.66
     },
     {
       "title": "Supervisory Air Traffic Control Specialist",
@@ -605,30 +653,6 @@
       "salary_hourly": 43.71
     },
     {
-      "title": "Physician - Clinical Geneticist",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/881998700",
-      "salary": "260000",
-      "posted": "2026-08-25",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 260000.0,
-      "salary_hourly": 125.0
-    },
-    {
-      "title": "Behavioral Health Case Manager (O-5 Billet) Non-Supervisory",
-      "company": "Immigration and Customs Enforcement",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/881895700",
-      "salary": "1",
-      "posted": "2026-08-25",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 2080.0,
-      "salary_hourly": 1.0
-    },
-    {
       "title": "Information Technology Specialist (Computer Specialist)",
       "company": "Bureau of Prisons/Federal Prison System",
       "location": "Multiple Locations",
@@ -651,18 +675,6 @@
       "type": "",
       "salary_annual": 375000.0,
       "salary_hourly": 180.29
-    },
-    {
-      "title": "Physician (Diagnostic-Radiologist) - Neuroradiology",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/881409800",
-      "salary": "385000",
-      "posted": "2026-08-20",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 385000.0,
-      "salary_hourly": 185.1
     },
     {
       "title": "Contracting Officer Representative (COR)",
@@ -939,30 +951,6 @@
       "type": "",
       "salary_annual": 56763.0,
       "salary_hourly": 27.29
-    },
-    {
-      "title": "PHYSICIST",
-      "company": "Air Force Civilian Career Training",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/846774500",
-      "salary": "49960",
-      "posted": "2025-09-29",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 49960.0,
-      "salary_hourly": 24.02
-    },
-    {
-      "title": "BIOLOGICAL SCIENTIST (ENVIRONMENTAL)",
-      "company": "Air Force Civilian Career Training",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/846774300",
-      "salary": "49960",
-      "posted": "2025-09-29",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 49960.0,
-      "salary_hourly": 24.02
     }
   ]
 }
