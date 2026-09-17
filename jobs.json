@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-17T05:59:43Z",
+  "updated": "2026-09-17T17:29:38Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 80,
+  "count": 83,
   "jobs": [
     {
       "title": "Health System Specialist (National PCMM Coordinator)",
@@ -15,6 +15,18 @@
       "type": "",
       "salary_annual": 106437.0,
       "salary_hourly": 51.17
+    },
+    {
+      "title": "Victim Witness Program Specialist (Regional)",
+      "company": "Bureau of Alcohol, Tobacco, Firearms and Explosives",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/885191600",
+      "salary": "76463",
+      "posted": "2026-09-17",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 76463.0,
+      "salary_hourly": 36.76
     },
     {
       "title": "Supervisory Training Specialist",
@@ -41,16 +53,40 @@
       "salary_hourly": 43.03
     },
     {
+      "title": "Physician (Primary Care)",
+      "company": "Veterans Health Administration",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/885192500",
+      "salary": "270000",
+      "posted": "2026-09-17",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 270000.0,
+      "salary_hourly": 129.81
+    },
+    {
       "title": "Deputy Executive Director Human Resources Operations Center",
       "company": "Veterans Health Administration",
       "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/884892000",
+      "url": "https://www.usajobs.gov:443/job/885138800",
       "salary": "151661",
       "posted": "2026-09-17",
       "source": "USAJobs",
       "type": "",
       "salary_annual": 151661.0,
       "salary_hourly": 72.91
+    },
+    {
+      "title": "Systems Program Analyst",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/885039300",
+      "salary": "89508",
+      "posted": "2026-09-17",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 89508.0,
+      "salary_hourly": 43.03
     },
     {
       "title": "Medical Records Technician (Coder)",
