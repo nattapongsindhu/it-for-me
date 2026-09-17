@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-16T17:29:31Z",
-  "count": 3,
+  "updated": "2026-09-17T05:59:46Z",
+  "count": 4,
   "sources": [
     "Cedars-Sinai"
   ],
@@ -50,6 +50,22 @@
       "posted": "",
       "source": "Hospital_Direct",
       "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/project-scientist-slomka-lab-innovation-in-imaging-department-of-medicine-division-of-aim/252/91952114992",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: imaging"
+    },
+    {
+      "title": "Ultrasound Tech II - General Body - 10-Hour Night Shift Cedars-Sinai Medical Center Los Angeles, CA Imaging Req ID: 20510",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/ultrasound-tech-ii-general-body-10-hour-night-shift/252/100667168272",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/ultrasound-tech-ii-general-body-10-hour-night-shift/252/100667168272",
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: imaging"

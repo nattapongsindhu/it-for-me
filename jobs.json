@@ -1,14 +1,62 @@
 {
-  "updated": "2026-09-16T17:29:27Z",
+  "updated": "2026-09-17T05:59:43Z",
   "zip": "90029",
   "radius_mi": 5,
   "count": 80,
   "jobs": [
     {
+      "title": "Health System Specialist (National PCMM Coordinator)",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/884886600",
+      "salary": "106437",
+      "posted": "2026-09-17",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
+    },
+    {
+      "title": "Supervisory Training Specialist",
+      "company": "Animal and Plant Health Inspection Service",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/884943600",
+      "salary": "125776",
+      "posted": "2026-09-17",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 125776.0,
+      "salary_hourly": 60.47
+    },
+    {
+      "title": "Agriculturist (AQI Database Program Support)",
+      "company": "Animal and Plant Health Inspection Service",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/884934300",
+      "salary": "89508",
+      "posted": "2026-09-17",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 89508.0,
+      "salary_hourly": 43.03
+    },
+    {
+      "title": "Deputy Executive Director Human Resources Operations Center",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/884892000",
+      "salary": "151661",
+      "posted": "2026-09-17",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 151661.0,
+      "salary_hourly": 72.91
+    },
+    {
       "title": "Medical Records Technician (Coder)",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/884834500",
+      "url": "https://www.usajobs.gov:443/job/884834900",
       "salary": "36409",
       "posted": "2026-09-16",
       "source": "USAJobs",
@@ -17,7 +65,7 @@
       "salary_hourly": 17.5
     },
     {
-      "title": "Clinical Informaticist O-5 Non-Supervisory",
+      "title": "Clinical Informaticist (O-5 Billet) Non-Supervisory",
       "company": "Immigration and Customs Enforcement",
       "location": "Location Negotiable After Selection",
       "url": "https://www.usajobs.gov:443/job/884761100",
@@ -27,6 +75,18 @@
       "type": "",
       "salary_annual": 2080.0,
       "salary_hourly": 1.0
+    },
+    {
+      "title": "Medical Records Technician (Coder)  (Outpatient & Inpatient)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/885016100",
+      "salary": "56794",
+      "posted": "2026-09-16",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 56794.0,
+      "salary_hourly": 27.3
     },
     {
       "title": "Supervisory Medical Records Technician - Coder Outpatient/Inpatient",
@@ -171,18 +231,6 @@
       "type": "",
       "salary_annual": 104349.0,
       "salary_hourly": 50.17
-    },
-    {
-      "title": "Pharmacy Technician",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/884662600",
-      "salary": "50460",
-      "posted": "2026-09-15",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 50460.0,
-      "salary_hourly": 24.26
     },
     {
       "title": "Supervisory Management and Program Analyst",
@@ -365,18 +413,6 @@
       "salary_hourly": 59.66
     },
     {
-      "title": "Emergency Management Specialist (Legacy VISN Network) Detail/Temporary Promotion (NTE 120 Days)",
-      "company": "Veterans Health Administration",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/884402800",
-      "salary": "106437",
-      "posted": "2026-09-11",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 106437.0,
-      "salary_hourly": 51.17
-    },
-    {
       "title": "Social Worker",
       "company": "Veterans Health Administration",
       "location": "Multiple Locations",
@@ -473,18 +509,6 @@
       "salary_hourly": 72.91
     },
     {
-      "title": "Legal Administrative Specialist (In-Court Services)",
-      "company": "Executive Office for Immigration Review",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/884056100",
-      "salary": "52757",
-      "posted": "2026-09-10",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 52757.0,
-      "salary_hourly": 25.36
-    },
-    {
       "title": "Asylum Officer",
       "company": "Citizenship and Immigration Services",
       "location": "Location Negotiable After Selection",
@@ -507,30 +531,6 @@
       "type": "",
       "salary_annual": 110871.0,
       "salary_hourly": 53.3
-    },
-    {
-      "title": "Medical Records Technician (Clinical Documentation Improvement Specialist (Outpatient and Inpatient)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/883888000",
-      "salary": "61722",
-      "posted": "2026-09-09",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 61722.0,
-      "salary_hourly": 29.67
-    },
-    {
-      "title": "Lead Social Services Assistant",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/883723600",
-      "salary": "55882",
-      "posted": "2026-09-08",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 55882.0,
-      "salary_hourly": 26.87
     },
     {
       "title": "Risk Management Specialist",
@@ -557,6 +557,18 @@
       "salary_hourly": 45.91
     },
     {
+      "title": "Civil Engineer",
+      "company": "Federal Aviation Administration",
+      "location": "FAA Nationwide-Selectee Remains in Current Duty Location",
+      "url": "https://www.usajobs.gov:443/job/883504400",
+      "salary": "95489",
+      "posted": "2026-09-04",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 95489.0,
+      "salary_hourly": 45.91
+    },
+    {
       "title": "Lead Equipment Specialist",
       "company": "Federal Acquisition Service",
       "location": "Multiple Locations",
@@ -567,18 +579,6 @@
       "type": "",
       "salary_annual": 89508.0,
       "salary_hourly": 43.03
-    },
-    {
-      "title": "Director Disclosure",
-      "company": "Internal Revenue Service",
-      "location": "IRS Nationwide Locations",
-      "url": "https://www.usajobs.gov:443/job/883116000",
-      "salary": "151661",
-      "posted": "2026-09-02",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 151661.0,
-      "salary_hourly": 72.91
     },
     {
       "title": "Attorney-Adviser (Tax) (Senior Technician Reviewer)",
@@ -653,18 +653,6 @@
       "salary_hourly": 64.48
     },
     {
-      "title": "Aviation Safety Inspector  (Cabin Safety)",
-      "company": "Federal Aviation Administration",
-      "location": "FAA Nationwide-Selectee Remains in Current Duty Location",
-      "url": "https://www.usajobs.gov:443/job/882155200",
-      "salary": "90925",
-      "posted": "2026-08-27",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 90925.0,
-      "salary_hourly": 43.71
-    },
-    {
       "title": "Information Technology Specialist (Computer Specialist)",
       "company": "Bureau of Prisons/Federal Prison System",
       "location": "Multiple Locations",
@@ -687,6 +675,18 @@
       "type": "",
       "salary_annual": 375000.0,
       "salary_hourly": 180.29
+    },
+    {
+      "title": "Physician (Diagnostic-Radiologist) - Neuroradiology",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/881409800",
+      "salary": "385000",
+      "posted": "2026-08-20",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 385000.0,
+      "salary_hourly": 185.1
     },
     {
       "title": "Contracting Officer Representative (COR)",
