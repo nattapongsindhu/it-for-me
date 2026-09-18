@@ -1,7 +1,7 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-09-18T05%3A45%3A49Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-85-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-09-18T16%3A57%3A28Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-86-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
@@ -12,10 +12,12 @@
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
+| Medical Records Technician (Coder-Outpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 36409 | 2026-09-18 | [Apply](https://www.usajobs.gov:443/job/885291000) |
 | Supervisory Medical Records Technician (CDIS) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 67970 | 2026-09-18 | [Apply](https://www.usajobs.gov:443/job/885266600) |
 | MEDICAL RECORDS TECHNICIAN (CODER) AUDITOR | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-09-18 | [Apply](https://www.usajobs.gov:443/job/884856900) |
 | Senior General Engineer (Accident Investigator) (Direct Hire) | Department of Transportation Headquarters | Anywhere in the U.S. (remote job) | Full Time | 125776 | 2026-09-18 | [Apply](https://www.usajobs.gov:443/job/885104400) |
 | Social Science Specialist (Crisis Responder) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 74678 | 2026-09-18 | [Apply](https://www.usajobs.gov:443/job/885252200) |
+| Senior Social Worker | Veterans Health Administration | Los Angeles, California | Not listed | 114695 | 2026-09-18 | [Apply](https://www.usajobs.gov:443/job/885372400) |
 | Executive Director Human Resources Operations Center | Veterans Health Administration | Location Negotiable After Selection | Not listed | 151661 | 2026-09-18 | [Apply](https://www.usajobs.gov:443/job/885165200) |
 | IT Specialist (ENTARCH) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 125776 | 2026-09-17 | [Apply](https://www.usajobs.gov:443/job/885242100) |
 | Physician -  Psychiatrist | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 260000 | 2026-09-17 | [Apply](https://www.usajobs.gov:443/job/885217900) |
@@ -30,8 +32,6 @@
 | Systems Program Analyst | Veterans Health Administration | Location Negotiable After Selection | Not listed | 89508 | 2026-09-17 | [Apply](https://www.usajobs.gov:443/job/885039300) |
 | Clinical Informaticist (O-5 Billet) Non-Supervisory | Immigration and Customs Enforcement | Location Negotiable After Selection | Not listed | 1 | 2026-09-16 | [Apply](https://www.usajobs.gov:443/job/884761100) |
 | Medical Records Technician (Coder)  (Outpatient & Inpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 37003 | 2026-09-16 | [Apply](https://www.usajobs.gov:443/job/885015100) |
-| Supervisory Medical Records Technician - Coder Outpatient/Inpatient | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 67970 | 2026-09-16 | [Apply](https://www.usajobs.gov:443/job/884980300) |
-| Supervisory Health System Specialist - Credentialing and Privileging (C&P) Manager | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 90341 | 2026-09-16 | [Apply](https://www.usajobs.gov:443/job/884912700) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 85 |
+| Total jobs found | 86 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-09-18T05:45:49Z |
+| Last updated | 2026-09-18T16:57:28Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 85 jobs
+- USAJobs: 86 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-09-18T05:45:49Z_
+_Auto-generated legacy snapshot. Last run: 2026-09-18T16:57:28Z_

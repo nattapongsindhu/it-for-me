@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-18T05:45:52Z",
-  "count": 4,
+  "updated": "2026-09-18T16:57:30Z",
+  "count": 5,
   "sources": [
     "Cedars-Sinai"
   ],
@@ -34,6 +34,22 @@
       "posted": "",
       "source": "Hospital_Direct",
       "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/financial-business-systems-analyst-imaging-department/252/100761656176",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: imaging"
+    },
+    {
+      "title": "Mammography Tech - Per Diem - 8-Hour Day Shift Cedars-Sinai Medical Center Los Angeles, CA Imaging Req ID: 20693",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/mammography-tech-per-diem-8-hour-day-shift/252/100807056976",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/mammography-tech-per-diem-8-hour-day-shift/252/100807056976",
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: imaging"

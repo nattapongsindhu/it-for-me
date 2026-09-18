@@ -1,9 +1,21 @@
 {
-  "updated": "2026-09-18T05:45:49Z",
+  "updated": "2026-09-18T16:57:28Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 85,
+  "count": 86,
   "jobs": [
+    {
+      "title": "Medical Records Technician (Coder-Outpatient)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/885291000",
+      "salary": "36409",
+      "posted": "2026-09-18",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 36409.0,
+      "salary_hourly": 17.5
+    },
     {
       "title": "Supervisory Medical Records Technician (CDIS)",
       "company": "Veterans Health Administration",
@@ -51,6 +63,18 @@
       "type": "",
       "salary_annual": 74678.0,
       "salary_hourly": 35.9
+    },
+    {
+      "title": "Senior Social Worker",
+      "company": "Veterans Health Administration",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/885372400",
+      "salary": "114695",
+      "posted": "2026-09-18",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 114695.0,
+      "salary_hourly": 55.14
     },
     {
       "title": "Executive Director Human Resources Operations Center",
@@ -651,18 +675,6 @@
       "type": "",
       "salary_annual": 90925.0,
       "salary_hourly": 43.71
-    },
-    {
-      "title": "Civil Engineer",
-      "company": "Federal Aviation Administration",
-      "location": "FAA Nationwide-Selectee Remains in Current Duty Location",
-      "url": "https://www.usajobs.gov:443/job/883504400",
-      "salary": "95489",
-      "posted": "2026-09-04",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 95489.0,
-      "salary_hourly": 45.91
     },
     {
       "title": "IT Specialist 6 month Register-Direct Hire",
