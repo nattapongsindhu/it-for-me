@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-19T16:15:28Z",
+  "updated": "2026-09-20T05:59:35Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 81,
+  "count": 80,
   "jobs": [
     {
       "title": "IT Program Manager (Service Designer), GS-2210-15, FPL GS-15 (DH)",
@@ -255,18 +255,6 @@
       "type": "",
       "salary_annual": 2080.0,
       "salary_hourly": 1.0
-    },
-    {
-      "title": "Medical Records Technician (Coder)  (Outpatient & Inpatient)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/885015100",
-      "salary": "37003",
-      "posted": "2026-09-16",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 37003.0,
-      "salary_hourly": 17.79
     },
     {
       "title": "Supervisory Medical Records Technician - Coder Outpatient/Inpatient",
