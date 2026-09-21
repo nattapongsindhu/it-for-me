@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-21T06:06:17Z",
+  "updated": "2026-09-21T18:29:38Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 82,
+  "count": 80,
   "jobs": [
     {
       "title": "IT Program Manager (Internet)",
@@ -29,6 +29,18 @@
       "salary_hourly": 29.67
     },
     {
+      "title": "Special Operations Program Director (Supervisory Auditor)",
+      "company": "Alcohol and Tobacco Tax and Trade Bureau",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/885499200",
+      "salary": "125776",
+      "posted": "2026-09-21",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 125776.0,
+      "salary_hourly": 60.47
+    },
+    {
       "title": "Semester of Service Volunteer - Museum Collections & Public Engagement Volunteer",
       "company": "Department of State Headquarters",
       "location": "Anywhere in the U.S. (remote job)",
@@ -39,18 +51,6 @@
       "type": "8-20 hours per week",
       "salary_annual": null,
       "salary_hourly": null
-    },
-    {
-      "title": "Health Scientist Administrator (Program Officer)",
-      "company": "National Institutes of Health",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/885053200",
-      "salary": "89508",
-      "posted": "2026-09-21",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 89508.0,
-      "salary_hourly": 43.03
     },
     {
       "title": "Behavioral Health Case Manager (O-5 Billet) Non-Supervisory",
@@ -77,6 +77,18 @@
       "salary_hourly": 1.0
     },
     {
+      "title": "Advanced Practice Nurse (APN) Nurse Practitioner (NP)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/885555500",
+      "salary": "125183",
+      "posted": "2026-09-21",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 125183.0,
+      "salary_hourly": 60.18
+    },
+    {
       "title": "IT Program Manager (Service Designer), GS-2210-15, FPL GS-15 (DH)",
       "company": "Department of Education Headquarters",
       "location": "Multiple Locations",
@@ -101,18 +113,6 @@
       "salary_hourly": 71.13
     },
     {
-      "title": "Supervisory Health System Specialist - Credentialing and Privileging (C&P) Manager",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/885468400",
-      "salary": "90341",
-      "posted": "2026-09-18",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 90341.0,
-      "salary_hourly": 43.43
-    },
-    {
       "title": "Medical Records Technician (Coder-Outpatient)",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -123,6 +123,18 @@
       "type": "",
       "salary_annual": 36409.0,
       "salary_hourly": 17.5
+    },
+    {
+      "title": "Supervisory Health System Specialist - Credentialing and Privileging (C&P) Manager",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/885468400",
+      "salary": "90341",
+      "posted": "2026-09-18",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 90341.0,
+      "salary_hourly": 43.43
     },
     {
       "title": "Social Science Specialist (Crisis Responder)",
@@ -183,18 +195,6 @@
       "type": "",
       "salary_annual": 151661.0,
       "salary_hourly": 72.91
-    },
-    {
-      "title": "Medical Records Technician (CODER AUDITOR) INPATIENT/OUTPATIENT",
-      "company": "Veterans Health Administration",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/885410500",
-      "salary": "61722",
-      "posted": "2026-09-18",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 61722.0,
-      "salary_hourly": 29.67
     },
     {
       "title": "IT Specialist (ENTARCH)",
@@ -507,18 +507,6 @@
       "type": "",
       "salary_annual": 124085.0,
       "salary_hourly": 59.66
-    },
-    {
-      "title": "Social Worker",
-      "company": "Veterans Health Administration",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/884226200",
-      "salary": "79091",
-      "posted": "2026-09-11",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 79091.0,
-      "salary_hourly": 38.02
     },
     {
       "title": "Management and Program Analyst (Data Science)",
@@ -945,18 +933,6 @@
       "company": "Air Force Civilian Career Training",
       "location": "Location Negotiable After Selection",
       "url": "https://www.usajobs.gov:443/job/847096900",
-      "salary": "56763",
-      "posted": "2025-10-01",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 56763.0,
-      "salary_hourly": 27.29
-    },
-    {
-      "title": "COMPUTER ENGINEER",
-      "company": "Air Force Civilian Career Training",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/847080100",
       "salary": "56763",
       "posted": "2025-10-01",
       "source": "USAJobs",
