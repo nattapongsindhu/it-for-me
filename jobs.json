@@ -1,9 +1,81 @@
 {
-  "updated": "2026-09-20T16:41:33Z",
+  "updated": "2026-09-21T06:06:17Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 80,
+  "count": 82,
   "jobs": [
+    {
+      "title": "IT Program Manager (Internet)",
+      "company": "Centers for Medicare & Medicaid Services",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/885328100",
+      "salary": "143913",
+      "posted": "2026-09-21",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 143913.0,
+      "salary_hourly": 69.19
+    },
+    {
+      "title": "Program Analyst",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/885360700",
+      "salary": "61722",
+      "posted": "2026-09-21",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 61722.0,
+      "salary_hourly": 29.67
+    },
+    {
+      "title": "Semester of Service Volunteer - Museum Collections & Public Engagement Volunteer",
+      "company": "Department of State Headquarters",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/885167200",
+      "salary": "0",
+      "posted": "2026-09-21",
+      "source": "USAJobs",
+      "type": "8-20 hours per week",
+      "salary_annual": null,
+      "salary_hourly": null
+    },
+    {
+      "title": "Health Scientist Administrator (Program Officer)",
+      "company": "National Institutes of Health",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/885053200",
+      "salary": "89508",
+      "posted": "2026-09-21",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 89508.0,
+      "salary_hourly": 43.03
+    },
+    {
+      "title": "Behavioral Health Case Manager (O-5 Billet) Non-Supervisory",
+      "company": "Immigration and Customs Enforcement",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/885462800",
+      "salary": "1",
+      "posted": "2026-09-21",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 2080.0,
+      "salary_hourly": 1.0
+    },
+    {
+      "title": "Regional Behavioral Health Case Manager, Team Lead (O-6 Billet) Supervisory",
+      "company": "Immigration and Customs Enforcement",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/885462700",
+      "salary": "1",
+      "posted": "2026-09-21",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 2080.0,
+      "salary_hourly": 1.0
+    },
     {
       "title": "IT Program Manager (Service Designer), GS-2210-15, FPL GS-15 (DH)",
       "company": "Department of Education Headquarters",
@@ -117,18 +189,6 @@
       "company": "Veterans Health Administration",
       "location": "Los Angeles, California",
       "url": "https://www.usajobs.gov:443/job/885410500",
-      "salary": "61722",
-      "posted": "2026-09-18",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 61722.0,
-      "salary_hourly": 29.67
-    },
-    {
-      "title": "CRH Social Worker - Collaborative Care Manager (PCMHI)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/885379500",
       "salary": "61722",
       "posted": "2026-09-18",
       "source": "USAJobs",
@@ -353,18 +413,6 @@
       "salary_hourly": 51.17
     },
     {
-      "title": "Program Analyst",
-      "company": "Veterans Health Administration",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/884524700",
-      "salary": "89508",
-      "posted": "2026-09-15",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 89508.0,
-      "salary_hourly": 43.03
-    },
-    {
       "title": "Training Technician",
       "company": "Veterans Health Administration",
       "location": "Multiple Locations",
@@ -483,18 +531,6 @@
       "type": "",
       "salary_annual": 104349.0,
       "salary_hourly": 50.17
-    },
-    {
-      "title": "Supvy IT Spec (SEC) 'Cyber Ops Branch Chief', GS-2210-15 FPL GS-15 (DH)",
-      "company": "Department of Education Headquarters",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/883933400",
-      "salary": "147945",
-      "posted": "2026-09-10",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 147945.0,
-      "salary_hourly": 71.13
     },
     {
       "title": "Physician (Radiologist) - Education Debt Reduction Program & Recruitment Incentive Authorized",
@@ -785,18 +821,6 @@
       "salary_hourly": 22.95
     },
     {
-      "title": "Police Officer - Recruitment/Relocation Incentive Authorized",
-      "company": "Veterans Health Administration",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/872753300",
-      "salary": "83038",
-      "posted": "2026-06-11",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 83038.0,
-      "salary_hourly": 39.92
-    },
-    {
       "title": "Medical Support Assistant",
       "company": "Veterans Health Administration",
       "location": "Multiple Locations",
@@ -929,16 +953,16 @@
       "salary_hourly": 27.29
     },
     {
-      "title": "ENGINEERING",
+      "title": "COMPUTER ENGINEER",
       "company": "Air Force Civilian Career Training",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/846773600",
-      "salary": "55486",
-      "posted": "2025-09-29",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/847080100",
+      "salary": "56763",
+      "posted": "2025-10-01",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 55486.0,
-      "salary_hourly": 26.68
+      "salary_annual": 56763.0,
+      "salary_hourly": 27.29
     },
     {
       "title": "PHYSICIST",

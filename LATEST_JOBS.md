@@ -1,17 +1,23 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-09-20T16%3A41%3A33Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-80-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-09-21T06%3A06%3A17Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-82-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
 
 ---
 
-## Latest Jobs - September 20, 2026
+## Latest Jobs - September 21, 2026
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
+| IT Program Manager (Internet) | Centers for Medicare & Medicaid Services | Location Negotiable After Selection | Not listed | 143913 | 2026-09-21 | [Apply](https://www.usajobs.gov:443/job/885328100) |
+| Program Analyst | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-09-21 | [Apply](https://www.usajobs.gov:443/job/885360700) |
+| Semester of Service Volunteer - Museum Collections & Public Engagement Volunteer | Department of State Headquarters | Anywhere in the U.S. (remote job) | 8-20 hours per week | 0 | 2026-09-21 | [Apply](https://www.usajobs.gov:443/job/885167200) |
+| Health Scientist Administrator (Program Officer) | National Institutes of Health | Location Negotiable After Selection | Not listed | 89508 | 2026-09-21 | [Apply](https://www.usajobs.gov:443/job/885053200) |
+| Behavioral Health Case Manager (O-5 Billet) Non-Supervisory | Immigration and Customs Enforcement | Location Negotiable After Selection | Not listed | 1 | 2026-09-21 | [Apply](https://www.usajobs.gov:443/job/885462800) |
+| Regional Behavioral Health Case Manager, Team Lead (O-6 Billet) Supervisory | Immigration and Customs Enforcement | Location Negotiable After Selection | Not listed | 1 | 2026-09-21 | [Apply](https://www.usajobs.gov:443/job/885462700) |
 | IT Program Manager (Service Designer), GS-2210-15, FPL GS-15 (DH) | Department of Education Headquarters | Multiple Locations | Not listed | 147945 | 2026-09-18 | [Apply](https://www.usajobs.gov:443/job/885415900) |
 | IT Program Manager (Service Designer), GS-2210-15, FPL GS-15 (DH) (TERM) | Department of Education Headquarters | Multiple Locations | Not listed | 147945 | 2026-09-18 | [Apply](https://www.usajobs.gov:443/job/885416700) |
 | Supervisory Health System Specialist - Credentialing and Privileging (C&P) Manager | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 90341 | 2026-09-18 | [Apply](https://www.usajobs.gov:443/job/885468400) |
@@ -22,16 +28,10 @@
 | Senior Social Worker | Veterans Health Administration | Los Angeles, California | Not listed | 114695 | 2026-09-18 | [Apply](https://www.usajobs.gov:443/job/885372400) |
 | Executive Director Human Resources Operations Center | Veterans Health Administration | Location Negotiable After Selection | Not listed | 151661 | 2026-09-18 | [Apply](https://www.usajobs.gov:443/job/885165200) |
 | Medical Records Technician (CODER AUDITOR) INPATIENT/OUTPATIENT | Veterans Health Administration | Los Angeles, California | Not listed | 61722 | 2026-09-18 | [Apply](https://www.usajobs.gov:443/job/885410500) |
-| CRH Social Worker - Collaborative Care Manager (PCMHI) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-09-18 | [Apply](https://www.usajobs.gov:443/job/885379500) |
 | IT Specialist (ENTARCH) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 125776 | 2026-09-17 | [Apply](https://www.usajobs.gov:443/job/885242100) |
 | Health System Specialist (National PCMM Coordinator) | Veterans Health Administration | Location Negotiable After Selection | Not listed | 106437 | 2026-09-17 | [Apply](https://www.usajobs.gov:443/job/884886600) |
 | Supervisory Training Specialist | Animal and Plant Health Inspection Service | Location Negotiable After Selection | Not listed | 125776 | 2026-09-17 | [Apply](https://www.usajobs.gov:443/job/884943600) |
 | Agriculturist (AQI Database Program Support) | Animal and Plant Health Inspection Service | Location Negotiable After Selection | Not listed | 89508 | 2026-09-17 | [Apply](https://www.usajobs.gov:443/job/884934300) |
-| Physician (Primary Care) | Veterans Health Administration | Los Angeles, California | Not listed | 270000 | 2026-09-17 | [Apply](https://www.usajobs.gov:443/job/885192500) |
-| Physical Therapy Assistant | Veterans Health Administration | Los Angeles, California | Not listed | 65148 | 2026-09-17 | [Apply](https://www.usajobs.gov:443/job/885209500) |
-| Emergency Management Specialist (Legacy VISN Network) Detail/Temporary Promotion (NTE 120 Days) | Veterans Health Administration | Location Negotiable After Selection | Not listed | 106437 | 2026-09-17 | [Apply](https://www.usajobs.gov:443/job/885215100) |
-| Deputy Executive Director Human Resources Operations Center | Veterans Health Administration | Location Negotiable After Selection | Not listed | 151661 | 2026-09-17 | [Apply](https://www.usajobs.gov:443/job/885138800) |
-| Systems Program Analyst | Veterans Health Administration | Location Negotiable After Selection | Not listed | 89508 | 2026-09-17 | [Apply](https://www.usajobs.gov:443/job/885039300) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 80 |
+| Total jobs found | 82 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-09-20T16:41:33Z |
+| Last updated | 2026-09-21T06:06:17Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 80 jobs
+- USAJobs: 82 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-09-20T16:41:33Z_
+_Auto-generated legacy snapshot. Last run: 2026-09-21T06:06:17Z_
