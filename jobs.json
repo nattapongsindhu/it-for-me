@@ -1,9 +1,21 @@
 {
-  "updated": "2026-09-23T05:47:46Z",
+  "updated": "2026-09-23T17:43:58Z",
   "zip": "90029",
   "radius_mi": 5,
   "count": 81,
   "jobs": [
+    {
+      "title": "IT Specialist (PlcyPln)",
+      "company": "Deputy Assistant Secretary for Information and Technology",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/885967400",
+      "salary": "147945",
+      "posted": "2026-09-23",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 147945.0,
+      "salary_hourly": 71.13
+    },
     {
       "title": "IT Specialist",
       "company": "Deputy Assistant Secretary for Information and Technology",
@@ -15,6 +27,30 @@
       "type": "",
       "salary_annual": 106437.0,
       "salary_hourly": 51.17
+    },
+    {
+      "title": "Supervisory IT Specialist (OS)",
+      "company": "Deputy Assistant Secretary for Information and Technology",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/885842600",
+      "salary": "107446",
+      "posted": "2026-09-23",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 107446.0,
+      "salary_hourly": 51.66
+    },
+    {
+      "title": "Health System Specialist",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/885930400",
+      "salary": "125776",
+      "posted": "2026-09-23",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 125776.0,
+      "salary_hourly": 60.47
     },
     {
       "title": "Supervisory Health System Specialist - VISN Operations Center Director",
@@ -39,6 +75,18 @@
       "type": "",
       "salary_annual": 52727.0,
       "salary_hourly": 25.35
+    },
+    {
+      "title": "Grants Management Specialist",
+      "company": "Maritime Administration",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/885958900",
+      "salary": "85447",
+      "posted": "2026-09-23",
+      "source": "USAJobs",
+      "type": "Full Time",
+      "salary_annual": 85447.0,
+      "salary_hourly": 41.08
     },
     {
       "title": "Nurse",
@@ -257,18 +305,6 @@
       "salary_hourly": 17.5
     },
     {
-      "title": "Program Analyst",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/885360700",
-      "salary": "61722",
-      "posted": "2026-09-21",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 61722.0,
-      "salary_hourly": 29.67
-    },
-    {
       "title": "Special Operations Program Director (Supervisory Auditor)",
       "company": "Alcohol and Tobacco Tax and Trade Bureau",
       "location": "Location Negotiable After Selection",
@@ -291,6 +327,18 @@
       "type": "",
       "salary_annual": 125776.0,
       "salary_hourly": 60.47
+    },
+    {
+      "title": "Program Analyst",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/885360700",
+      "salary": "61722",
+      "posted": "2026-09-21",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 61722.0,
+      "salary_hourly": 29.67
     },
     {
       "title": "Supervisory Healthcare Engineer",
@@ -411,18 +459,6 @@
       "type": "",
       "salary_annual": 151661.0,
       "salary_hourly": 72.91
-    },
-    {
-      "title": "Genetic Counselor (Clinical)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/885349800",
-      "salary": "89508",
-      "posted": "2026-09-18",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 89508.0,
-      "salary_hourly": 43.03
     },
     {
       "title": "IT Specialist (ENTARCH)",
@@ -701,18 +737,6 @@
       "salary_hourly": 1.0
     },
     {
-      "title": "Physician - Clinical Geneticist",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/881998700",
-      "salary": "260000",
-      "posted": "2026-08-25",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 260000.0,
-      "salary_hourly": 125.0
-    },
-    {
       "title": "Information Technology Specialist (Computer Specialist)",
       "company": "Bureau of Prisons/Federal Prison System",
       "location": "Multiple Locations",
@@ -737,18 +761,6 @@
       "salary_hourly": 180.29
     },
     {
-      "title": "Physician (Diagnostic-Radiologist) - Neuroradiology",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/881409800",
-      "salary": "385000",
-      "posted": "2026-08-20",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 385000.0,
-      "salary_hourly": 185.1
-    },
-    {
       "title": "Physician- Radiologist- Diagnostic Imaging with EDRP & Recruitment Incentive",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -771,18 +783,6 @@
       "type": "",
       "salary_annual": 390000.0,
       "salary_hourly": 187.5
-    },
-    {
-      "title": "Case Administrator - Dispatcher (Arizona Remote Only)",
-      "company": "U.S. Courts",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/880742800",
-      "salary": "40346",
-      "posted": "2026-08-07",
-      "source": "USAJobs",
-      "type": "The hours of dispatch operation are 7:00 am to 10:00 pm Monday through Friday and 8:00 am to 4:30 pm on some weekends and holidays. Dispatch hours are subject to change. This position will primarily cover evening and weekend shifts.",
-      "salary_annual": 40346.0,
-      "salary_hourly": 19.4
     },
     {
       "title": "Health Technician (Ophthalmology)",
