@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T17:44:02Z",
+  "updated": "2026-09-24T06:02:02Z",
   "count": 5,
   "sources": [
     "Cedars-Sinai"
@@ -39,20 +39,20 @@
       "match_reason": "Cedars-Sinai direct match: imaging"
     },
     {
-      "title": "Mammography Tech - Per Diem - 8-Hour Day Shift Cedars-Sinai Medical Center Los Angeles, CA Imaging Req ID: 20693",
+      "title": "MRI Technologist II - 12-Hour Night Shift - $5,000 Hiring Incentive! Cedars-Sinai Medical Center Los Angeles, CA Imaging Req ID: 20796",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/mammography-tech-per-diem-8-hour-day-shift/252/100807056976",
+      "url": "https://careers.cshs.org/job/los-angeles/mri-technologist-ii-12-hour-night-shift-5-000-hiring-incentive/252/101050409872",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/mammography-tech-per-diem-8-hour-day-shift/252/100807056976",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/mri-technologist-ii-12-hour-night-shift-5-000-hiring-incentive/252/101050409872",
       "track_slug": "hospital-careers",
       "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging"
+      "match_reason": "Cedars-Sinai direct match: imaging, technologist"
     },
     {
       "title": "Postdoctoral Scientist - Slomka Lab - Innovation in Imaging / Department of Medicine / Division of AIM Cedars-Sinai Medical Center Los Angeles, CA Academic / Research Req ID: HRC1428640",
