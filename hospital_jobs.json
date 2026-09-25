@@ -1,27 +1,11 @@
 {
-  "updated": "2026-09-24T17:45:38Z",
+  "updated": "2026-09-25T06:02:53Z",
   "count": 5,
   "sources": [
     "Cedars-Sinai"
   ],
   "track_slug": "hospital-careers",
   "jobs": [
-    {
-      "title": "Applications Specialist in Enterprise Imaging - Hybrid",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/applications-specialist-in-enterprise-imaging-hybrid/252/93774825760",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/applications-specialist-in-enterprise-imaging-hybrid/252/93774825760",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: applications specialist, imaging"
-    },
     {
       "title": "Financial Business Systems Analyst (Imaging Department)",
       "company": "Cedars-Sinai",
@@ -85,6 +69,22 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: imaging"
+    },
+    {
+      "title": "Specialty Technician II - Operating Room Cedars-Sinai Medical Center Los Angeles, CA Clinical Operations Req ID: 20823",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/specialty-technician-ii-operating-room/252/101090610544",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/specialty-technician-ii-operating-room/252/101090610544",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: technician"
     }
   ]
 }
