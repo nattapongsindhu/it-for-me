@@ -1,8 +1,9 @@
 {
-  "updated": "2026-09-25T17:47:08Z",
-  "count": 5,
+  "updated": "2026-09-26T06:01:31Z",
+  "count": 4,
   "sources": [
-    "Cedars-Sinai"
+    "Cedars-Sinai",
+    "Kaiser Permanente"
   ],
   "track_slug": "hospital-careers",
   "jobs": [
@@ -21,22 +22,6 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: imaging"
-    },
-    {
-      "title": "MRI Technologist II - 12-Hour Night Shift - $5,000 Hiring Incentive! Cedars-Sinai Medical Center Los Angeles, CA Imaging Req ID: 20796",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/mri-technologist-ii-12-hour-night-shift-5-000-hiring-incentive/252/101050409872",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/mri-technologist-ii-12-hour-night-shift-5-000-hiring-incentive/252/101050409872",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging, technologist"
     },
     {
       "title": "Postdoctoral Scientist - Slomka Lab - Innovation in Imaging / Department of Medicine / Division of AIM Cedars-Sinai Medical Center Los Angeles, CA Academic / Research Req ID: HRC1428640",
@@ -71,20 +56,20 @@
       "match_reason": "Cedars-Sinai direct match: imaging"
     },
     {
-      "title": "Specialty Technician II - Operating Room Cedars-Sinai Medical Center Los Angeles, CA Clinical Operations Req ID: 20823",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/specialty-technician-ii-operating-room/252/101090610544",
+      "title": "IT Applications Engineer V",
+      "company": "Kaiser Permanente",
+      "hospital_name": "Kaiser Permanente",
+      "location": "Medical Imaging Pasadena, CA",
+      "url": "https://www.kaiserpermanentejobs.org/job/pasadena/it-applications-engineer-v-medical-imaging/641/93284083120",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/specialty-technician-ii-operating-room/252/101090610544",
+      "source_key": "hospital_direct::kaiser permanente::https://www.kaiserpermanentejobs.org/job/pasadena/it-applications-engineer-v-medical-imaging/641/93284083120",
       "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: technician"
+      "type": "Flexible, Regular, Full-time",
+      "match_reason": "Kaiser direct match: imaging"
     }
   ]
 }
