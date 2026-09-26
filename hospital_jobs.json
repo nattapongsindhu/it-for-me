@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-26T06:01:31Z",
-  "count": 4,
+  "updated": "2026-09-26T16:52:47Z",
+  "count": 5,
   "sources": [
     "Cedars-Sinai",
     "Kaiser Permanente"
@@ -54,6 +54,22 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: imaging"
+    },
+    {
+      "title": "Specialty Technician II - Operating Room Cedars-Sinai Medical Center Los Angeles, CA Clinical Operations Req ID: 20823",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/specialty-technician-ii-operating-room/252/101090610544",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/specialty-technician-ii-operating-room/252/101090610544",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: technician"
     },
     {
       "title": "IT Applications Engineer V",
