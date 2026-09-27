@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-26T16:52:45Z",
+  "updated": "2026-09-27T06:28:50Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 74,
+  "count": 75,
   "jobs": [
     {
       "title": "Physician (Radiologist) - Education Debt Reduction Program & Recruitment Incentive Authorized",
@@ -20,7 +20,7 @@
       "title": "Medical Records Technician - Coder In/Out",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/886325100",
+      "url": "https://www.usajobs.gov:443/job/886325200",
       "salary": "36409",
       "posted": "2026-09-25",
       "source": "USAJobs",
@@ -51,18 +51,6 @@
       "type": "",
       "salary_annual": 106437.0,
       "salary_hourly": 51.17
-    },
-    {
-      "title": "Medical Support Assistant (Advanced)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/886470400",
-      "salary": "45409",
-      "posted": "2026-09-25",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 45409.0,
-      "salary_hourly": 21.83
     },
     {
       "title": "Senior Examination Specialist (Emerging Technology)",
@@ -99,18 +87,6 @@
       "type": "",
       "salary_annual": 106437.0,
       "salary_hourly": 51.17
-    },
-    {
-      "title": "Supervisory Pharmacy Technician (HSA 5.3 Clinical Contact Center)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/885765200",
-      "salary": "71024",
-      "posted": "2026-09-25",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 71024.0,
-      "salary_hourly": 34.15
     },
     {
       "title": "Supervisory Recreation Therapist",
@@ -207,6 +183,18 @@
       "type": "",
       "salary_annual": 143913.0,
       "salary_hourly": 69.19
+    },
+    {
+      "title": "Supervisory Health System Specialist (Group Practice Manager)- Clinical Resource Hub HSA 5.1 and 5.4",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/886283500",
+      "salary": "89508",
+      "posted": "2026-09-24",
+      "source": "USAJobs",
+      "type": "Monday-Friday 8am-430pm PST",
+      "salary_annual": 89508.0,
+      "salary_hourly": 43.03
     },
     {
       "title": "IT Specialist (PlcyPln)",
@@ -353,6 +341,18 @@
       "salary_hourly": 17.5
     },
     {
+      "title": "Supervisory Program Analyst",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/885580100",
+      "salary": "106437",
+      "posted": "2026-09-22",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
+    },
+    {
       "title": "Supervisory Security Specialist",
       "company": "Cybersecurity and Infrastructure Security Agency",
       "location": "Location Negotiable After Selection",
@@ -413,18 +413,6 @@
       "salary_hourly": 60.47
     },
     {
-      "title": "Supervisory Program Analyst",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/885580100",
-      "salary": "106437",
-      "posted": "2026-09-22",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 106437.0,
-      "salary_hourly": 51.17
-    },
-    {
       "title": "Aviation Safety Technician",
       "company": "Federal Aviation Administration",
       "location": "FAA Nationwide-Selectee Remains in Current Duty Location",
@@ -447,6 +435,18 @@
       "type": "Full Time",
       "salary_annual": 106437.0,
       "salary_hourly": 51.17
+    },
+    {
+      "title": "Senior Toxicologist",
+      "company": "Environmental Protection Agency",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/885706000",
+      "salary": "146632",
+      "posted": "2026-09-22",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 146632.0,
+      "salary_hourly": 70.5
     },
     {
       "title": "Staff Psychologist (OMH/BHIP)",
@@ -603,6 +603,18 @@
       "type": "",
       "salary_annual": 79091.0,
       "salary_hourly": 38.02
+    },
+    {
+      "title": "Aviation Safety and Compliance Inspector (Rotary Wing Operations)",
+      "company": "Office of the Secretary of the Interior",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/884053300",
+      "salary": "110871",
+      "posted": "2026-09-10",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 110871.0,
+      "salary_hourly": 53.3
     },
     {
       "title": "IT Specialist 6 month Register-Direct Hire",
