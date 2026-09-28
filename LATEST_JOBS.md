@@ -1,7 +1,7 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-09-28T06%3A37%3A04Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-73-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-09-28T19%3A59%3A56Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-74-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
@@ -13,8 +13,10 @@
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
 | IT Specialist (Infrastructure Engineer) Direct Hire | Social Security Administration | Multiple Locations | Flextime and Alternative Work Schedules are available. Occasional weekend work may be required. | 121798 | 2026-09-28 | [Apply](https://www.usajobs.gov:443/job/886460700) |
+| Senior Specialized Information Technology Examiner | Securities and Exchange Commission | Multiple Locations | Not listed | 162757 | 2026-09-28 | [Apply](https://www.usajobs.gov:443/job/886594600) |
 | Program Analyst | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 74678 | 2026-09-28 | [Apply](https://www.usajobs.gov:443/job/886004900) |
 | Chief Information Security Officer AD-2210-00 (Senior Manager) FPL AD-00 | Department of Education Headquarters | Multiple Locations | Not listed | 179436 | 2026-09-28 | [Apply](https://www.usajobs.gov:443/job/886448400) |
+| Criminal Investigator | Department of Education Headquarters | Location Negotiable After Selection | Not listed | 125776 | 2026-09-28 | [Apply](https://www.usajobs.gov:443/job/886619100) |
 | Physician (Radiologist) - Education Debt Reduction Program & Recruitment Incentive Authorized | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 375000 | 2026-09-25 | [Apply](https://www.usajobs.gov:443/job/886334700) |
 | Medical Records Technician - Coder In/Out | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 36409 | 2026-09-25 | [Apply](https://www.usajobs.gov:443/job/886325200) |
 | Chief Engineer, Space-based Weather Systems Branch | Space Systems Command | Los Angeles, California | Not listed | 146632 | 2026-09-25 | [Apply](https://www.usajobs.gov:443/job/886457800) |
@@ -30,8 +32,6 @@
 | Medical Records Technician - Coder Outpatient and Inpatient | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 36409 | 2026-09-24 | [Apply](https://www.usajobs.gov:443/job/886251800) |
 | Supervisory Medical Records Technician - Consolidated Coding Unit | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 67970 | 2026-09-24 | [Apply](https://www.usajobs.gov:443/job/886227900) |
 | Health Insurance Specialist | Centers for Medicare & Medicaid Services | Multiple Locations | Not listed | 143913 | 2026-09-24 | [Apply](https://www.usajobs.gov:443/job/886043600) |
-| IT Specialist (PlcyPln) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 147945 | 2026-09-23 | [Apply](https://www.usajobs.gov:443/job/885967400) |
-| IT Specialist (NETWORK) | Western Area Power Administration | Multiple Locations | Not listed | 89508 | 2026-09-23 | [Apply](https://www.usajobs.gov:443/job/885987500) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 73 |
+| Total jobs found | 74 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-09-28T06:37:04Z |
+| Last updated | 2026-09-28T19:59:56Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 73 jobs
+- USAJobs: 74 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-09-28T06:37:04Z_
+_Auto-generated legacy snapshot. Last run: 2026-09-28T19:59:56Z_

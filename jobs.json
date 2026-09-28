@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-28T06:37:04Z",
+  "updated": "2026-09-28T19:59:56Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 73,
+  "count": 74,
   "jobs": [
     {
       "title": "IT Specialist (Infrastructure Engineer) Direct Hire",
@@ -15,6 +15,18 @@
       "type": "Flextime and Alternative Work Schedules are available. Occasional weekend work may be required.",
       "salary_annual": 121798.0,
       "salary_hourly": 58.56
+    },
+    {
+      "title": "Senior Specialized Information Technology Examiner",
+      "company": "Securities and Exchange Commission",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/886594600",
+      "salary": "162757",
+      "posted": "2026-09-28",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 162757.0,
+      "salary_hourly": 78.25
     },
     {
       "title": "Program Analyst",
@@ -39,6 +51,18 @@
       "type": "",
       "salary_annual": 179436.0,
       "salary_hourly": 86.27
+    },
+    {
+      "title": "Criminal Investigator",
+      "company": "Department of Education Headquarters",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/886619100",
+      "salary": "125776",
+      "posted": "2026-09-28",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 125776.0,
+      "salary_hourly": 60.47
     },
     {
       "title": "Physician (Radiologist) - Education Debt Reduction Program & Recruitment Incentive Authorized",
@@ -353,18 +377,6 @@
       "salary_hourly": 32.68
     },
     {
-      "title": "Medical Records Technician (Coder In/Out)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/885696400",
-      "salary": "36409",
-      "posted": "2026-09-22",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 36409.0,
-      "salary_hourly": 17.5
-    },
-    {
       "title": "Supervisory Security Specialist",
       "company": "Cybersecurity and Infrastructure Security Agency",
       "location": "Location Negotiable After Selection",
@@ -473,6 +485,18 @@
       "salary_hourly": 70.5
     },
     {
+      "title": "Medical Records Technician (Coder In/Out)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/885696400",
+      "salary": "36409",
+      "posted": "2026-09-22",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 36409.0,
+      "salary_hourly": 17.5
+    },
+    {
       "title": "Physician - Diagnostic Radiologist - Recruitment Incentive and EDRP Authorized",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -519,6 +543,18 @@
       "type": "",
       "salary_annual": 2080.0,
       "salary_hourly": 1.0
+    },
+    {
+      "title": "IT Program Manager (Service Designer), GS-2210-15, FPL GS-15 (DH)",
+      "company": "Department of Education Headquarters",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/885415900",
+      "salary": "147945",
+      "posted": "2026-09-18",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 147945.0,
+      "salary_hourly": 71.13
     },
     {
       "title": "IT Program Manager (Service Designer), GS-2210-15, FPL GS-15 (DH) (TERM)",
@@ -677,18 +713,6 @@
       "salary_hourly": 182.69
     },
     {
-      "title": "Staff Physician (Nuclear Medicine) - EDRP/Recruitment/Relocation Incentive Authorized",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/879892800",
-      "salary": "390000",
-      "posted": "2026-08-10",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 390000.0,
-      "salary_hourly": 187.5
-    },
-    {
       "title": "Health Technician (Ophthalmology)",
       "company": "Veterans Health Administration",
       "location": "Los Angeles, California",
@@ -831,18 +855,6 @@
       "type": "",
       "salary_annual": 89508.0,
       "salary_hourly": 43.03
-    },
-    {
-      "title": "Immigration Judge",
-      "company": "Executive Office for Immigration Review",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/853385500",
-      "salary": "161590",
-      "posted": "2025-12-30",
-      "source": "USAJobs",
-      "type": "Full-Time, Intermittent",
-      "salary_annual": 161590.0,
-      "salary_hourly": 77.69
     },
     {
       "title": "Information Technology Specialist (INFOSEC)",
