@@ -1,9 +1,8 @@
 {
-  "updated": "2026-09-28T20:00:00Z",
-  "count": 5,
+  "updated": "2026-09-29T06:45:11Z",
+  "count": 4,
   "sources": [
-    "Cedars-Sinai",
-    "Kaiser Permanente"
+    "Cedars-Sinai"
   ],
   "track_slug": "hospital-careers",
   "jobs": [
@@ -56,36 +55,20 @@
       "match_reason": "Cedars-Sinai direct match: imaging"
     },
     {
-      "title": "Specialty Technician II - Operating Room Cedars-Sinai Medical Center Los Angeles, CA Clinical Operations Req ID: 20823",
+      "title": "Surgical Technologist III - 12 Hour Shift Cedars-Sinai Medical Center Los Angeles, CA Clinical Operations Req ID: 20895",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/specialty-technician-ii-operating-room/252/101090610544",
+      "url": "https://careers.cshs.org/job/los-angeles/surgical-technologist-iii-12-hour-shift/252/101289785744",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/specialty-technician-ii-operating-room/252/101090610544",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/surgical-technologist-iii-12-hour-shift/252/101289785744",
       "track_slug": "hospital-careers",
       "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: technician"
-    },
-    {
-      "title": "IT Applications Engineer V",
-      "company": "Kaiser Permanente",
-      "hospital_name": "Kaiser Permanente",
-      "location": "Medical Imaging Pasadena, CA",
-      "url": "https://www.kaiserpermanentejobs.org/job/pasadena/it-applications-engineer-v-medical-imaging/641/93284083120",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::kaiser permanente::https://www.kaiserpermanentejobs.org/job/pasadena/it-applications-engineer-v-medical-imaging/641/93284083120",
-      "track_slug": "hospital-careers",
-      "type": "Flexible, Regular, Full-time",
-      "match_reason": "Kaiser direct match: imaging"
+      "match_reason": "Cedars-Sinai direct match: technologist"
     }
   ]
 }

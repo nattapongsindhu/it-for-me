@@ -1,17 +1,21 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-09-28T19%3A59%3A56Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-74-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-09-29T06%3A45%3A00Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-71-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
 
 ---
 
-## Latest Jobs - September 28, 2026
+## Latest Jobs - September 29, 2026
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
+| IT Specialist | Deputy Assistant Secretary for Information and Technology | Multiple Locations | Not listed | 89508 | 2026-09-29 | [Apply](https://www.usajobs.gov:443/job/885842800) |
+| Senior Examiner Information Technology (IT & Operations Risk Central Point of Contact) CG-0570-15 | Federal Deposit Insurance Corporation | Location Negotiable After Selection | Not listed | 162739 | 2026-09-29 | [Apply](https://www.usajobs.gov:443/job/886626600) |
+| Instructional Systems Specialist | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 73939 | 2026-09-29 | [Apply](https://www.usajobs.gov:443/job/886405000) |
+| Self Determination Officer | Office of the Secretary of the Interior | Location Negotiable After Selection | Not listed | 106437 | 2026-09-29 | [Apply](https://www.usajobs.gov:443/job/886650800) |
 | IT Specialist (Infrastructure Engineer) Direct Hire | Social Security Administration | Multiple Locations | Flextime and Alternative Work Schedules are available. Occasional weekend work may be required. | 121798 | 2026-09-28 | [Apply](https://www.usajobs.gov:443/job/886460700) |
 | Senior Specialized Information Technology Examiner | Securities and Exchange Commission | Multiple Locations | Not listed | 162757 | 2026-09-28 | [Apply](https://www.usajobs.gov:443/job/886594600) |
 | Program Analyst | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 74678 | 2026-09-28 | [Apply](https://www.usajobs.gov:443/job/886004900) |
@@ -28,10 +32,6 @@
 | IT Specialist (SYSADMIN) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 106437 | 2026-09-24 | [Apply](https://www.usajobs.gov:443/job/886181900) |
 | IT Specialist (INFOSEC) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 125776 | 2026-09-24 | [Apply](https://www.usajobs.gov:443/job/885999200) |
 | IT Specialist (System Analyst/Customer Support) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 74678 | 2026-09-24 | [Apply](https://www.usajobs.gov:443/job/886156800) |
-| Medical Records Technician (Coder-Outpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 37193 | 2026-09-24 | [Apply](https://www.usajobs.gov:443/job/886133300) |
-| Medical Records Technician - Coder Outpatient and Inpatient | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 36409 | 2026-09-24 | [Apply](https://www.usajobs.gov:443/job/886251800) |
-| Supervisory Medical Records Technician - Consolidated Coding Unit | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 67970 | 2026-09-24 | [Apply](https://www.usajobs.gov:443/job/886227900) |
-| Health Insurance Specialist | Centers for Medicare & Medicaid Services | Multiple Locations | Not listed | 143913 | 2026-09-24 | [Apply](https://www.usajobs.gov:443/job/886043600) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 74 |
+| Total jobs found | 71 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-09-28T19:59:56Z |
+| Last updated | 2026-09-29T06:45:00Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 74 jobs
+- USAJobs: 71 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-09-28T19:59:56Z_
+_Auto-generated legacy snapshot. Last run: 2026-09-29T06:45:00Z_
