@@ -1,7 +1,7 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-09-29T06%3A45%3A00Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-71-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-09-29T18%3A28%3A03Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-70-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
@@ -13,7 +13,9 @@
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
 | IT Specialist | Deputy Assistant Secretary for Information and Technology | Multiple Locations | Not listed | 89508 | 2026-09-29 | [Apply](https://www.usajobs.gov:443/job/885842800) |
+| IT Specialist (APPSW) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 106437 | 2026-09-29 | [Apply](https://www.usajobs.gov:443/job/886682400) |
 | Senior Examiner Information Technology (IT & Operations Risk Central Point of Contact) CG-0570-15 | Federal Deposit Insurance Corporation | Location Negotiable After Selection | Not listed | 162739 | 2026-09-29 | [Apply](https://www.usajobs.gov:443/job/886626600) |
+| Medical Support Assistant (Advance) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 45409 | 2026-09-29 | [Apply](https://www.usajobs.gov:443/job/886721800) |
 | Instructional Systems Specialist | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 73939 | 2026-09-29 | [Apply](https://www.usajobs.gov:443/job/886405000) |
 | Self Determination Officer | Office of the Secretary of the Interior | Location Negotiable After Selection | Not listed | 106437 | 2026-09-29 | [Apply](https://www.usajobs.gov:443/job/886650800) |
 | IT Specialist (Infrastructure Engineer) Direct Hire | Social Security Administration | Multiple Locations | Flextime and Alternative Work Schedules are available. Occasional weekend work may be required. | 121798 | 2026-09-28 | [Apply](https://www.usajobs.gov:443/job/886460700) |
@@ -30,8 +32,6 @@
 | Program Specialist (Technical Director) | Animal and Plant Health Inspection Service | Location Negotiable After Selection | Not listed | 106437 | 2026-09-25 | [Apply](https://www.usajobs.gov:443/job/886198100) |
 | Supervisory Recreation Therapist | Veterans Health Administration | Location Negotiable After Selection | Not listed | 107446 | 2026-09-25 | [Apply](https://www.usajobs.gov:443/job/886316200) |
 | IT Specialist (SYSADMIN) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 106437 | 2026-09-24 | [Apply](https://www.usajobs.gov:443/job/886181900) |
-| IT Specialist (INFOSEC) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 125776 | 2026-09-24 | [Apply](https://www.usajobs.gov:443/job/885999200) |
-| IT Specialist (System Analyst/Customer Support) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 74678 | 2026-09-24 | [Apply](https://www.usajobs.gov:443/job/886156800) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 71 |
+| Total jobs found | 70 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-09-29T06:45:00Z |
+| Last updated | 2026-09-29T18:28:03Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 71 jobs
+- USAJobs: 70 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-09-29T06:45:00Z_
+_Auto-generated legacy snapshot. Last run: 2026-09-29T18:28:03Z_
