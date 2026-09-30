@@ -1,9 +1,33 @@
 {
-  "updated": "2026-09-30T06:33:39Z",
+  "updated": "2026-09-30T18:16:49Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 74,
+  "count": 75,
   "jobs": [
+    {
+      "title": "IT Asset Management Specialist",
+      "company": "Library of Congress",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/887004500",
+      "salary": "121785",
+      "posted": "2026-09-30",
+      "source": "USAJobs",
+      "type": "Flexitime",
+      "salary_annual": 121785.0,
+      "salary_hourly": 58.55
+    },
+    {
+      "title": "Information Technology Specialist (Data Science)",
+      "company": "Smithsonian Institution ",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/886890600",
+      "salary": "107446",
+      "posted": "2026-09-30",
+      "source": "USAJobs",
+      "type": "Full-Time, Permanent",
+      "salary_annual": 107446.0,
+      "salary_hourly": 51.66
+    },
     {
       "title": "IT Specialist (Quality Assurance/Tester) - Direct Hire",
       "company": "Social Security Administration",
@@ -39,6 +63,42 @@
       "type": "Full-time - 40 hours per week. Interns must be able to work the majority of their schedule between 6:30 am - 6:00 pm Eastern Time, Monday through Friday and attend mandatory orientation on February 8, 2027.",
       "salary_annual": 36982.4,
       "salary_hourly": 17.78
+    },
+    {
+      "title": "Emergency Communications Coordinator",
+      "company": "Cybersecurity and Infrastructure Security Agency",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/886914900",
+      "salary": "107446",
+      "posted": "2026-09-30",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 107446.0,
+      "salary_hourly": 51.66
+    },
+    {
+      "title": "Health Systems Administrator (Regional Operating Officer)",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/887002700",
+      "salary": "147945",
+      "posted": "2026-09-30",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 147945.0,
+      "salary_hourly": 71.13
+    },
+    {
+      "title": "Supervisory Medical Records Technician (Coder)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/886995000",
+      "salary": "67970",
+      "posted": "2026-09-30",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 67970.0,
+      "salary_hourly": 32.68
     },
     {
       "title": "Health Insurance Specialist (Medicaid Home & Community-Based Services Technical Lead)",
@@ -123,18 +183,6 @@
       "type": "",
       "salary_annual": 106437.0,
       "salary_hourly": 51.17
-    },
-    {
-      "title": "Supervisory Tax Analyst",
-      "company": "Internal Revenue Service",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/886780100",
-      "salary": "125776",
-      "posted": "2026-09-29",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
     },
     {
       "title": "Pharmacy Technician",
@@ -437,30 +485,6 @@
       "salary_hourly": 56.29
     },
     {
-      "title": "Supervisory Medical Records Technician (Coder)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/885761300",
-      "salary": "67970",
-      "posted": "2026-09-22",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 67970.0,
-      "salary_hourly": 32.68
-    },
-    {
-      "title": "Medical Records Technician (Coder In/Out)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/885696400",
-      "salary": "36409",
-      "posted": "2026-09-22",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 36409.0,
-      "salary_hourly": 17.5
-    },
-    {
       "title": "Aviation Safety Technician",
       "company": "Federal Aviation Administration",
       "location": "FAA Nationwide-Selectee Remains in Current Duty Location",
@@ -485,16 +509,16 @@
       "salary_hourly": 51.17
     },
     {
-      "title": "Senior Toxicologist",
-      "company": "Environmental Protection Agency",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/885706000",
-      "salary": "146632",
+      "title": "Medical Records Technician (Coder In/Out)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/885696400",
+      "salary": "36409",
       "posted": "2026-09-22",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 146632.0,
-      "salary_hourly": 70.5
+      "salary_annual": 36409.0,
+      "salary_hourly": 17.5
     },
     {
       "title": "Physician - Diagnostic Radiologist - Recruitment Incentive and EDRP Authorized",
@@ -723,18 +747,6 @@
       "type": "",
       "salary_annual": 118659.0,
       "salary_hourly": 57.05
-    },
-    {
-      "title": "Physician - Neurologist",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/876893800",
-      "salary": "250000",
-      "posted": "2026-07-16",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 250000.0,
-      "salary_hourly": 120.19
     },
     {
       "title": "Physician (Pain Management)",
