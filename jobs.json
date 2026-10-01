@@ -1,20 +1,32 @@
 {
-  "updated": "2026-10-01T07:06:57Z",
+  "updated": "2026-10-01T18:42:16Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 68,
+  "count": 67,
   "jobs": [
     {
-      "title": "Training and Exercise Coordinator",
-      "company": "Cybersecurity and Infrastructure Security Agency",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/886956900",
-      "salary": "76463",
+      "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
+      "company": "Defense Contract Management Agency",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/887210000",
+      "salary": "89508",
       "posted": "2026-10-01",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 76463.0,
-      "salary_hourly": 36.76
+      "salary_annual": 89508.0,
+      "salary_hourly": 43.03
+    },
+    {
+      "title": "Information Technology Specialist (Computer Specialist)",
+      "company": "Bureau of Prisons/Federal Prison System",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/887129000",
+      "salary": "75278",
+      "posted": "2026-10-01",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 75278.0,
+      "salary_hourly": 36.19
     },
     {
       "title": "Physician Medical Asset Support Team (O-6 Billet) Non-Supervisory",
@@ -27,6 +39,18 @@
       "type": "",
       "salary_annual": 2080.0,
       "salary_hourly": 1.0
+    },
+    {
+      "title": "Supervisory Health Science Specialist - Oncology",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/887188700",
+      "salary": "89508",
+      "posted": "2026-10-01",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 89508.0,
+      "salary_hourly": 43.03
     },
     {
       "title": "Compliance-Healthcare Risk Management Program Manager (O-5 Billet) Non-Supervisory",
@@ -497,18 +521,6 @@
       "salary_hourly": 32.68
     },
     {
-      "title": "Medical Records Technician (Coder In/Out)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/885696400",
-      "salary": "36409",
-      "posted": "2026-09-22",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 36409.0,
-      "salary_hourly": 17.5
-    },
-    {
       "title": "Aviation Safety Technician",
       "company": "Federal Aviation Administration",
       "location": "FAA Nationwide-Selectee Remains in Current Duty Location",
@@ -533,16 +545,16 @@
       "salary_hourly": 51.17
     },
     {
-      "title": "Senior Toxicologist",
-      "company": "Environmental Protection Agency",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/885706000",
-      "salary": "146632",
+      "title": "Medical Records Technician (Coder In/Out)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/885696400",
+      "salary": "36409",
       "posted": "2026-09-22",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 146632.0,
-      "salary_hourly": 70.5
+      "salary_annual": 36409.0,
+      "salary_hourly": 17.5
     },
     {
       "title": "Special Operations Program Director (Supervisory Auditor)",
@@ -653,18 +665,6 @@
       "salary_hourly": 43.03
     },
     {
-      "title": "Diagnostic Radiologist - Remote Eligible",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/886164500",
-      "salary": "350000",
-      "posted": "2026-08-26",
-      "source": "USAJobs",
-      "type": "8:00 - 16:30 Mon-Fri",
-      "salary_annual": 350000.0,
-      "salary_hourly": 168.27
-    },
-    {
       "title": "Physician- Radiologist- Diagnostic Imaging with EDRP & Recruitment Incentive",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -699,18 +699,6 @@
       "type": "",
       "salary_annual": 118659.0,
       "salary_hourly": 57.05
-    },
-    {
-      "title": "Physician - Neurologist",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/876893800",
-      "salary": "250000",
-      "posted": "2026-07-16",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 250000.0,
-      "salary_hourly": 120.19
     },
     {
       "title": "Radiologist-Remote",

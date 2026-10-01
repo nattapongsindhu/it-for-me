@@ -1,7 +1,7 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-10-01T07%3A06%3A57Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-68-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-10-01T18%3A42%3A16Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-67-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
@@ -12,8 +12,10 @@
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
-| Training and Exercise Coordinator | Cybersecurity and Infrastructure Security Agency | Multiple Locations | Not listed | 76463 | 2026-10-01 | [Apply](https://www.usajobs.gov:443/job/886956900) |
+| IT CYBERSECURITY SPECIALIST (INFOSEC) | Defense Contract Management Agency | Location Negotiable After Selection | Not listed | 89508 | 2026-10-01 | [Apply](https://www.usajobs.gov:443/job/887210000) |
+| Information Technology Specialist (Computer Specialist) | Bureau of Prisons/Federal Prison System | Multiple Locations | Not listed | 75278 | 2026-10-01 | [Apply](https://www.usajobs.gov:443/job/887129000) |
 | Physician Medical Asset Support Team (O-6 Billet) Non-Supervisory | Immigration and Customs Enforcement | Location Negotiable After Selection | Not listed | 1 | 2026-10-01 | [Apply](https://www.usajobs.gov:443/job/885929200) |
+| Supervisory Health Science Specialist - Oncology | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 89508 | 2026-10-01 | [Apply](https://www.usajobs.gov:443/job/887188700) |
 | Compliance-Healthcare Risk Management Program Manager (O-5 Billet) Non-Supervisory | Immigration and Customs Enforcement | Location Negotiable After Selection | Not listed | 1 | 2026-10-01 | [Apply](https://www.usajobs.gov:443/job/886157800) |
 | Social Science Research Analyst (Data Analyst) | Centers for Medicare & Medicaid Services | Multiple Locations | Not listed | 90925 | 2026-10-01 | [Apply](https://www.usajobs.gov:443/job/887015600) |
 | IT Asset Management Specialist | Library of Congress | Anywhere in the U.S. (remote job) | Flexitime | 121785 | 2026-09-30 | [Apply](https://www.usajobs.gov:443/job/887004500) |
@@ -30,8 +32,6 @@
 | Lead Medical Records Technician (Coder-Inpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-09-29 | [Apply](https://www.usajobs.gov:443/job/886842200) |
 | Instructional Systems Specialist | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 73939 | 2026-09-29 | [Apply](https://www.usajobs.gov:443/job/886405000) |
 | Self Determination Officer | Office of the Secretary of the Interior | Location Negotiable After Selection | Not listed | 106437 | 2026-09-29 | [Apply](https://www.usajobs.gov:443/job/886650800) |
-| IT Specialist (Infrastructure Engineer) Direct Hire | Social Security Administration | Multiple Locations | Flextime and Alternative Work Schedules are available. Occasional weekend work may be required. | 121798 | 2026-09-28 | [Apply](https://www.usajobs.gov:443/job/886460700) |
-| Senior Specialized Information Technology Examiner | Securities and Exchange Commission | Multiple Locations | Not listed | 162757 | 2026-09-28 | [Apply](https://www.usajobs.gov:443/job/886594600) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 68 |
+| Total jobs found | 67 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-10-01T07:06:57Z |
+| Last updated | 2026-10-01T18:42:16Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 68 jobs
+- USAJobs: 67 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-10-01T07:06:57Z_
+_Auto-generated legacy snapshot. Last run: 2026-10-01T18:42:16Z_
