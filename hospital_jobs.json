@@ -1,11 +1,27 @@
 {
-  "updated": "2026-09-30T18:16:52Z",
+  "updated": "2026-10-01T07:06:58Z",
   "count": 4,
   "sources": [
     "Cedars-Sinai"
   ],
   "track_slug": "hospital-careers",
   "jobs": [
+    {
+      "title": "AGVS Logistics Technician \u2013 Part-Time, 8-Hour Night Shift Cedars-Sinai Medical Center Los Angeles, CA Supply Chain / Procurement Req ID: 20944",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/agvs-logistics-technician-part-time-8-hour-night-shift/252/101375725024",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/agvs-logistics-technician-part-time-8-hour-night-shift/252/101375725024",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: technician"
+    },
     {
       "title": "Financial Business Systems Analyst (Imaging Department)",
       "company": "Cedars-Sinai",
@@ -53,22 +69,6 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: imaging"
-    },
-    {
-      "title": "Surgical Technologist III - 12 Hour Shift Cedars-Sinai Medical Center Los Angeles, CA Clinical Operations Req ID: 20895",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/surgical-technologist-iii-12-hour-shift/252/101289785744",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/surgical-technologist-iii-12-hour-shift/252/101289785744",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: technologist"
     }
   ]
 }
