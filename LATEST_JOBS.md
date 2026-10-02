@@ -1,7 +1,7 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-10-02T06%3A54%3A43Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-71-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-10-02T18%3A13%3A30Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-72-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
@@ -12,7 +12,9 @@
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
+| Medical Records Technician (Coder) Auditor | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-10-02 | [Apply](https://www.usajobs.gov:443/job/887344100) |
 | Healthcare Engineer | Veterans Health Administration | Los Angeles, California | Not listed | 129222 | 2026-10-02 | [Apply](https://www.usajobs.gov:443/job/887249800) |
+| Program Support Assistant | Veterans Health Administration | Los Angeles, California | Not listed | 52938 | 2026-10-02 | [Apply](https://www.usajobs.gov:443/job/887376200) |
 | Housing Program Technical Specialist | Assistant Secretary for Housing-Federal Housing Commissioner | Multiple Locations | Not listed | 125776 | 2026-10-02 | [Apply](https://www.usajobs.gov:443/job/887304000) |
 | Physical Therapy Assistant | Veterans Health Administration | Los Angeles, California | Not listed | 65148 | 2026-10-02 | [Apply](https://www.usajobs.gov:443/job/886949500) |
 | IT CYBERSECURITY SPECIALIST (INFOSEC) | Defense Contract Management Agency | Location Negotiable After Selection | Not listed | 89508 | 2026-10-01 | [Apply](https://www.usajobs.gov:443/job/887210000) |
@@ -30,8 +32,6 @@
 | Emergency Communications Coordinator | Cybersecurity and Infrastructure Security Agency | Location Negotiable After Selection | Not listed | 107446 | 2026-09-30 | [Apply](https://www.usajobs.gov:443/job/886914900) |
 | Health Systems Administrator (Regional Operating Officer) | Veterans Health Administration | Location Negotiable After Selection | Not listed | 147945 | 2026-09-30 | [Apply](https://www.usajobs.gov:443/job/887002700) |
 | Health Insurance Specialist (Medicaid Home & Community-Based Services Technical Lead) | Centers for Medicare & Medicaid Services | Location Negotiable After Selection | Not listed | 107446 | 2026-09-30 | [Apply](https://www.usajobs.gov:443/job/886760200) |
-| Supervisory Tax Analyst | Internal Revenue Service | Multiple Locations | Tour of Duty: Day Shift - Monday-Friday 6:00am-6:00pm, 40 hours per week | 125776 | 2026-09-30 | [Apply](https://www.usajobs.gov:443/job/887034300) |
-| IT Specialist | Deputy Assistant Secretary for Information and Technology | Multiple Locations | Not listed | 89508 | 2026-09-29 | [Apply](https://www.usajobs.gov:443/job/885842800) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 71 |
+| Total jobs found | 72 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-10-02T06:54:43Z |
+| Last updated | 2026-10-02T18:13:30Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 71 jobs
+- USAJobs: 72 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-10-02T06:54:43Z_
+_Auto-generated legacy snapshot. Last run: 2026-10-02T18:13:30Z_

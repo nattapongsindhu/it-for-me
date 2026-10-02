@@ -1,9 +1,21 @@
 {
-  "updated": "2026-10-02T06:54:43Z",
+  "updated": "2026-10-02T18:13:30Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 71,
+  "count": 72,
   "jobs": [
+    {
+      "title": "Medical Records Technician (Coder) Auditor",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/887344100",
+      "salary": "61722",
+      "posted": "2026-10-02",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 61722.0,
+      "salary_hourly": 29.67
+    },
     {
       "title": "Healthcare Engineer",
       "company": "Veterans Health Administration",
@@ -15,6 +27,18 @@
       "type": "",
       "salary_annual": 129222.0,
       "salary_hourly": 62.13
+    },
+    {
+      "title": "Program Support Assistant",
+      "company": "Veterans Health Administration",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/887376200",
+      "salary": "52938",
+      "posted": "2026-10-02",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 52938.0,
+      "salary_hourly": 25.45
     },
     {
       "title": "Housing Program Technical Specialist",
@@ -219,18 +243,6 @@
       "type": "",
       "salary_annual": 107446.0,
       "salary_hourly": 51.66
-    },
-    {
-      "title": "Supervisory Tax Analyst",
-      "company": "Internal Revenue Service",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/887034300",
-      "salary": "125776",
-      "posted": "2026-09-30",
-      "source": "USAJobs",
-      "type": "Tour of Duty: Day Shift - Monday-Friday 6:00am-6:00pm, 40 hours per week",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
     },
     {
       "title": "IT Specialist",
