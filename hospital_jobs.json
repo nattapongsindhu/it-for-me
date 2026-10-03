@@ -1,11 +1,28 @@
 {
-  "updated": "2026-10-02T18:13:31Z",
-  "count": 3,
+  "updated": "2026-10-03T06:19:45Z",
+  "count": 5,
   "sources": [
-    "Cedars-Sinai"
+    "Cedars-Sinai",
+    "Kaiser Permanente"
   ],
   "track_slug": "hospital-careers",
   "jobs": [
+    {
+      "title": "AGVS Logistics Technician \u2013 Part-Time, 8-Hour Night Shift Cedars-Sinai Medical Center Los Angeles, CA Supply Chain / Procurement Req ID: 20944",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/agvs-logistics-technician-part-time-8-hour-night-shift/252/101375725024",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/agvs-logistics-technician-part-time-8-hour-night-shift/252/101375725024",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: technician"
+    },
     {
       "title": "Financial Business Systems Analyst (Imaging Department)",
       "company": "Cedars-Sinai",
@@ -53,6 +70,22 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: imaging"
+    },
+    {
+      "title": "IT",
+      "company": "Kaiser Permanente",
+      "hospital_name": "Kaiser Permanente",
+      "location": "Support Technician - SSD Los Angeles, CA",
+      "url": "https://www.kaiserpermanentejobs.org/job/los-angeles/it-support-technician-ssd/641/101460371376",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::kaiser permanente::https://www.kaiserpermanentejobs.org/job/los-angeles/it-support-technician-ssd/641/101460371376",
+      "track_slug": "hospital-careers",
+      "type": "Flexible, Regular, Full-time",
+      "match_reason": "Kaiser direct match: technician"
     }
   ]
 }

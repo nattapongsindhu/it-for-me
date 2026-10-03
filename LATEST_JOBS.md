@@ -1,20 +1,25 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-10-02T18%3A13%3A30Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-72-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-10-03T06%3A19%3A38Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-68-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
 
 ---
 
-## Latest Jobs - October 02, 2026
+## Latest Jobs - October 03, 2026
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
-| Medical Records Technician (Coder) Auditor | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-10-02 | [Apply](https://www.usajobs.gov:443/job/887344100) |
+| Medical Records Technician (Coder-Outpatient and Inpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 36409 | 2026-10-02 | [Apply](https://www.usajobs.gov:443/job/887490200) |
+| Supervisory Medical Records Technician - Coder | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 67970 | 2026-10-02 | [Apply](https://www.usajobs.gov:443/job/887438300) |
+| Pharmacy Technician | Veterans Health Administration | Anywhere in the U.S. (remote job) | 32 Hours per week, between 9:00am-5:30pm MST Monday-Friday. Tour maybe flexible but includes staffing at least 2 Federal Holidays in the calendar year. | 50460 | 2026-10-02 | [Apply](https://www.usajobs.gov:443/job/887463200) |
+| Program Support Assistant (Engineering - Operations) (NCWI) | Veterans Health Administration | Los Angeles, California | Not listed | 58827 | 2026-10-02 | [Apply](https://www.usajobs.gov:443/job/887481600) |
+| Program Support Assistant (CERS - Peer Center) (NCWI) | Veterans Health Administration | Los Angeles, California | Not listed | 58827 | 2026-10-02 | [Apply](https://www.usajobs.gov:443/job/887486900) |
 | Healthcare Engineer | Veterans Health Administration | Los Angeles, California | Not listed | 129222 | 2026-10-02 | [Apply](https://www.usajobs.gov:443/job/887249800) |
 | Program Support Assistant | Veterans Health Administration | Los Angeles, California | Not listed | 52938 | 2026-10-02 | [Apply](https://www.usajobs.gov:443/job/887376200) |
+| Reimbursable Billing Technician | Veterans Health Administration | Multiple Locations | Not listed | 45409 | 2026-10-02 | [Apply](https://www.usajobs.gov:443/job/887443000) |
 | Housing Program Technical Specialist | Assistant Secretary for Housing-Federal Housing Commissioner | Multiple Locations | Not listed | 125776 | 2026-10-02 | [Apply](https://www.usajobs.gov:443/job/887304000) |
 | Physical Therapy Assistant | Veterans Health Administration | Los Angeles, California | Not listed | 65148 | 2026-10-02 | [Apply](https://www.usajobs.gov:443/job/886949500) |
 | IT CYBERSECURITY SPECIALIST (INFOSEC) | Defense Contract Management Agency | Location Negotiable After Selection | Not listed | 89508 | 2026-10-01 | [Apply](https://www.usajobs.gov:443/job/887210000) |
@@ -27,11 +32,6 @@
 | IT Asset Management Specialist | Library of Congress | Anywhere in the U.S. (remote job) | Flexitime | 121785 | 2026-09-30 | [Apply](https://www.usajobs.gov:443/job/887004500) |
 | Information Technology Specialist (Data Science) | Smithsonian Institution  | Anywhere in the U.S. (remote job) | Full-Time, Permanent | 107446 | 2026-09-30 | [Apply](https://www.usajobs.gov:443/job/886890600) |
 | IT Specialist (Quality Assurance/Tester) - Direct Hire | Social Security Administration | Multiple Locations | Flextime and Alternative Work Schedules are available. Occasional weekend work may be required. | 89508 | 2026-09-30 | [Apply](https://www.usajobs.gov:443/job/886666800) |
-| Examination Specialist (Information Technology), CG-0570-14 | Federal Deposit Insurance Corporation | Location Negotiable After Selection | Not listed | 138354 | 2026-09-30 | [Apply](https://www.usajobs.gov:443/job/886838400) |
-| 2027 Spring Library of Congress Intern (Remote) | Library of Congress | Anywhere in the U.S. (remote job) | Full-time - 40 hours per week. Interns must be able to work the majority of their schedule between 6:30 am - 6:00 pm Eastern Time, Monday through Friday and attend mandatory orientation on February 8, 2027. | 17.78 | 2026-09-30 | [Apply](https://www.usajobs.gov:443/job/886864000) |
-| Emergency Communications Coordinator | Cybersecurity and Infrastructure Security Agency | Location Negotiable After Selection | Not listed | 107446 | 2026-09-30 | [Apply](https://www.usajobs.gov:443/job/886914900) |
-| Health Systems Administrator (Regional Operating Officer) | Veterans Health Administration | Location Negotiable After Selection | Not listed | 147945 | 2026-09-30 | [Apply](https://www.usajobs.gov:443/job/887002700) |
-| Health Insurance Specialist (Medicaid Home & Community-Based Services Technical Lead) | Centers for Medicare & Medicaid Services | Location Negotiable After Selection | Not listed | 107446 | 2026-09-30 | [Apply](https://www.usajobs.gov:443/job/886760200) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 72 |
+| Total jobs found | 68 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-10-02T18:13:30Z |
+| Last updated | 2026-10-03T06:19:38Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 72 jobs
+- USAJobs: 68 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-10-02T18:13:30Z_
+_Auto-generated legacy snapshot. Last run: 2026-10-03T06:19:38Z_
