@@ -1,20 +1,128 @@
 {
-  "updated": "2026-10-04T17:18:58Z",
+  "updated": "2026-10-05T06:49:07Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 68,
+  "count": 73,
   "jobs": [
     {
-      "title": "Medical Records Technician (Coder-Outpatient and Inpatient)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/887490200",
-      "salary": "36409",
-      "posted": "2026-10-02",
+      "title": "Supervisory IT Program Manager",
+      "company": "Deputy Assistant Secretary for Information and Technology",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/887268000",
+      "salary": "147945",
+      "posted": "2026-10-05",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 36409.0,
-      "salary_hourly": 17.5
+      "salary_annual": 147945.0,
+      "salary_hourly": 71.13
+    },
+    {
+      "title": "Program Analyst",
+      "company": "Administrative Office of the U.S. Courts",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/887491700",
+      "salary": "102415",
+      "posted": "2026-10-05",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 102415.0,
+      "salary_hourly": 49.24
+    },
+    {
+      "title": "Deputy Chief, Health Operations Unit (O-6 Billet) Supervisory",
+      "company": "Immigration and Customs Enforcement",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/887342700",
+      "salary": "1",
+      "posted": "2026-10-05",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 2080.0,
+      "salary_hourly": 1.0
+    },
+    {
+      "title": "Financial Program Administrator",
+      "company": "Immediate Office of the Assistant Secretary for Management",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/887413000",
+      "salary": "76463",
+      "posted": "2026-10-05",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 76463.0,
+      "salary_hourly": 36.76
+    },
+    {
+      "title": "Senior Behavioral Health Provider, Medical Asset Support Team (O-5 Billet) Non-Supervisory",
+      "company": "Immigration and Customs Enforcement",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/887343500",
+      "salary": "1",
+      "posted": "2026-10-05",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 2080.0,
+      "salary_hourly": 1.0
+    },
+    {
+      "title": "Advanced Practice Provider, Medical Asset Support Team (O-5 Billet) Non-Supervisory",
+      "company": "Immigration and Customs Enforcement",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/887343700",
+      "salary": "1",
+      "posted": "2026-10-05",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 2080.0,
+      "salary_hourly": 1.0
+    },
+    {
+      "title": "General Field Representative (Electric)",
+      "company": "Agriculture, Rural Development",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/887341500",
+      "salary": "89508",
+      "posted": "2026-10-05",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 89508.0,
+      "salary_hourly": 43.03
+    },
+    {
+      "title": "Program Manager",
+      "company": "Internal Revenue Service",
+      "location": "IRS Nationwide Locations",
+      "url": "https://www.usajobs.gov:443/job/887501000",
+      "salary": "125776",
+      "posted": "2026-10-05",
+      "source": "USAJobs",
+      "type": "Monday - Friday, Day Shift, between 6:00 am and 6:00 pm.",
+      "salary_annual": 125776.0,
+      "salary_hourly": 60.47
+    },
+    {
+      "title": "Program Manager/Contracting Officer Representative (O-5 Billet) Non-Supervisory",
+      "company": "Immigration and Customs Enforcement",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/887468200",
+      "salary": "1",
+      "posted": "2026-10-05",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 2080.0,
+      "salary_hourly": 1.0
+    },
+    {
+      "title": "Training Specialist",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/887471300",
+      "salary": "89508",
+      "posted": "2026-10-05",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 89508.0,
+      "salary_hourly": 43.03
     },
     {
       "title": "Supervisory Medical Records Technician - Coder",
@@ -27,6 +135,18 @@
       "type": "",
       "salary_annual": 67970.0,
       "salary_hourly": 32.68
+    },
+    {
+      "title": "Medical Records Technician (Coder-Outpatient and Inpatient)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/887490200",
+      "salary": "36409",
+      "posted": "2026-10-02",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 36409.0,
+      "salary_hourly": 17.5
     },
     {
       "title": "Pharmacy Technician",
@@ -653,30 +773,6 @@
       "salary_hourly": 43.03
     },
     {
-      "title": "Diagnostic Radiologist - Remote Eligible",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/886164500",
-      "salary": "350000",
-      "posted": "2026-08-26",
-      "source": "USAJobs",
-      "type": "8:00 - 16:30 Mon-Fri",
-      "salary_annual": 350000.0,
-      "salary_hourly": 168.27
-    },
-    {
-      "title": "Physician (Radiology-Diagnostic)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/881390700",
-      "salary": "375000",
-      "posted": "2026-08-20",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 375000.0,
-      "salary_hourly": 180.29
-    },
-    {
       "title": "Staff Physician (Nuclear Medicine) - EDRP/Recruitment/Relocation Incentive Authorized",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -749,18 +845,6 @@
       "salary_hourly": 19.58
     },
     {
-      "title": "Advanced Practice Provider, Medical Asset Support Team (O-5 Billet) Non-Supervisory - Internal",
-      "company": "Immigration and Customs Enforcement",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/866105100",
-      "salary": "1",
-      "posted": "2026-04-22",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 2080.0,
-      "salary_hourly": 1.0
-    },
-    {
       "title": "Information Technology",
       "company": "Department of the Air Force Headquarters",
       "location": "Location Negotiable After Selection",
@@ -785,18 +869,6 @@
       "salary_hourly": 43.03
     },
     {
-      "title": "Immigration Judge",
-      "company": "Executive Office for Immigration Review",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/853385500",
-      "salary": "161590",
-      "posted": "2025-12-30",
-      "source": "USAJobs",
-      "type": "Full-Time, Intermittent",
-      "salary_annual": 161590.0,
-      "salary_hourly": 77.69
-    },
-    {
       "title": "Information Technology Specialist (INFOSEC)",
       "company": "Department of the Air Force Headquarters",
       "location": "Multiple Locations",
@@ -807,18 +879,6 @@
       "type": "",
       "salary_annual": 52727.0,
       "salary_hourly": 25.35
-    },
-    {
-      "title": "Electronic Engineer",
-      "company": "Department of the Air Force Headquarters",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/852987000",
-      "salary": "63795",
-      "posted": "2025-12-22",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 63795.0,
-      "salary_hourly": 30.67
     }
   ]
 }
