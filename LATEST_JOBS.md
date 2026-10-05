@@ -1,7 +1,7 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-10-05T06%3A49%3A07Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-73-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-10-05T21%3A03%3A55Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-74-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
@@ -13,13 +13,17 @@
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
 | Supervisory IT Program Manager | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 147945 | 2026-10-05 | [Apply](https://www.usajobs.gov:443/job/887268000) |
+| Information Technology Specialist (SysAnalysis) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 106437 | 2026-10-05 | [Apply](https://www.usajobs.gov:443/job/887506200) |
 | Program Analyst | Administrative Office of the U.S. Courts | Anywhere in the U.S. (remote job) | Not listed | 102415 | 2026-10-05 | [Apply](https://www.usajobs.gov:443/job/887491700) |
+| MRT- Inpatient Coder | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 36409 | 2026-10-05 | [Apply](https://www.usajobs.gov:443/job/887654500) |
+| Health Systems Specialist | Veterans Affairs, Inspector General | Multiple Locations | Not listed | 90925 | 2026-10-05 | [Apply](https://www.usajobs.gov:443/job/887514400) |
 | Deputy Chief, Health Operations Unit (O-6 Billet) Supervisory | Immigration and Customs Enforcement | Location Negotiable After Selection | Not listed | 1 | 2026-10-05 | [Apply](https://www.usajobs.gov:443/job/887342700) |
 | Financial Program Administrator | Immediate Office of the Assistant Secretary for Management | Location Negotiable After Selection | Not listed | 76463 | 2026-10-05 | [Apply](https://www.usajobs.gov:443/job/887413000) |
 | Senior Behavioral Health Provider, Medical Asset Support Team (O-5 Billet) Non-Supervisory | Immigration and Customs Enforcement | Location Negotiable After Selection | Not listed | 1 | 2026-10-05 | [Apply](https://www.usajobs.gov:443/job/887343500) |
 | Advanced Practice Provider, Medical Asset Support Team (O-5 Billet) Non-Supervisory | Immigration and Customs Enforcement | Location Negotiable After Selection | Not listed | 1 | 2026-10-05 | [Apply](https://www.usajobs.gov:443/job/887343700) |
 | General Field Representative (Electric) | Agriculture, Rural Development | Anywhere in the U.S. (remote job) | Not listed | 89508 | 2026-10-05 | [Apply](https://www.usajobs.gov:443/job/887341500) |
 | Program Manager | Internal Revenue Service | IRS Nationwide Locations | Monday - Friday, Day Shift, between 6:00 am and 6:00 pm. | 125776 | 2026-10-05 | [Apply](https://www.usajobs.gov:443/job/887501000) |
+| Program Analyst, IHSC Special Operations Unit (O-5 Billet) Non-Supervisory | Immigration and Customs Enforcement | Location Negotiable After Selection | Not listed | 1 | 2026-10-05 | [Apply](https://www.usajobs.gov:443/job/887514900) |
 | Program Manager/Contracting Officer Representative (O-5 Billet) Non-Supervisory | Immigration and Customs Enforcement | Location Negotiable After Selection | Not listed | 1 | 2026-10-05 | [Apply](https://www.usajobs.gov:443/job/887468200) |
 | Training Specialist | Veterans Health Administration | Location Negotiable After Selection | Not listed | 89508 | 2026-10-05 | [Apply](https://www.usajobs.gov:443/job/887471300) |
 | Supervisory Medical Records Technician - Coder | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 67970 | 2026-10-02 | [Apply](https://www.usajobs.gov:443/job/887438300) |
@@ -28,10 +32,6 @@
 | Program Support Assistant (Engineering - Operations) (NCWI) | Veterans Health Administration | Los Angeles, California | Not listed | 58827 | 2026-10-02 | [Apply](https://www.usajobs.gov:443/job/887481600) |
 | Program Support Assistant (CERS - Peer Center) (NCWI) | Veterans Health Administration | Los Angeles, California | Not listed | 58827 | 2026-10-02 | [Apply](https://www.usajobs.gov:443/job/887486900) |
 | Healthcare Engineer | Veterans Health Administration | Los Angeles, California | Not listed | 129222 | 2026-10-02 | [Apply](https://www.usajobs.gov:443/job/887249800) |
-| Program Support Assistant | Veterans Health Administration | Los Angeles, California | Not listed | 52938 | 2026-10-02 | [Apply](https://www.usajobs.gov:443/job/887376200) |
-| Reimbursable Billing Technician | Veterans Health Administration | Multiple Locations | Not listed | 45409 | 2026-10-02 | [Apply](https://www.usajobs.gov:443/job/887443000) |
-| Housing Program Technical Specialist | Assistant Secretary for Housing-Federal Housing Commissioner | Multiple Locations | Not listed | 125776 | 2026-10-02 | [Apply](https://www.usajobs.gov:443/job/887304000) |
-| Physical Therapy Assistant | Veterans Health Administration | Los Angeles, California | Not listed | 65148 | 2026-10-02 | [Apply](https://www.usajobs.gov:443/job/886949500) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 73 |
+| Total jobs found | 74 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-10-05T06:49:07Z |
+| Last updated | 2026-10-05T21:03:55Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 73 jobs
+- USAJobs: 74 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-10-05T06:49:07Z_
+_Auto-generated legacy snapshot. Last run: 2026-10-05T21:03:55Z_
