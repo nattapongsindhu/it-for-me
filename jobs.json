@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-06T07:26:50Z",
+  "updated": "2026-10-06T18:48:03Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 77,
+  "count": 76,
   "jobs": [
     {
       "title": "Information Technology Specialist",
@@ -15,6 +15,18 @@
       "type": "",
       "salary_annual": 106437.0,
       "salary_hourly": 51.17
+    },
+    {
+      "title": "Nurse VISN Chief Quality Management Officer (QMO)",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/887769100",
+      "salary": "155558",
+      "posted": "2026-10-06",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 155558.0,
+      "salary_hourly": 74.79
     },
     {
       "title": "General Field Representative (Telecommunications)",
@@ -39,6 +51,18 @@
       "type": "",
       "salary_annual": 74678.0,
       "salary_hourly": 35.9
+    },
+    {
+      "title": "Supervisory Healthcare Engineer - Capital Assets Manager",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/887725500",
+      "salary": "157980",
+      "posted": "2026-10-06",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 157980.0,
+      "salary_hourly": 75.95
     },
     {
       "title": "Supervisory IT Program Manager",
@@ -207,18 +231,6 @@
       "type": "",
       "salary_annual": 90925.0,
       "salary_hourly": 43.71
-    },
-    {
-      "title": "Pharmacist (Clinical Specialist)- Clinical Resource Hub",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/887641200",
-      "salary": "148026",
-      "posted": "2026-10-05",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 148026.0,
-      "salary_hourly": 71.17
     },
     {
       "title": "Medical Records Technician (Coder-Outpatient and Inpatient)",
@@ -459,18 +471,6 @@
       "type": "Full-time - 40 hours per week. Interns must be able to work the majority of their schedule between 6:30 am - 6:00 pm Eastern Time, Monday through Friday and attend mandatory orientation on February 8, 2027.",
       "salary_annual": 36982.4,
       "salary_hourly": 17.78
-    },
-    {
-      "title": "Executive Director",
-      "company": "Federal Financial Institutions Examination Council",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/886807800",
-      "salary": "151661",
-      "posted": "2026-09-30",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 151661.0,
-      "salary_hourly": 72.91
     },
     {
       "title": "Emergency Communications Coordinator",
@@ -771,18 +771,6 @@
       "type": "",
       "salary_annual": 375000.0,
       "salary_hourly": 180.29
-    },
-    {
-      "title": "Physician (Diagnostic-Radiologist) - Neuroradiology",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/881409800",
-      "salary": "385000",
-      "posted": "2026-08-20",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 385000.0,
-      "salary_hourly": 185.1
     },
     {
       "title": "Staff Physician (Nuclear Medicine) - EDRP/Recruitment/Relocation Incentive Authorized",
