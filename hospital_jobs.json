@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-09T07:17:38Z",
-  "count": 3,
+  "updated": "2026-10-09T18:39:55Z",
+  "count": 5,
   "sources": [
     "Cedars-Sinai"
   ],
@@ -53,6 +53,38 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: imaging"
+    },
+    {
+      "title": "Surgical Technologist I - Days Cedars-Sinai Medical Center Los Angeles, CA Clinical Operations Req ID: 21202",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/surgical-technologist-i-days/252/101741978480",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/surgical-technologist-i-days/252/101741978480",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: technologist"
+    },
+    {
+      "title": "Surgical Technologist III - Evenings Cedars-Sinai Medical Center Los Angeles, CA Clinical Operations Req ID: 21203",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/surgical-technologist-iii-evenings/252/101741978576",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/surgical-technologist-iii-evenings/252/101741978576",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: technologist"
     }
   ]
 }

@@ -1,7 +1,7 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-10-09T07%3A17%3A34Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-81-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-10-09T18%3A39%3A53Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-80-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
@@ -12,26 +12,26 @@
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
-| Health System Specialist/Facility Planner | Veterans Health Administration | Los Angeles, California | Not listed | 87061 | 2026-10-09 | [Apply](https://www.usajobs.gov:443/job/888265000) |
+| Medical Support Assistant (Advanced) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 45409 | 2026-10-09 | [Apply](https://www.usajobs.gov:443/job/888345200) |
+| Health System Specialist - EA to HSA Director | Veterans Health Administration | Location Negotiable After Selection | Not listed | 125776 | 2026-10-09 | [Apply](https://www.usajobs.gov:443/job/888392500) |
+| Health System Specialist - Systems Redesign Program Manager | Veterans Health Administration | Location Negotiable After Selection | Not listed | 125776 | 2026-10-09 | [Apply](https://www.usajobs.gov:443/job/888331600) |
+| Supervisory Health System Specialist - Executive Assistant to the Network Director | Veterans Health Administration | Location Negotiable After Selection | Not listed | 125776 | 2026-10-09 | [Apply](https://www.usajobs.gov:443/job/888401000) |
+| Program Analyst | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 89508 | 2026-10-09 | [Apply](https://www.usajobs.gov:443/job/888303000) |
+| Medical Records Technician (CDIS - Inpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-10-09 | [Apply](https://www.usajobs.gov:443/job/888405600) |
 | Accountant | Centers for Medicare & Medicaid Services | Multiple Locations | Not listed | 118984 | 2026-10-09 | [Apply](https://www.usajobs.gov:443/job/888125000) |
 | Health Insurance Specialist (Data Analysis & Studies) | Centers for Medicare & Medicaid Services | Multiple Locations | Not listed | 112556 | 2026-10-09 | [Apply](https://www.usajobs.gov:443/job/888139000) |
 | Health System Specialist - VISN Operations Center | Veterans Health Administration | Location Negotiable After Selection | Not listed | 106437 | 2026-10-08 | [Apply](https://www.usajobs.gov:443/job/888172400) |
 | Civil Engineer | U.S. Army Corps of Engineers | Multiple Locations | Not listed | 125776 | 2026-10-08 | [Apply](https://www.usajobs.gov:443/job/887824900) |
 | Supervisory Packaging Specialist | Defense Contract Management Agency | Location Negotiable After Selection | Not listed | 89508 | 2026-10-08 | [Apply](https://www.usajobs.gov:443/job/887998800) |
-| Human Resources Specialist (Classification) | Veterans Health Administration | Location Negotiable After Selection | Not listed | 106437 | 2026-10-08 | [Apply](https://www.usajobs.gov:443/job/888106100) |
 | Pharmacy Technician | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 50460 | 2026-10-08 | [Apply](https://www.usajobs.gov:443/job/888091100) |
 | Social Worker (Deputy District Director) | Veterans Health Administration | Location Negotiable After Selection | Not listed | 125776 | 2026-10-08 | [Apply](https://www.usajobs.gov:443/job/888270200) |
 | Licensed Professional Mental Health Counselor  (Deputy District Director) | Veterans Health Administration | Location Negotiable After Selection | Not listed | 125776 | 2026-10-08 | [Apply](https://www.usajobs.gov:443/job/888271400) |
 | Marriage and Family Therapist (Deputy District Director) | Veterans Health Administration | Location Negotiable After Selection | Not listed | 125776 | 2026-10-08 | [Apply](https://www.usajobs.gov:443/job/888272000) |
-| Psychologist (Deputy District Director) | Veterans Health Administration | Location Negotiable After Selection | Not listed | 125776 | 2026-10-08 | [Apply](https://www.usajobs.gov:443/job/888272700) |
 | IT PROGRAM MANAGER | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 142216 | 2026-10-07 | [Apply](https://www.usajobs.gov:443/job/887954700) |
 | IT Specialist (Policy and Planning) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 107446 | 2026-10-07 | [Apply](https://www.usajobs.gov:443/job/887843000) |
 | IT Specialist (Enterprise Architecture) | Centers for Medicare & Medicaid Services | Location Negotiable After Selection | Not listed | 107466 | 2026-10-07 | [Apply](https://www.usajobs.gov:443/job/887684900) |
 | Supervisory Health System Specialist (VISN Operation Center Director) | Veterans Health Administration | Location Negotiable After Selection | Not listed | 124531 | 2026-10-07 | [Apply](https://www.usajobs.gov:443/job/887933600) |
 | Health System Specialist to the Deputy Network Director | Veterans Health Administration | Location Negotiable After Selection | Not listed | 124531 | 2026-10-07 | [Apply](https://www.usajobs.gov:443/job/887967200) |
-| Regional Section Chief, Field Medical Coordination Unit (O-6 Billet) Supervisory | Immigration and Customs Enforcement | Location Negotiable After Selection | Not listed | 1 | 2026-10-07 | [Apply](https://www.usajobs.gov:443/job/887794000) |
-| Human Resources Assistant | Veterans Health Administration | Location Negotiable After Selection | Not listed | 50460 | 2026-10-07 | [Apply](https://www.usajobs.gov:443/job/887862500) |
-| Senior Tax Analyst | Internal Revenue Service | IRS Nationwide Locations | Tour of Duty: Day Shift, Monday-Friday, 40 hours per week. | 125776 | 2026-10-07 | [Apply](https://www.usajobs.gov:443/job/887820100) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 81 |
+| Total jobs found | 80 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-10-09T07:17:34Z |
+| Last updated | 2026-10-09T18:39:53Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 81 jobs
+- USAJobs: 80 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-10-09T07:17:34Z_
+_Auto-generated legacy snapshot. Last run: 2026-10-09T18:39:53Z_
