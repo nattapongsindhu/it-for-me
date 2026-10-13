@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-12T21:34:33Z",
-  "count": 3,
+  "updated": "2026-10-13T07:35:47Z",
+  "count": 5,
   "sources": [
     "Cedars-Sinai"
   ],
@@ -50,6 +50,38 @@
       "posted": "",
       "source": "Hospital_Direct",
       "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/project-scientist-slomka-lab-innovation-in-imaging-department-of-medicine-division-of-aim/252/91952114992",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: imaging"
+    },
+    {
+      "title": "Surgical Technologist III - Evenings Cedars-Sinai Medical Center Los Angeles, CA Clinical Operations Req ID: 21223",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/surgical-technologist-iii-evenings/252/101755310064",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/surgical-technologist-iii-evenings/252/101755310064",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: technologist"
+    },
+    {
+      "title": "Technical Manager - CT Imaging - 8-Hour Day Shift Cedars-Sinai Medical Center Beverly Hills, CA Imaging Req ID: 21287",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/beverly-hills/technical-manager-ct-imaging-8-hour-day-shift/252/101885550848",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/technical-manager-ct-imaging-8-hour-day-shift/252/101885550848",
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: imaging"
