@@ -1,6 +1,6 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-10-14T05%3A59%3A34Z-blue?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-10-14T17%3A48%3A04Z-blue?style=flat-square)
 ![Jobs](https://img.shields.io/badge/Jobs_Found-81-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
@@ -13,6 +13,7 @@
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
 | AUDITOR | Customs and Border Protection | Location Negotiable After Selection | Not listed | 106437 | 2026-10-14 | [Apply](https://www.usajobs.gov:443/job/888175300) |
+| Medical Administration Officer | Veterans Health Administration | Location Negotiable After Selection | Not listed | 106437 | 2026-10-14 | [Apply](https://www.usajobs.gov:443/job/888664600) |
 | Program Management Officer | Veterans Health Administration | Multiple Locations | Not listed | 140239 | 2026-10-14 | [Apply](https://www.usajobs.gov:443/job/888603200) |
 | IT Software Engineer (Tech Force) | Office of Personnel Management | Multiple Locations | Not listed | 125776 | 2026-10-13 | [Apply](https://www.usajobs.gov:443/job/888508400) |
 | Supervisory Probation Administrator (Lead Business Advisor) | Administrative Office of the U.S. Courts | Anywhere in the U.S. (remote job) | Not listed | 147957 | 2026-10-13 | [Apply](https://www.usajobs.gov:443/job/888451500) |
@@ -31,7 +32,6 @@
 | Health System Specialist - EA to HSA Director | Veterans Health Administration | Location Negotiable After Selection | Not listed | 125776 | 2026-10-09 | [Apply](https://www.usajobs.gov:443/job/888392500) |
 | Health System Specialist - Systems Redesign Program Manager | Veterans Health Administration | Location Negotiable After Selection | Not listed | 125776 | 2026-10-09 | [Apply](https://www.usajobs.gov:443/job/888331600) |
 | Supervisory Health System Specialist - Executive Assistant to the Network Director | Veterans Health Administration | Location Negotiable After Selection | Not listed | 125776 | 2026-10-09 | [Apply](https://www.usajobs.gov:443/job/888401000) |
-| Licensed Vocational Nurse - Emergency Department - Intermittent | Veterans Health Administration | Los Angeles, California | Not listed | 58741 | 2026-10-09 | [Apply](https://www.usajobs.gov:443/job/888440600) |
 
 ---
 
@@ -41,7 +41,7 @@
 |--------|-------|
 | Total jobs found | 81 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-10-14T05:59:34Z |
+| Last updated | 2026-10-14T17:48:04Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-10-14T05:59:34Z_
+_Auto-generated legacy snapshot. Last run: 2026-10-14T17:48:04Z_
