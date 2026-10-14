@@ -1,8 +1,9 @@
 {
-  "updated": "2026-10-13T19:45:20Z",
-  "count": 3,
+  "updated": "2026-10-14T05:59:38Z",
+  "count": 5,
   "sources": [
-    "Cedars-Sinai"
+    "Cedars-Sinai",
+    "Kaiser Permanente"
   ],
   "track_slug": "hospital-careers",
   "jobs": [
@@ -18,6 +19,22 @@
       "posted": "",
       "source": "Hospital_Direct",
       "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/financial-business-systems-analyst-imaging-department/252/100761656176",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: imaging"
+    },
+    {
+      "title": "Imaging Technical Manager - CT (Computed Tomography) - 8-Hour Day Shift Cedars-Sinai Medical Center Beverly Hills, CA Imaging Req ID: 21287",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/beverly-hills/imaging-technical-manager-ct-computed-tomography-8-hour-day-shift/252/101885550848",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/imaging-technical-manager-ct-computed-tomography-8-hour-day-shift/252/101885550848",
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: imaging"
@@ -53,6 +70,22 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: imaging"
+    },
+    {
+      "title": "IT",
+      "company": "Kaiser Permanente",
+      "hospital_name": "Kaiser Permanente",
+      "location": "Consultant III - Epic First Pasadena, CA",
+      "url": "https://www.kaiserpermanentejobs.org/job/pasadena/it-consultant-iii-epic-first/641/101926692368",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::kaiser permanente::https://www.kaiserpermanentejobs.org/job/pasadena/it-consultant-iii-epic-first/641/101926692368",
+      "track_slug": "hospital-careers",
+      "type": "Flexible, Regular, Full-time",
+      "match_reason": "Kaiser direct match: epic"
     }
   ]
 }

@@ -1,9 +1,33 @@
 {
-  "updated": "2026-10-13T19:45:18Z",
+  "updated": "2026-10-14T05:59:34Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 79,
+  "count": 81,
   "jobs": [
+    {
+      "title": "AUDITOR",
+      "company": "Customs and Border Protection",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/888175300",
+      "salary": "106437",
+      "posted": "2026-10-14",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
+    },
+    {
+      "title": "Program Management Officer",
+      "company": "Veterans Health Administration",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/888603200",
+      "salary": "140239",
+      "posted": "2026-10-14",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 140239.0,
+      "salary_hourly": 67.42
+    },
     {
       "title": "IT Software Engineer (Tech Force)",
       "company": "Office of Personnel Management",
@@ -29,22 +53,34 @@
       "salary_hourly": 71.13
     },
     {
-      "title": "Registered Nurse-Informaticist",
+      "title": "Physician (CRH Tele Primary Care Chief)",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/888552600",
-      "salary": "73948",
+      "url": "https://www.usajobs.gov:443/job/888616900",
+      "salary": "165000",
       "posted": "2026-10-13",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 73948.0,
-      "salary_hourly": 35.55
+      "salary_annual": 165000.0,
+      "salary_hourly": 79.33
+    },
+    {
+      "title": "Pharmacy Technician",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/888476100",
+      "salary": "52339",
+      "posted": "2026-10-13",
+      "source": "USAJobs",
+      "type": "28 Hours",
+      "salary_annual": 52339.0,
+      "salary_hourly": 25.16
     },
     {
       "title": "Medical Records Technician (Coder-Outpatient)",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/888469600",
+      "url": "https://www.usajobs.gov:443/job/888469900",
       "salary": "50460",
       "posted": "2026-10-13",
       "source": "USAJobs",
@@ -101,16 +137,28 @@
       "salary_hourly": 61.46
     },
     {
-      "title": "Pharmacy Technician",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/888476100",
-      "salary": "52339",
+      "title": "Fish & Wildlife Biologist",
+      "company": "U.S. Fish and Wildlife Service",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/888353700",
+      "salary": "61722",
       "posted": "2026-10-13",
       "source": "USAJobs",
-      "type": "28 Hours",
-      "salary_annual": 52339.0,
-      "salary_hourly": 25.16
+      "type": "",
+      "salary_annual": 61722.0,
+      "salary_hourly": 29.67
+    },
+    {
+      "title": "Supervisory Healthcare Engineer - Capital Assets Manager",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/888597400",
+      "salary": "126384",
+      "posted": "2026-10-13",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 126384.0,
+      "salary_hourly": 60.76
     },
     {
       "title": "IT Specialist (Appsw)",
@@ -123,6 +171,30 @@
       "type": "",
       "salary_annual": 125776.0,
       "salary_hourly": 60.47
+    },
+    {
+      "title": "Deputy Chief, IHSC Special Operations Unit (O-6 Billet) Supervisory",
+      "company": "Immigration and Customs Enforcement",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/887869600",
+      "salary": "1",
+      "posted": "2026-10-12",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 2080.0,
+      "salary_hourly": 1.0
+    },
+    {
+      "title": "Medical Records Technician (CDIS - Inpatient)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/888405600",
+      "salary": "61722",
+      "posted": "2026-10-09",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 61722.0,
+      "salary_hourly": 29.67
     },
     {
       "title": "Health System Specialist - EA to HSA Director",
@@ -173,18 +245,6 @@
       "salary_hourly": 28.24
     },
     {
-      "title": "Medical Records Technician (CDIS - Inpatient)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/888405600",
-      "salary": "61722",
-      "posted": "2026-10-09",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 61722.0,
-      "salary_hourly": 29.67
-    },
-    {
       "title": "Accountant",
       "company": "Centers for Medicare & Medicaid Services",
       "location": "Multiple Locations",
@@ -209,16 +269,16 @@
       "salary_hourly": 54.11
     },
     {
-      "title": "Health System Specialist - VISN Operations Center",
+      "title": "Lead Medical Support Assistant",
       "company": "Veterans Health Administration",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/888172400",
-      "salary": "106437",
-      "posted": "2026-10-08",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/888395400",
+      "salary": "62504",
+      "posted": "2026-10-09",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 106437.0,
-      "salary_hourly": 51.17
+      "salary_annual": 62504.0,
+      "salary_hourly": 30.05
     },
     {
       "title": "Civil Engineer",
@@ -243,6 +303,18 @@
       "type": "",
       "salary_annual": 89508.0,
       "salary_hourly": 43.03
+    },
+    {
+      "title": "Human Resources Specialist (Classification)",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/888106100",
+      "salary": "106437",
+      "posted": "2026-10-08",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
     },
     {
       "title": "Licensed Professional Mental Health Counselor  (Deputy District Director)",
@@ -305,42 +377,6 @@
       "salary_hourly": 51.66
     },
     {
-      "title": "IT Specialist (Enterprise Architecture)",
-      "company": "Centers for Medicare & Medicaid Services",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/887684900",
-      "salary": "107466",
-      "posted": "2026-10-07",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 107466.0,
-      "salary_hourly": 51.67
-    },
-    {
-      "title": "Supervisory Health System Specialist (VISN Operation Center Director)",
-      "company": "Veterans Health Administration",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/887933600",
-      "salary": "125776",
-      "posted": "2026-10-07",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
-    },
-    {
-      "title": "Health System Specialist to the Deputy Network Director",
-      "company": "Veterans Health Administration",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/887967200",
-      "salary": "125776",
-      "posted": "2026-10-07",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
-    },
-    {
       "title": "Regional Section Chief, Field Medical Coordination Unit (O-6 Billet) Supervisory",
       "company": "Immigration and Customs Enforcement",
       "location": "Location Negotiable After Selection",
@@ -353,28 +389,28 @@
       "salary_hourly": 1.0
     },
     {
-      "title": "Human Resources Assistant",
+      "title": "Clinical Laboratory Scientist (Regional Technical Specialist)",
       "company": "Veterans Health Administration",
       "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/887862500",
-      "salary": "50460",
+      "url": "https://www.usajobs.gov:443/job/887837300",
+      "salary": "90925",
       "posted": "2026-10-07",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 50460.0,
-      "salary_hourly": 24.26
+      "salary_annual": 90925.0,
+      "salary_hourly": 43.71
     },
     {
-      "title": "Senior Tax Analyst",
-      "company": "Internal Revenue Service",
-      "location": "IRS Nationwide Locations",
-      "url": "https://www.usajobs.gov:443/job/887820100",
-      "salary": "125776",
+      "title": "Safety and Occupational Health Specialist (Dive Safety Officer)",
+      "company": "Geological Survey",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/886704100",
+      "salary": "106437",
       "posted": "2026-10-07",
       "source": "USAJobs",
-      "type": "Tour of Duty: Day Shift, Monday-Friday, 40 hours per week.",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
+      "type": "",
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
     },
     {
       "title": "Supervisory Social Worker (Program Coordinator - Whole Health Food Hub Manager)",
@@ -413,40 +449,16 @@
       "salary_hourly": 51.17
     },
     {
-      "title": "Medical Records Technician (Coder-Inpatient)",
+      "title": "Medical Records Technician (Cancer Registrar) Coordinator",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/887863200",
-      "salary": "55882",
+      "url": "https://www.usajobs.gov:443/job/887743200",
+      "salary": "61722",
       "posted": "2026-10-06",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 55882.0,
-      "salary_hourly": 26.87
-    },
-    {
-      "title": "Nurse VISN Chief Quality Management Officer (QMO)",
-      "company": "Veterans Health Administration",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/887769100",
-      "salary": "155558",
-      "posted": "2026-10-06",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 155558.0,
-      "salary_hourly": 74.79
-    },
-    {
-      "title": "General Field Representative (Telecommunications)",
-      "company": "Agriculture, Rural Development",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/887545400",
-      "salary": "89508",
-      "posted": "2026-10-06",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 89508.0,
-      "salary_hourly": 43.03
+      "salary_annual": 61722.0,
+      "salary_hourly": 29.67
     },
     {
       "title": "Early Career Recruitment Specialist",
@@ -461,16 +473,40 @@
       "salary_hourly": 43.03
     },
     {
-      "title": "Supervisory Healthcare Engineer - Capital Assets Manager",
-      "company": "Veterans Health Administration",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/887725500",
-      "salary": "157980",
+      "title": "General Field Representative (Telecommunications)",
+      "company": "Agriculture, Rural Development",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/887545400",
+      "salary": "89508",
       "posted": "2026-10-06",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 157980.0,
-      "salary_hourly": 75.95
+      "salary_annual": 89508.0,
+      "salary_hourly": 43.03
+    },
+    {
+      "title": "Pharmacist (Clinical Specialist)- Clinical Resource Hub",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/887641200",
+      "salary": "148026",
+      "posted": "2026-10-05",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 148026.0,
+      "salary_hourly": 71.17
+    },
+    {
+      "title": "General Field Representative (Electric)",
+      "company": "Agriculture, Rural Development",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/887341500",
+      "salary": "89508",
+      "posted": "2026-10-05",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 89508.0,
+      "salary_hourly": 43.03
     },
     {
       "title": "Deputy Chief, Health Operations Unit (O-6 Billet) Supervisory",
@@ -509,18 +545,6 @@
       "salary_hourly": 1.0
     },
     {
-      "title": "General Field Representative (Electric)",
-      "company": "Agriculture, Rural Development",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/887341500",
-      "salary": "89508",
-      "posted": "2026-10-05",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 89508.0,
-      "salary_hourly": 43.03
-    },
-    {
       "title": "Program Analyst, IHSC Special Operations Unit (O-5 Billet) Non-Supervisory",
       "company": "Immigration and Customs Enforcement",
       "location": "Location Negotiable After Selection",
@@ -545,28 +569,16 @@
       "salary_hourly": 1.0
     },
     {
-      "title": "Training Specialist",
-      "company": "Veterans Health Administration",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/887471300",
+      "title": "Supervisory Tax Specialist (Tax Compliance Officer, Group Manager) - MSP",
+      "company": "Internal Revenue Service",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/887329600",
       "salary": "89508",
-      "posted": "2026-10-05",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 89508.0,
-      "salary_hourly": 43.03
-    },
-    {
-      "title": "Medical Records Technician (Coder-Outpatient and Inpatient)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/887490200",
-      "salary": "36409",
       "posted": "2026-10-02",
       "source": "USAJobs",
-      "type": "",
-      "salary_annual": 36409.0,
-      "salary_hourly": 17.5
+      "type": "Tour of Duty: Day Shift, Monday-Friday 8:00am-4:30pm, 40 hours per week.",
+      "salary_annual": 89508.0,
+      "salary_hourly": 43.03
     },
     {
       "title": "Housing Program Technical Specialist",
@@ -629,6 +641,18 @@
       "salary_hourly": 168.27
     },
     {
+      "title": "Engineer (Palace Acquire Intern)",
+      "company": "Air Force Civilian Career Training",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/887072300",
+      "salary": "50460",
+      "posted": "2026-10-01",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 50460.0,
+      "salary_hourly": 24.26
+    },
+    {
       "title": "Compliance-Healthcare Risk Management Program Manager (O-5 Billet) Non-Supervisory",
       "company": "Immigration and Customs Enforcement",
       "location": "Location Negotiable After Selection",
@@ -641,28 +665,16 @@
       "salary_hourly": 1.0
     },
     {
-      "title": "IT Asset Management Specialist",
-      "company": "Library of Congress",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/887004500",
-      "salary": "121785",
-      "posted": "2026-09-30",
+      "title": "COMPUTER ENGINEER",
+      "company": "Air Force Civilian Career Training",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/887326500",
+      "salary": "50460",
+      "posted": "2026-10-01",
       "source": "USAJobs",
-      "type": "Flexitime",
-      "salary_annual": 121785.0,
-      "salary_hourly": 58.55
-    },
-    {
-      "title": "Information Technology Specialist (Data Science)",
-      "company": "Smithsonian Institution ",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/886890600",
-      "salary": "107446",
-      "posted": "2026-09-30",
-      "source": "USAJobs",
-      "type": "Full-Time, Permanent",
-      "salary_annual": 107446.0,
-      "salary_hourly": 51.66
+      "type": "",
+      "salary_annual": 50460.0,
+      "salary_hourly": 24.26
     },
     {
       "title": "2027 Spring Library of Congress Intern (Remote)",
@@ -677,6 +689,30 @@
       "salary_hourly": 17.78
     },
     {
+      "title": "Homeland Defender (Immigration Services Officer)",
+      "company": "Citizenship and Immigration Services",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/886877400",
+      "salary": "50925",
+      "posted": "2026-09-30",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 50925.0,
+      "salary_hourly": 24.48
+    },
+    {
+      "title": "Supervisory Wildland Firefighter (Fire Program Supervisor)",
+      "company": "Office of the Secretary of the Interior",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/886824300",
+      "salary": "112824",
+      "posted": "2026-09-30",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 112824.0,
+      "salary_hourly": 54.24
+    },
+    {
       "title": "IT Specialist",
       "company": "Deputy Assistant Secretary for Information and Technology",
       "location": "Multiple Locations",
@@ -687,66 +723,6 @@
       "type": "",
       "salary_annual": 89508.0,
       "salary_hourly": 43.03
-    },
-    {
-      "title": "Senior Examiner Information Technology (IT & Operations Risk Central Point of Contact) CG-0570-15",
-      "company": "Federal Deposit Insurance Corporation",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/886626600",
-      "salary": "162739",
-      "posted": "2026-09-29",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 162739.0,
-      "salary_hourly": 78.24
-    },
-    {
-      "title": "Self Determination Officer",
-      "company": "Office of the Secretary of the Interior",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/886650800",
-      "salary": "106437",
-      "posted": "2026-09-29",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 106437.0,
-      "salary_hourly": 51.17
-    },
-    {
-      "title": "Senior Specialized Information Technology Examiner",
-      "company": "Securities and Exchange Commission",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/886594600",
-      "salary": "162757",
-      "posted": "2026-09-28",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 162757.0,
-      "salary_hourly": 78.25
-    },
-    {
-      "title": "Chief Information Security Officer AD-2210-00 (Senior Manager) FPL AD-00",
-      "company": "Department of Education Headquarters",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/886448400",
-      "salary": "179436",
-      "posted": "2026-09-28",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 179436.0,
-      "salary_hourly": 86.27
-    },
-    {
-      "title": "Aviation Safety Technician",
-      "company": "Federal Aviation Administration",
-      "location": "FAA Nationwide-Selectee Remains in Current Duty Location",
-      "url": "https://www.usajobs.gov:443/job/885658000",
-      "salary": "47738",
-      "posted": "2026-09-22",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 47738.0,
-      "salary_hourly": 22.95
     },
     {
       "title": "Behavioral Health Case Manager (O-5 Billet) Non-Supervisory",
@@ -771,6 +747,18 @@
       "type": "",
       "salary_annual": 2080.0,
       "salary_hourly": 1.0
+    },
+    {
+      "title": "Social Worker",
+      "company": "Veterans Health Administration",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/884226200",
+      "salary": "79091",
+      "posted": "2026-09-11",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 79091.0,
+      "salary_hourly": 38.02
     },
     {
       "title": "IT Specialist 6 month Register-Direct Hire",
@@ -819,6 +807,18 @@
       "type": "",
       "salary_annual": 375000.0,
       "salary_hourly": 180.29
+    },
+    {
+      "title": "Physician (Diagnostic-Radiologist) - Neuroradiology",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/881409800",
+      "salary": "385000",
+      "posted": "2026-08-20",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 385000.0,
+      "salary_hourly": 185.1
     },
     {
       "title": "Staff Physician (Nuclear Medicine) - EDRP/Recruitment/Relocation Incentive Authorized",
@@ -945,6 +945,30 @@
       "company": "Department of the Air Force Headquarters",
       "location": "Multiple Locations",
       "url": "https://www.usajobs.gov:443/job/852987000",
+      "salary": "63795",
+      "posted": "2025-12-22",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 63795.0,
+      "salary_hourly": 30.67
+    },
+    {
+      "title": "Economist",
+      "company": "Department of the Air Force Headquarters",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/853032300",
+      "salary": "74678",
+      "posted": "2025-12-22",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 74678.0,
+      "salary_hourly": 35.9
+    },
+    {
+      "title": "Mathematical Statistics Series",
+      "company": "Department of the Air Force Headquarters",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/852879600",
       "salary": "63795",
       "posted": "2025-12-22",
       "source": "USAJobs",
