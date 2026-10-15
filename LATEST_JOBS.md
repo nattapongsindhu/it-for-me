@@ -1,6 +1,6 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-10-15T05%3A45%3A40Z-blue?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-10-15T17%3A37%3A41Z-blue?style=flat-square)
 ![Jobs](https://img.shields.io/badge/Jobs_Found-81-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
@@ -15,8 +15,10 @@
 | Information Technology Specialist  (Database Administrator) | Smithsonian Institution  | Anywhere in the U.S. (remote job) | Full-Time, Permanent | 143913 | 2026-10-15 | [Apply](https://www.usajobs.gov:443/job/888818100) |
 | Veterans Service Rep (Authorizer) | Veterans Benefits Administration | Anywhere in the U.S. (remote job) | Not listed | 74678 | 2026-10-15 | [Apply](https://www.usajobs.gov:443/job/888761100) |
 | Veterans Service Representative (Rating) | Veterans Benefits Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-10-15 | [Apply](https://www.usajobs.gov:443/job/888785000) |
+| Management Analyst | Veterans Health Administration | Multiple Locations | Not listed | 61722 | 2026-10-15 | [Apply](https://www.usajobs.gov:443/job/888859700) |
 | Tax Analyst | Internal Revenue Service | IRS Nationwide Locations | Tour of Duty: Day Shift: Monday - Friday, TOD to be determined at time of selection. 40 hours per week. | 74678 | 2026-10-15 | [Apply](https://www.usajobs.gov:443/job/888718100) |
-| AUDITOR | Customs and Border Protection | Location Negotiable After Selection | Not listed | 106437 | 2026-10-14 | [Apply](https://www.usajobs.gov:443/job/888175300) |
+| Semester of Service Student Volunteer | U.S. Marshals Service | Multiple Locations | Not listed | 0 | 2026-10-15 | [Apply](https://www.usajobs.gov:443/job/888908900) |
+| Nurse | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 64304 | 2026-10-15 | [Apply](https://www.usajobs.gov:443/job/888909700) |
 | Medical Administration Officer | Veterans Health Administration | Location Negotiable After Selection | Not listed | 106437 | 2026-10-14 | [Apply](https://www.usajobs.gov:443/job/888664600) |
 | Program Management Officer | Veterans Health Administration | Multiple Locations | Not listed | 140239 | 2026-10-14 | [Apply](https://www.usajobs.gov:443/job/888603200) |
 | IT Software Engineer (Tech Force) | Office of Personnel Management | Multiple Locations | Not listed | 125776 | 2026-10-13 | [Apply](https://www.usajobs.gov:443/job/888508400) |
@@ -30,8 +32,6 @@
 | Supervisory Healthcare Engineer - Capital Assets Manager | Veterans Health Administration | Location Negotiable After Selection | Not listed | 126384 | 2026-10-13 | [Apply](https://www.usajobs.gov:443/job/888597400) |
 | IT Specialist (Appsw) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 125776 | 2026-10-12 | [Apply](https://www.usajobs.gov:443/job/888399500) |
 | Deputy Chief, IHSC Special Operations Unit (O-6 Billet) Supervisory | Immigration and Customs Enforcement | Location Negotiable After Selection | Not listed | 1 | 2026-10-12 | [Apply](https://www.usajobs.gov:443/job/887869600) |
-| Medical Records Technician (CDIS - Inpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-10-09 | [Apply](https://www.usajobs.gov:443/job/888405600) |
-| Health System Specialist - EA to HSA Director | Veterans Health Administration | Location Negotiable After Selection | Not listed | 125776 | 2026-10-09 | [Apply](https://www.usajobs.gov:443/job/888392500) |
 
 ---
 
@@ -41,7 +41,7 @@
 |--------|-------|
 | Total jobs found | 81 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-10-15T05:45:40Z |
+| Last updated | 2026-10-15T17:37:41Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-10-15T05:45:40Z_
+_Auto-generated legacy snapshot. Last run: 2026-10-15T17:37:41Z_
