@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T17:48:07Z",
+  "updated": "2026-10-15T05:45:42Z",
   "count": 5,
   "sources": [
     "Cedars-Sinai",
@@ -7,22 +7,6 @@
   ],
   "track_slug": "hospital-careers",
   "jobs": [
-    {
-      "title": "Echo Sonographer I (Inpatient) - 8-Hour Evening Shift Cedars-Sinai Medical Center Los Angeles, CA Imaging Req ID: 21325",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/echo-sonographer-i-inpatient-8-hour-evening-shift/252/101949124816",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/echo-sonographer-i-inpatient-8-hour-evening-shift/252/101949124816",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging"
-    },
     {
       "title": "Financial Business Systems Analyst (Imaging Department)",
       "company": "Cedars-Sinai",
@@ -86,6 +70,22 @@
       "track_slug": "hospital-careers",
       "type": "Flexible, Regular, Full-time",
       "match_reason": "Kaiser direct match: epic"
+    },
+    {
+      "title": "IT Support Technician - SSD (2-yr Durational)",
+      "company": "Kaiser Permanente",
+      "hospital_name": "Kaiser Permanente",
+      "location": "Pasadena, CA",
+      "url": "https://www.kaiserpermanentejobs.org/job/pasadena/it-support-technician-ssd-2-yr-durational/641/101955465696",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::kaiser permanente::https://www.kaiserpermanentejobs.org/job/pasadena/it-support-technician-ssd-2-yr-durational/641/101955465696",
+      "track_slug": "hospital-careers",
+      "type": "Flexible, Regular, Full-time",
+      "match_reason": "Kaiser direct match: it support, technician"
     }
   ]
 }
