@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-16T05:42:59Z",
+  "updated": "2026-10-16T17:10:32Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 77,
+  "count": 73,
   "jobs": [
     {
       "title": "IT Specialist (Data Mgmt)",
@@ -15,6 +15,30 @@
       "type": "",
       "salary_annual": 76463.0,
       "salary_hourly": 36.76
+    },
+    {
+      "title": "Veterans Service Representative (Authorizer)",
+      "company": "Veterans Benefits Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/889034500",
+      "salary": "74678",
+      "posted": "2026-10-16",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 74678.0,
+      "salary_hourly": 35.9
+    },
+    {
+      "title": "Supervisory Medical Records Technician",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/889086000",
+      "salary": "67970",
+      "posted": "2026-10-16",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 67970.0,
+      "salary_hourly": 32.68
     },
     {
       "title": "Physician- Gastroenterology",
@@ -111,6 +135,18 @@
       "type": "",
       "salary_annual": null,
       "salary_hourly": null
+    },
+    {
+      "title": "Ombudsman NF-05",
+      "company": "Defense Media Activity",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/889078500",
+      "salary": "120000",
+      "posted": "2026-10-16",
+      "source": "USAJobs",
+      "type": "Flex with 00-40 hours per week",
+      "salary_annual": 120000.0,
+      "salary_hourly": 57.69
     },
     {
       "title": "Information Technology Specialist  (Database Administrator)",
@@ -317,18 +353,6 @@
       "salary_hourly": 60.47
     },
     {
-      "title": "Deputy Chief, IHSC Special Operations Unit (O-6 Billet) Supervisory",
-      "company": "Immigration and Customs Enforcement",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/887869600",
-      "salary": "1",
-      "posted": "2026-10-12",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 2080.0,
-      "salary_hourly": 1.0
-    },
-    {
       "title": "Medical Records Technician (CDIS - Inpatient)",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -375,18 +399,6 @@
       "type": "",
       "salary_annual": 112556.0,
       "salary_hourly": 54.11
-    },
-    {
-      "title": "Lead Medical Support Assistant",
-      "company": "Veterans Health Administration",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/888395400",
-      "salary": "62504",
-      "posted": "2026-10-09",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 62504.0,
-      "salary_hourly": 30.05
     },
     {
       "title": "Civil Engineer",
@@ -485,18 +497,6 @@
       "salary_hourly": 43.03
     },
     {
-      "title": "Cost Management Branch Chief",
-      "company": "Public Buildings Service",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/887609600",
-      "salary": "125776",
-      "posted": "2026-10-06",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
-    },
-    {
       "title": "Deputy Chief, Health Operations Unit (O-6 Billet) Supervisory",
       "company": "Immigration and Customs Enforcement",
       "location": "Location Negotiable After Selection",
@@ -567,18 +567,6 @@
       "type": "",
       "salary_annual": 148026.0,
       "salary_hourly": 71.17
-    },
-    {
-      "title": "Supervisory Tax Specialist (Tax Compliance Officer, Group Manager) - MSP",
-      "company": "Internal Revenue Service",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/887329600",
-      "salary": "89508",
-      "posted": "2026-10-02",
-      "source": "USAJobs",
-      "type": "Tour of Duty: Day Shift, Monday-Friday 8:00am-4:30pm, 40 hours per week.",
-      "salary_annual": 89508.0,
-      "salary_hourly": 43.03
     },
     {
       "title": "Housing Program Technical Specialist",
@@ -653,18 +641,6 @@
       "salary_hourly": 1.0
     },
     {
-      "title": "COMPUTER ENGINEER",
-      "company": "Air Force Civilian Career Training",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/887326500",
-      "salary": "50460",
-      "posted": "2026-10-01",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 50460.0,
-      "salary_hourly": 24.26
-    },
-    {
       "title": "Homeland Defender (Immigration Services Officer)",
       "company": "Citizenship and Immigration Services",
       "location": "Anywhere in the U.S. (remote job)",
@@ -713,18 +689,6 @@
       "salary_hourly": 1.0
     },
     {
-      "title": "Social Worker",
-      "company": "Veterans Health Administration",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/884226200",
-      "salary": "79091",
-      "posted": "2026-09-11",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 79091.0,
-      "salary_hourly": 38.02
-    },
-    {
       "title": "IT Specialist 6 month Register-Direct Hire",
       "company": "Internal Revenue Service",
       "location": "Multiple Locations",
@@ -771,18 +735,6 @@
       "type": "",
       "salary_annual": 375000.0,
       "salary_hourly": 180.29
-    },
-    {
-      "title": "Physician (Diagnostic-Radiologist) - Neuroradiology",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/881409800",
-      "salary": "385000",
-      "posted": "2026-08-20",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 385000.0,
-      "salary_hourly": 185.1
     },
     {
       "title": "Staff Physician (Nuclear Medicine) - EDRP/Recruitment/Relocation Incentive Authorized",
