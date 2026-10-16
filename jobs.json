@@ -1,9 +1,117 @@
 {
-  "updated": "2026-10-15T17:37:41Z",
+  "updated": "2026-10-16T05:42:59Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 81,
+  "count": 77,
   "jobs": [
+    {
+      "title": "IT Specialist (Data Mgmt)",
+      "company": "Deputy Assistant Secretary for Information and Technology",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/888995100",
+      "salary": "76463",
+      "posted": "2026-10-16",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 76463.0,
+      "salary_hourly": 36.76
+    },
+    {
+      "title": "Physician- Gastroenterology",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/888981000",
+      "salary": "300000",
+      "posted": "2026-10-16",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 300000.0,
+      "salary_hourly": 144.23
+    },
+    {
+      "title": "Supvervisory Medical Records Technician (Coder)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/888997000",
+      "salary": "67970",
+      "posted": "2026-10-16",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 67970.0,
+      "salary_hourly": 32.68
+    },
+    {
+      "title": "Health System Specialist/Facility Planner",
+      "company": "Veterans Health Administration",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/888960300",
+      "salary": "87061",
+      "posted": "2026-10-16",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 87061.0,
+      "salary_hourly": 41.86
+    },
+    {
+      "title": "Human Resources Specialist (Information Systems)",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/888889600",
+      "salary": "106437",
+      "posted": "2026-10-16",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
+    },
+    {
+      "title": "Aviation Safety Inspector  (Cabin Safety)",
+      "company": "Federal Aviation Administration",
+      "location": "FAA Nationwide-Selectee Remains in Current Duty Location",
+      "url": "https://www.usajobs.gov:443/job/882155200",
+      "salary": "90925",
+      "posted": "2026-10-16",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 90925.0,
+      "salary_hourly": 43.71
+    },
+    {
+      "title": "Program Analyst",
+      "company": "Citizenship and Immigration Services",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/888930300",
+      "salary": "63795",
+      "posted": "2026-10-16",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 63795.0,
+      "salary_hourly": 30.67
+    },
+    {
+      "title": "Computer Investigative Forensic Specialist (CIFA)",
+      "company": "Internal Revenue Service",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/888918000",
+      "salary": "121785",
+      "posted": "2026-10-16",
+      "source": "USAJobs",
+      "type": "Tour of Duty: day shift, Monday-Friday, 40 hours per week.",
+      "salary_annual": 121785.0,
+      "salary_hourly": 58.55
+    },
+    {
+      "title": "Industrial/Organizational Psychology",
+      "company": "Office of the Secretary of the Interior",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/888768700",
+      "salary": "0",
+      "posted": "2026-10-16",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": null,
+      "salary_hourly": null
+    },
     {
       "title": "Information Technology Specialist  (Database Administrator)",
       "company": "Smithsonian Institution ",
@@ -29,30 +137,6 @@
       "salary_hourly": 35.9
     },
     {
-      "title": "Veterans Service Representative (Rating)",
-      "company": "Veterans Benefits Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/888785000",
-      "salary": "61722",
-      "posted": "2026-10-15",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 61722.0,
-      "salary_hourly": 29.67
-    },
-    {
-      "title": "Management Analyst",
-      "company": "Veterans Health Administration",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/888859700",
-      "salary": "61722",
-      "posted": "2026-10-15",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 61722.0,
-      "salary_hourly": 29.67
-    },
-    {
       "title": "Tax Analyst",
       "company": "Internal Revenue Service",
       "location": "IRS Nationwide Locations",
@@ -63,6 +147,18 @@
       "type": "Tour of Duty: Day Shift: Monday - Friday, TOD to be determined at time of selection. 40 hours per week.",
       "salary_annual": 74678.0,
       "salary_hourly": 35.9
+    },
+    {
+      "title": "Support Services Supervisor",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/888947100",
+      "salary": "107446",
+      "posted": "2026-10-15",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 107446.0,
+      "salary_hourly": 51.66
     },
     {
       "title": "Semester of Service Student Volunteer",
@@ -77,16 +173,16 @@
       "salary_hourly": null
     },
     {
-      "title": "Nurse",
+      "title": "Registered Nurse - Regional Nursing Officer",
       "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/888909700",
-      "salary": "64304",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/888939800",
+      "salary": "157255",
       "posted": "2026-10-15",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 64304.0,
-      "salary_hourly": 30.92
+      "salary_annual": 157255.0,
+      "salary_hourly": 75.6
     },
     {
       "title": "Medical Administration Officer",
@@ -197,18 +293,6 @@
       "salary_hourly": 61.46
     },
     {
-      "title": "Fish & Wildlife Biologist",
-      "company": "U.S. Fish and Wildlife Service",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/888353700",
-      "salary": "61722",
-      "posted": "2026-10-13",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 61722.0,
-      "salary_hourly": 29.67
-    },
-    {
       "title": "Supervisory Healthcare Engineer - Capital Assets Manager",
       "company": "Veterans Health Administration",
       "location": "Location Negotiable After Selection",
@@ -257,30 +341,6 @@
       "salary_hourly": 29.67
     },
     {
-      "title": "Health System Specialist - EA to HSA Director",
-      "company": "Veterans Health Administration",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/888392500",
-      "salary": "125776",
-      "posted": "2026-10-09",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
-    },
-    {
-      "title": "Health System Specialist - Systems Redesign Program Manager",
-      "company": "Veterans Health Administration",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/888331600",
-      "salary": "125776",
-      "posted": "2026-10-09",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
-    },
-    {
       "title": "Supervisory Health System Specialist - Executive Assistant to the Network Director",
       "company": "Veterans Health Administration",
       "location": "Location Negotiable After Selection",
@@ -303,18 +363,6 @@
       "type": "",
       "salary_annual": 58741.0,
       "salary_hourly": 28.24
-    },
-    {
-      "title": "Accountant",
-      "company": "Centers for Medicare & Medicaid Services",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/888125000",
-      "salary": "118984",
-      "posted": "2026-10-09",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 118984.0,
-      "salary_hourly": 57.2
     },
     {
       "title": "Health Insurance Specialist (Data Analysis & Studies)",
@@ -341,18 +389,6 @@
       "salary_hourly": 30.05
     },
     {
-      "title": "Supervisory Medical Support Assistant",
-      "company": "Veterans Health Administration",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/888441600",
-      "salary": "69220",
-      "posted": "2026-10-09",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 69220.0,
-      "salary_hourly": 33.28
-    },
-    {
       "title": "Civil Engineer",
       "company": "U.S. Army Corps of Engineers",
       "location": "Multiple Locations",
@@ -363,30 +399,6 @@
       "type": "",
       "salary_annual": 125776.0,
       "salary_hourly": 60.47
-    },
-    {
-      "title": "Supervisory Packaging Specialist",
-      "company": "Defense Contract Management Agency",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/887998800",
-      "salary": "89508",
-      "posted": "2026-10-08",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 89508.0,
-      "salary_hourly": 43.03
-    },
-    {
-      "title": "Human Resources Specialist (Classification)",
-      "company": "Veterans Health Administration",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/888106100",
-      "salary": "106437",
-      "posted": "2026-10-08",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 106437.0,
-      "salary_hourly": 51.17
     },
     {
       "title": "Licensed Professional Mental Health Counselor  (Deputy District Director)",
@@ -437,18 +449,6 @@
       "salary_hourly": 1.0
     },
     {
-      "title": "Safety and Occupational Health Specialist (Dive Safety Officer)",
-      "company": "Geological Survey",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/886704100",
-      "salary": "106437",
-      "posted": "2026-10-07",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 106437.0,
-      "salary_hourly": 51.17
-    },
-    {
       "title": "Supervisory Social Worker (Program Coordinator - Whole Health Food Hub Manager)",
       "company": "Veterans Health Administration",
       "location": "Los Angeles, California",
@@ -473,34 +473,10 @@
       "salary_hourly": 55.14
     },
     {
-      "title": "Information Technology Specialist",
-      "company": "Deputy Assistant Secretary for Information and Technology",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/887667200",
-      "salary": "106437",
-      "posted": "2026-10-06",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 106437.0,
-      "salary_hourly": 51.17
-    },
-    {
       "title": "Early Career Recruitment Specialist",
       "company": "Department of Homeland Security Headquarters",
       "location": "Anywhere in the U.S. (remote job)",
       "url": "https://www.usajobs.gov:443/job/887941200",
-      "salary": "89508",
-      "posted": "2026-10-06",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 89508.0,
-      "salary_hourly": 43.03
-    },
-    {
-      "title": "General Field Representative (Telecommunications)",
-      "company": "Agriculture, Rural Development",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/887545400",
       "salary": "89508",
       "posted": "2026-10-06",
       "source": "USAJobs",
@@ -519,18 +495,6 @@
       "type": "",
       "salary_annual": 125776.0,
       "salary_hourly": 60.47
-    },
-    {
-      "title": "Pharmacist (Clinical Specialist)- Clinical Resource Hub",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/887641200",
-      "salary": "148026",
-      "posted": "2026-10-05",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 148026.0,
-      "salary_hourly": 71.17
     },
     {
       "title": "Deputy Chief, Health Operations Unit (O-6 Billet) Supervisory",
@@ -591,6 +555,18 @@
       "type": "",
       "salary_annual": 2080.0,
       "salary_hourly": 1.0
+    },
+    {
+      "title": "Pharmacist (Clinical Specialist)- Clinical Resource Hub",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/887641200",
+      "salary": "148026",
+      "posted": "2026-10-05",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 148026.0,
+      "salary_hourly": 71.17
     },
     {
       "title": "Supervisory Tax Specialist (Tax Compliance Officer, Group Manager) - MSP",
@@ -663,18 +639,6 @@
       "type": "",
       "salary_annual": 350000.0,
       "salary_hourly": 168.27
-    },
-    {
-      "title": "Engineer (Palace Acquire Intern)",
-      "company": "Air Force Civilian Career Training",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/887072300",
-      "salary": "50460",
-      "posted": "2026-10-01",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 50460.0,
-      "salary_hourly": 24.26
     },
     {
       "title": "Compliance-Healthcare Risk Management Program Manager (O-5 Billet) Non-Supervisory",
@@ -963,18 +927,6 @@
       "type": "",
       "salary_annual": 74678.0,
       "salary_hourly": 35.9
-    },
-    {
-      "title": "Mathematical Statistics Series",
-      "company": "Department of the Air Force Headquarters",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/852879600",
-      "salary": "63795",
-      "posted": "2025-12-22",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 63795.0,
-      "salary_hourly": 30.67
     }
   ]
 }
