@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-16T17:10:33Z",
-  "count": 7,
+  "updated": "2026-10-17T05:28:24Z",
+  "count": 6,
   "sources": [
     "Cedars-Sinai",
     "Kaiser Permanente"
@@ -8,36 +8,20 @@
   "track_slug": "hospital-careers",
   "jobs": [
     {
-      "title": "Echo Sonographer II (Inpatient) - 8-Hour Evening Shift Cedars-Sinai Medical Center Los Angeles, CA Imaging Req ID: 21393",
+      "title": "Facilities Coordinator II Cedars-Sinai Medical Care Foundation Beverly Hills, CA Facilities Req ID: 21411",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/echo-sonographer-ii-inpatient-8-hour-evening-shift/252/102012163008",
+      "url": "https://careers.cshs.org/job/beverly-hills/facilities-coordinator-ii/252/102055494560",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/echo-sonographer-ii-inpatient-8-hour-evening-shift/252/102012163008",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/facilities-coordinator-ii/252/102055494560",
       "track_slug": "hospital-careers",
       "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging"
-    },
-    {
-      "title": "Financial Business Systems Analyst (Imaging Department)",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/financial-business-systems-analyst-imaging-department/252/100761656176",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/financial-business-systems-analyst-imaging-department/252/100761656176",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging"
+      "match_reason": "Cedars-Sinai direct match: facilities"
     },
     {
       "title": "Postdoctoral Scientist - Slomka Lab - Innovation in Imaging / Department of Medicine / Division of AIM Cedars-Sinai Medical Center Los Angeles, CA Academic / Research Req ID: HRC1428640",
@@ -72,20 +56,20 @@
       "match_reason": "Cedars-Sinai direct match: imaging"
     },
     {
-      "title": "Radiology Manager - CT Imaging - #1 Hospital in California! Cedars-Sinai Medical Center Los Angeles, CA Imaging Req ID: 21382",
+      "title": "Senior Epic Cadence Analyst - Remote",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/radiology-manager-ct-imaging-1-hospital-in-california/252/102005935472",
+      "url": "https://careers.cshs.org/job/los-angeles/senior-epic-cadence-analyst-remote/252/102048934112",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/radiology-manager-ct-imaging-1-hospital-in-california/252/102005935472",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/senior-epic-cadence-analyst-remote/252/102048934112",
       "track_slug": "hospital-careers",
       "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging"
+      "match_reason": "Cedars-Sinai direct match: epic"
     },
     {
       "title": "IT",
