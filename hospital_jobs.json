@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T05:28:24Z",
+  "updated": "2026-10-17T16:08:45Z",
   "count": 6,
   "sources": [
     "Cedars-Sinai",
@@ -8,20 +8,20 @@
   "track_slug": "hospital-careers",
   "jobs": [
     {
-      "title": "Facilities Coordinator II Cedars-Sinai Medical Care Foundation Beverly Hills, CA Facilities Req ID: 21411",
+      "title": "Echo Sonographer II (Inpatient) - 8-Hour Evening Shift Cedars-Sinai Medical Center Los Angeles, CA Imaging Req ID: 21393",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/beverly-hills/facilities-coordinator-ii/252/102055494560",
+      "url": "https://careers.cshs.org/job/los-angeles/echo-sonographer-ii-inpatient-8-hour-evening-shift/252/102012163008",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/facilities-coordinator-ii/252/102055494560",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/echo-sonographer-ii-inpatient-8-hour-evening-shift/252/102012163008",
       "track_slug": "hospital-careers",
       "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: facilities"
+      "match_reason": "Cedars-Sinai direct match: imaging"
     },
     {
       "title": "Postdoctoral Scientist - Slomka Lab - Innovation in Imaging / Department of Medicine / Division of AIM Cedars-Sinai Medical Center Los Angeles, CA Academic / Research Req ID: HRC1428640",
@@ -51,6 +51,22 @@
       "posted": "",
       "source": "Hospital_Direct",
       "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/project-scientist-slomka-lab-innovation-in-imaging-department-of-medicine-division-of-aim/252/91952114992",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: imaging"
+    },
+    {
+      "title": "Radiology Manager - CT Imaging - #1 Hospital in California! Cedars-Sinai Medical Center Los Angeles, CA Imaging Req ID: 21382",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/radiology-manager-ct-imaging-1-hospital-in-california/252/102005935472",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/radiology-manager-ct-imaging-1-hospital-in-california/252/102005935472",
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: imaging"
@@ -86,22 +102,6 @@
       "track_slug": "hospital-careers",
       "type": "Flexible, Regular, Full-time",
       "match_reason": "Kaiser direct match: epic"
-    },
-    {
-      "title": "IT Support Technician - SSD (2-yr Durational)",
-      "company": "Kaiser Permanente",
-      "hospital_name": "Kaiser Permanente",
-      "location": "Pasadena, CA",
-      "url": "https://www.kaiserpermanentejobs.org/job/pasadena/it-support-technician-ssd-2-yr-durational/641/101955465696",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::kaiser permanente::https://www.kaiserpermanentejobs.org/job/pasadena/it-support-technician-ssd-2-yr-durational/641/101955465696",
-      "track_slug": "hospital-careers",
-      "type": "Flexible, Regular, Full-time",
-      "match_reason": "Kaiser direct match: it support, technician"
     }
   ]
 }
