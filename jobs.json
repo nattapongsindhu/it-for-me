@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T16:08:42Z",
+  "updated": "2026-10-18T05:41:04Z",
   "zip": "90029",
   "radius_mi": 5,
   "count": 73,
@@ -75,18 +75,6 @@
       "type": "",
       "salary_annual": 61945.0,
       "salary_hourly": 29.78
-    },
-    {
-      "title": "Medical Records Technician (Coder - Outpatient and Inpatient)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/889117800",
-      "salary": "36409",
-      "posted": "2026-10-16",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 36409.0,
-      "salary_hourly": 17.5
     },
     {
       "title": "Lead Medical Records Technician (Coder)",
@@ -413,6 +401,18 @@
       "salary_hourly": 60.47
     },
     {
+      "title": "Lead Medical Support Assistant",
+      "company": "Veterans Health Administration",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/888395400",
+      "salary": "62504",
+      "posted": "2026-10-09",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 62504.0,
+      "salary_hourly": 30.05
+    },
+    {
       "title": "Civil Engineer",
       "company": "U.S. Army Corps of Engineers",
       "location": "Multiple Locations",
@@ -495,18 +495,6 @@
       "type": "",
       "salary_annual": 114695.0,
       "salary_hourly": 55.14
-    },
-    {
-      "title": "Early Career Recruitment Specialist",
-      "company": "Department of Homeland Security Headquarters",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/887941200",
-      "salary": "89508",
-      "posted": "2026-10-06",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 89508.0,
-      "salary_hourly": 43.03
     },
     {
       "title": "Deputy Chief, Health Operations Unit (O-6 Billet) Supervisory",
@@ -879,6 +867,18 @@
       "type": "",
       "salary_annual": 63795.0,
       "salary_hourly": 30.67
+    },
+    {
+      "title": "Economist",
+      "company": "Department of the Air Force Headquarters",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/853032300",
+      "salary": "74678",
+      "posted": "2025-12-22",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 74678.0,
+      "salary_hourly": 35.9
     }
   ]
 }

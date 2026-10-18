@@ -1,6 +1,6 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-10-17T16%3A08%3A42Z-blue?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-10-18T05%3A41%3A04Z-blue?style=flat-square)
 ![Jobs](https://img.shields.io/badge/Jobs_Found-73-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
@@ -8,7 +8,7 @@
 
 ---
 
-## Latest Jobs - October 17, 2026
+## Latest Jobs - October 18, 2026
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
@@ -18,7 +18,6 @@
 | Physician- Gastroenterology | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 300000 | 2026-10-16 | [Apply](https://www.usajobs.gov:443/job/888981000) |
 | Supvervisory Medical Records Technician (Coder) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 67970 | 2026-10-16 | [Apply](https://www.usajobs.gov:443/job/888997000) |
 | Medical Records Technician (Inpatient Coder) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61945 | 2026-10-16 | [Apply](https://www.usajobs.gov:443/job/889180900) |
-| Medical Records Technician (Coder - Outpatient and Inpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 36409 | 2026-10-16 | [Apply](https://www.usajobs.gov:443/job/889117800) |
 | Lead Medical Records Technician (Coder) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-10-16 | [Apply](https://www.usajobs.gov:443/job/889124800) |
 | Health System Specialist/Facility Planner | Veterans Health Administration | Los Angeles, California | Not listed | 87061 | 2026-10-16 | [Apply](https://www.usajobs.gov:443/job/888960300) |
 | Human Resources Specialist (Information Systems) | Veterans Health Administration | Location Negotiable After Selection | Not listed | 106437 | 2026-10-16 | [Apply](https://www.usajobs.gov:443/job/888889600) |
@@ -32,6 +31,7 @@
 | Veterans Service Rep (Authorizer) | Veterans Benefits Administration | Anywhere in the U.S. (remote job) | Not listed | 74678 | 2026-10-15 | [Apply](https://www.usajobs.gov:443/job/888761100) |
 | Veterans Service Representative (Rating) | Veterans Benefits Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-10-15 | [Apply](https://www.usajobs.gov:443/job/888785000) |
 | Tax Analyst | Internal Revenue Service | IRS Nationwide Locations | Tour of Duty: Day Shift: Monday - Friday, TOD to be determined at time of selection. 40 hours per week. | 74678 | 2026-10-15 | [Apply](https://www.usajobs.gov:443/job/888718100) |
+| Support Services Supervisor | Veterans Health Administration | Location Negotiable After Selection | Not listed | 107446 | 2026-10-15 | [Apply](https://www.usajobs.gov:443/job/888947100) |
 
 ---
 
@@ -41,7 +41,7 @@
 |--------|-------|
 | Total jobs found | 73 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-10-17T16:08:42Z |
+| Last updated | 2026-10-18T05:41:04Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-10-17T16:08:42Z_
+_Auto-generated legacy snapshot. Last run: 2026-10-18T05:41:04Z_
