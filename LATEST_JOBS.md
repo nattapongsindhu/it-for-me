@@ -1,7 +1,7 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-10-19T05%3A57%3A46Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-75-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-10-19T19%3A03%3A03Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-76-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
@@ -12,7 +12,11 @@
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
+| Physician - Diagnostic Tele-Radiologist | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 280000 | 2026-10-19 | [Apply](https://www.usajobs.gov:443/job/889235700) |
+| Social Worker | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 87036 | 2026-10-19 | [Apply](https://www.usajobs.gov:443/job/889256000) |
+| Clinical Pharmacist | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 74678 | 2026-10-19 | [Apply](https://www.usajobs.gov:443/job/889222100) |
 | Security Specialist (Reemployed Annuitant and ICTAP eligibles) | U.S. Secret Service | Multiple Locations | Not listed | 90925 | 2026-10-19 | [Apply](https://www.usajobs.gov:443/job/889152900) |
+| Staff Psychologist | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 106437 | 2026-10-19 | [Apply](https://www.usajobs.gov:443/job/889257000) |
 | IT Specialist (Data Mgmt) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 76463 | 2026-10-16 | [Apply](https://www.usajobs.gov:443/job/888995100) |
 | Veterans Service Representative (Authorizer) | Veterans Benefits Administration | Anywhere in the U.S. (remote job) | Not listed | 74678 | 2026-10-16 | [Apply](https://www.usajobs.gov:443/job/889034500) |
 | Supervisory Medical Records Technician | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 67970 | 2026-10-16 | [Apply](https://www.usajobs.gov:443/job/889086000) |
@@ -28,10 +32,6 @@
 | Health Technician (Ophthalmology) | Veterans Health Administration | Los Angeles, California | Not listed | 55678 | 2026-10-16 | [Apply](https://www.usajobs.gov:443/job/889095500) |
 | Ombudsman NF-05 | Defense Media Activity | Anywhere in the U.S. (remote job) | Flex with 00-40 hours per week | 120000 | 2026-10-16 | [Apply](https://www.usajobs.gov:443/job/889078500) |
 | Information Technology Specialist  (Database Administrator) | Smithsonian Institution  | Anywhere in the U.S. (remote job) | Full-Time, Permanent | 143913 | 2026-10-15 | [Apply](https://www.usajobs.gov:443/job/888818100) |
-| Veterans Service Rep (Authorizer) | Veterans Benefits Administration | Anywhere in the U.S. (remote job) | Not listed | 74678 | 2026-10-15 | [Apply](https://www.usajobs.gov:443/job/888761100) |
-| Veterans Service Representative (Rating) | Veterans Benefits Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-10-15 | [Apply](https://www.usajobs.gov:443/job/888785000) |
-| Tax Analyst | Internal Revenue Service | IRS Nationwide Locations | Tour of Duty: Day Shift: Monday - Friday, TOD to be determined at time of selection. 40 hours per week. | 74678 | 2026-10-15 | [Apply](https://www.usajobs.gov:443/job/888718100) |
-| Support Services Supervisor | Veterans Health Administration | Location Negotiable After Selection | Not listed | 107446 | 2026-10-15 | [Apply](https://www.usajobs.gov:443/job/888947100) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 75 |
+| Total jobs found | 76 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-10-19T05:57:46Z |
+| Last updated | 2026-10-19T19:03:03Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 75 jobs
+- USAJobs: 76 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-10-19T05:57:46Z_
+_Auto-generated legacy snapshot. Last run: 2026-10-19T19:03:03Z_

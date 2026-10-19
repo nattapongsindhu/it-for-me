@@ -1,9 +1,45 @@
 {
-  "updated": "2026-10-19T05:57:46Z",
+  "updated": "2026-10-19T19:03:03Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 75,
+  "count": 76,
   "jobs": [
+    {
+      "title": "Physician - Diagnostic Tele-Radiologist",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/889235700",
+      "salary": "280000",
+      "posted": "2026-10-19",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 280000.0,
+      "salary_hourly": 134.62
+    },
+    {
+      "title": "Social Worker",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/889256000",
+      "salary": "87036",
+      "posted": "2026-10-19",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 87036.0,
+      "salary_hourly": 41.84
+    },
+    {
+      "title": "Clinical Pharmacist",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/889222100",
+      "salary": "74678",
+      "posted": "2026-10-19",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 74678.0,
+      "salary_hourly": 35.9
+    },
     {
       "title": "Security Specialist (Reemployed Annuitant and ICTAP eligibles)",
       "company": "U.S. Secret Service",
@@ -15,6 +51,18 @@
       "type": "",
       "salary_annual": 90925.0,
       "salary_hourly": 43.71
+    },
+    {
+      "title": "Staff Psychologist",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/889257000",
+      "salary": "106437",
+      "posted": "2026-10-19",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
     },
     {
       "title": "IT Specialist (Data Mgmt)",
@@ -209,18 +257,6 @@
       "salary_hourly": 35.9
     },
     {
-      "title": "Veterans Service Representative (Rating)",
-      "company": "Veterans Benefits Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/888785000",
-      "salary": "61722",
-      "posted": "2026-10-15",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 61722.0,
-      "salary_hourly": 29.67
-    },
-    {
       "title": "Tax Analyst",
       "company": "Internal Revenue Service",
       "location": "IRS Nationwide Locations",
@@ -401,18 +437,6 @@
       "salary_hourly": 60.47
     },
     {
-      "title": "Lead Medical Support Assistant",
-      "company": "Veterans Health Administration",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/888395400",
-      "salary": "62504",
-      "posted": "2026-10-09",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 62504.0,
-      "salary_hourly": 30.05
-    },
-    {
       "title": "Civil Engineer",
       "company": "U.S. Army Corps of Engineers",
       "location": "Multiple Locations",
@@ -495,18 +519,6 @@
       "type": "",
       "salary_annual": 114695.0,
       "salary_hourly": 55.14
-    },
-    {
-      "title": "Cost Management Branch Chief",
-      "company": "Public Buildings Service",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/887609600",
-      "salary": "125776",
-      "posted": "2026-10-06",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
     },
     {
       "title": "Deputy Chief, Health Operations Unit (O-6 Billet) Supervisory",
@@ -653,18 +665,6 @@
       "salary_hourly": 1.0
     },
     {
-      "title": "COMPUTER ENGINEER",
-      "company": "Air Force Civilian Career Training",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/887326500",
-      "salary": "50460",
-      "posted": "2026-10-01",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 50460.0,
-      "salary_hourly": 24.26
-    },
-    {
       "title": "Homeland Defender (Immigration Services Officer)",
       "company": "Citizenship and Immigration Services",
       "location": "Anywhere in the U.S. (remote job)",
@@ -687,6 +687,18 @@
       "type": "",
       "salary_annual": 89508.0,
       "salary_hourly": 43.03
+    },
+    {
+      "title": "Physician - Diagnostic Radiologist - Recruitment Incentive and EDRP Authorized",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/885639300",
+      "salary": "350000",
+      "posted": "2026-09-21",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 350000.0,
+      "salary_hourly": 168.27
     },
     {
       "title": "Behavioral Health Case Manager (O-5 Billet) Non-Supervisory",
@@ -759,6 +771,18 @@
       "type": "",
       "salary_annual": 385000.0,
       "salary_hourly": 185.1
+    },
+    {
+      "title": "Physician - Radiology Diagnostic",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/880978000",
+      "salary": "375000",
+      "posted": "2026-08-18",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 375000.0,
+      "salary_hourly": 180.29
     },
     {
       "title": "Staff Physician (Nuclear Medicine) - EDRP/Recruitment/Relocation Incentive Authorized",
@@ -891,18 +915,6 @@
       "type": "",
       "salary_annual": 63795.0,
       "salary_hourly": 30.67
-    },
-    {
-      "title": "Economist",
-      "company": "Department of the Air Force Headquarters",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/853032300",
-      "salary": "74678",
-      "posted": "2025-12-22",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 74678.0,
-      "salary_hourly": 35.9
     }
   ]
 }
