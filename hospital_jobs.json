@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T19:03:07Z",
+  "updated": "2026-10-20T05:51:47Z",
   "count": 7,
   "sources": [
     "Cedars-Sinai",
@@ -7,6 +7,22 @@
   ],
   "track_slug": "hospital-careers",
   "jobs": [
+    {
+      "title": "Craft Specialist, Plumbing Shop - Plumber - Full Time Cedars-Sinai Medical Center Los Angeles, CA Facilities Req ID: 21454",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/craft-specialist-plumbing-shop-plumber-full-time/252/102181682032",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/craft-specialist-plumbing-shop-plumber-full-time/252/102181682032",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: facilities"
+    },
     {
       "title": "Echo Sonographer II (Inpatient) - 8-Hour Evening Shift Cedars-Sinai Medical Center Los Angeles, CA Imaging Req ID: 21393",
       "company": "Cedars-Sinai",
@@ -67,22 +83,6 @@
       "posted": "",
       "source": "Hospital_Direct",
       "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/project-scientist-slomka-lab-innovation-in-imaging-department-of-medicine-division-of-aim/252/91952114992",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging"
-    },
-    {
-      "title": "Radiology Manager - CT Imaging - #1 Hospital in California! Cedars-Sinai Medical Center Los Angeles, CA Imaging Req ID: 21382",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/radiology-manager-ct-imaging-1-hospital-in-california/252/102005935472",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/radiology-manager-ct-imaging-1-hospital-in-california/252/102005935472",
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: imaging"
