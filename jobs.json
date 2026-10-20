@@ -1,9 +1,33 @@
 {
-  "updated": "2026-10-20T05:51:44Z",
+  "updated": "2026-10-20T17:47:30Z",
   "zip": "90029",
   "radius_mi": 5,
   "count": 70,
   "jobs": [
+    {
+      "title": "Supervisory IT Specialist (Director of Operations)",
+      "company": "Deputy Assistant Secretary for Information and Technology",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/889418100",
+      "salary": "147945",
+      "posted": "2026-10-20",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 147945.0,
+      "salary_hourly": 71.13
+    },
+    {
+      "title": "Medical Records Technician (Coder-Inpatient)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/889394400",
+      "salary": "36409",
+      "posted": "2026-10-20",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 36409.0,
+      "salary_hourly": 17.5
+    },
     {
       "title": "Informatics Clinical Pharmacist Practitioner",
       "company": "Veterans Health Administration",
@@ -185,7 +209,7 @@
       "salary_hourly": 51.17
     },
     {
-      "title": "Aviation Safety Inspector  (Cabin Safety)",
+      "title": "Aviation Safety Inspector (Cabin Safety)",
       "company": "Federal Aviation Administration",
       "location": "FAA Nationwide-Selectee Remains in Current Duty Location",
       "url": "https://www.usajobs.gov:443/job/882155200",
@@ -399,18 +423,6 @@
       "type": "",
       "salary_annual": 2080.0,
       "salary_hourly": 1.0
-    },
-    {
-      "title": "Lead Medical Support Assistant",
-      "company": "Veterans Health Administration",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/888395400",
-      "salary": "62504",
-      "posted": "2026-10-09",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 62504.0,
-      "salary_hourly": 30.05
     },
     {
       "title": "Civil Engineer",
@@ -687,18 +699,6 @@
       "type": "",
       "salary_annual": 375000.0,
       "salary_hourly": 180.29
-    },
-    {
-      "title": "Physician (Diagnostic-Radiologist) - Neuroradiology",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/881409800",
-      "salary": "385000",
-      "posted": "2026-08-20",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 385000.0,
-      "salary_hourly": 185.1
     },
     {
       "title": "Physician - Radiology Diagnostic",
