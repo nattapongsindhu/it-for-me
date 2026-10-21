@@ -1,27 +1,11 @@
 {
-  "updated": "2026-10-21T05:52:54Z",
+  "updated": "2026-10-21T17:55:03Z",
   "count": 5,
   "sources": [
     "Cedars-Sinai"
   ],
   "track_slug": "hospital-careers",
   "jobs": [
-    {
-      "title": "Craft Specialist, Plumbing Shop - Plumber - Full Time Cedars-Sinai Medical Center Los Angeles, CA Facilities Req ID: 21454",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/craft-specialist-plumbing-shop-plumber-full-time/252/102181682032",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/craft-specialist-plumbing-shop-plumber-full-time/252/102181682032",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: facilities"
-    },
     {
       "title": "Financial Business Systems Analyst (Imaging Department)",
       "company": "Cedars-Sinai",
@@ -85,6 +69,22 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: epic"
+    },
+    {
+      "title": "Surgical Technologist III - Nights Cedars-Sinai Medical Center Los Angeles, CA Clinical Operations Req ID: 21504",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/surgical-technologist-iii-nights/252/102246694480",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/surgical-technologist-iii-nights/252/102246694480",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: technologist"
     }
   ]
 }
