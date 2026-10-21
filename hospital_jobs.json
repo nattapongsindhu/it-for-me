@@ -1,9 +1,8 @@
 {
-  "updated": "2026-10-20T17:47:31Z",
-  "count": 7,
+  "updated": "2026-10-21T05:52:54Z",
+  "count": 5,
   "sources": [
-    "Cedars-Sinai",
-    "Kaiser Permanente"
+    "Cedars-Sinai"
   ],
   "track_slug": "hospital-careers",
   "jobs": [
@@ -22,22 +21,6 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: facilities"
-    },
-    {
-      "title": "Echo Sonographer II (Inpatient) - 8-Hour Evening Shift Cedars-Sinai Medical Center Los Angeles, CA Imaging Req ID: 21393",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/echo-sonographer-ii-inpatient-8-hour-evening-shift/252/102012163008",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/echo-sonographer-ii-inpatient-8-hour-evening-shift/252/102012163008",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging"
     },
     {
       "title": "Financial Business Systems Analyst (Imaging Department)",
@@ -102,22 +85,6 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: epic"
-    },
-    {
-      "title": "IT",
-      "company": "Kaiser Permanente",
-      "hospital_name": "Kaiser Permanente",
-      "location": "Consultant III - Epic First Pasadena, CA",
-      "url": "https://www.kaiserpermanentejobs.org/job/pasadena/it-consultant-iii-epic-first/641/101926692368",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::kaiser permanente::https://www.kaiserpermanentejobs.org/job/pasadena/it-consultant-iii-epic-first/641/101926692368",
-      "track_slug": "hospital-careers",
-      "type": "Flexible, Regular, Full-time",
-      "match_reason": "Kaiser direct match: epic"
     }
   ]
 }
