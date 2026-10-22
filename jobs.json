@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-22T05:56:43Z",
+  "updated": "2026-10-22T17:51:25Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 65,
+  "count": 68,
   "jobs": [
     {
       "title": "IT Specialist (Network)",
@@ -29,6 +29,18 @@
       "salary_hourly": 60.47
     },
     {
+      "title": "Physician - Neurologist",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/889864700",
+      "salary": "260000",
+      "posted": "2026-10-22",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 260000.0,
+      "salary_hourly": 125.0
+    },
+    {
       "title": "Senior Super Intelligence Architect",
       "company": "Office of the Secretary of the Interior",
       "location": "Location Negotiable After Selection",
@@ -53,6 +65,54 @@
       "salary_hourly": 72.91
     },
     {
+      "title": "Medical Records Technician (Coder-Outpatient)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/889830300",
+      "salary": "37193",
+      "posted": "2026-10-22",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 37193.0,
+      "salary_hourly": 17.88
+    },
+    {
+      "title": "Health System Specialist",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/889835300",
+      "salary": "90925",
+      "posted": "2026-10-22",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 90925.0,
+      "salary_hourly": 43.71
+    },
+    {
+      "title": "Supervisory Health System Specialist",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/889887800",
+      "salary": "125776",
+      "posted": "2026-10-22",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 125776.0,
+      "salary_hourly": 60.47
+    },
+    {
+      "title": "Lead Health Technician (Telehealth)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/889819800",
+      "salary": "58355",
+      "posted": "2026-10-22",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 58355.0,
+      "salary_hourly": 28.06
+    },
+    {
       "title": "Supervisory Social Science Specialist (Crisis Responder)",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -63,6 +123,18 @@
       "type": "",
       "salary_annual": 89508.0,
       "salary_hourly": 43.03
+    },
+    {
+      "title": "Supervisory Program Analyst",
+      "company": "Veterans Health Administration",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/889791000",
+      "salary": "125776",
+      "posted": "2026-10-22",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 125776.0,
+      "salary_hourly": 60.47
     },
     {
       "title": "IT Specialist (SYS ANALYSIS)",
@@ -233,18 +305,6 @@
       "salary_hourly": 36.53
     },
     {
-      "title": "Supervisory Contract Specialist",
-      "company": "Federal Aviation Administration",
-      "location": "FAA Nationwide-Selectee Remains in Current Duty Location",
-      "url": "https://www.usajobs.gov:443/job/889345300",
-      "salary": "112283",
-      "posted": "2026-10-20",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 112283.0,
-      "salary_hourly": 53.98
-    },
-    {
       "title": "Physician - Diagnostic Tele-Radiologist",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -305,18 +365,6 @@
       "salary_hourly": 144.23
     },
     {
-      "title": "Supvervisory Medical Records Technician (Coder)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/888997000",
-      "salary": "67970",
-      "posted": "2026-10-16",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 67970.0,
-      "salary_hourly": 32.68
-    },
-    {
       "title": "Medical Records Technician (Inpatient Coder)",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -327,6 +375,18 @@
       "type": "",
       "salary_annual": 61945.0,
       "salary_hourly": 29.78
+    },
+    {
+      "title": "Supvervisory Medical Records Technician (Coder)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/888997000",
+      "salary": "67970",
+      "posted": "2026-10-16",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 67970.0,
+      "salary_hourly": 32.68
     },
     {
       "title": "Health System Specialist/Facility Planner",
@@ -387,18 +447,6 @@
       "type": "Full-Time, Permanent",
       "salary_annual": 143913.0,
       "salary_hourly": 69.19
-    },
-    {
-      "title": "Health System Specialist",
-      "company": "Veterans Health Administration",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/888838900",
-      "salary": "125776",
-      "posted": "2026-10-15",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
     },
     {
       "title": "Semester of Service Student Volunteer",
@@ -747,18 +795,6 @@
       "type": "",
       "salary_annual": 22584.0,
       "salary_hourly": 10.86
-    },
-    {
-      "title": "Immigration Judge",
-      "company": "Executive Office for Immigration Review",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/853385500",
-      "salary": "161590",
-      "posted": "2025-12-30",
-      "source": "USAJobs",
-      "type": "Full-Time, Intermittent",
-      "salary_annual": 161590.0,
-      "salary_hourly": 77.69
     },
     {
       "title": "Information Technology Specialist (INFOSEC)",
