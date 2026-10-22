@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T17:55:03Z",
+  "updated": "2026-10-22T05:56:47Z",
   "count": 5,
   "sources": [
     "Cedars-Sinai"
@@ -55,20 +55,20 @@
       "match_reason": "Cedars-Sinai direct match: imaging"
     },
     {
-      "title": "Senior Epic Cadence Analyst - Remote",
+      "title": "Surgical Technologist I - Days Cedars-Sinai Medical Center Los Angeles, CA Clinical Operations Req ID: 21501",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/senior-epic-cadence-analyst-remote/252/102048934112",
+      "url": "https://careers.cshs.org/job/los-angeles/surgical-technologist-i-days/252/102246694384",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/senior-epic-cadence-analyst-remote/252/102048934112",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/surgical-technologist-i-days/252/102246694384",
       "track_slug": "hospital-careers",
       "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: epic"
+      "match_reason": "Cedars-Sinai direct match: technologist"
     },
     {
       "title": "Surgical Technologist III - Nights Cedars-Sinai Medical Center Los Angeles, CA Clinical Operations Req ID: 21504",
