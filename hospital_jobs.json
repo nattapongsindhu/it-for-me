@@ -1,27 +1,11 @@
 {
-  "updated": "2026-10-23T05:53:56Z",
-  "count": 4,
+  "updated": "2026-10-23T17:43:57Z",
+  "count": 3,
   "sources": [
     "Cedars-Sinai"
   ],
   "track_slug": "hospital-careers",
   "jobs": [
-    {
-      "title": "Pediatric Neurodiagnostic Monitoring Tech - Per Diem - Day Shift Cedars-Sinai Medical Center Los Angeles, CA Imaging Req ID: 21541",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/pediatric-neurodiagnostic-monitoring-tech-per-diem-day-shift/252/102289183264",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/pediatric-neurodiagnostic-monitoring-tech-per-diem-day-shift/252/102289183264",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging"
-    },
     {
       "title": "Postdoctoral Scientist - Slomka Lab - Innovation in Imaging / Department of Medicine / Division of AIM Cedars-Sinai Medical Center Los Angeles, CA Academic / Research Req ID: HRC1428640",
       "company": "Cedars-Sinai",
@@ -55,17 +39,17 @@
       "match_reason": "Cedars-Sinai direct match: imaging"
     },
     {
-      "title": "Surgical Technologist III - Nights Cedars-Sinai Medical Center Los Angeles, CA Clinical Operations Req ID: 21504",
+      "title": "Surgical Technologist II - Days Cedars-Sinai Medical Center Los Angeles, CA Clinical Operations Req ID: 21585",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/surgical-technologist-iii-nights/252/102246694480",
+      "url": "https://careers.cshs.org/job/los-angeles/surgical-technologist-ii-days/252/102332899840",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/surgical-technologist-iii-nights/252/102246694480",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/surgical-technologist-ii-days/252/102332899840",
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: technologist"
