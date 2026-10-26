@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T05:57:14Z",
+  "updated": "2026-10-26T19:02:07Z",
   "zip": "90029",
   "radius_mi": 5,
   "count": 77,
@@ -15,6 +15,18 @@
       "type": "",
       "salary_annual": 147945.0,
       "salary_hourly": 71.13
+    },
+    {
+      "title": "Physician (Diagnostic Radiologist)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/890256600",
+      "salary": "300000",
+      "posted": "2026-10-26",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 300000.0,
+      "salary_hourly": 144.23
     },
     {
       "title": "Physical Security Specialist",
@@ -53,7 +65,7 @@
       "salary_hourly": 60.47
     },
     {
-      "title": "Supervisory Health System Specialist - VISN Compliance and Business Integrity Officer",
+      "title": "Supervisory Health System Specialist - VISN Integrity and Compliance Officer",
       "company": "Veterans Health Administration",
       "location": "Location Negotiable After Selection",
       "url": "https://www.usajobs.gov:443/job/890136500",
@@ -483,18 +495,6 @@
       "type": "",
       "salary_annual": 112283.0,
       "salary_hourly": 53.98
-    },
-    {
-      "title": "Physician - Diagnostic Tele-Radiologist",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/889235700",
-      "salary": "230000",
-      "posted": "2026-10-19",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 230000.0,
-      "salary_hourly": 110.58
     },
     {
       "title": "Supervisory Medical Records Technician",

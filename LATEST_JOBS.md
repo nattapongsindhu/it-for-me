@@ -1,6 +1,6 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-10-26T05%3A57%3A14Z-blue?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-10-26T19%3A02%3A07Z-blue?style=flat-square)
 ![Jobs](https://img.shields.io/badge/Jobs_Found-77-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
@@ -13,10 +13,11 @@
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
 | Supervisory Information Technology Specialist (SYSANALYSIS) | Forest Service | Location Negotiable After Selection | Not listed | 147945 | 2026-10-26 | [Apply](https://www.usajobs.gov:443/job/889730400) |
+| Physician (Diagnostic Radiologist) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 300000 | 2026-10-26 | [Apply](https://www.usajobs.gov:443/job/890256600) |
 | Physical Security Specialist | Forest Service | Location Negotiable After Selection | Not listed | 106437 | 2026-10-26 | [Apply](https://www.usajobs.gov:443/job/890020300) |
 | Supervisory Health System Specialist (Business Manager) | Veterans Health Administration | Location Negotiable After Selection | Not listed | 125776 | 2026-10-26 | [Apply](https://www.usajobs.gov:443/job/890044200) |
 | Supervisory Human Resources Specialist (Employee Relations / Labor Relations) | National Institutes of Health | Location Negotiable After Selection | Not listed | 125776 | 2026-10-26 | [Apply](https://www.usajobs.gov:443/job/889847500) |
-| Supervisory Health System Specialist - VISN Compliance and Business Integrity Officer | Veterans Health Administration | Location Negotiable After Selection | Not listed | 125776 | 2026-10-26 | [Apply](https://www.usajobs.gov:443/job/890136500) |
+| Supervisory Health System Specialist - VISN Integrity and Compliance Officer | Veterans Health Administration | Location Negotiable After Selection | Not listed | 125776 | 2026-10-26 | [Apply](https://www.usajobs.gov:443/job/890136500) |
 | IT Specialist (APPSW) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 125776 | 2026-10-23 | [Apply](https://www.usajobs.gov:443/job/890024200) |
 | It Specialist (Infosec) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 106437 | 2026-10-23 | [Apply](https://www.usajobs.gov:443/job/889855500) |
 | Human Resources Officer | Deputy Assistant Secretary for Information and Technology | Multiple Locations | Not listed | 169279 | 2026-10-23 | [Apply](https://www.usajobs.gov:443/job/889948100) |
@@ -31,7 +32,6 @@
 | Medical Instrument Tech (GI) | Veterans Health Administration | Los Angeles, California | Not listed | 42446 | 2026-10-23 | [Apply](https://www.usajobs.gov:443/job/890035000) |
 | IT Specialist (Network) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 89508 | 2026-10-22 | [Apply](https://www.usajobs.gov:443/job/889723600) |
 | Supervisory IT Specialist | Deputy Assistant Secretary for Information and Technology | Multiple Locations | Not listed | 125776 | 2026-10-22 | [Apply](https://www.usajobs.gov:443/job/889754200) |
-| Senior Super Intelligence Architect | Office of the Secretary of the Interior | Location Negotiable After Selection | Not listed | 151661 | 2026-10-22 | [Apply](https://www.usajobs.gov:443/job/889627100) |
 
 ---
 
@@ -41,7 +41,7 @@
 |--------|-------|
 | Total jobs found | 77 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-10-26T05:57:14Z |
+| Last updated | 2026-10-26T19:02:07Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-10-26T05:57:14Z_
+_Auto-generated legacy snapshot. Last run: 2026-10-26T19:02:07Z_
