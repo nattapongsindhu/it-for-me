@@ -1,17 +1,21 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-10-26T19%3A02%3A07Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-77-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-10-27T06%3A08%3A46Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-79-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
 
 ---
 
-## Latest Jobs - October 26, 2026
+## Latest Jobs - October 27, 2026
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
+| Watercraft Safety Program Manager | Geological Survey | Location Negotiable After Selection | You may be required to work on-call, evenings, weekends, holidays, overtime and shift work. | 89508 | 2026-10-27 | [Apply](https://www.usajobs.gov:443/job/890298700) |
+| Accountant | Program Support Center | Multiple Locations | Not listed | 102415 | 2026-10-27 | [Apply](https://www.usajobs.gov:443/job/890236800) |
+| Supervisory Management & Program Analyst | Veterans Health Administration | Location Negotiable After Selection | Not listed | 125776 | 2026-10-27 | [Apply](https://www.usajobs.gov:443/job/890241400) |
+| Physician Assistant | Program Support Center | Multiple Locations | Not listed | 102415 | 2026-10-27 | [Apply](https://www.usajobs.gov:443/job/890234500) |
 | Supervisory Information Technology Specialist (SYSANALYSIS) | Forest Service | Location Negotiable After Selection | Not listed | 147945 | 2026-10-26 | [Apply](https://www.usajobs.gov:443/job/889730400) |
 | Physician (Diagnostic Radiologist) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 300000 | 2026-10-26 | [Apply](https://www.usajobs.gov:443/job/890256600) |
 | Physical Security Specialist | Forest Service | Location Negotiable After Selection | Not listed | 106437 | 2026-10-26 | [Apply](https://www.usajobs.gov:443/job/890020300) |
@@ -27,11 +31,7 @@
 | Economics (Student Trainee) | Economic Research Service | Anywhere in the U.S. (remote job) | 8-20 hours per week | 0 | 2026-10-23 | [Apply](https://www.usajobs.gov:443/job/889896000) |
 | Lead Medical Records Technician (Coder-Inpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 64021 | 2026-10-23 | [Apply](https://www.usajobs.gov:443/job/890003500) |
 | Equal Opportunity Assistant (OA) | Veterans Health Administration | Los Angeles, California | Not listed | 52938 | 2026-10-23 | [Apply](https://www.usajobs.gov:443/job/890106300) |
-| Program Analyst | Office of the Secretary of the Interior | Location Negotiable After Selection | Not listed | 106437 | 2026-10-23 | [Apply](https://www.usajobs.gov:443/job/889637100) |
 | Pharmacy Technician - Clinical Contact Center (CCC) | Veterans Health Administration | Multiple Locations | Not listed | 72849 | 2026-10-23 | [Apply](https://www.usajobs.gov:443/job/889765900) |
-| Medical Instrument Tech (GI) | Veterans Health Administration | Los Angeles, California | Not listed | 42446 | 2026-10-23 | [Apply](https://www.usajobs.gov:443/job/890035000) |
-| IT Specialist (Network) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 89508 | 2026-10-22 | [Apply](https://www.usajobs.gov:443/job/889723600) |
-| Supervisory IT Specialist | Deputy Assistant Secretary for Information and Technology | Multiple Locations | Not listed | 125776 | 2026-10-22 | [Apply](https://www.usajobs.gov:443/job/889754200) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 77 |
+| Total jobs found | 79 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-10-26T19:02:07Z |
+| Last updated | 2026-10-27T06:08:46Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 77 jobs
+- USAJobs: 79 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-10-26T19:02:07Z_
+_Auto-generated legacy snapshot. Last run: 2026-10-27T06:08:46Z_
