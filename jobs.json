@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-28T06:46:15Z",
+  "updated": "2026-10-28T18:39:53Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 82,
+  "count": 84,
   "jobs": [
     {
       "title": "Medical Records Technician (Coder)",
@@ -17,6 +17,54 @@
       "salary_hourly": 17.5
     },
     {
+      "title": "LEAD MEDICAL RECORDS TECHNICIAN (CODER-OUTPATIENT AND INPATIENT)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/890589100",
+      "salary": "61722",
+      "posted": "2026-10-28",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 61722.0,
+      "salary_hourly": 29.67
+    },
+    {
+      "title": "Supervisory Training Specialist",
+      "company": "Veterans Benefits Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/890685400",
+      "salary": "63795",
+      "posted": "2026-10-28",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 63795.0,
+      "salary_hourly": 30.67
+    },
+    {
+      "title": "Supervisory Medical Support Assistant- Clinical Resource Hub",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/890680100",
+      "salary": "55882",
+      "posted": "2026-10-28",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 55882.0,
+      "salary_hourly": 26.87
+    },
+    {
+      "title": "Health Insurance Specialist",
+      "company": "Centers for Medicare & Medicaid Services",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/890588200",
+      "salary": "143913",
+      "posted": "2026-10-28",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 143913.0,
+      "salary_hourly": 69.19
+    },
+    {
       "title": "Physician",
       "company": "Program Support Center",
       "location": "Multiple Locations",
@@ -27,6 +75,30 @@
       "type": "",
       "salary_annual": 126384.0,
       "salary_hourly": 60.76
+    },
+    {
+      "title": "Health System Specialist - Executive Assistant to the Regional Nursing Officer",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/890645300",
+      "salary": "125776",
+      "posted": "2026-10-28",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 125776.0,
+      "salary_hourly": 60.47
+    },
+    {
+      "title": "LEAD MEDICAL SUPPORT ASSISTANT",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/890622900",
+      "salary": "50460",
+      "posted": "2026-10-28",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 50460.0,
+      "salary_hourly": 24.26
     },
     {
       "title": "Devops Engineer/Full Stack Engineer",
@@ -149,18 +221,6 @@
       "salary_hourly": 60.47
     },
     {
-      "title": "Lead Medical Support Assistant",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/890378000",
-      "salary": "50460",
-      "posted": "2026-10-27",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 50460.0,
-      "salary_hourly": 24.26
-    },
-    {
       "title": "Supervisory Information Technology Specialist (SYSANALYSIS)",
       "company": "Forest Service",
       "location": "Location Negotiable After Selection",
@@ -279,18 +339,6 @@
       "type": "",
       "salary_annual": 61722.0,
       "salary_hourly": 29.67
-    },
-    {
-      "title": "Supervisory Medical Records Technician",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/890166800",
-      "salary": "67970",
-      "posted": "2026-10-23",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 67970.0,
-      "salary_hourly": 32.68
     },
     {
       "title": "Health System Specialist - Executive Assistant to the Regional Medical Officer",
@@ -665,18 +713,6 @@
       "salary_hourly": 60.47
     },
     {
-      "title": "Deputy Chief, IHSC Special Operations Unit (O-6 Billet) Supervisory",
-      "company": "Immigration and Customs Enforcement",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/887869600",
-      "salary": "1",
-      "posted": "2026-10-12",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 2080.0,
-      "salary_hourly": 1.0
-    },
-    {
       "title": "Regional Section Chief, Field Medical Coordination Unit (O-6 Billet) Supervisory",
       "company": "Immigration and Customs Enforcement",
       "location": "Location Negotiable After Selection",
@@ -975,18 +1011,6 @@
       "type": "",
       "salary_annual": 63795.0,
       "salary_hourly": 30.67
-    },
-    {
-      "title": "Economist",
-      "company": "Department of the Air Force Headquarters",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/853032300",
-      "salary": "74678",
-      "posted": "2025-12-22",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 74678.0,
-      "salary_hourly": 35.9
     }
   ]
 }
