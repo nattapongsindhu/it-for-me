@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-28T18:39:55Z",
-  "count": 3,
+  "updated": "2026-10-29T06:55:40Z",
+  "count": 2,
   "sources": [
     "Cedars-Sinai"
   ],
@@ -37,22 +37,6 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: imaging"
-    },
-    {
-      "title": "Surgical Technologist II - Days Cedars-Sinai Medical Center Los Angeles, CA Clinical Operations Req ID: 21585",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/surgical-technologist-ii-days/252/102332899840",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/surgical-technologist-ii-days/252/102332899840",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: technologist"
     }
   ]
 }
