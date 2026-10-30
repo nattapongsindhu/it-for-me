@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-30T06:58:14Z",
+  "updated": "2026-10-30T18:25:50Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 77,
+  "count": 79,
   "jobs": [
     {
       "title": "IT SPECIALIST (PLCYPLN/INFOSEC)",
@@ -15,6 +15,18 @@
       "type": "",
       "salary_annual": 146632.0,
       "salary_hourly": 70.5
+    },
+    {
+      "title": "Senior Advisor - SI Enablement and Data Strategy",
+      "company": "Securities and Exchange Commission",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/891035200",
+      "salary": "161608",
+      "posted": "2026-10-30",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 161608.0,
+      "salary_hourly": 77.7
     },
     {
       "title": "Physician (Medical Officer)",
@@ -87,6 +99,18 @@
       "type": "",
       "salary_annual": 106437.0,
       "salary_hourly": 51.17
+    },
+    {
+      "title": "Medical Records Technician (Coder-Outpatient)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/891076900",
+      "salary": "36409",
+      "posted": "2026-10-30",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 36409.0,
+      "salary_hourly": 17.5
     },
     {
       "title": "IT Specialist (Pega Developer) Direct Hire",
@@ -437,18 +461,6 @@
       "salary_hourly": 60.47
     },
     {
-      "title": "Lead Medical Records Technician (Coder-Inpatient/Outpatient)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/890006300",
-      "salary": "61722",
-      "posted": "2026-10-23",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 61722.0,
-      "salary_hourly": 29.67
-    },
-    {
       "title": "Supervisory Health System Specialist",
       "company": "Veterans Health Administration",
       "location": "Location Negotiable After Selection",
@@ -471,6 +483,18 @@
       "type": "8-20 hours per week",
       "salary_annual": null,
       "salary_hourly": null
+    },
+    {
+      "title": "Lead Medical Records Technician (Coder-Inpatient/Outpatient)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/890006300",
+      "salary": "61722",
+      "posted": "2026-10-23",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 61722.0,
+      "salary_hourly": 29.67
     },
     {
       "title": "Equal Opportunity Assistant (OA)",
