@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T18:25:52Z",
+  "updated": "2026-10-31T06:52:28Z",
   "count": 4,
   "sources": [
     "Cedars-Sinai"
@@ -18,22 +18,6 @@
       "posted": "",
       "source": "Hospital_Direct",
       "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/cardiac-cath-lab-interventional-radiology-tech-i-10-hour-day-shift-5-000-hiring-incentive/252/102609022784",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging"
-    },
-    {
-      "title": "Cardiac Cath Lab Interventional Radiology Tech II - 10-Hour Day Shift - $5,000 Hiring Incentive! Cedars-Sinai Medical Center Beverly Hills, CA Imaging Req ID: 21779",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/beverly-hills/cardiac-cath-lab-interventional-radiology-tech-ii-10-hour-day-shift-5-000-hiring-incentive/252/102609022656",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/cardiac-cath-lab-interventional-radiology-tech-ii-10-hour-day-shift-5-000-hiring-incentive/252/102609022656",
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: imaging"
@@ -69,6 +53,22 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: imaging"
+    },
+    {
+      "title": "Surgical Technologist I - Days Cedars-Sinai Medical Center Los Angeles, CA Clinical Operations Req ID: 21808",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/surgical-technologist-i-days/252/102658582048",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/surgical-technologist-i-days/252/102658582048",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: technologist"
     }
   ]
 }
