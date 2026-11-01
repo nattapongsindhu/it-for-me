@@ -1,14 +1,14 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-10-31T17%3A30%3A38Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-78-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-11-01T07%3A19%3A28Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-76-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
 
 ---
 
-## Latest Jobs - October 31, 2026
+## Latest Jobs - November 01, 2026
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
@@ -23,7 +23,6 @@
 | Forestry Technician (Recreation) | Forest Service | Multiple Locations | Not listed | 19.52 | 2026-10-30 | [Apply](https://www.usajobs.gov:443/job/890782900) |
 | Healthcare Engineer | Veterans Health Administration | Los Angeles, California | Not listed | 153663 | 2026-10-30 | [Apply](https://www.usajobs.gov:443/job/890175800) |
 | Program Analyst | Office of the Secretary of the Interior | Location Negotiable After Selection | Not listed | 106437 | 2026-10-30 | [Apply](https://www.usajobs.gov:443/job/890812900) |
-| Medical Records Technician (Coder-Outpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 36409 | 2026-10-30 | [Apply](https://www.usajobs.gov:443/job/891076900) |
 | IT Specialist (Pega Developer) Direct Hire | Social Security Administration | Multiple Locations | Flextime and Alternative Work Schedules are available. Occasional weekend work may be required. | 121798 | 2026-10-29 | [Apply](https://www.usajobs.gov:443/job/890664600) |
 | Supervisory IT Specialist | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 90925 | 2026-10-29 | [Apply](https://www.usajobs.gov:443/job/890555800) |
 | Physician-Diagnostic Radiologist-Recruitment/Relocation Incentive-EDRP Authorized | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 124308 | 2026-10-29 | [Apply](https://www.usajobs.gov:443/job/890967600) |
@@ -32,6 +31,7 @@
 | Health Science Specialist - Healthcare Ethicist | Veterans Health Administration | Location Negotiable After Selection | Not listed | 106437 | 2026-10-29 | [Apply](https://www.usajobs.gov:443/job/890735600) |
 | Emergency Management Specialist | Veterans Health Administration | Location Negotiable After Selection | Not listed | 106437 | 2026-10-29 | [Apply](https://www.usajobs.gov:443/job/890841100) |
 | Staff Psychologist - Clinical Resource Hub | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 63795 | 2026-10-29 | [Apply](https://www.usajobs.gov:443/job/890960100) |
+| Medical Records Technician (Coder) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 36409 | 2026-10-28 | [Apply](https://www.usajobs.gov:443/job/890531000) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 78 |
+| Total jobs found | 76 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-10-31T17:30:38Z |
+| Last updated | 2026-11-01T07:19:28Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 78 jobs
+- USAJobs: 76 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-10-31T17:30:38Z_
+_Auto-generated legacy snapshot. Last run: 2026-11-01T07:19:28Z_
