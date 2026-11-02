@@ -1,9 +1,165 @@
 {
-  "updated": "2026-11-01T18:16:23Z",
+  "updated": "2026-11-02T07:32:51Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 76,
+  "count": 86,
   "jobs": [
+    {
+      "title": "Technical Analyst, Health Information Technology Unit (O-5 Billet) Non-Supervisory",
+      "company": "Immigration and Customs Enforcement",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/890326200",
+      "salary": "1",
+      "posted": "2026-11-02",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 2080.0,
+      "salary_hourly": 1.0
+    },
+    {
+      "title": "Medical Records Technician (Coder Inpatient)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/890854100",
+      "salary": "36409",
+      "posted": "2026-11-02",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 36409.0,
+      "salary_hourly": 17.5
+    },
+    {
+      "title": "Health Application Services - Training Program Officer (O-5 Billet) Non-Supervisory",
+      "company": "Immigration and Customs Enforcement",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/890325800",
+      "salary": "1",
+      "posted": "2026-11-02",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 2080.0,
+      "salary_hourly": 1.0
+    },
+    {
+      "title": "Cybersecurity Compliance Office Lead (O-6 Billet) Supervisory",
+      "company": "Immigration and Customs Enforcement",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/890324700",
+      "salary": "1",
+      "posted": "2026-11-02",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 2080.0,
+      "salary_hourly": 1.0
+    },
+    {
+      "title": "Program Manager, Cybersecurity & Privacy (O-5 Billet) Non-Supervisory",
+      "company": "Immigration and Customs Enforcement",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/890325500",
+      "salary": "1",
+      "posted": "2026-11-02",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 2080.0,
+      "salary_hourly": 1.0
+    },
+    {
+      "title": "Section Chief, Contracts and Acquisition Management (O-6 Billet) Supervisory",
+      "company": "Immigration and Customs Enforcement",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/890324400",
+      "salary": "1",
+      "posted": "2026-11-02",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 2080.0,
+      "salary_hourly": 1.0
+    },
+    {
+      "title": "Contract Governance Office Lead (O-6 Billet) Supervisory",
+      "company": "Immigration and Customs Enforcement",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/890324600",
+      "salary": "1",
+      "posted": "2026-11-02",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 2080.0,
+      "salary_hourly": 1.0
+    },
+    {
+      "title": "Program Manager, Acquisitions (O-5 Billet) Non-supervisory",
+      "company": "Immigration and Customs Enforcement",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/890325000",
+      "salary": "1",
+      "posted": "2026-11-02",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 2080.0,
+      "salary_hourly": 1.0
+    },
+    {
+      "title": "Acquisition Planning Office Lead (O-6 Billet) Supervisory",
+      "company": "Immigration and Customs Enforcement",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/890323600",
+      "salary": "1",
+      "posted": "2026-11-02",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 2080.0,
+      "salary_hourly": 1.0
+    },
+    {
+      "title": "Program Manager, Contract Governance (O-5 Billet) Non-Supervisory",
+      "company": "Immigration and Customs Enforcement",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/890325300",
+      "salary": "1",
+      "posted": "2026-11-02",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 2080.0,
+      "salary_hourly": 1.0
+    },
+    {
+      "title": "Supervisory Nurse Consultant",
+      "company": "Program Support Center",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/890759800",
+      "salary": "107446",
+      "posted": "2026-11-02",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 107446.0,
+      "salary_hourly": 51.66
+    },
+    {
+      "title": "Program Specialist - Acquisition",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/891044700",
+      "salary": "106437",
+      "posted": "2026-11-02",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
+    },
+    {
+      "title": "Registered Nurse, Informaticist - Clinical Resource Hub (CRH), HSA 5.1 and 5.4",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/891075000",
+      "salary": "96237",
+      "posted": "2026-11-02",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 96237.0,
+      "salary_hourly": 46.27
+    },
     {
       "title": "IT SPECIALIST (PLCYPLN/INFOSEC)",
       "company": "Air Force Office of Special Investigations",
@@ -63,18 +219,6 @@
       "type": "",
       "salary_annual": 125776.0,
       "salary_hourly": 60.47
-    },
-    {
-      "title": "Medical Records Technician (Coder) Auditor",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/891149300",
-      "salary": "69905",
-      "posted": "2026-10-30",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 69905.0,
-      "salary_hourly": 33.61
     },
     {
       "title": "General Engineer - Direct Hire - SME",
@@ -171,18 +315,6 @@
       "type": "",
       "salary_annual": 124308.0,
       "salary_hourly": 59.76
-    },
-    {
-      "title": "Supervisory Medical Records Technician",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/890818200",
-      "salary": "67970",
-      "posted": "2026-10-29",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 67970.0,
-      "salary_hourly": 32.68
     },
     {
       "title": "Health System Specialist",
@@ -831,18 +963,6 @@
       "type": "",
       "salary_annual": 89508.0,
       "salary_hourly": 43.03
-    },
-    {
-      "title": "Diagnostic Radiologist - Remote Eligible",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/886164500",
-      "salary": "350000",
-      "posted": "2026-08-26",
-      "source": "USAJobs",
-      "type": "8:00 - 16:30 Mon-Fri",
-      "salary_annual": 350000.0,
-      "salary_hourly": 168.27
     },
     {
       "title": "Physician - Radiology Diagnostic",
