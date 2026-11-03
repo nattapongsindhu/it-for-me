@@ -1,7 +1,7 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-11-03T07%3A46%3A52Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-82-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-11-03T19%3A57%3A56Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-84-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
@@ -12,7 +12,11 @@
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
+| Physician-Remote Diagnostic Radiologist (Recruitment/Relocation Authorized) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 350000 | 2026-11-03 | [Apply](https://www.usajobs.gov:443/job/891441800) |
 | Program Specialist / Program Resources Analyst | Animal and Plant Health Inspection Service | Multiple Locations | Not listed | 61722 | 2026-11-03 | [Apply](https://www.usajobs.gov:443/job/891303200) |
+| Senior Compliance Investigator | Pipeline and Hazardous Materials Safety Administration | Anywhere in the U.S. (remote job) | Full Time | 125776 | 2026-11-03 | [Apply](https://www.usajobs.gov:443/job/891335100) |
+| Deputy Chief Officer | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-11-03 | [Apply](https://www.usajobs.gov:443/job/891337900) |
+| Medical Records Technician (Coder - Outpatient and Inpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 36409 | 2026-11-03 | [Apply](https://www.usajobs.gov:443/job/891402400) |
 | IT Specialist (Policy Planning) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 125776 | 2026-11-02 | [Apply](https://www.usajobs.gov:443/job/891171500) |
 | Supervisory IT Specialist (Network) | Deputy Assistant Secretary for Information and Technology | Location Negotiable After Selection | Not listed | 106437 | 2026-11-02 | [Apply](https://www.usajobs.gov:443/job/891079900) |
 | Technical Analyst, Health Information Technology Unit (O-5 Billet) Non-Supervisory | Immigration and Customs Enforcement | Location Negotiable After Selection | Not listed | 1 | 2026-11-02 | [Apply](https://www.usajobs.gov:443/job/890326200) |
@@ -26,12 +30,8 @@
 | Program Manager, Acquisitions (O-5 Billet) Non-supervisory | Immigration and Customs Enforcement | Location Negotiable After Selection | Not listed | 1 | 2026-11-02 | [Apply](https://www.usajobs.gov:443/job/890325000) |
 | Acquisition Planning Office Lead (O-6 Billet) Supervisory | Immigration and Customs Enforcement | Location Negotiable After Selection | Not listed | 1 | 2026-11-02 | [Apply](https://www.usajobs.gov:443/job/890323600) |
 | Program Manager, Contract Governance (O-5 Billet) Non-Supervisory | Immigration and Customs Enforcement | Location Negotiable After Selection | Not listed | 1 | 2026-11-02 | [Apply](https://www.usajobs.gov:443/job/890325300) |
+| Health System Specialist | Veterans Health Administration | Multiple Locations | Not listed | 125776 | 2026-11-02 | [Apply](https://www.usajobs.gov:443/job/891384100) |
 | Program Analyst | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 74678 | 2026-11-02 | [Apply](https://www.usajobs.gov:443/job/891264600) |
-| Supervisory Nurse Consultant | Program Support Center | Multiple Locations | Not listed | 107446 | 2026-11-02 | [Apply](https://www.usajobs.gov:443/job/890759800) |
-| IT SPECIALIST (PLCYPLN/INFOSEC) | Air Force Office of Special Investigations | Los Angeles, California | Not listed | 146632 | 2026-10-30 | [Apply](https://www.usajobs.gov:443/job/890931900) |
-| Senior Advisor - SI Enablement and Data Strategy | Securities and Exchange Commission | Multiple Locations | Not listed | 161608 | 2026-10-30 | [Apply](https://www.usajobs.gov:443/job/891035200) |
-| Physician (Medical Officer) | Office of the Secretary of Health and Human Services | Multiple Locations | Not listed | 126384 | 2026-10-30 | [Apply](https://www.usajobs.gov:443/job/890641000) |
-| Health System Specialist- Executive Assistant | Veterans Health Administration | Location Negotiable After Selection | Not listed | 125776 | 2026-10-30 | [Apply](https://www.usajobs.gov:443/job/891121900) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 82 |
+| Total jobs found | 84 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-11-03T07:46:52Z |
+| Last updated | 2026-11-03T19:57:56Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 82 jobs
+- USAJobs: 84 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-11-03T07:46:52Z_
+_Auto-generated legacy snapshot. Last run: 2026-11-03T19:57:56Z_

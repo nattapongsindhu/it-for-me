@@ -1,9 +1,21 @@
 {
-  "updated": "2026-11-03T07:46:52Z",
+  "updated": "2026-11-03T19:57:56Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 82,
+  "count": 84,
   "jobs": [
+    {
+      "title": "Physician-Remote Diagnostic Radiologist (Recruitment/Relocation Authorized)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/891441800",
+      "salary": "350000",
+      "posted": "2026-11-03",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 350000.0,
+      "salary_hourly": 168.27
+    },
     {
       "title": "Program Specialist / Program Resources Analyst",
       "company": "Animal and Plant Health Inspection Service",
@@ -15,6 +27,42 @@
       "type": "",
       "salary_annual": 61722.0,
       "salary_hourly": 29.67
+    },
+    {
+      "title": "Senior Compliance Investigator",
+      "company": "Pipeline and Hazardous Materials Safety Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/891335100",
+      "salary": "125776",
+      "posted": "2026-11-03",
+      "source": "USAJobs",
+      "type": "Full Time",
+      "salary_annual": 125776.0,
+      "salary_hourly": 60.47
+    },
+    {
+      "title": "Deputy Chief Officer",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/891337900",
+      "salary": "61722",
+      "posted": "2026-11-03",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 61722.0,
+      "salary_hourly": 29.67
+    },
+    {
+      "title": "Medical Records Technician (Coder - Outpatient and Inpatient)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/891402400",
+      "salary": "36409",
+      "posted": "2026-11-03",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 36409.0,
+      "salary_hourly": 17.5
     },
     {
       "title": "IT Specialist (Policy Planning)",
@@ -171,6 +219,18 @@
       "type": "",
       "salary_annual": 2080.0,
       "salary_hourly": 1.0
+    },
+    {
+      "title": "Health System Specialist",
+      "company": "Veterans Health Administration",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/891384100",
+      "salary": "125776",
+      "posted": "2026-11-02",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 125776.0,
+      "salary_hourly": 60.47
     },
     {
       "title": "Program Analyst",
@@ -341,30 +401,6 @@
       "salary_hourly": 43.71
     },
     {
-      "title": "Physician-Diagnostic Radiologist-Recruitment/Relocation Incentive-EDRP Authorized",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/890967600",
-      "salary": "124308",
-      "posted": "2026-10-29",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 124308.0,
-      "salary_hourly": 59.76
-    },
-    {
-      "title": "Health System Specialist",
-      "company": "Veterans Health Administration",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/890835400",
-      "salary": "106437",
-      "posted": "2026-10-29",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 106437.0,
-      "salary_hourly": 51.17
-    },
-    {
       "title": "Health Science Specialist - Healthcare Ethicist",
       "company": "Veterans Health Administration",
       "location": "Location Negotiable After Selection",
@@ -483,18 +519,6 @@
       "type": "Full Time",
       "salary_annual": 121785.0,
       "salary_hourly": 58.55
-    },
-    {
-      "title": "OPERATIONS SUPPORT SPECIALIST",
-      "company": "Air Force Elements, U.S. Special Operations Command",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/890518600",
-      "salary": "90925",
-      "posted": "2026-10-27",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 90925.0,
-      "salary_hourly": 43.71
     },
     {
       "title": "Physician Assistant",
