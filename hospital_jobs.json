@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T07:25:08Z",
+  "updated": "2026-11-04T20:17:24Z",
   "count": 4,
   "sources": [
     "Cedars-Sinai"
@@ -7,20 +7,36 @@
   "track_slug": "hospital-careers",
   "jobs": [
     {
-      "title": "Cardiac Cath Lab Interventional Radiology Tech I - 10-Hour Day Shift - $5,000 Hiring Incentive! Cedars-Sinai Medical Center Beverly Hills, CA Imaging Req ID: 21781",
+      "title": "Cardiac Cath Lab CV Tech I - 12-Hour Day Shift - $5,000 Hiring Incentive! Cedars-Sinai Medical Center Los Angeles, CA Imaging Req ID: 21917",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/beverly-hills/cardiac-cath-lab-interventional-radiology-tech-i-10-hour-day-shift-5-000-hiring-incentive/252/102609022784",
+      "url": "https://careers.cshs.org/job/los-angeles/cardiac-cath-lab-cv-tech-i-12-hour-day-shift-5-000-hiring-incentive/252/102860082608",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/beverly-hills/cardiac-cath-lab-interventional-radiology-tech-i-10-hour-day-shift-5-000-hiring-incentive/252/102609022784",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/cardiac-cath-lab-cv-tech-i-12-hour-day-shift-5-000-hiring-incentive/252/102860082608",
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: imaging"
+    },
+    {
+      "title": "Lead Epic Cadence Analyst (Patient Access) - Remote",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/lead-epic-cadence-analyst-patient-access-remote/252/102860082128",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/lead-epic-cadence-analyst-patient-access-remote/252/102860082128",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: epic"
     },
     {
       "title": "Postdoctoral Scientist - Slomka Lab - Innovation in Imaging / Department of Medicine / Division of AIM Cedars-Sinai Medical Center Los Angeles, CA Academic / Research Req ID: HRC1428640",
@@ -53,22 +69,6 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: imaging"
-    },
-    {
-      "title": "Surgical Technologist I - Days Cedars-Sinai Medical Center Los Angeles, CA Clinical Operations Req ID: 21808",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/surgical-technologist-i-days/252/102658582048",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/surgical-technologist-i-days/252/102658582048",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: technologist"
     }
   ]
 }
