@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-04T20:17:24Z",
-  "count": 4,
+  "updated": "2026-11-05T07:50:34Z",
+  "count": 6,
   "sources": [
     "Cedars-Sinai"
   ],
@@ -39,6 +39,22 @@
       "match_reason": "Cedars-Sinai direct match: epic"
     },
     {
+      "title": "Manager, Network Engineering - Hybrid",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/manager-network-engineering-hybrid/252/102867340128",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/manager-network-engineering-hybrid/252/102867340128",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: network"
+    },
+    {
       "title": "Postdoctoral Scientist - Slomka Lab - Innovation in Imaging / Department of Medicine / Division of AIM Cedars-Sinai Medical Center Los Angeles, CA Academic / Research Req ID: HRC1428640",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
@@ -69,6 +85,22 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: imaging"
+    },
+    {
+      "title": "Surgical Technologist I - Days Cedars-Sinai Medical Center Los Angeles, CA Clinical Operations Req ID: 21924",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/surgical-technologist-i-days/252/102873616048",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/surgical-technologist-i-days/252/102873616048",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: technologist"
     }
   ]
 }
