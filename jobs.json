@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-06T07:50:34Z",
+  "updated": "2026-11-06T19:51:30Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 81,
+  "count": 80,
   "jobs": [
     {
       "title": "Information Technology Specialist (INFOSEC)",
@@ -17,6 +17,30 @@
       "salary_hourly": 43.03
     },
     {
+      "title": "Information Technology Specialist (Computer Specialist)",
+      "company": "Bureau of Prisons/Federal Prison System",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/892087600",
+      "salary": "74678",
+      "posted": "2026-11-06",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 74678.0,
+      "salary_hourly": 35.9
+    },
+    {
+      "title": "Supervisory Medical Records Technician (Inpatient Coder)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/892070400",
+      "salary": "67970",
+      "posted": "2026-11-06",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 67970.0,
+      "salary_hourly": 32.68
+    },
+    {
       "title": "Supervisory Human Resources Specialist",
       "company": "Internal Revenue Service",
       "location": "IRS Nationwide Locations",
@@ -27,6 +51,18 @@
       "type": "Tour of Duty: Day shift, Monday-Friday 6:00am- 6:00pm,40 hours per week",
       "salary_annual": 125776.0,
       "salary_hourly": 60.47
+    },
+    {
+      "title": "Health System Specialist (Office of Executive Director)",
+      "company": "Veterans Health Administration",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/892069400",
+      "salary": "124085",
+      "posted": "2026-11-06",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 124085.0,
+      "salary_hourly": 59.66
     },
     {
       "title": "Medical Instrument Technician (Diagnostic Ultrasound)",
@@ -45,12 +81,12 @@
       "company": "Program Support Center",
       "location": "Multiple Locations",
       "url": "https://www.usajobs.gov:443/job/891577300",
-      "salary": "102415",
+      "salary": "76463",
       "posted": "2026-11-06",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 102415.0,
-      "salary_hourly": 49.24
+      "salary_annual": 76463.0,
+      "salary_hourly": 36.76
     },
     {
       "title": "Supervisory Acquisition and Utilization Specialist",
@@ -75,6 +111,18 @@
       "type": "",
       "salary_annual": 107446.0,
       "salary_hourly": 51.66
+    },
+    {
+      "title": "Strategic Resource Integration Officer (SRIO)",
+      "company": "Department of Homeland Security Headquarters",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/891994000",
+      "salary": "89508",
+      "posted": "2026-11-05",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 89508.0,
+      "salary_hourly": 43.03
     },
     {
       "title": "Program Specialist",
@@ -185,16 +233,16 @@
       "salary_hourly": 72.91
     },
     {
-      "title": "Management & Program Analyst (National Call Center)",
-      "company": "Veterans Benefits Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/891515800",
-      "salary": "74678",
+      "title": "Contract Specialist",
+      "company": "Cybersecurity and Infrastructure Security Agency",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/891602800",
+      "salary": "85447",
       "posted": "2026-11-04",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 74678.0,
-      "salary_hourly": 35.9
+      "salary_annual": 85447.0,
+      "salary_hourly": 41.08
     },
     {
       "title": "Medical Records Technician (Clinical Documentation Improvement Specialist)",
@@ -207,18 +255,6 @@
       "type": "",
       "salary_annual": 64475.0,
       "salary_hourly": 31.0
-    },
-    {
-      "title": "Contract Specialist",
-      "company": "Cybersecurity and Infrastructure Security Agency",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/891602800",
-      "salary": "85447",
-      "posted": "2026-11-04",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 85447.0,
-      "salary_hourly": 41.08
     },
     {
       "title": "Contract Specialist",
@@ -545,18 +581,6 @@
       "salary_hourly": 43.71
     },
     {
-      "title": "Physician-Diagnostic Radiologist-Recruitment/Relocation Incentive-EDRP Authorized",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/890967600",
-      "salary": "124308",
-      "posted": "2026-10-29",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 124308.0,
-      "salary_hourly": 59.76
-    },
-    {
       "title": "Medical Records Technician (Coder)",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -603,18 +627,6 @@
       "type": "Full Time",
       "salary_annual": 121785.0,
       "salary_hourly": 58.55
-    },
-    {
-      "title": "OPERATIONS SUPPORT SPECIALIST",
-      "company": "Air Force Elements, U.S. Special Operations Command",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/890518600",
-      "salary": "90925",
-      "posted": "2026-10-27",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 90925.0,
-      "salary_hourly": 43.71
     },
     {
       "title": "Physician (Diagnostic Radiologist)",
@@ -737,18 +749,6 @@
       "salary_hourly": 1.0
     },
     {
-      "title": "Lead Medical Support Assistant",
-      "company": "Veterans Health Administration",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/888395400",
-      "salary": "62504",
-      "posted": "2026-10-09",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 62504.0,
-      "salary_hourly": 30.05
-    },
-    {
       "title": "Regional Section Chief, Field Medical Coordination Unit (O-6 Billet) Supervisory",
       "company": "Immigration and Customs Enforcement",
       "location": "Location Negotiable After Selection",
@@ -773,6 +773,18 @@
       "salary_hourly": 55.14
     },
     {
+      "title": "Advanced Practice Provider, Medical Asset Support Team (O-5 Billet) Non-Supervisory",
+      "company": "Immigration and Customs Enforcement",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/887343700",
+      "salary": "1",
+      "posted": "2026-10-05",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 2080.0,
+      "salary_hourly": 1.0
+    },
+    {
       "title": "IT SPECIALIST",
       "company": "Air Force Civilian Career Training",
       "location": "Location Negotiable After Selection",
@@ -783,18 +795,6 @@
       "type": "",
       "salary_annual": 50460.0,
       "salary_hourly": 24.26
-    },
-    {
-      "title": "Information Technology Specialist (Computer Specialist)",
-      "company": "Bureau of Prisons/Federal Prison System",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/887129000",
-      "salary": "75278",
-      "posted": "2026-10-01",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 75278.0,
-      "salary_hourly": 36.19
     },
     {
       "title": "Physician, Medical Asset Support Team (O-6 Billet) Non-Supervisory",
@@ -843,18 +843,6 @@
       "type": "",
       "salary_annual": 2080.0,
       "salary_hourly": 1.0
-    },
-    {
-      "title": "COMPUTER ENGINEER",
-      "company": "Air Force Civilian Career Training",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/887326500",
-      "salary": "50460",
-      "posted": "2026-10-01",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 50460.0,
-      "salary_hourly": 24.26
     },
     {
       "title": "IT Specialist",
