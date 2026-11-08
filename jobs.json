@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T17:56:33Z",
+  "updated": "2026-11-08T07:08:25Z",
   "zip": "90029",
   "radius_mi": 5,
   "count": 76,
@@ -293,18 +293,6 @@
       "salary_hourly": 35.9
     },
     {
-      "title": "Contract Specialist",
-      "company": "Cybersecurity and Infrastructure Security Agency",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/891602800",
-      "salary": "85447",
-      "posted": "2026-11-04",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 85447.0,
-      "salary_hourly": 41.08
-    },
-    {
       "title": "Medical Records Technician (Clinical Documentation Improvement Specialist)",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -315,6 +303,18 @@
       "type": "",
       "salary_annual": 64475.0,
       "salary_hourly": 31.0
+    },
+    {
+      "title": "Contract Specialist",
+      "company": "Cybersecurity and Infrastructure Security Agency",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/891602800",
+      "salary": "85447",
+      "posted": "2026-11-04",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 85447.0,
+      "salary_hourly": 41.08
     },
     {
       "title": "Contract Specialist",
@@ -581,16 +581,16 @@
       "salary_hourly": 59.76
     },
     {
-      "title": "Tech Lead/Senior Developer",
-      "company": "U.S. Tax Court",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/890406500",
-      "salary": "143913",
+      "title": "OPERATIONS SUPPORT SPECIALIST",
+      "company": "Air Force Elements, U.S. Special Operations Command",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/890518600",
+      "salary": "90925",
       "posted": "2026-10-27",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 143913.0,
-      "salary_hourly": 69.19
+      "salary_annual": 90925.0,
+      "salary_hourly": 43.71
     },
     {
       "title": "Physician (Diagnostic Radiologist)",
@@ -701,18 +701,6 @@
       "salary_hourly": 30.05
     },
     {
-      "title": "Regional Section Chief, Field Medical Coordination Unit (O-6 Billet) Supervisory",
-      "company": "Immigration and Customs Enforcement",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/887794000",
-      "salary": "1",
-      "posted": "2026-10-07",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 2080.0,
-      "salary_hourly": 1.0
-    },
-    {
       "title": "Senior Behavioral Health Provider, Medical Asset Support Team (O-5 Billet) Non-Supervisory",
       "company": "Immigration and Customs Enforcement",
       "location": "Location Negotiable After Selection",
@@ -795,6 +783,18 @@
       "type": "",
       "salary_annual": 2080.0,
       "salary_hourly": 1.0
+    },
+    {
+      "title": "COMPUTER ENGINEER",
+      "company": "Air Force Civilian Career Training",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/887326500",
+      "salary": "50460",
+      "posted": "2026-10-01",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 50460.0,
+      "salary_hourly": 24.26
     },
     {
       "title": "IT Specialist",
