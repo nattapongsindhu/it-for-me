@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T07:50:05Z",
+  "updated": "2026-11-09T22:52:47Z",
   "count": 6,
   "sources": [
     "Cedars-Sinai"
@@ -55,17 +55,17 @@
       "match_reason": "Cedars-Sinai direct match: epic"
     },
     {
-      "title": "Manager, Network Engineering - Hybrid",
+      "title": "Manager, Network Engineering & Operations - Hybrid",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/manager-network-engineering-hybrid/252/102867340128",
+      "url": "https://careers.cshs.org/job/los-angeles/manager-network-engineering-and-operations-hybrid/252/102867340128",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/manager-network-engineering-hybrid/252/102867340128",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/manager-network-engineering-and-operations-hybrid/252/102867340128",
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: network"
