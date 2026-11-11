@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11T07:40:19Z",
-  "count": 6,
+  "updated": "2026-11-11T20:00:44Z",
+  "count": 5,
   "sources": [
     "Cedars-Sinai"
   ],
@@ -37,22 +37,6 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: imaging"
-    },
-    {
-      "title": "Lead Epic Cadence Analyst (Patient Access) - Remote",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/lead-epic-cadence-analyst-patient-access-remote/252/102860082128",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/lead-epic-cadence-analyst-patient-access-remote/252/102860082128",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: epic"
     },
     {
       "title": "Manager, Network Engineering & Operations - Hybrid",
