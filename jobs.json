@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T20:15:27Z",
+  "updated": "2026-11-11T07:40:15Z",
   "zip": "90029",
   "radius_mi": 5,
   "count": 78,
@@ -29,28 +29,40 @@
       "salary_hourly": 17.5
     },
     {
-      "title": "Management Analyst",
-      "company": "Executive Director, Office of Acquisition, Logistics and Construction",
+      "title": "Senior Investigative Support Assistant",
+      "company": "Equal Employment Opportunity Commission",
       "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/892385400",
-      "salary": "89508",
+      "url": "https://www.usajobs.gov:443/job/892498800",
+      "salary": "47738",
       "posted": "2026-11-10",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 89508.0,
-      "salary_hourly": 43.03
+      "salary_annual": 47738.0,
+      "salary_hourly": 22.95
     },
     {
-      "title": "Management Analyst",
-      "company": "Vet Customer Experience (VCE)",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/892304100",
-      "salary": "90925",
+      "title": "Business Implementation Manager",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/892542200",
+      "salary": "147945",
       "posted": "2026-11-10",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 90925.0,
-      "salary_hourly": 43.71
+      "salary_annual": 147945.0,
+      "salary_hourly": 71.13
+    },
+    {
+      "title": "Registered Nurse- Regional Nursing Officer",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/892540000",
+      "salary": "221871",
+      "posted": "2026-11-10",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 221871.0,
+      "salary_hourly": 106.67
     },
     {
       "title": "Supervisory IT Specialist",
@@ -219,18 +231,6 @@
       "type": "",
       "salary_annual": 67970.0,
       "salary_hourly": 32.68
-    },
-    {
-      "title": "Medical Records Technician (Coder-Outpatient)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/892102500",
-      "salary": "36409",
-      "posted": "2026-11-06",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 36409.0,
-      "salary_hourly": 17.5
     },
     {
       "title": "Supervisory Human Resources Specialist",
@@ -437,16 +437,16 @@
       "salary_hourly": 72.91
     },
     {
-      "title": "Contract Specialist",
-      "company": "Cybersecurity and Infrastructure Security Agency",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/891602800",
-      "salary": "85447",
+      "title": "Management & Program Analyst (National Call Center)",
+      "company": "Veterans Benefits Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/891515800",
+      "salary": "74678",
       "posted": "2026-11-04",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 85447.0,
-      "salary_hourly": 41.08
+      "salary_annual": 74678.0,
+      "salary_hourly": 35.9
     },
     {
       "title": "Medical Records Technician (Clinical Documentation Improvement Specialist)",
@@ -459,18 +459,6 @@
       "type": "",
       "salary_annual": 64475.0,
       "salary_hourly": 31.0
-    },
-    {
-      "title": "Contract Specialist",
-      "company": "Executive Director, Office of Acquisition, Logistics and Construction",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/891544600",
-      "salary": "74678",
-      "posted": "2026-11-04",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 74678.0,
-      "salary_hourly": 35.9
     },
     {
       "title": "Senior Compliance Investigator",
@@ -651,6 +639,18 @@
       "type": "",
       "salary_annual": 40601.6,
       "salary_hourly": 19.52
+    },
+    {
+      "title": "OPERATIONS SUPPORT SPECIALIST",
+      "company": "Air Force Elements, U.S. Special Operations Command",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/890518600",
+      "salary": "90925",
+      "posted": "2026-10-27",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 90925.0,
+      "salary_hourly": 43.71
     },
     {
       "title": "Physician (Diagnostic Radiologist)",
