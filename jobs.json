@@ -1,9 +1,21 @@
 {
-  "updated": "2026-11-12T08:08:45Z",
+  "updated": "2026-11-12T20:39:28Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 79,
+  "count": 81,
   "jobs": [
+    {
+      "title": "Medical Support Assistant (Advanced)",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/892571800",
+      "salary": "59063",
+      "posted": "2026-11-12",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 59063.0,
+      "salary_hourly": 28.4
+    },
     {
       "title": "General Field Representative (Electric)",
       "company": "Agriculture, Rural Development",
@@ -15,6 +27,18 @@
       "type": "",
       "salary_annual": 89508.0,
       "salary_hourly": 43.03
+    },
+    {
+      "title": "Physician- Diagnostic Radiologist",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/892588400",
+      "salary": "350000",
+      "posted": "2026-11-12",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 350000.0,
+      "salary_hourly": 168.27
     },
     {
       "title": "Social Services Assistant",
