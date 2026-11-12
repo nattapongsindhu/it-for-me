@@ -1,17 +1,20 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-11-11T20%3A00%3A42Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-78-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-11-12T08%3A08%3A45Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-79-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
 
 ---
 
-## Latest Jobs - November 11, 2026
+## Latest Jobs - November 12, 2026
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
+| General Field Representative (Electric) | Agriculture, Rural Development | Anywhere in the U.S. (remote job) | Not listed | 89508 | 2026-11-12 | [Apply](https://www.usajobs.gov:443/job/892457100) |
+| Social Services Assistant | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 50460 | 2026-11-12 | [Apply](https://www.usajobs.gov:443/job/892498900) |
+| Health System Specialist - Credentialing | Veterans Health Administration | Location Negotiable After Selection | Not listed | 89508 | 2026-11-12 | [Apply](https://www.usajobs.gov:443/job/892510700) |
 | Physician - Psychiatry (Virtual) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 265000 | 2026-11-10 | [Apply](https://www.usajobs.gov:443/job/892349300) |
 | Medical Records Technician (Coder Outpatient ) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 36409 | 2026-11-10 | [Apply](https://www.usajobs.gov:443/job/892414800) |
 | Senior Investigative Support Assistant | Equal Employment Opportunity Commission | Location Negotiable After Selection | Not listed | 47738 | 2026-11-10 | [Apply](https://www.usajobs.gov:443/job/892498800) |
@@ -29,9 +32,6 @@
 | Supervisory Physician | Program Support Center | Multiple Locations | Not listed | 126384 | 2026-11-09 | [Apply](https://www.usajobs.gov:443/job/891731300) |
 | Medical Records Technician (Coder In/Out) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 36409 | 2026-11-07 | [Apply](https://www.usajobs.gov:443/job/891996600) |
 | Information Technology Specialist (INFOSEC) | Customs and Border Protection | Multiple Locations | Not listed | 89508 | 2026-11-06 | [Apply](https://www.usajobs.gov:443/job/891827200) |
-| Information Technology Specialist (Computer Specialist) | Bureau of Prisons/Federal Prison System | Multiple Locations | Not listed | 74678 | 2026-11-06 | [Apply](https://www.usajobs.gov:443/job/892087600) |
-| Supervisory Medical Records Technician (Inpatient Coder) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 67970 | 2026-11-06 | [Apply](https://www.usajobs.gov:443/job/892070400) |
-| Supervisory Human Resources Specialist | Internal Revenue Service | IRS Nationwide Locations | Tour of Duty: Day shift, Monday-Friday 6:00am- 6:00pm,40 hours per week | 125776 | 2026-11-06 | [Apply](https://www.usajobs.gov:443/job/891832800) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 78 |
+| Total jobs found | 79 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-11-11T20:00:42Z |
+| Last updated | 2026-11-12T08:08:45Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 78 jobs
+- USAJobs: 79 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-11-11T20:00:42Z_
+_Auto-generated legacy snapshot. Last run: 2026-11-12T08:08:45Z_

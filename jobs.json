@@ -1,9 +1,45 @@
 {
-  "updated": "2026-11-11T20:00:42Z",
+  "updated": "2026-11-12T08:08:45Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 78,
+  "count": 79,
   "jobs": [
+    {
+      "title": "General Field Representative (Electric)",
+      "company": "Agriculture, Rural Development",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/892457100",
+      "salary": "89508",
+      "posted": "2026-11-12",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 89508.0,
+      "salary_hourly": 43.03
+    },
+    {
+      "title": "Social Services Assistant",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/892498900",
+      "salary": "50460",
+      "posted": "2026-11-12",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 50460.0,
+      "salary_hourly": 24.26
+    },
+    {
+      "title": "Health System Specialist - Credentialing",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/892510700",
+      "salary": "89508",
+      "posted": "2026-11-12",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 89508.0,
+      "salary_hourly": 43.03
+    },
     {
       "title": "Physician - Psychiatry (Virtual)",
       "company": "Veterans Health Administration",
@@ -605,18 +641,6 @@
       "salary_hourly": 77.7
     },
     {
-      "title": "Physician (Medical Officer)",
-      "company": "Office of the Secretary of Health and Human Services",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/890641000",
-      "salary": "126384",
-      "posted": "2026-10-30",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 126384.0,
-      "salary_hourly": 60.76
-    },
-    {
       "title": "General Engineer - Direct Hire - SME",
       "company": "Pipeline and Hazardous Materials Safety Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -639,18 +663,6 @@
       "type": "",
       "salary_annual": 40601.6,
       "salary_hourly": 19.52
-    },
-    {
-      "title": "OPERATIONS SUPPORT SPECIALIST",
-      "company": "Air Force Elements, U.S. Special Operations Command",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/890518600",
-      "salary": "90925",
-      "posted": "2026-10-27",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 90925.0,
-      "salary_hourly": 43.71
     },
     {
       "title": "Physician (Diagnostic Radiologist)",

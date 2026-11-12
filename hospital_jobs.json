@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T20:00:44Z",
+  "updated": "2026-11-12T08:08:48Z",
   "count": 5,
   "sources": [
     "Cedars-Sinai"
@@ -7,36 +7,20 @@
   "track_slug": "hospital-careers",
   "jobs": [
     {
-      "title": "CT Technologist II - 12-Hour Night Shift - $7500 Hiring Incentive! Cedars-Sinai Medical Center Los Angeles, CA Imaging Req ID: 21999",
+      "title": "Cardiac/Liver Surgical Technologist - Days Cedars-Sinai Medical Center Los Angeles, CA Clinical Operations Req ID: 22097",
       "company": "Cedars-Sinai",
       "hospital_name": "Cedars-Sinai",
       "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/ct-technologist-ii-12-hour-night-shift-7500-hiring-incentive/252/102917815264",
+      "url": "https://careers.cshs.org/job/los-angeles/cardiac-liver-surgical-technologist-days/252/103183945088",
       "salary": "",
       "salary_annual": null,
       "salary_hourly": null,
       "posted": "",
       "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/ct-technologist-ii-12-hour-night-shift-7500-hiring-incentive/252/102917815264",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/cardiac-liver-surgical-technologist-days/252/103183945088",
       "track_slug": "hospital-careers",
       "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging, technologist"
-    },
-    {
-      "title": "Cardiac Cath Lab Interventional Radiology Tech II - 12-Hour Day Shift - $5,000 Hiring Incentive! Cedars-Sinai Medical Center Los Angeles, CA Imaging Req ID: 21987",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/cardiac-cath-lab-interventional-radiology-tech-ii-12-hour-day-shift-5-000-hiring-incentive/252/102911426000",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/cardiac-cath-lab-interventional-radiology-tech-ii-12-hour-day-shift-5-000-hiring-incentive/252/102911426000",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging"
+      "match_reason": "Cedars-Sinai direct match: technologist"
     },
     {
       "title": "Manager, Network Engineering & Operations - Hybrid",
@@ -85,6 +69,22 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: imaging"
+    },
+    {
+      "title": "Surgical Technologist III - Nights Cedars-Sinai Medical Center Los Angeles, CA Clinical Operations Req ID: 22096",
+      "company": "Cedars-Sinai",
+      "hospital_name": "Cedars-Sinai",
+      "location": "Los Angeles, CA",
+      "url": "https://careers.cshs.org/job/los-angeles/surgical-technologist-iii-nights/252/103177610576",
+      "salary": "",
+      "salary_annual": null,
+      "salary_hourly": null,
+      "posted": "",
+      "source": "Hospital_Direct",
+      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/surgical-technologist-iii-nights/252/103177610576",
+      "track_slug": "hospital-careers",
+      "type": "Open",
+      "match_reason": "Cedars-Sinai direct match: technologist"
     }
   ]
 }
