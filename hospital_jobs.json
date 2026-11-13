@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T20:39:30Z",
-  "count": 6,
+  "updated": "2026-11-13T07:45:43Z",
+  "count": 5,
   "sources": [
     "Cedars-Sinai"
   ],
@@ -85,22 +85,6 @@
       "track_slug": "hospital-careers",
       "type": "Open",
       "match_reason": "Cedars-Sinai direct match: imaging"
-    },
-    {
-      "title": "Surgical Technologist III - Nights Cedars-Sinai Medical Center Los Angeles, CA Clinical Operations Req ID: 22096",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/surgical-technologist-iii-nights/252/103177610576",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/surgical-technologist-iii-nights/252/103177610576",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: technologist"
     }
   ]
 }
