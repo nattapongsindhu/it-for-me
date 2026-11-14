@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-13T20:20:25Z",
+  "updated": "2026-11-14T07:30:29Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 81,
+  "count": 72,
   "jobs": [
     {
       "title": "IT Specialist (Network Services)",
@@ -41,6 +41,42 @@
       "salary_hourly": 51.17
     },
     {
+      "title": "Program Analyst",
+      "company": "Administrative Office of the U.S. Courts",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/892926400",
+      "salary": "74678",
+      "posted": "2026-11-13",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 74678.0,
+      "salary_hourly": 35.9
+    },
+    {
+      "title": "Lead Medical Records Technician (Coder)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/892917000",
+      "salary": "61722",
+      "posted": "2026-11-13",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 61722.0,
+      "salary_hourly": 29.67
+    },
+    {
+      "title": "Supervisory Medical Records Technician (CDIS)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/892916400",
+      "salary": "67970",
+      "posted": "2026-11-13",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 67970.0,
+      "salary_hourly": 32.68
+    },
+    {
       "title": "Supervisory Health System Specialist (EA to ROO)",
       "company": "Veterans Health Administration",
       "location": "Location Negotiable After Selection",
@@ -69,6 +105,18 @@
       "company": "Veterans Health Administration",
       "location": "Location Negotiable After Selection",
       "url": "https://www.usajobs.gov:443/job/892814400",
+      "salary": "125776",
+      "posted": "2026-11-13",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 125776.0,
+      "salary_hourly": 60.47
+    },
+    {
+      "title": "Supervisory Management & Program Analyst",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/892925200",
       "salary": "125776",
       "posted": "2026-11-13",
       "source": "USAJobs",
@@ -149,6 +197,18 @@
       "salary_hourly": 69.71
     },
     {
+      "title": "Medical Support Assistant",
+      "company": "Veterans Health Administration",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/892892900",
+      "salary": "50459",
+      "posted": "2026-11-13",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 50459.0,
+      "salary_hourly": 24.26
+    },
+    {
       "title": "Medical Support Assistant (Advanced)",
       "company": "Veterans Health Administration",
       "location": "Location Negotiable After Selection",
@@ -221,16 +281,16 @@
       "salary_hourly": 22.95
     },
     {
-      "title": "Registered Nurse- Regional Nursing Officer",
+      "title": "Staff Psychologist (Pain)",
       "company": "Veterans Health Administration",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/892540000",
-      "salary": "221871",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/892356900",
+      "salary": "134587",
       "posted": "2026-11-10",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 221871.0,
-      "salary_hourly": 106.67
+      "salary_annual": 134587.0,
+      "salary_hourly": 64.71
     },
     {
       "title": "Supervisory IT Specialist",
@@ -353,18 +413,6 @@
       "salary_hourly": 60.76
     },
     {
-      "title": "Information Technology Specialist (INFOSEC)",
-      "company": "Customs and Border Protection",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/891827200",
-      "salary": "89508",
-      "posted": "2026-11-06",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 89508.0,
-      "salary_hourly": 43.03
-    },
-    {
       "title": "Information Technology Specialist (Computer Specialist)",
       "company": "Bureau of Prisons/Federal Prison System",
       "location": "Multiple Locations",
@@ -389,18 +437,6 @@
       "salary_hourly": 32.68
     },
     {
-      "title": "Supervisory Human Resources Specialist",
-      "company": "Internal Revenue Service",
-      "location": "IRS Nationwide Locations",
-      "url": "https://www.usajobs.gov:443/job/891832800",
-      "salary": "125776",
-      "posted": "2026-11-06",
-      "source": "USAJobs",
-      "type": "Tour of Duty: Day shift, Monday-Friday 6:00am- 6:00pm,40 hours per week",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
-    },
-    {
       "title": "Health System Specialist",
       "company": "Veterans Health Administration",
       "location": "Location Negotiable After Selection",
@@ -413,76 +449,16 @@
       "salary_hourly": 51.17
     },
     {
-      "title": "Medical Instrument Technician (Diagnostic Ultrasound)",
-      "company": "Veterans Health Administration",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/891932300",
-      "salary": "102818",
-      "posted": "2026-11-06",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 102818.0,
-      "salary_hourly": 49.43
-    },
-    {
-      "title": "Medical Records Admintrator Specialist",
-      "company": "Veterans Health Administration",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/892120300",
-      "salary": "71957",
-      "posted": "2026-11-06",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 71957.0,
-      "salary_hourly": 34.59
-    },
-    {
-      "title": "Supervisory Acquisition and Utilization Specialist",
-      "company": "Veterans Health Administration",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/891866500",
-      "salary": "104349",
-      "posted": "2026-11-06",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 104349.0,
-      "salary_hourly": 50.17
-    },
-    {
-      "title": "Supervisory Health Technician (Telehealth Clinical)",
-      "company": "Veterans Health Administration",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/892491600",
-      "salary": "71957",
-      "posted": "2026-11-06",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 71957.0,
-      "salary_hourly": 34.59
-    },
-    {
-      "title": "Medical Support Assistant",
-      "company": "Veterans Health Administration",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov:443/job/892117600",
-      "salary": "50459",
-      "posted": "2026-11-06",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 50459.0,
-      "salary_hourly": 24.26
-    },
-    {
-      "title": "Nurse - VISN Clinical Contact Center (CCC) Director",
-      "company": "Veterans Health Administration",
+      "title": "Program Analyst Competitive Temporary Promotion (NTE 1 Year)",
+      "company": "Bureau of Alcohol, Tobacco, Firearms and Explosives",
       "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/892092200",
-      "salary": "155558",
+      "url": "https://www.usajobs.gov:443/job/892102100",
+      "salary": "63795",
       "posted": "2026-11-06",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 155558.0,
-      "salary_hourly": 74.79
+      "salary_annual": 63795.0,
+      "salary_hourly": 30.67
     },
     {
       "title": "Strategic Resource Integration Officer (SRIO)",
@@ -497,42 +473,6 @@
       "salary_hourly": 43.03
     },
     {
-      "title": "Program Analyst",
-      "company": "Veterans Health Administration",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/891767900",
-      "salary": "89508",
-      "posted": "2026-11-05",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 89508.0,
-      "salary_hourly": 43.03
-    },
-    {
-      "title": "Emergency Manager",
-      "company": "Veterans Health Administration",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/891758500",
-      "salary": "125776",
-      "posted": "2026-11-05",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 125776.0,
-      "salary_hourly": 60.47
-    },
-    {
-      "title": "Industrial Engineer",
-      "company": "Veterans Health Administration",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/891813200",
-      "salary": "106437",
-      "posted": "2026-11-05",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 106437.0,
-      "salary_hourly": 51.17
-    },
-    {
       "title": "Executive Director Portfolio Management for Health",
       "company": "Deputy Assistant Secretary for Administration",
       "location": "Multiple Locations",
@@ -543,18 +483,6 @@
       "type": "",
       "salary_annual": 151661.0,
       "salary_hourly": 72.91
-    },
-    {
-      "title": "Management & Program Analyst (National Call Center)",
-      "company": "Veterans Benefits Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/891515800",
-      "salary": "74678",
-      "posted": "2026-11-04",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 74678.0,
-      "salary_hourly": 35.9
     },
     {
       "title": "Medical Records Technician (Clinical Documentation Improvement Specialist)",
@@ -569,6 +497,18 @@
       "salary_hourly": 31.0
     },
     {
+      "title": "Physician-Remote Diagnostic Radiologist (Recruitment/Relocation Authorized)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/891441800",
+      "salary": "350000",
+      "posted": "2026-11-03",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 350000.0,
+      "salary_hourly": 168.27
+    },
+    {
       "title": "Technical Analyst, Health Information Technology Unit (O-5 Billet) Non-Supervisory",
       "company": "Immigration and Customs Enforcement",
       "location": "Location Negotiable After Selection",
@@ -579,18 +519,6 @@
       "type": "",
       "salary_annual": 2080.0,
       "salary_hourly": 1.0
-    },
-    {
-      "title": "Medical Records Technician (Coder Inpatient)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/890854100",
-      "salary": "36409",
-      "posted": "2026-11-02",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 36409.0,
-      "salary_hourly": 17.5
     },
     {
       "title": "Health Application Services - Training Program Officer (O-5 Billet) Non-Supervisory",
@@ -687,30 +615,6 @@
       "type": "",
       "salary_annual": 2080.0,
       "salary_hourly": 1.0
-    },
-    {
-      "title": "Senior Advisor - SI Enablement and Data Strategy",
-      "company": "Securities and Exchange Commission",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/891035200",
-      "salary": "161608",
-      "posted": "2026-10-30",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 161608.0,
-      "salary_hourly": 77.7
-    },
-    {
-      "title": "General Engineer - Direct Hire - SME",
-      "company": "Pipeline and Hazardous Materials Safety Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/891120500",
-      "salary": "102415",
-      "posted": "2026-10-30",
-      "source": "USAJobs",
-      "type": "Full Time",
-      "salary_annual": 102415.0,
-      "salary_hourly": 49.24
     },
     {
       "title": "Physician (Diagnostic Radiologist)",
@@ -903,18 +807,6 @@
       "type": "",
       "salary_annual": 89508.0,
       "salary_hourly": 43.03
-    },
-    {
-      "title": "Physician - Radiology Diagnostic",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/880978000",
-      "salary": "375000",
-      "posted": "2026-08-18",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 375000.0,
-      "salary_hourly": 180.29
     },
     {
       "title": "Physician-Outpatient (Radiolgist-Remote) w/EDRP",
