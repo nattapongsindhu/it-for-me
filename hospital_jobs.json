@@ -1,27 +1,11 @@
 {
-  "updated": "2026-11-16T07:50:29Z",
-  "count": 5,
+  "updated": "2026-11-16T22:44:49Z",
+  "count": 4,
   "sources": [
     "Cedars-Sinai"
   ],
   "track_slug": "hospital-careers",
   "jobs": [
-    {
-      "title": "Cardiac/Liver Surgical Technologist - Days Cedars-Sinai Medical Center Los Angeles, CA Clinical Operations Req ID: 22097",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/cardiac-liver-surgical-technologist-days/252/103183945088",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/cardiac-liver-surgical-technologist-days/252/103183945088",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: technologist"
-    },
     {
       "title": "Lead Epic Cadence Analyst (Patient Access) - Remote",
       "company": "Cedars-Sinai",
