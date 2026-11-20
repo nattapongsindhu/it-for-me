@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-20T08:19:47Z",
+  "updated": "2026-11-20T20:56:05Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 85,
+  "count": 90,
   "jobs": [
     {
       "title": "Management and Program Assistant",
@@ -17,6 +17,54 @@
       "salary_hourly": 20.72
     },
     {
+      "title": "Health System Specialist (Primary) - VISN Operations Center",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/893825600",
+      "salary": "106437",
+      "posted": "2026-11-20",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
+    },
+    {
+      "title": "Supervisory Health System Specialist (Corporate Compliance Chief)",
+      "company": "Veterans Health Administration",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov:443/job/893813600",
+      "salary": "146632",
+      "posted": "2026-11-20",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 146632.0,
+      "salary_hourly": 70.5
+    },
+    {
+      "title": "Nurse (Regional Quality Officer (RQO)) VISN 2 Southeast Network",
+      "company": "Veterans Health Administration",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/893843100",
+      "salary": "207445",
+      "posted": "2026-11-20",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 207445.0,
+      "salary_hourly": 99.73
+    },
+    {
+      "title": "Data Scientist (Direct Hire) - TERM",
+      "company": "Small Business Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/893738600",
+      "salary": "107446",
+      "posted": "2026-11-20",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 107446.0,
+      "salary_hourly": 51.66
+    },
+    {
       "title": "Healthcare Engineer",
       "company": "Veterans Health Administration",
       "location": "Los Angeles, California",
@@ -27,6 +75,30 @@
       "type": "",
       "salary_annual": 107814.0,
       "salary_hourly": 51.83
+    },
+    {
+      "title": "Biomedical Engineering Support Specialist",
+      "company": "Veterans Health Administration",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/893845500",
+      "salary": "144816",
+      "posted": "2026-11-20",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 144816.0,
+      "salary_hourly": 69.62
+    },
+    {
+      "title": "Supervisory Health Insurance Specialist",
+      "company": "Centers for Medicare & Medicaid Services",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/893756000",
+      "salary": "107446",
+      "posted": "2026-11-20",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 107446.0,
+      "salary_hourly": 51.66
     },
     {
       "title": "Healthcare Facility Officer (Detail NTE 1 Year) (Chief of Strategic Facility and Master Planning)",
@@ -113,18 +185,6 @@
       "salary_hourly": 29.67
     },
     {
-      "title": "Health System Specialist (System Redesign Coordinator)",
-      "company": "Veterans Health Administration",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/893637800",
-      "salary": "106437",
-      "posted": "2026-11-19",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 106437.0,
-      "salary_hourly": 51.17
-    },
-    {
       "title": "Sexual Assault Prevention and Response Program Administrator (SARWF-H)",
       "company": "Space Systems Command",
       "location": "Los Angeles, California",
@@ -137,10 +197,10 @@
       "salary_hourly": 70.5
     },
     {
-      "title": "Health System Specialist  - Compliance Specialist",
+      "title": "Health System Specialist (System Redesign Coordinator)",
       "company": "Veterans Health Administration",
       "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/893636700",
+      "url": "https://www.usajobs.gov:443/job/893637800",
       "salary": "106437",
       "posted": "2026-11-19",
       "source": "USAJobs",
