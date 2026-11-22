@@ -1,6 +1,6 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-11-21T19%3A56%3A53Z-blue?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-11-22T07%3A54%3A46Z-blue?style=flat-square)
 ![Jobs](https://img.shields.io/badge/Jobs_Found-81-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
@@ -8,7 +8,7 @@
 
 ---
 
-## Latest Jobs - November 21, 2026
+## Latest Jobs - November 22, 2026
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
@@ -16,7 +16,6 @@
 | Medical Records Technician (CDIS-Inpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-11-20 | [Apply](https://www.usajobs.gov:443/job/893858600) |
 | Health System Specialist (Primary) - VISN Operations Center | Veterans Health Administration | Location Negotiable After Selection | Not listed | 106437 | 2026-11-20 | [Apply](https://www.usajobs.gov:443/job/893825600) |
 | Supervisory Health System Specialist (Corporate Compliance Chief) | Veterans Health Administration | Los Angeles, California | Not listed | 146632 | 2026-11-20 | [Apply](https://www.usajobs.gov:443/job/893813600) |
-| Data Scientist (Direct Hire) - TERM | Small Business Administration | Anywhere in the U.S. (remote job) | Not listed | 107446 | 2026-11-20 | [Apply](https://www.usajobs.gov:443/job/893738600) |
 | Healthcare Engineer | Veterans Health Administration | Los Angeles, California | Not listed | 107814 | 2026-11-20 | [Apply](https://www.usajobs.gov:443/job/893629400) |
 | Biomedical Engineering Support Specialist | Veterans Health Administration | Multiple Locations | Not listed | 144816 | 2026-11-20 | [Apply](https://www.usajobs.gov:443/job/893845500) |
 | Supervisory Health Insurance Specialist | Centers for Medicare & Medicaid Services | Location Negotiable After Selection | Not listed | 107446 | 2026-11-20 | [Apply](https://www.usajobs.gov:443/job/893756000) |
@@ -32,6 +31,7 @@
 | Sexual Assault Prevention and Response Program Administrator (SARWF-H) | Space Systems Command | Los Angeles, California | Not listed | 146632 | 2026-11-19 | [Apply](https://www.usajobs.gov:443/job/893567500) |
 | Health System Specialist (System Redesign Coordinator) | Veterans Health Administration | Location Negotiable After Selection | Not listed | 106437 | 2026-11-19 | [Apply](https://www.usajobs.gov:443/job/893637800) |
 | Medical Records Technician (Coder) Auditor | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-11-19 | [Apply](https://www.usajobs.gov:443/job/893571300) |
+| Physician - Diagnostic Radiologist | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 375000 | 2026-11-19 | [Apply](https://www.usajobs.gov:443/job/893460100) |
 
 ---
 
@@ -41,7 +41,7 @@
 |--------|-------|
 | Total jobs found | 81 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-11-21T19:56:53Z |
+| Last updated | 2026-11-22T07:54:46Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-11-21T19:56:53Z_
+_Auto-generated legacy snapshot. Last run: 2026-11-22T07:54:46Z_

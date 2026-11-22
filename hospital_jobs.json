@@ -1,27 +1,11 @@
 {
-  "updated": "2026-11-21T19:56:55Z",
-  "count": 4,
+  "updated": "2026-11-22T07:54:48Z",
+  "count": 3,
   "sources": [
     "Cedars-Sinai"
   ],
   "track_slug": "hospital-careers",
   "jobs": [
-    {
-      "title": "Cardiovascular Non-invasive Tech (EKG) - Per Diem - 8-Hour Night Shift Cedars-Sinai Medical Center Los Angeles, CA Imaging Req ID: 22231",
-      "company": "Cedars-Sinai",
-      "hospital_name": "Cedars-Sinai",
-      "location": "Los Angeles, CA",
-      "url": "https://careers.cshs.org/job/los-angeles/cardiovascular-non-invasive-tech-ekg-per-diem-8-hour-night-shift/252/103439405456",
-      "salary": "",
-      "salary_annual": null,
-      "salary_hourly": null,
-      "posted": "",
-      "source": "Hospital_Direct",
-      "source_key": "hospital_direct::cedars-sinai::https://careers.cshs.org/job/los-angeles/cardiovascular-non-invasive-tech-ekg-per-diem-8-hour-night-shift/252/103439405456",
-      "track_slug": "hospital-careers",
-      "type": "Open",
-      "match_reason": "Cedars-Sinai direct match: imaging"
-    },
     {
       "title": "Lead Epic Cadence Analyst (Patient Access) - Remote",
       "company": "Cedars-Sinai",

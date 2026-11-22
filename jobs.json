@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T19:56:53Z",
+  "updated": "2026-11-22T07:54:46Z",
   "zip": "90029",
   "radius_mi": 5,
   "count": 81,
@@ -51,18 +51,6 @@
       "type": "",
       "salary_annual": 146632.0,
       "salary_hourly": 70.5
-    },
-    {
-      "title": "Data Scientist (Direct Hire) - TERM",
-      "company": "Small Business Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/893738600",
-      "salary": "107446",
-      "posted": "2026-11-20",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 107446.0,
-      "salary_hourly": 51.66
     },
     {
       "title": "Healthcare Engineer",
@@ -557,6 +545,18 @@
       "salary_hourly": 18.65
     },
     {
+      "title": "Investigative Protection Officer",
+      "company": "U.S. Secret Service",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/892650800",
+      "salary": "48854",
+      "posted": "2026-11-13",
+      "source": "USAJobs",
+      "type": "This position requires shift work.",
+      "salary_annual": 48854.0,
+      "salary_hourly": 23.49
+    },
+    {
       "title": "National Senior Director Quality and Patient Safety-Policy",
       "company": "Veterans Health Administration",
       "location": "Location Negotiable After Selection",
@@ -635,18 +635,6 @@
       "url": "https://www.usajobs.gov:443/job/891986800",
       "salary": "89508",
       "posted": "2026-11-09",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 89508.0,
-      "salary_hourly": 43.03
-    },
-    {
-      "title": "Strategic Resource Integration Officer (SRIO)",
-      "company": "Department of Homeland Security Headquarters",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/891994000",
-      "salary": "89508",
-      "posted": "2026-11-05",
       "source": "USAJobs",
       "type": "",
       "salary_annual": 89508.0,
@@ -767,6 +755,18 @@
       "url": "https://www.usajobs.gov:443/job/890256600",
       "salary": "300000",
       "posted": "2026-10-26",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 300000.0,
+      "salary_hourly": 144.23
+    },
+    {
+      "title": "Physician- Gastroenterology",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/888981000",
+      "salary": "300000",
+      "posted": "2026-10-16",
       "source": "USAJobs",
       "type": "",
       "salary_annual": 300000.0,
