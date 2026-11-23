@@ -1,17 +1,20 @@
 # it-for-me legacy snapshot
 
-![Updated](https://img.shields.io/badge/Updated-2026-11-22T20%3A09%3A28Z-blue?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs_Found-81-brightgreen?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026-11-23T08%3A51%3A17Z-blue?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs_Found-82-brightgreen?style=flat-square)
 ![ZIP](https://img.shields.io/badge/ZIP-90029_%285mi%29-informational?style=flat-square)
 
 > This file is a legacy snapshot produced from jobs.json for backward compatibility.
 
 ---
 
-## Latest Jobs - November 22, 2026
+## Latest Jobs - November 23, 2026
 
 | Title | Company | Location | Type | Salary | Posted | Link |
 |-------|---------|----------|------|--------|--------|------|
+| Supervisory Health System Specialist (Clinical Resource Hub Administrator) | Veterans Health Administration | Location Negotiable After Selection | Not listed | 125776 | 2026-11-23 | [Apply](https://www.usajobs.gov:443/job/893799100) |
+| Health System Specialist | Veterans Health Administration | Location Negotiable After Selection | Not listed | 106437 | 2026-11-23 | [Apply](https://www.usajobs.gov:443/job/893783400) |
+| Investigator | Office of Accountability and Whistleblower Protection | Anywhere in the U.S. (remote job) | Not listed | 125776 | 2026-11-23 | [Apply](https://www.usajobs.gov:443/job/893768300) |
 | Medical Records Technician (Coder-Outpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Monday through Friday, 7:30 a.m. to 4:00 p.m. local time. | 37193 | 2026-11-20 | [Apply](https://www.usajobs.gov:443/job/893788900) |
 | Medical Records Technician (CDIS-Inpatient) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-11-20 | [Apply](https://www.usajobs.gov:443/job/893858600) |
 | Health System Specialist (Primary) - VISN Operations Center | Veterans Health Administration | Location Negotiable After Selection | Not listed | 106437 | 2026-11-20 | [Apply](https://www.usajobs.gov:443/job/893825600) |
@@ -29,9 +32,6 @@
 | Medical Records Technician (Coder Inpat) | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 56445 | 2026-11-19 | [Apply](https://www.usajobs.gov:443/job/893537700) |
 | Medical Records Technician-Clinical Documentation Improvement Specialist Outpatient | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-11-19 | [Apply](https://www.usajobs.gov:443/job/893675800) |
 | Sexual Assault Prevention and Response Program Administrator (SARWF-H) | Space Systems Command | Los Angeles, California | Not listed | 146632 | 2026-11-19 | [Apply](https://www.usajobs.gov:443/job/893567500) |
-| Health System Specialist (System Redesign Coordinator) | Veterans Health Administration | Location Negotiable After Selection | Not listed | 106437 | 2026-11-19 | [Apply](https://www.usajobs.gov:443/job/893637800) |
-| Medical Records Technician (Coder) Auditor | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 61722 | 2026-11-19 | [Apply](https://www.usajobs.gov:443/job/893571300) |
-| Physician - Diagnostic Radiologist | Veterans Health Administration | Anywhere in the U.S. (remote job) | Not listed | 375000 | 2026-11-19 | [Apply](https://www.usajobs.gov:443/job/893460100) |
 
 ---
 
@@ -39,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total jobs found | 81 |
+| Total jobs found | 82 |
 | Search area | 5 miles from ZIP 90029 |
-| Last updated | 2026-11-22T20:09:28Z |
+| Last updated | 2026-11-23T08:51:17Z |
 | Legacy update schedule | 06:00 + 18:00 UTC daily |
 
 **Sources:**
-- USAJobs: 81 jobs
+- USAJobs: 82 jobs
 
 ---
 
@@ -62,4 +62,4 @@ Legacy automation
 
 ---
 
-_Auto-generated legacy snapshot. Last run: 2026-11-22T20:09:28Z_
+_Auto-generated legacy snapshot. Last run: 2026-11-23T08:51:17Z_
