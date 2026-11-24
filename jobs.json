@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-23T08:51:17Z",
+  "updated": "2026-11-24T00:36:02Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 82,
+  "count": 86,
   "jobs": [
     {
       "title": "Supervisory Health System Specialist (Clinical Resource Hub Administrator)",
@@ -29,6 +29,18 @@
       "salary_hourly": 51.17
     },
     {
+      "title": "Medical Records Technician - Coder In/Out",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/894035100",
+      "salary": "36409",
+      "posted": "2026-11-23",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 36409.0,
+      "salary_hourly": 17.5
+    },
+    {
       "title": "Investigator",
       "company": "Office of Accountability and Whistleblower Protection",
       "location": "Anywhere in the U.S. (remote job)",
@@ -39,6 +51,54 @@
       "type": "",
       "salary_annual": 125776.0,
       "salary_hourly": 60.47
+    },
+    {
+      "title": "Supervisory Social Science Specialist  (Crisis Responder)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/893996700",
+      "salary": "89508",
+      "posted": "2026-11-23",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 89508.0,
+      "salary_hourly": 43.03
+    },
+    {
+      "title": "VISN 2  Southeast Network Health Care Education Specialist",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/893906200",
+      "salary": "106437",
+      "posted": "2026-11-23",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 106437.0,
+      "salary_hourly": 51.17
+    },
+    {
+      "title": "Business Implementation Manager",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/894036700",
+      "salary": "147945",
+      "posted": "2026-11-23",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 147945.0,
+      "salary_hourly": 71.13
+    },
+    {
+      "title": "Nurse - Informaticist Registered Nurse",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/894008800",
+      "salary": "76624",
+      "posted": "2026-11-23",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 76624.0,
+      "salary_hourly": 36.84
     },
     {
       "title": "Medical Records Technician (Coder-Outpatient)",
@@ -525,12 +585,12 @@
       "company": "Treasury, Departmental Offices",
       "location": "Location Negotiable After Selection",
       "url": "https://www.usajobs.gov:443/job/893002700",
-      "salary": "169279",
+      "salary": "147945",
       "posted": "2026-11-16",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 169279.0,
-      "salary_hourly": 81.38
+      "salary_annual": 147945.0,
+      "salary_hourly": 71.13
     },
     {
       "title": "IT Specialist (Payroll & Human Capital Data Analysis)",
@@ -767,18 +827,6 @@
       "url": "https://www.usajobs.gov:443/job/890256600",
       "salary": "300000",
       "posted": "2026-10-26",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 300000.0,
-      "salary_hourly": 144.23
-    },
-    {
-      "title": "Physician- Gastroenterology",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/888981000",
-      "salary": "300000",
-      "posted": "2026-10-16",
       "source": "USAJobs",
       "type": "",
       "salary_annual": 300000.0,
