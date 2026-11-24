@@ -1,9 +1,117 @@
 {
-  "updated": "2026-11-24T10:47:50Z",
+  "updated": "2026-11-24T22:55:10Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 83,
+  "count": 87,
   "jobs": [
+    {
+      "title": "Physician - Diagnostic Radiologist",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/894111500",
+      "salary": "350000",
+      "posted": "2026-11-24",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 350000.0,
+      "salary_hourly": 168.27
+    },
+    {
+      "title": "Medical Records Technician Coder Outpatient",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/894160300",
+      "salary": "36409",
+      "posted": "2026-11-24",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 36409.0,
+      "salary_hourly": 17.5
+    },
+    {
+      "title": "Medical Records Technician Coder-Inpatient",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/894193900",
+      "salary": "36409",
+      "posted": "2026-11-24",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 36409.0,
+      "salary_hourly": 17.5
+    },
+    {
+      "title": "Medical Records Technician Coder - Outpatient",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/894159000",
+      "salary": "36409",
+      "posted": "2026-11-24",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 36409.0,
+      "salary_hourly": 17.5
+    },
+    {
+      "title": "Senior Data Scientist",
+      "company": "Centers for Medicare & Medicaid Services",
+      "location": "Multiple Locations",
+      "url": "https://www.usajobs.gov:443/job/894054900",
+      "salary": "107446",
+      "posted": "2026-11-24",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 107446.0,
+      "salary_hourly": 51.66
+    },
+    {
+      "title": "Supervisory Health System Specialist (Access Operations Director)",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/894222200",
+      "salary": "125776",
+      "posted": "2026-11-24",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 125776.0,
+      "salary_hourly": 60.47
+    },
+    {
+      "title": "Health System Specialist (Executive Assistant to Regional Nursing Officer)",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/894128800",
+      "salary": "125776",
+      "posted": "2026-11-24",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 125776.0,
+      "salary_hourly": 60.47
+    },
+    {
+      "title": "Supervisory Health System Specialist - Chief Experience Officer",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/894082700",
+      "salary": "125776",
+      "posted": "2026-11-24",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 125776.0,
+      "salary_hourly": 60.47
+    },
+    {
+      "title": "Medical Records Technician (Coder In Patient/ Out Patient )",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/894222900",
+      "salary": "36409",
+      "posted": "2026-11-24",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 36409.0,
+      "salary_hourly": 17.5
+    },
     {
       "title": "Supervisory Technical Security Investigator (Branch Chief)",
       "company": "U.S. Secret Service",
@@ -39,6 +147,18 @@
       "type": "",
       "salary_annual": 61722.0,
       "salary_hourly": 29.67
+    },
+    {
+      "title": "Medical Records Technician (Coder- Outpatient and Inpatient)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/894073600",
+      "salary": "41659",
+      "posted": "2026-11-24",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 41659.0,
+      "salary_hourly": 20.03
     },
     {
       "title": "Supervisory Health System Specialist (Clinical Resource Hub Administrator)",
@@ -125,18 +245,6 @@
       "salary_hourly": 71.13
     },
     {
-      "title": "Medical Records Technician (Coder-Outpatient)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/893788900",
-      "salary": "37193",
-      "posted": "2026-11-20",
-      "source": "USAJobs",
-      "type": "Monday through Friday, 7:30 a.m. to 4:00 p.m. local time.",
-      "salary_annual": 37193.0,
-      "salary_hourly": 17.88
-    },
-    {
       "title": "Medical Records Technician (CDIS-Inpatient)",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -189,12 +297,12 @@
       "company": "Veterans Health Administration",
       "location": "Multiple Locations",
       "url": "https://www.usajobs.gov:443/job/893845500",
-      "salary": "144816",
+      "salary": "131099",
       "posted": "2026-11-20",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 144816.0,
-      "salary_hourly": 69.62
+      "salary_annual": 131099.0,
+      "salary_hourly": 63.03
     },
     {
       "title": "Supervisory Health Insurance Specialist",
@@ -293,18 +401,6 @@
       "salary_hourly": 51.66
     },
     {
-      "title": "Medical Records Technician (Coder Inpat)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/893537700",
-      "salary": "56445",
-      "posted": "2026-11-19",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 56445.0,
-      "salary_hourly": 27.14
-    },
-    {
       "title": "Medical Records Technician-Clinical Documentation Improvement Specialist Outpatient",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -353,40 +449,16 @@
       "salary_hourly": 29.67
     },
     {
-      "title": "Physician - Diagnostic Radiologist",
+      "title": "Medical Records Technician (Coder Inpat)",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/893460100",
-      "salary": "375000",
+      "url": "https://www.usajobs.gov:443/job/893537700",
+      "salary": "56445",
       "posted": "2026-11-19",
       "source": "USAJobs",
       "type": "",
-      "salary_annual": 375000.0,
-      "salary_hourly": 180.29
-    },
-    {
-      "title": "Supervisory Environmental Protection Specialist- DIRECT HIRE",
-      "company": "Federal Transit Administration",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/893550400",
-      "salary": "169279",
-      "posted": "2026-11-19",
-      "source": "USAJobs",
-      "type": "Full Time",
-      "salary_annual": 169279.0,
-      "salary_hourly": 81.38
-    },
-    {
-      "title": "Medical Records Technician (Coder In/Out)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/893585600",
-      "salary": "36409",
-      "posted": "2026-11-19",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 36409.0,
-      "salary_hourly": 17.5
+      "salary_annual": 56445.0,
+      "salary_hourly": 27.14
     },
     {
       "title": "IT PROGRAM MANAGER",
@@ -473,18 +545,6 @@
       "salary_hourly": 71.13
     },
     {
-      "title": "Medical Records Technician (Coder-Outpatient and Inpatient)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/893589100",
-      "salary": "54370",
-      "posted": "2026-11-18",
-      "source": "USAJobs",
-      "type": "8:00AM - 4:30PM PST",
-      "salary_annual": 54370.0,
-      "salary_hourly": 26.14
-    },
-    {
       "title": "Investigative Analyst - REMOTE",
       "company": "Pipeline and Hazardous Materials Safety Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -495,6 +555,18 @@
       "type": "Full Time",
       "salary_annual": 74678.0,
       "salary_hourly": 35.9
+    },
+    {
+      "title": "Medical Records Technician (Coder-Outpatient and Inpatient)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/893589100",
+      "salary": "54370",
+      "posted": "2026-11-18",
+      "source": "USAJobs",
+      "type": "8:00AM - 4:30PM PST",
+      "salary_annual": 54370.0,
+      "salary_hourly": 26.14
     },
     {
       "title": "Chemical Engineer",
@@ -629,18 +701,6 @@
       "salary_hourly": 168.27
     },
     {
-      "title": "Medical Records Technician (CDIS Outpatient)",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/892340800",
-      "salary": "61722",
-      "posted": "2026-11-09",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 61722.0,
-      "salary_hourly": 29.67
-    },
-    {
       "title": "Emergency Management / Intelligence / Security / Communications Specialist",
       "company": "Department of Homeland Security Headquarters",
       "location": "Multiple Locations",
@@ -663,6 +723,18 @@
       "type": "",
       "salary_annual": null,
       "salary_hourly": null
+    },
+    {
+      "title": "Medical Records Technician (CDIS Outpatient)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/892340800",
+      "salary": "61722",
+      "posted": "2026-11-09",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 61722.0,
+      "salary_hourly": 29.67
     },
     {
       "title": "Technical Analyst, Health Information Technology Unit (O-5 Billet) Non-Supervisory",
@@ -779,18 +851,6 @@
       "url": "https://www.usajobs.gov:443/job/890256600",
       "salary": "300000",
       "posted": "2026-10-26",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 300000.0,
-      "salary_hourly": 144.23
-    },
-    {
-      "title": "Physician- Gastroenterology",
-      "company": "Veterans Health Administration",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/888981000",
-      "salary": "300000",
-      "posted": "2026-10-16",
       "source": "USAJobs",
       "type": "",
       "salary_annual": 300000.0,
@@ -915,18 +975,6 @@
       "type": "",
       "salary_annual": 89508.0,
       "salary_hourly": 43.03
-    },
-    {
-      "title": "Social Worker",
-      "company": "Veterans Health Administration",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/884226200",
-      "salary": "79091",
-      "posted": "2026-09-11",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 79091.0,
-      "salary_hourly": 38.02
     },
     {
       "title": "IT Specialist 6 month Register-Direct Hire",
