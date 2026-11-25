@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-25T09:43:31Z",
+  "updated": "2026-11-25T22:08:58Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 80,
+  "count": 84,
   "jobs": [
     {
       "title": "IT Specialist (Security)",
@@ -15,6 +15,66 @@
       "type": "",
       "salary_annual": 89508.0,
       "salary_hourly": 43.03
+    },
+    {
+      "title": "Supervisory Financial Manager",
+      "company": "Immediate Office of the Assistant Secretary for Management",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/894350800",
+      "salary": "107446",
+      "posted": "2026-11-25",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 107446.0,
+      "salary_hourly": 51.66
+    },
+    {
+      "title": "Government Information Specialist",
+      "company": "Cybersecurity and Infrastructure Security Agency",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/894261000",
+      "salary": "121785",
+      "posted": "2026-11-25",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 121785.0,
+      "salary_hourly": 58.55
+    },
+    {
+      "title": "Supervisory Health System Specialist",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/894308400",
+      "salary": "147945",
+      "posted": "2026-11-25",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 147945.0,
+      "salary_hourly": 71.13
+    },
+    {
+      "title": "Supervisory Health System Specialist - VISN Compliance and Business Integrity Officer",
+      "company": "Veterans Health Administration",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/894270500",
+      "salary": "125776",
+      "posted": "2026-11-25",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 125776.0,
+      "salary_hourly": 60.47
+    },
+    {
+      "title": "Health Technician (Telehealth)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/894385600",
+      "salary": "40736",
+      "posted": "2026-11-25",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 40736.0,
+      "salary_hourly": 19.58
     },
     {
       "title": "Physician - Diagnostic Radiologist",
@@ -879,18 +939,6 @@
       "type": "",
       "salary_annual": 89508.0,
       "salary_hourly": 43.03
-    },
-    {
-      "title": "Social Worker",
-      "company": "Veterans Health Administration",
-      "location": "Multiple Locations",
-      "url": "https://www.usajobs.gov:443/job/884226200",
-      "salary": "79091",
-      "posted": "2026-09-11",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 79091.0,
-      "salary_hourly": 38.02
     },
     {
       "title": "IT Specialist 6 month Register-Direct Hire",
