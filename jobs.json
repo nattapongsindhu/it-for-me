@@ -1,9 +1,21 @@
 {
-  "updated": "2026-11-27T09:35:00Z",
+  "updated": "2026-11-27T21:49:15Z",
   "zip": "90029",
   "radius_mi": 5,
-  "count": 80,
+  "count": 81,
   "jobs": [
+    {
+      "title": "Supervisory Financial Manager",
+      "company": "Immediate Office of the Assistant Secretary for Management",
+      "location": "Location Negotiable After Selection",
+      "url": "https://www.usajobs.gov:443/job/894435600",
+      "salary": "107446",
+      "posted": "2026-11-27",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 107446.0,
+      "salary_hourly": 51.66
+    },
     {
       "title": "Supervisory Health System Specialist (Health System Specialist to Regional Operations Officer)",
       "company": "Veterans Health Administration",
@@ -17,6 +29,30 @@
       "salary_hourly": 60.47
     },
     {
+      "title": "Medical Records Technician (Cancer Registrar) - Coordinator",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/894415000",
+      "salary": "61722",
+      "posted": "2026-11-27",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 61722.0,
+      "salary_hourly": 29.67
+    },
+    {
+      "title": "Medical Records Technician (Coder Inpatient)",
+      "company": "Veterans Health Administration",
+      "location": "Anywhere in the U.S. (remote job)",
+      "url": "https://www.usajobs.gov:443/job/894412000",
+      "salary": "45409",
+      "posted": "2026-11-27",
+      "source": "USAJobs",
+      "type": "",
+      "salary_annual": 45409.0,
+      "salary_hourly": 21.83
+    },
+    {
       "title": "Medical Records Technician (Coder Outpatient)",
       "company": "Veterans Health Administration",
       "location": "Anywhere in the U.S. (remote job)",
@@ -27,18 +63,6 @@
       "type": "",
       "salary_annual": 42446.0,
       "salary_hourly": 20.41
-    },
-    {
-      "title": "Supervisory Financial Manager",
-      "company": "Immediate Office of the Assistant Secretary for Management",
-      "location": "Location Negotiable After Selection",
-      "url": "https://www.usajobs.gov:443/job/894350800",
-      "salary": "107446",
-      "posted": "2026-11-25",
-      "source": "USAJobs",
-      "type": "",
-      "salary_annual": 107446.0,
-      "salary_hourly": 51.66
     },
     {
       "title": "Government Information Specialist",
@@ -939,18 +963,6 @@
       "type": "",
       "salary_annual": 22584.0,
       "salary_hourly": 10.86
-    },
-    {
-      "title": "Immigration Judge",
-      "company": "Executive Office for Immigration Review",
-      "location": "Anywhere in the U.S. (remote job)",
-      "url": "https://www.usajobs.gov:443/job/853385500",
-      "salary": "161590",
-      "posted": "2025-12-30",
-      "source": "USAJobs",
-      "type": "Full-Time, Intermittent",
-      "salary_annual": 161590.0,
-      "salary_hourly": 77.69
     },
     {
       "title": "Information Technology Specialist (INFOSEC)",
